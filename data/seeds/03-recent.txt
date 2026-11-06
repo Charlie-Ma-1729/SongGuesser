@@ -1,0 +1,130 @@
+# ===== 2015 年之後的熱門作品 =====
+
+# 鬼滅之刃（鬼滅の刃） | 2019
+OP | 紅蓮華 | LiSA | l=LiSA c=草野華余子
+OP | 炎 | LiSA | l=梶浦由記 c=梶浦由記
+OP | 残響散歌 | Aimer
+OP | 絆ノ奇跡 | MAN WITH A MISSION × milet | d=2
+ED | from the edge | FictionJunction feat. LiSA | l=梶浦由記 c=梶浦由記
+OST | 竈門炭治郎のうた | 椎名豪 feat. 中川奈美 | c=椎名豪
+
+# 咒術迴戰（呪術廻戦） | 2020
+OP | 廻廻奇譚 | Eve
+OP | VIVID VICE | Who-ya Extended
+OP | 青のすみか | キタニタツヤ
+OP | SPECIALZ | King Gnu
+ED | LOST IN PARADISE | ALI feat. AKLO d=2
+INSERT | 一途 | King Gnu
+
+# 間諜家家酒（SPY×FAMILY） | 2022
+OP | ミックスナッツ | Official髭男dism
+OP | 喜劇 | 星野源
+
+# 孤獨搖滾!（ぼっち・ざ・ろっく!） | 2022
+OP | 青春コンプレックス | 結束バンド
+INSERT | ギターと孤独と蒼い惑星 | 結束バンド
+INSERT | あのバンド | 結束バンド d=2
+
+# 葬送的芙莉蓮（葬送のフリーレン） | 2023
+OP | 勇者 | YOASOBI
+ED | Anytime Anywhere | milet d=2
+
+# 我推的孩子（【推しの子】） | 2023
+OP | アイドル | YOASOBI
+OP | メフィスト | 女王蜂 d=2
+
+# 鏈鋸人（チェンソーマン） | 2022
+OP | KICK BACK | 米津玄師 | l=米津玄師 c=米津玄師
+
+# 鏈鋸人 蕾潔篇（劇場版 チェンソーマン レゼ篇） | 2025
+INSERT | IRIS OUT | 米津玄師 | l=米津玄師 c=米津玄師 d=2
+
+# 膽大黨（ダンダダン） | 2024
+OP | オトノケ | Creepy Nuts d=2
+
+# 我獨自升級（俺だけレベルアップな件） | 2024
+OP | LEveL | SawanoHiroyuki[nZk]:TOMORROW X TOGETHER d=2
+
+# 瑪修爾（マッシュル-MASHLE-） | 2023
+OP | Bling-Bang-Bang-Born | Creepy Nuts
+
+# 東京復仇者（東京リベンジャーズ） | 2021
+OP | Cry Baby | Official髭男dism
+
+# 地下城美食（ダンジョン飯） | 2024
+OP | Sleep Walking Orchestra | BUMP OF CHICKEN d=2
+
+# 國王排名（王様ランキング） | 2021
+OP | 裸の勇者 | Vaundy d=2
+
+# 機動戰士鋼彈 水星的魔女（機動戦士ガンダム 水星の魔女） | 2022
+OP | 祝福 | YOASOBI d=2
+
+# 賽博龐克 邊緣行者（サイバーパンク エッジランナーズ） | 2022
+ED | I Really Want to Stay at Your House | Rosa Walton d=2
+
+# 四月是你的謊言（四月は君の嘘） | 2014
+OP | 光るなら | Goose house
+OP | ナナイロ・シンフォニー | coalamode.
+ED | オレンジ | 7!! d=2
+
+# 麻辣教師 GTO（GTO） | 1999
+OP | Driver's High | L'Arc~en~Ciel
+OP | POISON ~言いたい事も言えないこんな世の中は~ | 反町隆史
+
+# 黑礁（ブラック・ラグーン） | 2006
+OP | Red Fraction | MELL d=2
+
+# 精靈蟲（エルフェンリート） | 2004
+OP | Lilium | 野間久美子 | q=Lilium Elfen Lied Kumiko Noma d=2
+
+# 未來日記（未来日記） | 2011
+OP | 空想メソロギヰ | 妖精帝國 d=2
+
+# 加速世界（アクセル・ワールド） | 2012
+OP | Chase the world | May'n d=2
+
+# 文豪野犬（文豪ストレイドッグス） | 2016
+OP | トラッシュ・キャンディ | GRANRODEO | q=Trash Candy GRANRODEO 文豪ストレイドッグス d=2
+
+# 聲之形（聲の形） | 2016
+INSERT | 恋をしたのは | aiko d=2
+
+# 魔法公主（もののけ姫） | 1997
+INSERT | もののけ姫 | 米良美一
+
+# 紅豬（紅の豚） | 1992
+ED | 時には昔の話を | 加藤登紀子 d=2
+
+# 地海戰記（ゲド戦記） | 2006
+INSERT | テルーの唄 | 手嶌葵 d=2
+
+# 借物少女艾莉緹（借りぐらしのアリエッティ） | 2010
+ED | Arrietty's Song | セシル・コルベル d=2
+
+# 航海王 紅髮歌姬（ONE PIECE FILM RED） | 2022
+INSERT | 新時代 | Ado
+INSERT | 私は最強 | Ado
+
+# 男孩與蒼鷺（君たちはどう生きるか） | 2023
+INSERT | 地球儀 | 米津玄師 | l=米津玄師 c=米津玄師 d=2
+
+# 麵包超人（それいけ!アンパンマン） | 1988
+OP | アンパンマンのマーチ | ドリーミング
+
+# 妖怪手錶（妖怪ウォッチ） | 2014
+OP | ゲラゲラポーのうた | キング・クリームソーダ
+
+# 太空堡壘 F（マクロスF） | 2008
+OP | ライオン | May'n 中島愛
+OP | 射手座☆午後九時 Don't be late | 中島愛 d=2
+
+# 太空堡壘（超時空要塞マクロス） | 1982
+OP | 愛・おぼえていますか | 飯島真理 d=2
+
+# 海螺小姐（サザエさん） | 1969
+OP | サザエさん | 宇野ゆう子 d=2
+
+# 小哈姆（とっとこハム太郎） | 2000
+OP | ハム太郎とっとこうた | ? | q=とっとこハム太郎 とっとこうた d=2
+

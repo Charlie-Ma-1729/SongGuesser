@@ -1,0 +1,267 @@
+# 格式說明
+#   「# 作品中文（日文） | 年份」開始一部作品（d=2 表示整部作品難度普通；預設 1）
+#   「KIND | 歌名 | 演唱 | l=作詞 c=作曲 a=編曲 q=搜尋關鍵字 d=難度」 KIND = OP / ED / INSERT / OST
+#   演唱寫 ? 表示不確定（之後由補資料步驟處理）；作詞作曲只在很確定時才填
+
+# 七龍珠（ドラゴンボール） | 1986
+OP | CHA-LA HEAD-CHA-LA | 影山ヒロノブ | l=森雪之丞 c=清水昭男
+OP | 魔訶不思議アドベンチャー! | 高橋洋子 | l=森雪之丞
+OP | WE GOTTA POWER | 影山ヒロノブ
+OP | Dragon Soul | 谷本貴義 | q=Dragon Soul 谷本貴義 ドラゴンボール改 d=2
+
+# 美少女戰士（美少女戦士セーラームーン） | 1992
+OP | ムーンライト伝説 | DALI
+
+# 灌籃高手（SLAM DUNK） | 1993
+OP | 君が好きだと叫びたい | BAAD | l=多々納好夫 c=織田哲郎
+OP | 世界が終るまでは… | WANDS | l=上杉昇 c=織田哲郎
+ED | あなただけ見つめてる | 大黒摩季 | l=大黒摩季 c=大黒摩季
+
+# 新世紀福音戰士（新世紀エヴァンゲリオン） | 1995
+OP | 残酷な天使のテーゼ | 高橋洋子 | l=及川眠子 c=佐藤英敏
+ED | Beautiful World | 宇多田ヒカル | l=宇多田ヒカル c=宇多田ヒカル
+ED | One Last Kiss | 宇多田ヒカル | l=宇多田ヒカル c=宇多田ヒカル
+OST | Decisive Battle | 鷺巣詩郎 | q=Evangelion Decisive Battle 鷺巣詩郎
+
+# 名偵探柯南（名探偵コナン） | 1996
+OP | Secret of my heart | 倉木麻衣
+OST | 名探偵コナン メインテーマ | 大野克夫 | q=名探偵コナン メイン・テーマ 大野克夫
+
+# 蠟筆小新（クレヨンしんちゃん） | 1992
+OP | オラはにんきもの | 野原しんのすけ | q=オラはにんきもの クレヨンしんちゃん
+
+# 哆啦A夢（ドラえもん） | 1979
+OP | ドラえもんのうた | 大杉久美子
+OP | 夢をかなえてドラえもん | mao
+INSERT | ひまわりの約束 | 秦基博 | q=ひまわりの約束 秦基博 STAND BY ME ドラえもん
+
+# 櫻桃小丸子（ちびまる子ちゃん） | 1990
+OP | おどるポンポコリン | B.B.クイーンズ | l=さくらももこ c=織田哲郎
+
+# 神奇寶貝（ポケットモンスター） | 1997
+OP | めざせポケモンマスター | 松本梨香
+OP | XY&Z | 松本梨香
+ED | ポケモン言えるかな? | ? | q=ポケモン言えるかな 1997 d=2
+
+# 數碼寶貝（デジモンアドベンチャー） | 1999
+OP | Butterfly | 和田光司
+OP | Target ~赤い衝撃~ | 和田光司
+OP | The Biggest Dreamer | 和田光司
+INSERT | Brave Heart | 宮崎歩
+
+# 庫洛魔法使（カードキャプターさくら） | 1998
+OP | Catch You Catch Me | 丹下桜
+OP | プラチナ | 岡本真夜
+OP | Clear | 坂本真綾 | q=Clear 坂本真綾 カードキャプターさくら クリアカード
+
+# 通靈王（シャーマンキング） | 2001
+OP | Oversoul | 松本梨香
+
+# 火影忍者（NARUTO） | 2002
+OP | 遥か彼方 | ASIAN KUNG-FU GENERATION | l=後藤正文 c=後藤正文
+OP | GO!!! | FLOW
+OP | Blue Bird | いきものがかり
+OP | シルエット | KANA-BOON
+OST | Sadness and Sorrow | 高梨康治 | q=Naruto Sadness and Sorrow Toshio Masuda
+OST | NARUTO メインテーマ | 高梨康治 | q=NARUTO Main Theme 高梨康治 d=2
+
+# 死神（BLEACH） | 2004
+OP | ASTERISK | ORANGE RANGE
+OP | Rolling star | YUI | l=YUI c=YUI
+OP | 一輪の花 | HIGH and MIGHTY COLOR
+OP | Alones | aqua timez
+ED | Life is Like a Boat | rie fu
+
+# 海賊王（ONE PIECE） | 1999
+OP | ウィーアー! | きただにひろし | l=藤林聖子 c=田中公平
+OP | Believe | Folder5
+OP | BRAND NEW WORLD | D-51 | d=2
+OP | Share the World | 東方神起 | d=2
+OP | Bon Voyage! | ボン・ボン・ブランコ | d=2
+OST | ビンクスの酒 | 田中公平 | q=ビンクスの酒 ONE PIECE
+
+# 死亡筆記本（DEATH NOTE） | 2006
+OP | the WORLD | Nightmare
+OP | What's up, people?! | MAXIMUM THE HORMONE
+OST | L's Theme | 平野義久 | q=Death Note L's Theme
+
+# 鋼之鍊金術師（鋼の錬金術師） | 2003
+OP | Melissa | ポルノグラフィティ
+OP | READY STEADY GO | L'Arc~en~Ciel
+OP | Again | YUI
+OP | Period | CHEMISTRY
+OP | ホログラム | NICO Touches the Walls
+
+# 獵人（HUNTER×HUNTER） | 2011
+OP | Departure! | 小野正利 | l=久保田利伸 c=久保田利伸
+OP | Just Awake | Fear, and Loathing in Las Vegas
+
+# 犬夜叉（犬夜叉） | 2000
+OP | Change the World | V6
+ED | 深い森 | Do As Infinity
+ED | Every Heart -ミンナノキモチ- | BoA
+
+# 浪客劍心（るろうに剣心） | 1996
+OP | そばかす | JUDY AND MARY
+OP | 1/3の純情な感情 | SIAM SHADE
+OP | Heart of Sword ~夜明け前~ | T.M.Revolution
+
+# 城市獵人（シティーハンター） | 1987
+ED | Get Wild | TM NETWORK | l=小室みつ子 c=小室哲哉
+
+# 亂馬1/2（らんま1/2） | 1989
+OP | じゃじゃ馬にさせないで | CINDY d=2
+
+# 北斗神拳（北斗の拳） | 1984
+OP | 愛をとりもどせ!! | クリスタルキング
+
+# 聖鬥士星矢（聖闘士星矢） | 1986
+OP | ペガサス幻想 | MAKE-UP
+OP | ソルジャー・ドリーム | 影山ヒロノブ
+
+# 機動戰士鋼彈（機動戦士ガンダム） | 1979
+OP | 翔べ!ガンダム | 池田鴻 d=2
+OST | BEYOND THE TIME | DEEN | q=BEYOND THE TIME メビウスの宇宙を越えて DEEN
+
+# 機動戰士鋼彈SEED（機動戦士ガンダムSEED） | 2002
+OP | INVOKE | T.M.Revolution
+ED | あんなに一緒だったのに | See-Saw
+
+# 機動戰士鋼彈00（機動戦士ガンダム00） | 2007
+OP | DAYBREAK'S BELL | L'Arc~en~Ciel
+
+# 機動戰士鋼彈 鐵血孤兒（機動戦士ガンダム 鉄血のオルフェンズ） | 2015
+OP | Raise your flag | MAN WITH A MISSION | d=2
+
+# 機動戰士鋼彈 W（新機動戦記ガンダムW） | 1995
+OP | Just Communication | TWO-MIX | d=2
+
+# 宇宙戰艦大和號（宇宙戦艦ヤマト） | 1974
+OP | 宇宙戦艦ヤマト | ささきいさお d=2
+
+# 銀河鐵道999（銀河鉄道999） | 1978
+OP | 銀河鉄道999 | ゴダイゴ d=2
+
+# 無敵鐵金剛（マジンガーZ） | 1972
+OP | マジンガーZ | 水木一郎 d=2
+
+# 魯邦三世（ルパン三世） | 1971
+OST | ルパン三世のテーマ'78 | 大野雄二 | c=大野雄二
+
+# 阿爾卑斯山少女海蒂（アルプスの少女ハイジ） | 1974
+OP | おしえて | 伊藤薫 | q=おしえて アルプスの少女ハイジ d=2
+
+# 星際牛仔（カウボーイビバップ） | 1998
+OP | Tank! | 菅野よう子 / The Seatbelts | c=菅野よう子
+ED | The Real Folk Blues | The Seatbelts | c=菅野よう子 d=2
+
+# 攻殼機動隊（攻殻機動隊） | 1995
+OP | Inner Universe | Origa | d=2
+
+# 魔法少女小圓（魔法少女まどか☆マギカ） | 2011
+OP | コネクト | ClariS
+ED | Magia | Kalafina | l=梶浦由記 c=梶浦由記
+OST | Credens justitiam | 梶浦由記 | q=Credens justitiam 梶浦由記 まどかマギカ d=2
+
+# 涼宮春日的憂鬱（涼宮ハルヒの憂鬱） | 2006
+OP | 冒険でしょでしょ? | 平野綾
+ED | ハレ晴レユカイ | 平野綾 茅原実里 後藤邑子
+
+# 輕音少女（けいおん!） | 2009
+OP | Cagayake!GIRLS | 放課後ティータイム
+OP | Don't say "lazy" | 放課後ティータイム
+ED | ふわふわ時間 | 放課後ティータイム
+INSERT | Go! Go! MANIAC | 放課後ティータイム
+
+# 幸運星（らき☆すた） | 2007
+OP | もってけ!セーラーふく | 泉こなた 柊かがみ 柊つかさ 高良みゆき
+
+# 日常（日常） | 2011
+OP | ヒャダインのカカカタ☆カタオモイ-C | ヒャダイン d=2
+
+# CLANNAD（CLANNAD -クラナド-） | 2007
+OP | メグメル | Rita
+ED | だんご大家族 | 茶太 | d=2
+
+# AIR（AIR） | 2005
+OP | 鳥の詩 | Lia d=2
+
+# Angel Beats!（Angel Beats!） | 2010
+OP | My Soul, Your Beats! | Lia
+ED | 一番の宝物 | LiSA
+
+# 我們仍未知道那天所看見的花的名字（あの日見た花の名前を僕達はまだ知らない。） | 2011
+OP | 青い栞 | Galileo Galilei
+ED | secret base ~君がくれたもの~ | ZONE d=2
+
+# 龍與虎（とらドラ!） | 2008
+OP | プレパレード | 釘宮理恵 堀江由衣 喜多村英梨
+OP | silky heart | 堀江由衣 d=2
+
+# 吹響吧!上低音號（響け!ユーフォニアム） | 2015
+OP | DREAM SOLISTER | TRUE d=2
+
+# 天元突破 紅蓮螺巖（天元突破グレンラガン） | 2007
+OP | 空色デイズ | 中川翔子
+OP | Libera me from Hell | 小野大輔 d=2
+
+# 反叛的魯路修（コードギアス 反逆のルルーシュ） | 2006
+OP | COLORS | FLOW
+ED | モザイクカケラ | SunSet Swish d=2
+
+# 靈魂食者（ソウルイーター） | 2008
+OP | resonance | T.M.Revolution d=2
+
+# 蟲師（蟲師） | 2005
+ED | The Sore Feet Song | Ally Kerr d=2
+
+# 寒蟬鳴泣之時（ひぐらしのなく頃に） | 2006
+OP | ひぐらしのなく頃に | 島宮えい子 d=2
+
+# 武士道Champloo（サムライチャンプルー） | 2004
+OP | Battlecry | Nujabes feat. Shing02 d=2
+
+# 福利喵（FLCL） | 2000
+OP | Ride on shooting star | the pillows d=2
+INSERT | Little Busters | the pillows d=2
+
+# NANA（NANA） | 2006
+OP | Rose | Anna Tsuchiya inspi' NANA (BLACK STONES) d=2
+ED | a little pain | OLIVIA inspi' REIRA (TRAPNEST) d=2
+
+# 頭文字D（頭文字D） | 1998
+INSERT | Running in the 90's | Max Coveri
+INSERT | Deja Vu | Dave Rodgers
+INSERT | Gas Gas Gas | Manuel
+
+# 遊戲王（遊☆戯☆王デュエルモンスターズ） | 2000
+OP | Overlap | Kimeru d=2
+
+# 家庭教師（ヒットマンREBORN!） | 2006
+OP | Boys & Girls | ? d=2
+
+# 幽遊白書（幽☆遊☆白書） | 1992
+OP | 微笑みの爆弾 | ? | q=微笑みの爆弾 幽遊白書 d=2
+
+# 魔法禁書目錄（とある魔術の禁書目録） | 2008
+OP | PSI-missing | 黒崎真音 d=2
+
+# 科學超電磁砲（とある科学の超電磁砲） | 2009
+OP | only my railgun | fripSide
+OP | LEVEL5-judgelight- | fripSide
+OP | sister's noise | fripSide
+
+# 刀劍神域（ソードアート・オンライン） | 2012
+OP | crossing field | LiSA
+OP | INNOCENCE | 藍井エイル
+ED | Overfly | 春奈るな
+OP | ADAMAS | LiSA
+INSERT | Catch the Moment | LiSA
+OST | Swordland | 梶浦由記 | q=Swordland 梶浦由記 SAO d=2
+
+# Fate 系列（Fate/Zero・Fate/stay night） | 2011
+OP | oath sign | LiSA
+ED | to the beginning | Kalafina | l=梶浦由記 c=梶浦由記
+OP | Brave Shine | Aimer | q=Brave Shine Aimer Fate/stay night UBW
+ED | this illusion | Aimer d=2
+INSERT | I beg you | Aimer | q=I beg you Aimer Fate Heaven's Feel

@@ -1,0 +1,455 @@
+[
+ {
+  "id": "a-23f9e9e4",
+  "workId": "wba78c9",
+  "kind": "OP",
+  "ytId": "FhsqaWUlR9U",
+  "start": 39,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "CHA-LA HEAD-CHA-LA",
+   "work": "七龍珠（ドラゴンボール）",
+   "artist": "影山ヒロノブ",
+   "lyricist": "森雪之丞",
+   "composer": "清水昭男"
+  },
+  "year": 1986,
+  "difficulty": 1
+ },
+ {
+  "id": "a-d769c5c0",
+  "workId": "wba78c9",
+  "kind": "OP",
+  "ytId": "6bBosQiTyNw",
+  "start": 52,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "魔訶不思議アドベンチャー!",
+   "work": "七龍珠（ドラゴンボール）",
+   "artist": "高橋洋子",
+   "lyricist": "森雪之丞"
+  },
+  "year": 1986,
+  "difficulty": 1
+ },
+ {
+  "id": "a-f0a7d20d",
+  "workId": "wba78c9",
+  "kind": "OP",
+  "ytId": "Y6TumtxMzC0",
+  "start": 48,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "WE GOTTA POWER",
+   "work": "七龍珠（ドラゴンボール）",
+   "artist": "影山ヒロノブ"
+  },
+  "year": 1986,
+  "difficulty": 1
+ },
+ {
+  "id": "a-880d4621",
+  "workId": "wba78c9",
+  "kind": "OP",
+  "ytId": "bdU0J4_TCLQ",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Dragon Soul",
+   "work": "七龍珠（ドラゴンボール）",
+   "artist": "谷本貴義"
+  },
+  "year": 1986,
+  "difficulty": 2
+ },
+ {
+  "id": "a-cc5893c3",
+  "workId": "wbcbc5f",
+  "kind": "OP",
+  "ytId": "SvB9misfquA",
+  "start": 35,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ムーンライト伝説",
+   "work": "美少女戰士（美少女戦士セーラームーン）",
+   "artist": "DALI"
+  },
+  "year": 1992,
+  "difficulty": 1
+ },
+ {
+  "id": "a-afb6289a",
+  "workId": "w083678",
+  "kind": "OP",
+  "ytId": "mgWONfthS9U",
+  "start": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "君が好きだと叫びたい",
+   "work": "灌籃高手（SLAM DUNK）",
+   "artist": "BAAD",
+   "lyricist": "多々納好夫",
+   "composer": "織田哲郎"
+  },
+  "year": 1993,
+  "difficulty": 1
+ },
+ {
+  "id": "a-84a11589",
+  "workId": "w083678",
+  "kind": "OP",
+  "ytId": "1Bk9YpwWEsg",
+  "start": 64,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "世界が終るまでは…",
+   "work": "灌籃高手（SLAM DUNK）",
+   "artist": "WANDS",
+   "lyricist": "上杉昇",
+   "composer": "織田哲郎"
+  },
+  "year": 1993,
+  "difficulty": 1
+ },
+ {
+  "id": "a-b58164ce",
+  "workId": "w083678",
+  "kind": "ED",
+  "ytId": "776kOps8h4A",
+  "start": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "あなただけ見つめてる",
+   "work": "灌籃高手（SLAM DUNK）",
+   "artist": "大黒摩季",
+   "lyricist": "大黒摩季",
+   "composer": "大黒摩季"
+  },
+  "year": 1993,
+  "difficulty": 1
+ },
+ {
+  "id": "a-68018930",
+  "workId": "we200bb",
+  "kind": "OP",
+  "ytId": "M37FeC4iUAw",
+  "start": 48,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "残酷な天使のテーゼ",
+   "work": "新世紀福音戰士（新世紀エヴァンゲリオン）",
+   "artist": "高橋洋子",
+   "lyricist": "及川眠子",
+   "composer": "佐藤英敏"
+  },
+  "year": 1995,
+  "difficulty": 1
+ },
+ {
+  "id": "a-be327827",
+  "workId": "we200bb",
+  "kind": "ED",
+  "ytId": "jmKRgqWGrWc",
+  "start": 33,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Beautiful World",
+   "work": "新世紀福音戰士（新世紀エヴァンゲリオン）",
+   "artist": "宇多田ヒカル",
+   "lyricist": "宇多田ヒカル",
+   "composer": "宇多田ヒカル"
+  },
+  "year": 1995,
+  "difficulty": 1
+ },
+ {
+  "id": "a-07f61105",
+  "workId": "we200bb",
+  "kind": "ED",
+  "ytId": "xatKOAWhG-g",
+  "start": 58,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "One Last Kiss",
+   "work": "新世紀福音戰士（新世紀エヴァンゲリオン）",
+   "artist": "宇多田ヒカル",
+   "lyricist": "宇多田ヒカル",
+   "composer": "宇多田ヒカル"
+  },
+  "year": 1995,
+  "difficulty": 1
+ },
+ {
+  "id": "a-3233d418",
+  "workId": "we200bb",
+  "kind": "OST",
+  "ytId": "o1Eo3VW693Q",
+  "start": 17,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "Decisive Battle",
+   "work": "新世紀福音戰士（新世紀エヴァンゲリオン）",
+   "artist": "鷺巣詩郎"
+  },
+  "year": 1995,
+  "difficulty": 1
+ },
+ {
+  "id": "a-aa1489ea",
+  "workId": "wb2f166",
+  "kind": "OP",
+  "ytId": "DZvDz6YdnP4",
+  "start": 15,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Secret of my heart",
+   "work": "名偵探柯南（名探偵コナン）",
+   "artist": "倉木麻衣"
+  },
+  "year": 1996,
+  "difficulty": 1
+ },
+ {
+  "id": "a-20c5369e",
+  "workId": "wb2f166",
+  "kind": "OST",
+  "ytId": "Jn8u2pN-CSo",
+  "start": 14,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "名探偵コナン メインテーマ",
+   "work": "名偵探柯南（名探偵コナン）",
+   "artist": "大野克夫"
+  },
+  "year": 1996,
+  "difficulty": 1
+ },
+ {
+  "id": "a-e43c9d9d",
+  "workId": "w91fa59",
+  "kind": "OP",
+  "ytId": "QhkyDmPavaU",
+  "start": 34,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "オラはにんきもの",
+   "work": "蠟筆小新（クレヨンしんちゃん）",
+   "artist": "野原しんのすけ"
+  },
+  "year": 1992,
+  "difficulty": 1
+ },
+ {
+  "id": "a-5d02fe8d",
+  "workId": "wec022d",
+  "kind": "OP",
+  "ytId": "s4pgnGqkNEU",
+  "start": 35,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ドラえもんのうた",
+   "work": "哆啦A夢（ドラえもん）",
+   "artist": "大杉久美子"
+  },
+  "year": 1979,
+  "difficulty": 1
+ },
+ {
+  "id": "a-2c33600c",
+  "workId": "wec022d",
+  "kind": "OP",
+  "ytId": "jvLDPAFwgw4",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "夢をかなえてドラえもん",
+   "work": "哆啦A夢（ドラえもん）",
+   "artist": "mao"
+  },
+  "year": 1979,
+  "difficulty": 1
+ },
+ {
+  "id": "a-13e714cd",
+  "workId": "wec022d",
+  "kind": "INSERT",
+  "ytId": "eXTo49Qo-9E",
+  "start": 62,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ひまわりの約束",
+   "work": "哆啦A夢（ドラえもん）",
+   "artist": "秦基博"
+  },
+  "year": 1979,
+  "difficulty": 1
+ },
+ {
+  "id": "a-c643d623",
+  "workId": "w83588e",
+  "kind": "OP",
+  "ytId": "OmTJQVnNq5Y",
+  "start": 15,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "おどるポンポコリン",
+   "work": "櫻桃小丸子（ちびまる子ちゃん）",
+   "artist": "B.B.クイーンズ",
+   "lyricist": "さくらももこ",
+   "composer": "織田哲郎"
+  },
+  "year": 1990,
+  "difficulty": 1
+ },
+ {
+  "id": "a-4fe726a3",
+  "workId": "w60b1cd",
+  "kind": "OP",
+  "ytId": "4ph_VTcReGU",
+  "start": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "めざせポケモンマスター",
+   "work": "神奇寶貝（ポケットモンスター）",
+   "artist": "松本梨香"
+  },
+  "year": 1997,
+  "difficulty": 1
+ },
+ {
+  "id": "a-c01e8321",
+  "workId": "w60b1cd",
+  "kind": "ED",
+  "ytId": "Lvh_NMq2O0Y",
+  "start": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ポケモン言えるかな?",
+   "work": "神奇寶貝（ポケットモンスター）"
+  },
+  "year": 1997,
+  "difficulty": 2
+ },
+ {
+  "id": "a-3970eef4",
+  "workId": "w9c0de9",
+  "kind": "OP",
+  "ytId": "hf3DcnSByTA",
+  "start": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Butterfly",
+   "work": "數碼寶貝（デジモンアドベンチャー）",
+   "artist": "和田光司"
+  },
+  "year": 1999,
+  "difficulty": 1
+ },
+ {
+  "id": "a-be744d3f",
+  "workId": "w9c0de9",
+  "kind": "OP",
+  "ytId": "hYQshuLmwIk",
+  "start": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Target ~赤い衝撃~",
+   "work": "數碼寶貝（デジモンアドベンチャー）",
+   "artist": "和田光司"
+  },
+  "year": 1999,
+  "difficulty": 1
+ },
+ {
+  "id": "a-22298f5e",
+  "workId": "w9c0de9",
+  "kind": "OP",
+  "ytId": "G2Dog01cP9A",
+  "start": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "The Biggest Dreamer",
+   "work": "數碼寶貝（デジモンアドベンチャー）",
+   "artist": "和田光司"
+  },
+  "year": 1999,
+  "difficulty": 1
+ },
+ {
+  "id": "a-86ef0369",
+  "workId": "w9c0de9",
+  "kind": "INSERT",
+  "ytId": "chteZXqFnc4",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Brave Heart",
+   "work": "數碼寶貝（デジモンアドベンチャー）",
+   "artist": "宮崎歩"
+  },
+  "year": 1999,
+  "difficulty": 1
+ },
+ {
+  "id": "a-ec6b2548",
+  "workId": "w3c15cc",
+  "kind": "OP",
+  "ytId": "wcnxGkotK_E",
+  "start": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Catch You Catch Me",
+   "work": "庫洛魔法使（カードキャプターさくら）",
+   "artist": "丹下桜"
+  },
+  "year": 1998,
+  "difficulty": 1
+ },
+ {
+  "id": "a-9cab4dd6",
+  "workId": "w3c15cc",
+  "kind": "OP",
+  "ytId": "u3njK1Hi818",
+  "start": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "プラチナ",
+   "work": "庫洛魔法使（カードキャプターさくら）",
+   "artist": "岡本真夜"
+  },
+  "year": 1998,
+  "difficulty": 1
+ },
+ {
+  "id": "a-d36a4eb1",
+  "workId": "w3c15cc",
+  "kind": "OP",
+  "ytId": "69f_ISYIQgk",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Clear",
+   "work": "庫洛魔法使（カードキャプターさくら）",
+   "artist": "坂本真綾"
+  },
+  "year": 1998,
+  "difficulty": 1
+ },
+ {
+  "id": "a-a6bbe63e",
+  "workId": "wc201c6",
+  "kind": "OP",
+  "ytId": "X3aFz8eUmfQ",
+  "start": 73,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "遥か彼方",
+   "work": "火影忍者（NARUTO）",
+   "artist": "ASIAN KUNG-FU GENERATION",
+   "lyricist": "後藤正文",
+   "composer": "後藤正文"
+  },
+  "year": 2002,
+  "difficulty": 1
+ }
+]

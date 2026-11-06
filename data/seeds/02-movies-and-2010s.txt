@@ -1,0 +1,229 @@
+# ===== 動畫電影（吉卜力 / 新海誠 / 細田守等）=====
+
+# 龍貓（となりのトトロ） | 1988
+OP | さんぽ | 井上あずみ | l=中川李枝子 c=久石譲
+ED | となりのトトロ | 井上あずみ | l=宮崎駿 c=久石譲
+
+# 魔女宅急便（魔女の宅急便） | 1989
+OP | やさしさに包まれたなら | 荒井由実 | l=荒井由実 c=荒井由実
+ED | 海の見える街 | 久石譲 | c=久石譲 d=2
+
+# 天空之城（天空の城ラピュタ） | 1986
+ED | 君をのせて | 井上あずみ | l=宮崎駿 c=久石譲
+
+# 風之谷（風の谷のナウシカ） | 1984
+ED | 風の谷のナウシカ | 安田成美 d=2
+
+# 神隱少女（千と千尋の神隠し） | 2001
+ED | いつも何度でも | 木村弓 | l=覚和歌子 c=木村弓
+OST | One Summer's Day | 久石譲 | c=久石譲
+OST | 竜の少年 | 久石譲 | c=久石譲 d=2
+
+# 哈爾的移動城（ハウルの動く城） | 2004
+ED | 世界の約束 | 倍賞千恵子 | c=木村弓
+OST | 人生のメリーゴーランド | 久石譲 | c=久石譲
+
+# 心之谷（耳をすませば） | 1995
+ED | カントリー・ロード | 本名陽子
+
+# 貓的報恩（猫の恩返し） | 2002
+ED | 風になる | つじあやの d=2
+
+# 崖上的波妞（崖の上のポニョ） | 2008
+ED | 崖の上のポニョ | 藤岡藤巻と大橋のぞみ
+
+# 風起（風立ちぬ） | 2013
+ED | ひこうき雲 | 荒井由実 d=2
+
+# 你的名字。（君の名は。） | 2016
+INSERT | 前前前世 | RADWIMPS | l=野田洋次郎 c=野田洋次郎
+INSERT | スパークル | RADWIMPS | l=野田洋次郎 c=野田洋次郎
+INSERT | なんでもないや | RADWIMPS | l=野田洋次郎 c=野田洋次郎
+INSERT | 夢灯籠 | RADWIMPS | l=野田洋次郎 c=野田洋次郎 d=2
+
+# 天氣之子（天気の子） | 2019
+INSERT | 愛にできることはまだあるかい | RADWIMPS | l=野田洋次郎 c=野田洋次郎
+INSERT | グランドエスケープ | RADWIMPS feat. 三浦透子 | l=野田洋次郎 c=野田洋次郎
+
+# 鈴芽之旅（すずめの戸締まり） | 2022
+INSERT | すずめ | RADWIMPS feat. 十明 | l=野田洋次郎 c=野田洋次郎
+
+# 秒速5公分（秒速5センチメートル） | 2007
+ED | One more time, One more chance | 山崎まさよし | l=山崎まさよし c=山崎まさよし
+
+# 言葉之庭（言の葉の庭） | 2013
+ED | Rain | 秦基博 d=2
+
+# 時空少女（時をかける少女） | 2006
+ED | ガーネット | 奥華子 d=2
+
+# 夏日大作戰（サマーウォーズ） | 2009
+ED | 僕らの夏の夢 | 山下達郎 d=2
+
+# 狼的孩子雨與雪（おおかみこどもの雨と雪） | 2012
+ED | おかあさんの唄 | アン・サリー d=2
+
+# ===== 2010～2014 =====
+
+# 進擊的巨人（進撃の巨人） | 2013
+OP | 紅蓮の弓矢 | Linked Horizon | l=Revo c=Revo
+OP | 自由の翼 | Linked Horizon | l=Revo c=Revo
+OP | 心臓を捧げよ! | Linked Horizon | l=Revo c=Revo
+OP | 美しき残酷な世界 | Linked Horizon | l=Revo c=Revo
+OP | Red Swan | Yoshiki feat. HYDE
+OP | 僕の戦争 | 神様、僕は気づいてしまった d=2
+OP | The Rumbling | SiM | d=2
+OST | ətˈæk 0N tάɪtn | 澤野弘之 | q=ətˈæk 0N tάɪtn Hiroyuki Sawano c=澤野弘之 d=2
+OST | Vogel im Käfig | 澤野弘之 | q=Vogel im Käfig Hiroyuki Sawano c=澤野弘之 d=2
+
+# 一拳超人（ワンパンマン） | 2015
+OP | THE HERO !! ~怒れる拳に火をつけろ~ | JAM Project
+OP | 静寂のアポストル | JAM Project d=2
+
+# JOJO的奇妙冒險（ジョジョの奇妙な冒険） | 2012
+OP | JoJo ~その血の運命~ | 富永TOMMY弘明
+OP | BLOODY STREAM | Coda
+OP | STAND PROUD | 橋本仁 d=2
+OST | Il vento d'oro | 菅野祐悟 | q=Il vento d'oro 菅野祐悟 ジョジョ黄金の風 c=菅野祐悟
+
+# 黑子的籃球（黒子のバスケ） | 2012
+OP | Can Do | GRANRODEO
+OP | Hot Limit | GRANRODEO d=2
+
+# 妖精的尾巴（FAIRY TAIL） | 2009
+OP | Snow Fairy | Funkist
+OP | Masayume Chasing | BoA | d=2
+OST | FAIRY TAIL メインテーマ | 高梨康治 | q=FAIRY TAIL Main Theme 高梨康治 d=2
+
+# 七大罪（七つの大罪） | 2014
+OP | 熱情のスペクトラム | いきものがかり
+
+# 排球少年!!（ハイキュー!!） | 2014
+OP | イマジネーション | SPYAIR
+OP | PHOENIX | BURNOUT SYNDROMES d=2
+OP | ヒカリアレ | BURNOUT SYNDROMES d=2
+OP | FLY HIGH!! | BURNOUT SYNDROMES
+
+# 約定的夢幻島（約束のネバーランド） | 2019
+OP | Touch Off | UVERworld d=2
+ED | 絶体絶命 | Cö shu Nie | d=2
+
+# 東京喰種（東京喰種トーキョーグール） | 2014
+OP | unravel | TK from 凛として時雨 | l=TK c=TK
+OP | Asphyxia | Cö shu Nie d=2
+
+# 心理測量者（PSYCHO-PASS サイコパス） | 2012
+OP | abnormalize | 凛として時雨 | d=2
+OP | Out of Control | Nothing's Carved In Stone d=2
+
+# 寄生獸（寄生獣 セイの格率） | 2014
+OP | Let Me Hear | Fear, and Loathing in Las Vegas d=2
+
+# 野良神（ノラガミ） | 2014
+OP | 狂乱 Hey Kids!! | THE ORAL CIGARETTES d=2
+
+# Free!（Free!） | 2013
+OP | Rage on | OLDCODEX d=2
+
+# 遊戲人生（ノーゲーム・ノーライフ） | 2014
+OP | This game | 鈴木このみ
+
+# 暗殺教室（暗殺教室） | 2015
+OP | 青春サツバツ論 | 3年E組うた担 d=2
+
+# 約會大作戰（デート・ア・ライブ） | 2013
+OP | Date A Live | sweet ARMS | d=2
+
+# 罪惡王冠（ギルティクラウン） | 2011
+OP | My Dearest | supercell | d=2
+ED | Departures ~あなたにおくる愛の歌~ | EGOIST | d=2
+
+# 物語系列（化物語） | 2009
+OP | 恋愛サーキュレーション | 花澤香菜 | d=2
+
+# 神的記事本（Steins;Gate） | 2011
+OP | Hacking to the Gate | いとうかなこ | d=2
+ED | 刻司ル十二ノ盟約 | いとうかなこ | d=2
+
+# 紫羅蘭永恆花園（ヴァイオレット・エヴァーガーデン） | 2018
+OP | Sincerely | TRUE
+ED | みちしるべ | 茅原実里 d=2
+
+# 冰菓（氷菓） | 2012
+OP | 優しさの理由 | ChouCho d=2
+
+# 青春豬頭少年不會夢到兔女郎學姊（青春ブタ野郎はバニーガール先輩の夢を見ない） | 2018
+OP | Kimi no Sei | the peggies | q=君のせい the peggies 青春ブタ野郎 d=2
+
+# 戀愛 Lovelive!（ラブライブ!） | 2013
+OP | Snow halation | μ's
+OP | 僕らは今のなかで | μ's d=2
+OP | START:DASH!! | μ's d=2
+OP | 君のこころは輝いてるかい? | Aqours d=2
+OP | 青空Jumping Heart | Aqours d=2
+
+# 為美好世界獻上祝福（この素晴らしい世界に祝福を!） | 2016
+OP | fantastic dreamer | Machico
+ED | ちいさな冒険者 | あくあ めぐみん だくね
+
+# 小林家的龍女僕（小林さんちのメイドラゴン） | 2017
+OP | 青空のラプソディ | fhána d=2
+
+# 從零開始的異世界生活（Re:ゼロから始める異世界生活） | 2016
+OP | Redo | 鈴木このみ
+ED | Stay Alive | 高橋李依
+OP | Paradisus-Paradoxum | MYTH & ROID
+OP | Realize | 鈴木このみ d=2
+OP | Styx Helix | MYTH & ROID d=2
+
+# 奧伯龍（オーバーロード） | 2015
+OP | Clattanoia | OxT
+OP | VORACITY | MYTH & ROID d=2
+OP | HOLLOW HUNGER | OxT d=2
+
+# 我的英雄學院（僕のヒーローアカデミア） | 2016
+OP | The Day | Porno Graffitti
+OP | Peace Sign | 米津玄師 | l=米津玄師 c=米津玄師
+OP | ODD FUTURE | UVERworld
+OP | Polaris | BLUE ENCOUNT d=2
+OST | You Say Run | 林ゆうき | c=林ゆうき
+
+# 路人超能100（モブサイコ100） | 2016
+OP | 99 | MOB CHOIR d=2
+
+# 黑色五葉草（ブラッククローバー） | 2017
+OP | ハルカミライ | 感覚ピエロ | d=2
+OP | Black Rover | Vickeblanka d=2
+
+# 銀魂（銀魂） | 2006
+OP | Samurai Heart (Some Like It Hot!!) | SPYAIR
+
+# 黑執事（黒執事） | 2008
+OP | Monochrome Kiss | SID d=2
+
+# 尤里!!! on ICE（ユーリ!!! on ICE） | 2016
+OP | History Maker | Dean Fujioka
+
+# 死亡遊行（デス・パレード） | 2015
+OP | Flyers | BRADIO d=2
+
+# 賽馬娘（ウマ娘 プリティーダービー） | 2018
+OP | Make debut! | スペシャルウィーク 他
+ED | うまぴょい伝説 | スペシャルウィーク 他
+
+# 五等分的新娘（五等分の花嫁） | 2019
+OP | 五等分の気持ち | 中野家の五つ子 d=2
+
+# 炎炎消防隊（炎炎ノ消防隊） | 2019
+OP | Inferno | Mrs. GREEN APPLE
+
+# Dr.STONE 新石紀（Dr.STONE） | 2019
+OP | Good Morning World! | BURNOUT SYNDROMES
+
+# BEASTARS（BEASTARS） | 2019
+OP | Wild side | ALI d=2
+ED | 優しい彗星 | YOASOBI d=2
+
+# 輝夜姬想讓人告白（かぐや様は告らせたい） | 2019
+OP | Love Dramatic | 鈴木雅之 feat. 伊原六花
+ED | チカっとチカ千花っ♡ | 藤原千花 d=2

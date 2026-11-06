@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>動漫猜歌大賽</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎵</text></svg>">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- 設定畫面 -->
+  <main id="screen-setup" class="screen active">
+    <h1>🎵 動漫猜歌大賽</h1>
+    <p class="sub">聽音樂，猜出這首歌是哪一部動畫！</p>
+
+    <section class="card">
+      <h2>題庫</h2>
+      <div id="categories" class="chips"></div>
+    </section>
+
+    <section class="card grid">
+      <label>題數
+        <select id="opt-count">
+          <option value="10">10 題</option>
+          <option value="20" selected>20 題</option>
+          <option value="30">30 題</option>
+          <option value="50">50 題</option>
+          <option value="9999">全部</option>
+        </select>
+      </label>
+      <label>每題播放長度
+        <select id="opt-duration">
+          <option value="8">8 秒</option>
+          <option value="12">12 秒</option>
+          <option value="15" selected>15 秒</option>
+          <option value="20">20 秒</option>
+          <option value="30">30 秒</option>
+          <option value="0">不限（手動揭曉前一直播）</option>
+        </select>
+      </label>
+      <label>難度
+        <select id="opt-difficulty">
+          <option value="1" selected>簡單（大家都聽過）</option>
+          <option value="2">普通（含一般動漫迷）</option>
+        </select>
+      </label>
+      <label>同一部作品最多出現
+        <select id="opt-perwork">
+          <option value="1">1 首</option>
+          <option value="2" selected>2 首</option>
+          <option value="99">不限</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="card">
+      <h2>歌曲類型</h2>
+      <div id="kinds" class="chips">
+        <label class="chip"><input type="checkbox" value="OP" checked> OP 片頭曲</label>
+        <label class="chip"><input type="checkbox" value="ED" checked> ED 片尾曲</label>
+        <label class="chip"><input type="checkbox" value="INSERT" checked> 插入曲</label>
+        <label class="chip"><input type="checkbox" value="OST" checked> OST 配樂</label>
+      </div>
+    </section>
+
+    <button id="btn-start" class="big primary" disabled>載入題庫中…</button>
+    <p class="tip">操作：<kbd>空白鍵</kbd> 揭曉／下一題　<kbd>R</kbd> 重播　<kbd>→</kbd> 跳過　<kbd>X</kbd> 回報問題（開頭不是音樂時用）</p>
+  </main>
+
+  <!-- 遊戲畫面 -->
+  <main id="screen-game" class="screen">
+    <header class="topbar">
+      <span id="progress">第 1 / 20 題</span>
+      <span id="badge" class="badge">OP</span>
+      <button id="btn-quit" class="ghost">結束</button>
+    </header>
+
+    <div class="stage">
+      <div class="video-box">
+        <div id="yt"></div>
+        <div id="cover" class="cover">
+          <div id="eq" class="eq"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          <div id="cover-text">載入中…</div>
+        </div>
+      </div>
+
+      <h2 id="prompt">這首歌來自哪部動畫？</h2>
+
+      <div id="answer" class="answer hidden">
+        <div id="ans-work" class="work"></div>
+        <div id="ans-title" class="title"></div>
+        <dl id="ans-credits"></dl>
+      </div>
+
+      <div class="controls">
+        <button id="btn-replay" class="ghost">↻ 重播 (R)</button>
+        <button id="btn-main" class="big primary">揭曉答案 (空白鍵)</button>
+        <button id="btn-skip" class="ghost">跳過 (→)</button>
+        <button id="btn-flag" class="ghost" title="例如：開頭不是音樂、是對白或廣告">⚠ 回報問題 (X)</button>
+      </div>
+      <p id="toast" class="toast"></p>
+    </div>
+  </main>
+
+  <!-- 結束畫面 -->
+  <main id="screen-end" class="screen">
+    <h1>🎉 完成！</h1>
+    <p id="end-text" class="sub"></p>
+    <button id="btn-again" class="big primary">再玩一次</button>
+  </main>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
