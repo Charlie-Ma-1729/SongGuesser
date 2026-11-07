@@ -103,3 +103,8 @@ kbd {
 .controls { display: flex; gap: 14px; justify-content: center; align-items: center; margin-top: 18px; flex-wrap: wrap; }
 .toast { min-height: 24px; color: var(--ok); margin: 10px 0 0; }
 .toast.warn { color: #ffb347; }
+
+/* 音量 */
+.vol { display: inline-flex; align-items: center; gap: 8px; font-size: 16px; color: var(--muted); }
+.vol input[type=range] { width: 140px; accent-color: #7c5cff; padding: 0; background: none; border: 0; }
+.vol output { min-width: 2.2em; text-align: right; color: var(--text); font-variant-numeric: tabular-nums; }

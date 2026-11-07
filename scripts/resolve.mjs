@@ -137,7 +137,7 @@ function score(c, song) {
   if (NOT_MUSIC.test(ct)) s -= 30;
   const topic = /- topic$/i.test(c.channel);
   const audioFirst = topic || AUDIO_FIRST.test(ct);
-  if (audioFirst) s += 3;
+  if (audioFirst) s += 4; // 遊戲從影片開頭播，優先選一開始就是音樂的影片
   if (MV_LIKE.test(ct) && !audioFirst) s -= 2;
   if (BAD.test(ct) || BAD.test(cc)) s -= 20;
   if (LIVE_HARD.test(ct) || LIVE_HARD.test(cc)) s -= 30;
@@ -255,8 +255,8 @@ async function resolveOne(song) {
         start,
         startSource: source,
         audioFirst: !!audioFirst,
-        // 需要人工確認：沒有重播峰值、而且不是「純音樂型」影片（開頭可能有劇情/對白）
-        review: source !== 'peak' && !audioFirst,
+        // 遊戲一律從影片開頭播，所以「不是純音樂型影片」（歌詞版/ノンクレ/Topic）的要留意開頭可能有劇情/對白
+        review: !audioFirst,
         score: Math.round(s * 10) / 10,
         official: !!strong,
         resolvedAt: new Date().toISOString().slice(0, 10),

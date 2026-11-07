@@ -16,6 +16,7 @@ const works = parseSeeds();
 const out = [];
 const missing = [];
 let total = 0;
+const seenVideo = new Set();
 
 for (const w of works) {
   const workName = w.zh === w.ja ? w.zh : `${w.zh}（${w.ja}）`;
@@ -25,6 +26,11 @@ for (const w of works) {
     if (!r || r.fail) { missing.push(`${w.zh} / ${s.kind} ${s.title}`); continue; }
     const ov = overrides[s.id] || {};
     if (ov.disabled) continue;
+    // 同一部作品裡若兩首歌解析到同一支影片，只留第一首（避免出現重複題）
+    const vid = ov.ytId || r.ytId;
+    const dupKey = w.workId + '|' + vid;
+    if (seenVideo.has(dupKey)) continue;
+    seenVideo.add(dupKey);
     const cr = credits[s.key] || {};
     const pick = (a, b) => a || b || undefined;
     out.push({
@@ -32,7 +38,8 @@ for (const w of works) {
       workId: w.workId,
       kind: s.kind,
       ytId: ov.ytId || r.ytId,
-      start: ov.start ?? r.start,
+      // 一律從影片開頭播；只有在 overrides.json 手動指定時才用其他起點
+      start: ov.start ?? 0,
       prompt: s.kind === 'OST' ? '這段配樂來自哪部動畫？' : '這首歌來自哪部動畫？',
       answer: {
         title: s.title,
@@ -48,7 +55,8 @@ for (const w of works) {
       video: r.videoTitle,
       channel: r.channel,
       startSource: r.startSource,
-      review: r.review || undefined,
+      // 一律從開頭播 → 不是「純音樂型」影片的才需要人工看一下
+      review: r.audioFirst ? undefined : true,
     });
   }
 }

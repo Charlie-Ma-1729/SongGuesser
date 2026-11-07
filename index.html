@@ -47,9 +47,13 @@
       <label>同一部作品最多出現
         <select id="opt-perwork">
           <option value="1">1 首</option>
-          <option value="2" selected>2 首</option>
-          <option value="99">不限</option>
+          <option value="2">2 首</option>
+          <option value="3">3 首</option>
+          <option value="99" selected>不限</option>
         </select>
+      </label>
+      <label>音量
+        <span class="vol"><input id="vol-setup" type="range" min="0" max="100" step="5" value="80"><output id="vol-setup-out">80</output></span>
       </label>
     </section>
 
@@ -64,7 +68,7 @@
     </section>
 
     <button id="btn-start" class="big primary" disabled>載入題庫中…</button>
-    <p class="tip">操作：<kbd>空白鍵</kbd> 揭曉／下一題　<kbd>R</kbd> 重播　<kbd>→</kbd> 跳過　<kbd>X</kbd> 回報問題（開頭不是音樂時用）</p>
+    <p class="tip">操作：<kbd>空白鍵</kbd> 揭曉／下一題　<kbd>R</kbd> 重播　<kbd>→</kbd> 跳過　<kbd>↑</kbd><kbd>↓</kbd> 音量　<kbd>M</kbd> 靜音　<kbd>X</kbd> 回報問題（開頭不是音樂時用）</p>
   </main>
 
   <!-- 遊戲畫面 -->
@@ -72,6 +76,7 @@
     <header class="topbar">
       <span id="progress">第 1 / 20 題</span>
       <span id="badge" class="badge">OP</span>
+      <span class="vol" title="音量（↑ ↓ 調整，M 靜音）">🔊 <input id="vol-game" type="range" min="0" max="100" step="5" value="80"><output id="vol-game-out">80</output></span>
       <button id="btn-quit" class="ghost">結束</button>
     </header>
 

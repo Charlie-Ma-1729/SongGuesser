@@ -1,0 +1,230 @@
+# ===== 2012～2026 追加歌單（同一部作品不限首數）=====
+# 同名作品標題會自動合併到前面檔案裡的同一部作品。
+# 演唱寫 ? 代表不確定（揭曉時就不顯示歌手）。
+
+# ---------- 擴充既有作品 ----------
+
+# 刀劍神域（ソードアート・オンライン） | 2012
+OP | Ignite | Eir Aoi | t=イグナイト
+ED | 夢世界 | 戸松遥 | t=Yume Sekai
+ED | 証 | LiSA | t=Shirushi/Akashi
+OP | Resolution | Haruna Luna | t=レゾリューション d=2
+
+# Fate 系列（Fate/Zero・Fate/stay night） | 2011
+OP | ideal white | 綾野ましろ d=2
+ED | MEMORIA | 藤田淳平 d=2
+INSERT | 花の唄 | Aimer | t=Hana no Uta d=2
+
+# 進擊的巨人（進撃の巨人） | 2013
+OP | 憧憬と屍の道 | Linked Horizon | l=Revo c=Revo
+ED | 夕暮れの鳥 | 神聖かまってちゃん | t=Yuugure no Tori d=2
+ED | Under the Tree | SiM d=2
+ED | Name of Love | Cinema Staff d=2
+INSERT | Call your name | Hiroyuki Sawano mpi Cyua | q=Call your name Attack on Titan Sawano d=2
+
+# JOJO的奇妙冒險（ジョジョの奇妙な冒険） | 2012
+OP | Crazy Noisy Bizarre Town | 田村直美 | t=クレイジー・ノイジー・バザール d=2
+OP | Great Days | 長谷川大介 | t=グレートデイズ d=2
+OP | Fighting Gold | Coda d=2
+
+# 物語系列（化物語） | 2009
+ED | 君の知らない物語 | supercell
+OP | staple stable | 花澤香菜 d=2
+
+# 心理測量者（PSYCHO-PASS サイコパス） | 2012
+ED | 名前のない怪物 | EGOIST | t=Namae no nai Kaibutsu
+ED | All Alone With You | EGOIST d=2
+
+# 罪惡王冠（ギルティクラウン） | 2011
+ED | Euterpe | EGOIST d=2
+
+# 野良神（ノラガミ） | 2014
+ED | Heart Realize | Tia d=2
+
+# 黑色五葉草（ブラッククローバー） | 2017
+OP | Black Catcher | Vickeblanka
+
+# 我的英雄學院（僕のヒーローアカデミア） | 2016
+OP | ヒーロー | Brian the Sun | t=Heroes d=2
+OP | 空に歌えば | SUPER BEAVER | t=Sora ni Utaeba d=2
+
+# 為美好世界獻上祝福（この素晴らしい世界に祝福を!） | 2016
+OP | TOMORROW | Machico d=2
+
+# 戀愛 Lovelive!（ラブライブ!） | 2013
+OP | ユメノトビラ | μ's | d=2
+OP | Sunny Day Song | μ's d=2
+OP | No brand girls | μ's d=2
+OP | MIRAI TICKET | Aqours d=2
+OP | 恋になりたいAQUARIUM | Aqours d=2
+
+# BEASTARS（BEASTARS） | 2019
+ED | 怪物 | YOASOBI
+
+# Angel Beats!（Angel Beats!） | 2010
+INSERT | Brave Song | 多田葵 d=2
+INSERT | Crow Song | Girls Dead Monster d=2
+INSERT | Little Braver | Girls Dead Monster d=2
+
+# 吹響吧!上低音號（響け!ユーフォニアム） | 2015
+ED | トゥッティ! | 北宇治高校吹奏楽部 | t=Tutti! d=2
+
+# 孤獨搖滾!（ぼっち・ざ・ろっく!） | 2022
+ED | Distortion!! | 結束バンド d=2
+INSERT | ロックン・ロール・モーニング・ライト・フォールズ・オン・ユー | 結束バンド | t=Rockn' Roll, Morning Light Falls on You d=2
+
+# 鏈鋸人（チェンソーマン） | 2022
+ED | 刃渡り2億センチ | Maximum the Hormone | q=刃渡り2億センチ チェンソーマン d=2
+ED | 渇きを錆びて | Minami | t=Kawaki wo Ameku d=2
+
+# 膽大黨（ダンダダン） | 2024
+OP | TAIDADA | ZUTOMAYO d=2
+
+# 間諜家家酒（SPY×FAMILY） | 2022
+ED | Souvenir | BUMP OF CHICKEN d=2
+
+# 咒術迴戰（呪術廻戦） | 2020
+ED | give it back | Cö shu Nie d=2
+ED | Where Our Blue Is | キタニタツヤ d=2
+
+# 火影忍者（NARUTO） | 2002
+OP | Sign | FLOW
+OP | Diver | NICO Touches the Walls d=2
+OP | Newsong | tacica d=2
+OP | Lovers | 7!! d=2
+OP | ホタルノヒカリ | いきものがかり | t=Hotaru no Hikari d=2
+OP | Closer | Joe Inoue d=2
+ED | Wind | akeboshi
+OST | Girei | 増田順一 | q=Girei Naruto OST Toshio Masuda d=2
+
+# 海賊王（ONE PIECE） | 1999
+OP | Wake up! | AAA d=2
+OP | Hard Knock Days | GENERATIONS from EXILE TRIBE d=2
+OP | Hikari e | The Babystars | t=光へ d=2
+OP | Hope | 安室奈美恵 d=2
+OP | Over the Top | 北谷洋 | q=Over the Top ONE PIECE 北谷洋 d=2
+OP | Fight Together | 安室奈美恵 d=2
+OP | メモリーズ | 大槻マキ | t=Memories d=2
+
+# 七龍珠（ドラゴンボール） | 1986
+OP | 超絶☆ダイナミック! | 吉井和哉 | t=Chozetsu Dynamic d=2
+
+# 死神（BLEACH） | 2004
+OST | Number One | 鷺巣詩郎 | q=BLEACH OST Number One 鷺巣詩郎 d=2
+
+# 魔法少女小圓（魔法少女まどか☆マギカ） | 2011
+ED | Sis puella magica! | Kalafina d=2
+
+# CLANNAD（CLANNAD -クラナド-） | 2007
+OP | Toki wo Kizamu Uta | Lia | t=時を刻む唄 d=2
+
+# ---------- 新增作品 ----------
+
+# 中二病也要談戀愛!（中二病でも恋がしたい!） | 2012
+OP | Sparkling Daydream | ZAQ
+
+# 少女與戰車（ガールズ&パンツァー） | 2012
+OP | DreamRiser | ChouCho d=2
+
+# 記錄的地平線（ログ・ホライズン） | 2013
+OP | database | MAN WITH A MISSION feat. TAKUMA | t=ログ・ホライズン d=2
+
+# KILL la KILL（キルラキル） | 2013
+OP | Before my body is dry | 澤野弘之 mizuki | t=Kill la Kill
+ED | ambiguous | GARNiDELiA d=2
+
+# 境界的彼方（境界の彼方） | 2013
+OP | 境界の彼方 | 茅原実里 d=2
+
+# 偽戀（ニセコイ） | 2014
+OP | CLICK | ClariS
+OP | Rally Go Round | LiSA d=2
+
+# 請問您今天要來點兔子嗎？（ご注文はうさぎですか?） | 2014
+OP | Daydream café | Petit Rabbit's
+
+# 魔法科高中的劣等生（魔法科高校の劣等生） | 2014
+OP | Rising Hope | LiSA
+
+# Aldnoah.Zero（アルドノア・ゼロ） | 2014
+OP | aLIEz | SawanoHiroyuki[nZk]:mizuki d=2
+ED | heavenly blue | Kalafina d=2
+
+# SHIROBAKO（SHIROBAKO） | 2014
+OP | COLORFUL BOX | ZAQ d=2
+
+# 阿松（おそ松さん） | 2015
+OP | 全力バタンキュー | A応P d=2
+ED | はなまるぴっぴはよいこだけ | A応P d=2
+
+# Charlotte（Charlotte） | 2015
+OP | Bravely You | Lia d=2
+
+# 偶像大師 灰姑娘女孩（アイドルマスター シンデレラガールズ） | 2015
+OP | Star!! | CINDERELLA PROJECT d=2
+OP | M@GIC☆ | CINDERELLA PROJECT d=2
+OP | お願い!シンデレラ | CINDERELLA PROJECT d=2
+
+# 龍珠超（ドラゴンボール超） | 2015
+OP | 限界突破×サバイバー | 氷川きよし d=2
+
+# 只有我不存在的城市（僕だけがいない街） | 2016
+OP | Re:Re: | ASIAN KUNG-FU GENERATION d=2
+ED | それは小さな光のような | さユり | t=Sore wa Chiisana Hikari no You na d=2
+
+# 三月的獅子（3月のライオン） | 2016
+OP | Answer | BUMP OF CHICKEN d=2
+
+# NEW GAME!（NEW GAME!） | 2016
+OP | Sakura Skip | fourfolium d=2
+
+# Re:CREATORS（Re:CREATORS） | 2017
+OP | gravityWall | SawanoHiroyuki[nZk]:Tielle d=2
+
+# 動物朋友（けものフレンズ） | 2017
+OP | ようこそジャパリパークへ | どうぶつビスケッツ×PPP
+
+# 幼女戰記（幼女戦記） | 2017
+OP | Los! Los! Los! | 。MYTH & ROID d=2
+
+# 轉生史萊姆（転生したらスライムだった件） | 2018
+OP | Nameless Story | ? | q=転生したらスライムだった件 OP Nameless Story d=2
+
+# 搖曳露營△（ゆるキャン△） | 2018
+OP | SHINY DAYS | 亜咲花
+
+# SSSS.GRIDMAN（SSSS.GRIDMAN） | 2018
+OP | UNION | OxT d=2
+
+# DARLING in the FRANXX（ダーリン・イン・ザ・フランキス） | 2018
+OP | KISS OF DEATH | 中島美嘉 HYDE d=2
+ED | Torikago | XX:me d=2
+
+# BANANA FISH（BANANA FISH） | 2018
+OP | FREEDOM | Survive Said The Prophet d=2
+ED | Prayer X | King Gnu d=2
+
+# 工作細胞（はたらく細胞） | 2018
+OP | Dance in the Game | 坂本真綾 d=2
+
+# 水果籃子（フルーツバスケット） | 2019
+OP | Again | Beverly d=2
+
+# 盾之勇者成名錄（盾の勇者の成り上がり） | 2019
+OP | Faith | MADKID d=2
+
+# 冰海戰記（ヴィンランド・サガ） | 2019
+OP | MUKANJYO | Survive Said The Prophet d=2
+ED | Torches | Aimer d=2
+
+# 無職轉生（無職転生 ~異世界行ったら本気だす~） | 2021
+OP | 旅の途中 | Rude-α | t=Tabi no Tochuu d=2
+
+# 夜遊（よふかしのうた） | 2022
+OP | よふかしのうた | Creepy Nuts d=2
+
+# 莉可麗絲（リコリス・リコイル） | 2022
+ED | 花の塔 | さユり | t=Hana no Tou d=2
+
+# 怪獸8號（怪獣8号） | 2024
+OP | Abyss | YUNGBLUD d=2

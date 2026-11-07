@@ -42,13 +42,27 @@ export class ClipPlayer {
           modestbranding: 1, iv_load_policy: 3, origin: location.origin,
         },
         events: {
-          onReady: () => { this.ready = true; resolve(); },
+          onReady: () => {
+            this.ready = true;
+            if (this.volume != null) this.setVolume(this.volume);
+            resolve();
+          },
           onStateChange: (e) => this._onState(e.data),
           onError: (e) => this._onError(e.data),
         },
       });
     });
     this.timer = setInterval(() => this._tick(), 150);
+  }
+
+  /** 音量 0~100（同時記住，換題後仍套用） */
+  setVolume(v) {
+    this.volume = Math.max(0, Math.min(100, Math.round(v)));
+    if (!this.ready) return;
+    try {
+      this.yt.setVolume(this.volume);
+      if (this.volume === 0) this.yt.mute(); else this.yt.unMute();
+    } catch { /* ignore */ }
   }
 
   /** @param {{ytId:string,start:number,duration:number}} clip duration=0 表示不限 */
@@ -101,6 +115,7 @@ export class ClipPlayer {
   _onState(s) {
     if (s === YT.PlayerState.PLAYING) {
       clearTimeout(this.stuckTimer);
+      if (this.volume != null) this.setVolume(this.volume);
       this.h.onPlaying && this.h.onPlaying();
     }
   }

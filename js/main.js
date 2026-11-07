@@ -6,6 +6,31 @@ const $ = (id) => document.getElementById(id);
 let bank = {};
 let game = null;
 
+// ===== 音量（記在 localStorage，兩個滑桿同步）=====
+const VOL_KEY = 'songguesser-volume';
+let volume = 80;
+let lastNonZero = 80;
+try {
+  const v = Number(localStorage.getItem(VOL_KEY));
+  if (localStorage.getItem(VOL_KEY) !== null && v >= 0 && v <= 100) volume = v;
+} catch { /* ignore */ }
+if (volume > 0) lastNonZero = volume;
+
+function setVolume(v, save = true) {
+  volume = Math.max(0, Math.min(100, Math.round(v)));
+  if (volume > 0) lastNonZero = volume;
+  for (const id of ['vol-setup', 'vol-game']) {
+    $(id).value = volume;
+    $(id + '-out').textContent = volume === 0 ? '靜音' : volume;
+  }
+  if (game) game.player.setVolume(volume);
+  if (save) { try { localStorage.setItem(VOL_KEY, String(volume)); } catch { /* ignore */ } }
+}
+for (const id of ['vol-setup', 'vol-game']) {
+  $(id).addEventListener('input', (e) => setVolume(Number(e.target.value)));
+}
+setVolume(volume, false);
+
 function selectedCategories() {
   return [...document.querySelectorAll('#categories input:checked')].map((i) => i.value);
 }
@@ -59,7 +84,7 @@ async function startGame() {
     return;
   }
   ui.showScreen('game');
-  if (!game) game = new Game();
+  if (!game) game = new Game(volume);
   await game.start(queue, count, Number($('opt-duration').value));
 }
 
@@ -79,8 +104,16 @@ document.addEventListener('click', (e) => {
 
 document.addEventListener('keydown', (e) => {
   if (!$('screen-game').classList.contains('active') || !game) return;
-  if (e.target.tagName === 'SELECT' || e.target.tagName === 'INPUT') return;
-  if (e.code === 'Space') { e.preventDefault(); game.press(); }
+  if (e.target.tagName === 'SELECT') return;
+  if (e.target.tagName === 'INPUT') {
+    // 音量滑桿聚焦時，空白鍵／方向鍵仍照常運作（方向鍵由下方統一處理）
+    if (e.target.type !== 'range') return;
+    e.target.blur();
+  }
+  if (e.code === 'ArrowUp') { e.preventDefault(); setVolume(volume + 5); }
+  else if (e.code === 'ArrowDown') { e.preventDefault(); setVolume(volume - 5); }
+  else if (e.code === 'KeyM') setVolume(volume === 0 ? lastNonZero : 0);
+  else if (e.code === 'Space') { e.preventDefault(); game.press(); }
   else if (e.code === 'KeyR') game.replay();
   else if (e.code === 'KeyX') game.flagCurrent();
   else if (e.code === 'ArrowRight') game.skip();

@@ -21,8 +21,8 @@ export function norm(s) {
 const KINDS = ['OP', 'ED', 'INSERT', 'OST'];
 
 /** 解析 data/seeds/*.txt → [{ work, zh, ja, year, workId, songs:[...] }] */
-export function parseSeeds() {
-  const files = readdirSync(SEED_DIR).filter((f) => f.endsWith('.txt')).sort();
+export function parseSeeds({ exclude = [] } = {}) {
+  const files = readdirSync(SEED_DIR).filter((f) => f.endsWith('.txt') && !exclude.includes(f)).sort();
   const works = [];
   const seenWork = new Map();
   let cur = null;

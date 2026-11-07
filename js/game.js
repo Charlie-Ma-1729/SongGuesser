@@ -4,7 +4,7 @@ import * as ui from './ui.js';
 import { flagBad } from './questions.js';
 
 export class Game {
-  constructor() {
+  constructor(initialVolume) {
     this.state = 'idle'; // idle | loading | playing | ended | revealed | over
     this.queue = [];
     this.current = null;
@@ -17,6 +17,7 @@ export class Game {
       onError: (code) => this._onError(code),
       onStuck: () => this._onStuck(),
     });
+    if (initialVolume != null) this.player.volume = initialVolume;
     this.ready = this.player.init();
   }
 
