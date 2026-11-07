@@ -288,7 +288,7 @@
  "神奇寶貝（ポケットモンスター）|OP|XY&Z": {
   "fail": true,
   "tried": [],
-  "resolvedAt": "2026-11-06"
+  "resolvedAt": "2026-11-07"
  },
  "數碼寶貝（デジモンアドベンチャー）|OP|The Biggest Dreamer": {
   "ytId": "C7-DM_c-2Hc",
@@ -449,7 +449,7 @@
  "火影忍者（NARUTO）|OST|NARUTO メインテーマ": {
   "fail": true,
   "tried": [],
-  "resolvedAt": "2026-11-06"
+  "resolvedAt": "2026-11-07"
  },
  "死神（BLEACH）|OP|Rolling star": {
   "ytId": "KF0aWY-Bs_s",
@@ -3374,9 +3374,17 @@
   "resolvedAt": "2026-11-06"
  },
  "孤獨搖滾!（ぼっち・ざ・ろっく!）|INSERT|あのバンド": {
-  "fail": true,
-  "tried": [],
-  "resolvedAt": "2026-11-06"
+  "ytId": "GKWoHo9WKc4",
+  "videoTitle": "あのバンド / 結束バンド 【中日歌詞】【歌詞付き】",
+  "channel": "萬吐水佛下音樂",
+  "length": 239,
+  "start": 48,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 14.7,
+  "official": false,
+  "resolvedAt": "2026-11-07"
  },
  "葬送的芙莉蓮（葬送のフリーレン）|OP|勇者": {
   "ytId": "OIBODIPC_8Y",
@@ -3550,7 +3558,7 @@
  "國王排名（王様ランキング）|OP|裸の勇者": {
   "fail": true,
   "tried": [],
-  "resolvedAt": "2026-11-06"
+  "resolvedAt": "2026-11-07"
  },
  "四月是你的謊言（四月は君の嘘）|OP|光るなら": {
   "ytId": "SnXkhkEvNIM",
@@ -4230,7 +4238,16 @@
  },
  "吹響吧!上低音號（響け!ユーフォニアム）|ED|トゥッティ!": {
   "fail": true,
-  "tried": [],
+  "tried": [
+   {
+    "q": "トゥッティ! 北宇治高校吹奏楽部",
+    "error": "fetch failed"
+   },
+   {
+    "q": "トゥッティ! 響け!ユーフォニアム ED",
+    "error": "fetch failed"
+   }
+  ],
   "resolvedAt": "2026-11-07"
  },
  "刀劍神域（ソードアート・オンライン）|ED|証": {
@@ -4286,8 +4303,16 @@
   "resolvedAt": "2026-11-07"
  },
  "刀劍神域（ソードアート・オンライン）|OP|Resolution": {
-  "fail": true,
-  "tried": [],
+  "ytId": "Q3RTToLuTO4",
+  "videoTitle": "Resolution",
+  "channel": "Sony Music (Japan)",
+  "length": 328,
+  "start": 66,
+  "startSource": "heuristic",
+  "audioFirst": false,
+  "review": true,
+  "score": 11.5,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "進擊的巨人（進撃の巨人）|OP|憧憬と屍の道": {
@@ -4726,12 +4751,7 @@
  },
  "鏈鋸人（チェンソーマン）|ED|渇きを錆びて": {
   "fail": true,
-  "tried": [
-   {
-    "q": "渇きを錆びて チェンソーマン ED",
-    "error": "fetch failed"
-   }
-  ],
+  "tried": [],
   "resolvedAt": "2026-11-07"
  },
  "記錄的地平線（ログ・ホライズン）|OP|database": {
@@ -4933,7 +4953,7 @@
   "fail": true,
   "tried": [
    {
-    "q": "はなまるぴっぴはよいこだけ A応P",
+    "q": "はなまるぴっぴはよいこだけ おそ松さん ED",
     "error": "fetch failed"
    }
   ],
@@ -7079,17 +7099,16 @@
   "resolvedAt": "2026-11-07"
  },
  "路人超能100（モブサイコ100）|ED|Exist": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "Exist MOB CHOIR",
-    "error": "fetch failed"
-   },
-   {
-    "q": "Exist モブサイコ100 ED",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "UvnI1Sk5w2w",
+  "videoTitle": "Exist",
+  "channel": "MOB CHOIR - Topic",
+  "length": 231,
+  "start": 47,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 26.7,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "黑色五葉草（ブラッククローバー）|OP|永遠に光れ": {
@@ -7210,13 +7229,16 @@
   "resolvedAt": "2026-11-07"
  },
  "黑色五葉草（ブラッククローバー）|ED|天上天下": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "天上天下 ブラッククローバー ED",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "hIrTr4iqf0A",
+  "videoTitle": "みゆな/天上天下 (テレビアニメ「ブラッククローバー」ED映像 ver. )",
+  "channel": "みゆな Official Channel",
+  "length": 116,
+  "start": 54,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 27.3,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "死亡遊行（デス・パレード）|ED|Last Theater": {
@@ -7506,13 +7528,16 @@
   "resolvedAt": "2026-11-07"
  },
  "輝夜姬想讓人告白（かぐや様は告らせたい）|ED|ハートはお手上げ": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "ハートはお手上げ かぐや様は告らせたい ED",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "Qrhy5-cxGsE",
+  "videoTitle": "Kaguya-sama: Love Is War Season 3 [ED Full]『Heart wa Oteage / ハートはお手上げ』Airi Suzuki【Lyrics】",
+  "channel": "親親2o音樂LîvË【Anime Music】",
+  "length": 261,
+  "start": 52,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.2,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "鬼滅之刃（鬼滅の刃）|ED|朝が来る": {
@@ -8101,17 +8126,16 @@
   "resolvedAt": "2026-11-07"
  },
  "KILL la KILL（キルラキル）|ED|ごめんね、いいコじゃいられない。": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "ごめんね、いいコじゃいられない。 Miku Sawai",
-    "error": "fetch failed"
-   },
-   {
-    "q": "ごめんね、いいコじゃいられない。 キルラキル ED",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "7VAoZXwDSpw",
+  "videoTitle": "Gomenne, Iikoja Irarenai",
+  "channel": "Miku Sawai - Topic",
+  "length": 284,
+  "start": 72,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 26.4,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "魔法科高中的劣等生（魔法科高校の劣等生）|ED|Mirror": {
@@ -9195,7 +9219,12 @@
  },
  "果然我的青春戀愛喜劇搞錯了。（やはり俺の青春ラブコメはまちがっている。）|ED|エブリデイワールド -Ballade Arrange-Yukino Solo Ver.": {
   "fail": true,
-  "tried": [],
+  "tried": [
+   {
+    "q": "エブリデイワールド -Ballade Arrange-Yukino Solo Ver. Yukino Yukinoshita (Saori Hayami)",
+    "error": "fetch failed"
+   }
+  ],
   "resolvedAt": "2026-11-07"
  },
  "果然我的青春戀愛喜劇搞錯了。（やはり俺の青春ラブコメはまちがっている。）|ED|エブリデイワールド -Ballade Arrange-Yui Solo Ver.": {
@@ -9309,12 +9338,7 @@
  },
  "High School DxD（ハイスクールD×D）|OP|激情論": {
   "fail": true,
-  "tried": [
-   {
-    "q": "激情論 ZAQ",
-    "error": "fetch failed"
-   }
-  ],
+  "tried": [],
   "resolvedAt": "2026-11-07"
  },
  "終結的熾天使（終わりのセラフ）|OP|X.U.": {
@@ -9583,13 +9607,16 @@
   "resolvedAt": "2026-11-07"
  },
  "The Disastrous Life of Saiki K.（斉木楠雄のΨ難）|ED|こころ": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "こころ 斉木楠雄のΨ難 ED",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "gxBVdUty1UQ",
+  "videoTitle": "花江夏樹 / こころ(TVアニメ「斉木楠雄のΨ難」第2クール エンディングテーマ)",
+  "channel": "日本コロムビア 公式YouTubeチャンネル",
+  "length": 180,
+  "start": 120,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.5,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "Goblin Slayer（ゴブリンスレイヤー）|ED|Though Our Paths May Diverge": {
@@ -12889,13 +12916,16 @@
   "resolvedAt": "2026-11-07"
  },
  "靈魂食者（ソウルイーター）|ED|Bakusou Yumeuta": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "Bakusou Yumeuta ソウルイーター ED",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "JaoduykWM_4",
+  "videoTitle": "Bakusou Yumeuta",
+  "channel": "Diggy-MO' - Topic",
+  "length": 238,
+  "start": 177,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 26.5,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "靈魂食者（ソウルイーター）|ED|Strength": {
@@ -13637,13 +13667,16 @@
   "resolvedAt": "2026-11-07"
  },
  "紫羅蘭永恆花園（ヴァイオレット・エヴァーガーデン）|ED|Amy": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "Amy ヴァイオレット・エヴァーガーデン ED",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "0ymdE_EWojw",
+  "videoTitle": "VIOLET EVERGARDEN: ETERNITY AND THE AUTO MEMORY DOLL - Ending / Movie ED  『Amy - Minori Chihara』",
+  "channel": "Bikay Nguyen",
+  "length": 309,
+  "start": 62,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 15.1,
+  "official": false,
   "resolvedAt": "2026-11-07"
  },
  "青春豬頭少年不會夢到兔女郎學姊（青春ブタ野郎はバニーガール先輩の夢を見ない）|ED|不可思議のカルテ": {
@@ -13728,7 +13761,12 @@
  },
  "青春豬頭少年不會夢到兔女郎學姊（青春ブタ野郎はバニーガール先輩の夢を見ない）|INSERT|オトメノート": {
   "fail": true,
-  "tried": [],
+  "tried": [
+   {
+    "q": "オトメノート 青春ブタ野郎はバニーガール先輩の夢を見ない INSERT",
+    "error": "fetch failed"
+   }
+  ],
   "resolvedAt": "2026-11-07"
  },
  "為美好世界獻上祝福（この素晴らしい世界に祝福を!）|OP|Growing Up": {
@@ -13850,12 +13888,7 @@
  },
  "小林家的龍女僕（小林さんちのメイドラゴン）|ED|めいど・うぃず・どらごんず︎❤︎": {
   "fail": true,
-  "tried": [
-   {
-    "q": "めいど・うぃず・どらごんず︎❤︎ Super Chorogonzu (スーパーちょろゴンず)",
-    "error": "fetch failed"
-   }
-  ],
+  "tried": [],
   "resolvedAt": "2026-11-07"
  },
  "我的英雄學院（僕のヒーローアカデミア）|INSERT|フラワーズ": {
@@ -14458,7 +14491,12 @@
  },
  "炎炎消防隊（炎炎ノ消防隊）|OP|Ignis -イグニス-": {
   "fail": true,
-  "tried": [],
+  "tried": [
+   {
+    "q": "Ignis -イグニス- 炎炎ノ消防隊 OP",
+    "error": "fetch failed"
+   }
+  ],
   "resolvedAt": "2026-11-07"
  },
  "炎炎消防隊（炎炎ノ消防隊）|ED|Speak of the Devil": {
@@ -15743,24 +15781,23 @@
   "fail": true,
   "tried": [
    {
-    "q": "葉っぱの手紙 ゆるキャン△ ED",
+    "q": "葉っぱの手紙 佐々木恵梨",
     "error": "fetch failed"
    }
   ],
   "resolvedAt": "2026-11-07"
  },
  "搖曳露營△（ゆるキャン△）|ED|So Precious": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "So Precious 亜咲花",
-    "error": "fetch failed"
-   },
-   {
-    "q": "So Precious ゆるキャン△ ED",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "AA-ZMEyje38",
+  "videoTitle": "亜咲花「So Precious」Music Video Full ver. (TVアニメ『ゆるキャン△ SEASON３』エンディングテーマ)",
+  "channel": "亜咲花公式チャンネル",
+  "length": 206,
+  "start": 51,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 27.4,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "工作細胞（はたらく細胞）|ED|CheerS": {
@@ -16141,13 +16178,16 @@
   "resolvedAt": "2026-11-07"
  },
  "青之驅魔師（青の祓魔師）|ED|Wired Life": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "Wired Life 青の祓魔師 ED",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "mLOjfP1BdVQ",
+  "videoTitle": "Wired Life",
+  "channel": "Meisa Kuroki - Topic",
+  "length": 281,
+  "start": 60,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 26.4,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "Food Wars! Shokugeki no Soma（食戟のソーマ）|ED|エンブレム": {
@@ -16282,12 +16322,7 @@
  },
  "Kakegurui（賭ケグルイ）|OP|ソノ乙女ム双": {
   "fail": true,
-  "tried": [
-   {
-    "q": "ソノ乙女ム双 賭ケグルイ OP",
-    "error": "fetch failed"
-   }
-  ],
+  "tried": [],
   "resolvedAt": "2026-11-07"
  },
  "Kakegurui（賭ケグルイ）|ED|Queens Bluff": {
@@ -16879,12 +16914,7 @@
  },
  "Fate/stay night（Fate/stay night）|ED|Fukaki Nemuri (深き眠り) UBW Extended\" composed": {
   "fail": true,
-  "tried": [
-   {
-    "q": "Fukaki Nemuri (深き眠り) UBW Extended\" composed Fate/stay night ED",
-    "error": "fetch failed"
-   }
-  ],
+  "tried": [],
   "resolvedAt": "2026-11-07"
  },
  "出租女友（彼女、お借りします）|INSERT|君を通して": {
@@ -24451,12 +24481,7 @@
  },
  "吹響吧!上低音號（響け!ユーフォニアム）|ED|ヴィヴァーチェ!": {
   "fail": true,
-  "tried": [
-   {
-    "q": "ヴィヴァーチェ! 北宇治カルテット",
-    "error": "fetch failed"
-   }
-  ],
+  "tried": [],
   "resolvedAt": "2026-11-07"
  },
  "一拳超人（ワンパンマン）|ED|星より先に見つけてあげる": {
@@ -24596,7 +24621,12 @@
  },
  "小林家的龍女僕（小林さんちのメイドラゴン）|ED|イシュカン♡リレーションシップ": {
   "fail": true,
-  "tried": [],
+  "tried": [
+   {
+    "q": "イシュカン♡リレーションシップ トール",
+    "error": "fetch failed"
+   }
+  ],
   "resolvedAt": "2026-11-07"
  },
  "小林家的龍女僕（小林さんちのメイドラゴン）|ED|僕たちの日々": {
@@ -24995,13 +25025,16 @@
   "resolvedAt": "2026-11-07"
  },
  "阿松（おそ松さん）|INSERT|ちゃんとした合体のテーマ": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "ちゃんとした合体のテーマ おそ松さん INSERT",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "udzQ9moiLDY",
+  "videoTitle": "[わ] 【おそ松さん】ちゃんとした合体のテーマ オフボ＆歌詞あり",
+  "channel": "ワーニんぐ",
+  "length": 96,
+  "start": 12,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 5,
+  "official": false,
   "resolvedAt": "2026-11-07"
  },
  "NEW GAME!（NEW GAME!）|OP|SAKURAスキップ": {
@@ -25031,8 +25064,16 @@
   "resolvedAt": "2026-11-07"
  },
  "阿松（おそ松さん）|INSERT|Great Victory ～大いなる勝利～": {
-  "fail": true,
-  "tried": [],
+  "ytId": "O3b9TO610Fw",
+  "videoTitle": "Great Victory! (Boss Battle Win BGM)",
+  "channel": "SNK SOUND TEAM - Topic",
+  "length": 55,
+  "start": 12,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 15.5,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "NEW GAME!（NEW GAME!）|ED|Now Loading!!!!": {
@@ -25376,17 +25417,16 @@
   "resolvedAt": "2026-11-07"
  },
  "Is It Wrong to Try to Pick Up Girls in a Dungeon?（ダンジョンに出会いを求めるのは間違っているだろうか）|OP|少年": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "少年 GRe4N BOYZ",
-    "error": "fetch failed"
-   },
-   {
-    "q": "少年 ダンジョンに出会いを求めるのは間違っているだろうか OP",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "LwYG_kKzGv8",
+  "videoTitle": "GRe4N BOYZ / 少年　アニメ「ダンまちV」OP主題歌",
+  "channel": "GRe4N BOYZ",
+  "length": 236,
+  "start": 178,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 17.7,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "Is It Wrong to Try to Pick Up Girls in a Dungeon?（ダンジョンに出会いを求めるのは間違っているだろうか）|ED|ハイドレート": {
@@ -25510,12 +25550,7 @@
  },
  "My Dress-Up Darling（その着せ替え人形は恋をする）|INSERT|君に伝えたいことがあるんだ": {
   "fail": true,
-  "tried": [
-   {
-    "q": "君に伝えたいことがあるんだ その着せ替え人形は恋をする INSERT",
-    "error": "fetch failed"
-   }
-  ],
+  "tried": [],
   "resolvedAt": "2026-11-07"
  },
  "阿宅的戀愛太難（ヲタクに恋は難しい）|OP|フィクション": {
@@ -25545,8 +25580,16 @@
   "resolvedAt": "2026-11-07"
  },
  "My Dress-Up Darling（その着せ替え人形は恋をする）|INSERT|ロックンロールは鳴り止まないっ": {
-  "fail": true,
-  "tried": [],
+  "ytId": "WrG0QYKTmeQ",
+  "videoTitle": "神聖かまってちゃん「ロックンロールは鳴り止まないっ」 at 恵比寿LIQUIDROOM /  20251227 Net Generation'25",
+  "channel": "かまってチャンネル【公式】",
+  "length": 392,
+  "start": 75,
+  "startSource": "heuristic",
+  "audioFirst": false,
+  "review": true,
+  "score": 10.1,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "阿宅的戀愛太難（ヲタクに恋は難しい）|ED|Love or Respect": {
@@ -27207,8 +27250,16 @@
   "resolvedAt": "2026-11-07"
  },
  "日常（日常）|ED|怪獣のバラード": {
-  "fail": true,
-  "tried": [],
+  "ytId": "YJVzBrUAbHo",
+  "videoTitle": "童謡こどもの歌コンクール／怪獣のバラード／第37回（2022）こども部門／二次審査収録会",
+  "channel": "童謡こどもの歌コンクール【公式】",
+  "length": 90,
+  "start": 12,
+  "startSource": "heuristic",
+  "audioFirst": false,
+  "review": true,
+  "score": 11,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "日常（日常）|ED|グリーングリーン": {
@@ -27283,12 +27334,7 @@
  },
  "日常（日常）|ED|あの素晴らしい愛をもう一度": {
   "fail": true,
-  "tried": [
-   {
-    "q": "あの素晴らしい愛をもう一度 日常 ED",
-    "error": "fetch failed"
-   }
-  ],
+  "tried": [],
   "resolvedAt": "2026-11-07"
  },
  "反叛的魯路修（コードギアス 反逆のルルーシュ）|ED|勇侠青春謳": {
@@ -28030,7 +28076,7 @@
   "fail": true,
   "tried": [
    {
-    "q": "大切の作り方 Chitoge Kirisaki (Nao Touyama), Kosaki Onodera (Kana Hanazawa)",
+    "q": "大切の作り方 ニセコイ ED",
     "error": "fetch failed"
    }
   ],
@@ -28095,7 +28141,12 @@
  },
  "偽戀（ニセコイ）|ED|Sleep zzz...": {
   "fail": true,
-  "tried": [],
+  "tried": [
+   {
+    "q": "Sleep zzz... ニセコイ ED",
+    "error": "fetch failed"
+   }
+  ],
   "resolvedAt": "2026-11-07"
  },
  "Charlotte（Charlotte）|ED|灼け落ちない翼": {
@@ -28278,13 +28329,16 @@
   "resolvedAt": "2026-11-07"
  },
  "無職轉生（無職転生 ~異世界行ったら本気だす~）|OP|祈りの唄": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "祈りの唄 無職転生 ~異世界行ったら本気だす~ OP",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "RIkDbB3De_8",
+  "videoTitle": "祈りの唄",
+  "channel": "Yuiko Ohara - Topic",
+  "length": 269,
+  "start": 185,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 21.5,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "死亡筆記本（デスノート）|ED|Zetsubō Billy": {
@@ -28327,13 +28381,16 @@
   "resolvedAt": "2026-11-07"
  },
  "無職轉生（無職転生 ~異世界行ったら本気だす~）|OP|旅人の唄~帰郷~": {
-  "fail": true,
-  "tried": [
-   {
-    "q": "旅人の唄~帰郷~ 無職転生 ~異世界行ったら本気だす~ OP",
-    "error": "fetch failed"
-   }
-  ],
+  "ytId": "hZ6TnKvB2rc",
+  "videoTitle": "旅人の唄",
+  "channel": "Yuiko Ohara - Topic",
+  "length": 264,
+  "start": 223,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 21.8,
+  "official": true,
   "resolvedAt": "2026-11-07"
  },
  "青之驅魔師（青の祓魔師）|ED|一滴の影響": {
@@ -28533,7 +28590,12 @@
  },
  "High School DxD（ハイスクールD×D）|ED|らぶりぃ♥でびる": {
   "fail": true,
-  "tried": [],
+  "tried": [
+   {
+    "q": "らぶりぃ♥でびる ハイスクールD×D ED",
+    "error": "fetch failed"
+   }
+  ],
   "resolvedAt": "2026-11-07"
  },
  "CLANNAD（CLANNAD）|ED|小さなてのひら": {
@@ -32454,7 +32516,16 @@
  },
  "銀魂（銀魂）|OP|R1: \"Bakuchi Dancer (バクチ・ダンサー)\" by DOES (eps 1-9) R2: \"Kaze no Gotoku (風のごとく)\" by Inoue Joe (eps 10-26) R3: \"Kanousei Girl (可能性ガール)\" by Chiaki Kuriyama (eps 27-39) R4: \"Katoniago (カートニアゴ )\" by FLiP (eps 40-51) \"Pray": {
   "fail": true,
-  "tried": [],
+  "tried": [
+   {
+    "q": "R1: \"Bakuchi Dancer (バクチ・ダンサー)\" by DOES (eps 1-9) R2: \"Kaze no Gotoku (風のごとく)\" by Inoue Joe (eps 10-26) R3: \"Kanousei Girl (可能性ガール)\" by Chiaki Kuriyama (eps 27-39) R4: \"Katoniago (カートニアゴ )\" by FLiP (eps 40-51) \"Pray Tommy heavenly6",
+    "error": "fetch failed"
+   },
+   {
+    "q": "R1: \"Bakuchi Dancer (バクチ・ダンサー)\" by DOES (eps 1-9) R2: \"Kaze no Gotoku (風のごとく)\" by Inoue Joe (eps 10-26) R3: \"Kanousei Girl (可能性ガール)\" by Chiaki Kuriyama (eps 27-39) R4: \"Katoniago (カートニアゴ )\" by FLiP (eps 40-51) \"Pray 銀魂 OP",
+    "error": "fetch failed"
+   }
+  ],
   "resolvedAt": "2026-11-07"
  },
  "Dr.STONE 新石紀（Dr.STONE）|ED|好きにしなよ": {
@@ -32472,7 +32543,12 @@
  },
  "銀魂（銀魂）|ED|R1: \"Bokutachi no Kisetsu\" by DOES (eps 1-9) R2: \"Wave\" by Vijandeux (eps 10-26) R3: \"In My Life\" by AZU (eps 27-39) R4: \"Sakurane\" by Piko (eps 40-51) \"Fuusen Gum": {
   "fail": true,
-  "tried": [],
+  "tried": [
+   {
+    "q": "R1: \"Bokutachi no Kisetsu\" by DOES (eps 1-9) R2: \"Wave\" by Vijandeux (eps 10-26) R3: \"In My Life\" by AZU (eps 27-39) R4: \"Sakurane\" by Piko (eps 40-51) \"Fuusen Gum 銀魂 ED",
+    "error": "fetch failed"
+   }
+  ],
   "resolvedAt": "2026-11-07"
  },
  "鬼滅之刃（鬼滅の刃）|ED|永久 -トコシエ-": {
@@ -32765,7 +32841,7 @@
   "fail": true,
   "tried": [
    {
-    "q": "Sakurai Takahiro, Kayano Ai, Kawasumi Ayako, Toyoguchi Megumi (ep 23) \"DAYS of DASH さくら荘のペットな彼女 ED",
+    "q": "Sakurai Takahiro, Kayano Ai, Kawasumi Ayako, Toyoguchi Megumi (ep 23) \"DAYS of DASH Konomi Suzuki",
     "error": "fetch failed"
    }
   ],
@@ -33735,6 +33811,554 @@
   "audioFirst": true,
   "review": false,
   "score": 21.6,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|OP|言わないけどね。": {
+  "ytId": "zORYdnt1XFE",
+  "videoTitle": "TVアニメ『からかい上手の高木さん』ノンクレジットOP「言わないけどね。」／大原ゆい子",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 60,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 21.7,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|OP|ゼロセンチメートル": {
+  "ytId": "tRUdfiUQkx4",
+  "videoTitle": "TVアニメ『からかい上手の高木さん２』ノンクレジットOP「ゼロセンチメートル」／大原ゆい子",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 51,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 21.7,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|OP|まっすぐ": {
+  "ytId": "hlH22hjkkcw",
+  "videoTitle": "大原ゆい子「まっすぐ」ミュージックビデオ／「からかい上手の高木さん３」オープニングテーマ",
+  "channel": "大原ゆい子Official YouTube",
+  "length": 277,
+  "start": 55,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 27.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|OP|はじまりの夏": {
+  "ytId": "xEm1FO-_isY",
+  "videoTitle": "はじまりの夏",
+  "channel": "Yuiko Ohara - Topic",
+  "length": 260,
+  "start": 66,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 21.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|INSERT|君と光": {
+  "ytId": "Udm0ZdnZGs0",
+  "videoTitle": "大原ゆい子「君と光」ミュージックビデオ からかい上手の高木さんver.",
+  "channel": "TOHO animation チャンネル",
+  "length": 306,
+  "start": 228,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 15.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|INSERT|サンタになりたい": {
+  "ytId": "KMSzqa8xP4M",
+  "videoTitle": "サンタになりたい",
+  "channel": "Yuiko Ohara - Topic",
+  "length": 315,
+  "start": 63,
+  "startSource": "heuristic",
+  "audioFirst": false,
+  "review": true,
+  "score": 21.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|INSERT|風見鶏を見つけて": {
+  "ytId": "bE0G9c7fc8Q",
+  "videoTitle": "風見鶏を見つけて",
+  "channel": "Yuiko Ohara - Topic",
+  "length": 308,
+  "start": 251,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 21.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|INSERT|RUNNER": {
+  "fail": true,
+  "tried": [],
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|INSERT|ハマボウの花": {
+  "ytId": "MGO1VzUmI4E",
+  "videoTitle": "ハマボウの花",
+  "channel": "Yuiko Ohara - Topic",
+  "length": 298,
+  "start": 60,
+  "startSource": "heuristic",
+  "audioFirst": false,
+  "review": true,
+  "score": 21.3,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|粉雪": {
+  "ytId": "GJPMqJf6fOo",
+  "videoTitle": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「粉雪」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 60,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|奏（かなで）": {
+  "ytId": "JnfcxDO7Y4A",
+  "videoTitle": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「奏（かなで）」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 54,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|キセキ": {
+  "ytId": "ZhJWZuFZ5oc",
+  "videoTitle": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「キセキ」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 39,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|あなたに": {
+  "ytId": "w6pnvtuwwoI",
+  "videoTitle": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「あなたに」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 22,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|STARS": {
+  "ytId": "_b_BWG6fk08",
+  "videoTitle": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「ＳＴＡＲＳ」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "length": 113,
+  "start": 80,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|ありがとう": {
+  "ytId": "6nbC_2rBy60",
+  "videoTitle": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「ありがとう」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 45,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|やさしい気持ち": {
+  "ytId": "1sQutrB-Aws",
+  "videoTitle": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「やさしい気持ち」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 12,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|夢で逢えたら": {
+  "ytId": "8cQCn63acJ0",
+  "videoTitle": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「夢で逢えたら」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 60,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|Over Drive": {
+  "ytId": "udXPAhWqi08",
+  "videoTitle": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「Over Drive」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 47,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|学園天国": {
+  "ytId": "_F4KfTqrFIs",
+  "videoTitle": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「学園天国」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "length": 93,
+  "start": 12,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 21.6,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|ひまわりの約束": {
+  "ytId": "Whr_aXoCOWo",
+  "videoTitle": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「ひまわりの約束」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "length": 98,
+  "start": 68,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|じょいふる": {
+  "ytId": "kjJInMoZTT8",
+  "videoTitle": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「じょいふる」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 12,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|サンタが町にやってくる": {
+  "ytId": "OQDil8AlN0c",
+  "videoTitle": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「サンタが町にやってくる」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "length": 88,
+  "start": 44,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 21.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|スノーマジックファンタジー": {
+  "ytId": "5Dr9p0lrurg",
+  "videoTitle": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「スノーマジックファンタジー」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "length": 90,
+  "start": 12,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|花": {
+  "ytId": "g9Khq8BZh8U",
+  "videoTitle": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「花」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "length": 112,
+  "start": 82,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 17.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|明日への扉": {
+  "ytId": "d2ZrKv4O_e4",
+  "videoTitle": "からかい上手の高木さん　明日への扉",
+  "channel": "すずめ",
+  "length": 298,
+  "start": 60,
+  "startSource": "heuristic",
+  "audioFirst": false,
+  "review": true,
+  "score": 9.2,
+  "official": false,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|天体観測": {
+  "fail": true,
+  "tried": [],
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|fragile": {
+  "ytId": "WsX1ChfHqgg",
+  "videoTitle": "fragile",
+  "channel": "Moritani Misuzu (CV:Miku Ito) - Topic",
+  "length": 293,
+  "start": 242,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 16.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "擅長捉弄人的高木同學（からかい上手の高木さん）|ED|君に届け": {
+  "ytId": "3a3iAC2nuYo",
+  "videoTitle": "君に届け",
+  "channel": "Mahiru Shiina（CV.Manaka Iwami） - Topic",
+  "length": 311,
+  "start": 167,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 16.7,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|OP|HEROES": {
+  "ytId": "QUCGlpCP2uc",
+  "videoTitle": "GLAY / HEROES",
+  "channel": "GLAY",
+  "length": 260,
+  "start": 186,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 17.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|OP|空が青空であるために": {
+  "ytId": "agF2190uQjk",
+  "videoTitle": "空が青空であるために",
+  "channel": "GLAY - Topic",
+  "length": 246,
+  "start": 72,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 17.5,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|OP|はじまりのうた": {
+  "ytId": "Ws2ElPz8Gk0",
+  "videoTitle": "はじまりのうた",
+  "channel": "GLAY - Topic",
+  "length": 245,
+  "start": 76,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 17.6,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|OP|流星のHOWL": {
+  "ytId": "PwyoH-KTuCY",
+  "videoTitle": "GLAY - 流星のHowl (류-세이노Howl / 유성의 하울)  |  「다이아몬드 에이스 ACT 2」 오프닝 [가사/해석/Lyrics/Korean/RomajiSub]",
+  "channel": "GLAY Lyrics KR (unofficial)",
+  "length": 302,
+  "start": 60,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 24.9,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|OP|Let's Go Crazy": {
+  "ytId": "ksl3zMFMeFI",
+  "videoTitle": "Ace of the Diamond Act II Season 2 - Opening FULL \"Let's Go Crazy\" by Baby Canta (Lyrics)",
+  "channel": "Nippon Notes",
+  "length": 223,
+  "start": 45,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 18.9,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|OP|NEVER SAY NEVER AGAIN": {
+  "ytId": "i-e0ektxmQg",
+  "videoTitle": "NEVER SAY NEVER AGAIN",
+  "channel": "GLAY - Topic",
+  "length": 229,
+  "start": 168,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 17.3,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|KIMERO!!": {
+  "ytId": "XeY92DYug1c",
+  "videoTitle": "KIMERO!!",
+  "channel": "OxT - Topic",
+  "length": 259,
+  "start": 52,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 26.3,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|BLUE WINDING ROAD": {
+  "ytId": "O_lJ6d2qedw",
+  "videoTitle": "BLUE WINDING ROAD",
+  "channel": "降谷暁(CV:島﨑信長) - Topic",
+  "length": 252,
+  "start": 61,
+  "startSource": "peak",
+  "audioFirst": true,
+  "review": false,
+  "score": 16.3,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|BLOOM OF YOUTH": {
+  "ytId": "oYiQV2ua1CQ",
+  "videoTitle": "BLOOM OF YOUTH",
+  "channel": "OxT - Topic",
+  "length": 259,
+  "start": 52,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 26.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|BRAND NEW BLUE": {
+  "ytId": "H11OQOBCl0g",
+  "videoTitle": "BRAND NEW BLUE (feat.オーイシマサヨシ)",
+  "channel": "沢村栄純(CV:逢坂良太) - Topic",
+  "length": 239,
+  "start": 48,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 20,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|鼓動エスカレーション": {
+  "ytId": "OgLAGtlVBho",
+  "videoTitle": "内田真礼「鼓動エスカレーション」Music Video Full",
+  "channel": "内田真礼（UCHIDA MAAYA）Official Channel",
+  "length": 309,
+  "start": 62,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 25.1,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|ゴールデンアフタースクール": {
+  "ytId": "WS5oYfMlAR0",
+  "videoTitle": "OxT「ゴールデンアフタースクール」 Official Video",
+  "channel": "ponycanyon",
+  "length": 232,
+  "start": 156,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 15.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|チャンス！": {
+  "ytId": "MNzIIZzqAVU",
+  "videoTitle": "チャンス!",
+  "channel": "Suzuko Mimori - Topic",
+  "length": 217,
+  "start": 41,
+  "startSource": "peak",
+  "audioFirst": false,
+  "review": true,
+  "score": 21.4,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|NUMBER": {
+  "fail": true,
+  "tried": [],
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|Everlasting Dream": {
+  "ytId": "0_U-rTr2Iq0",
+  "videoTitle": "Everlasting Dream -TV edit-",
+  "channel": "OxT - Topic",
+  "length": 94,
+  "start": 12,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 25.9,
+  "official": true,
+  "resolvedAt": "2026-11-07"
+ },
+ "Ace of Diamond（ダイヤのA[エース]）|ED|ROAD TO BE BLUE": {
+  "ytId": "bY8c0FAtCZc",
+  "videoTitle": "ROAD TO BE BLUE",
+  "channel": "OxT - Topic",
+  "length": 232,
+  "start": 46,
+  "startSource": "heuristic",
+  "audioFirst": true,
+  "review": false,
+  "score": 26.1,
   "official": true,
   "resolvedAt": "2026-11-07"
  }

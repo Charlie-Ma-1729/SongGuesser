@@ -4563,6 +4563,25 @@
   "review": true
  },
  {
+  "id": "a-9feb8bf5",
+  "workId": "w1511cb",
+  "kind": "ED",
+  "ytId": "YJVzBrUAbHo",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "怪獣のバラード",
+   "work": "日常",
+   "artist": "Yuuko, Mio & Mai (Mariko Honda, Mai Aizawa & Misuzu Togashi)"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "童謡こどもの歌コンクール／怪獣のバラード／第37回（2022）こども部門／二次審査収録会",
+  "channel": "童謡こどもの歌コンクール【公式】",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
   "id": "a-50190401",
   "workId": "w1511cb",
   "kind": "ED",
@@ -5466,6 +5485,25 @@
   "startSource": "heuristic"
  },
  {
+  "id": "a-32f87c58",
+  "workId": "wefeb2a",
+  "kind": "ED",
+  "ytId": "JaoduykWM_4",
+  "start": 0,
+  "revealStart": 177,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Bakusou Yumeuta",
+   "work": "靈魂食者（ソウルイーター）",
+   "artist": "Diggy-MO'"
+  },
+  "year": 2008,
+  "difficulty": 1,
+  "video": "Bakusou Yumeuta",
+  "channel": "Diggy-MO' - Topic",
+  "startSource": "peak"
+ },
+ {
   "id": "a-64054656",
   "workId": "wefeb2a",
   "kind": "ED",
@@ -6346,6 +6384,25 @@
   "video": "LiSA - Shirushi",
   "channel": "lxixsxaVEVO",
   "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-34bc8553",
+  "workId": "w5e678d",
+  "kind": "OP",
+  "ytId": "Q3RTToLuTO4",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Resolution",
+   "work": "刀劍神域（ソードアート・オンライン）",
+   "artist": "Haruna Luna"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "Resolution",
+  "channel": "Sony Music (Japan)",
+  "startSource": "heuristic",
   "review": true
  },
  {
@@ -10981,6 +11038,24 @@
   "review": true
  },
  {
+  "id": "a-8b53b5b5",
+  "workId": "w087cdf",
+  "kind": "ED",
+  "ytId": "0ymdE_EWojw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Amy",
+   "work": "紫羅蘭永恆花園（ヴァイオレット・エヴァーガーデン）",
+   "artist": "Minori Chihara"
+  },
+  "year": 2018,
+  "difficulty": 1,
+  "video": "VIOLET EVERGARDEN: ETERNITY AND THE AUTO MEMORY DOLL - Ending / Movie ED  『Amy - Minori Chihara』",
+  "channel": "Bikay Nguyen",
+  "startSource": "heuristic"
+ },
+ {
   "id": "a-5a94c3aa",
   "workId": "w087cdf",
   "kind": "INSERT",
@@ -12870,6 +12945,25 @@
   "startSource": "peak"
  },
  {
+  "id": "a-b91c15bb",
+  "workId": "w369624",
+  "kind": "ED",
+  "ytId": "UvnI1Sk5w2w",
+  "start": 0,
+  "revealStart": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Exist",
+   "work": "路人超能100（モブサイコ100）",
+   "artist": "MOB CHOIR"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "Exist",
+  "channel": "MOB CHOIR - Topic",
+  "startSource": "peak"
+ },
+ {
   "id": "a-ba74f93c",
   "workId": "wd4deee",
   "kind": "OP",
@@ -13146,6 +13240,26 @@
   "video": "Ending 4 \"Black Clover Faky Four",
   "channel": "KIMI MUSIC",
   "startSource": "heuristic"
+ },
+ {
+  "id": "a-eac18061",
+  "workId": "wd4deee",
+  "kind": "ED",
+  "ytId": "hIrTr4iqf0A",
+  "start": 0,
+  "revealStart": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "天上天下",
+   "work": "黑色五葉草（ブラッククローバー）",
+   "artist": "みゆな",
+   "composer": "佐伯ユウスケとみゆな"
+  },
+  "year": 2017,
+  "difficulty": 2,
+  "video": "みゆな/天上天下 (テレビアニメ「ブラッククローバー」ED映像 ver. )",
+  "channel": "みゆな Official Channel",
+  "startSource": "peak"
  },
  {
   "id": "a-5946f0af",
@@ -14683,6 +14797,24 @@
   "startSource": "peak"
  },
  {
+  "id": "a-d49eec9d",
+  "workId": "w4f8386",
+  "kind": "ED",
+  "ytId": "Qrhy5-cxGsE",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ハートはお手上げ",
+   "work": "輝夜姬想讓人告白（かぐや様は告らせたい）",
+   "artist": "Airi Suzuki"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "Kaguya-sama: Love Is War Season 3 [ED Full]『Heart wa Oteage / ハートはお手上げ』Airi Suzuki【Lyrics】",
+  "channel": "親親2o音樂LîvË【Anime Music】",
+  "startSource": "heuristic"
+ },
+ {
   "id": "a-9c85e76f",
   "workId": "w4f8386",
   "kind": "ED",
@@ -15547,6 +15679,24 @@
   "difficulty": 1,
   "video": "ギターと孤独と蒼い惑星【歌詞付き】／結束バンド TVアニメ『ぼっち・ざ・ろっく！』",
   "channel": "歌聴いて泣き隊",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-cb23258f",
+  "workId": "w82dda7",
+  "kind": "INSERT",
+  "ytId": "GKWoHo9WKc4",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "あのバンド",
+   "work": "孤獨搖滾!（ぼっち・ざ・ろっく!）",
+   "artist": "結束バンド"
+  },
+  "year": 2022,
+  "difficulty": 2,
+  "video": "あのバンド / 結束バンド 【中日歌詞】【歌詞付き】",
+  "channel": "萬吐水佛下音樂",
   "startSource": "heuristic"
  },
  {
@@ -18301,6 +18451,25 @@
   "startSource": "peak"
  },
  {
+  "id": "a-36ecb53e",
+  "workId": "wdde0ce",
+  "kind": "ED",
+  "ytId": "7VAoZXwDSpw",
+  "start": 0,
+  "revealStart": 72,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ごめんね、いいコじゃいられない。",
+   "work": "KILL la KILL（キルラキル）",
+   "artist": "Miku Sawai"
+  },
+  "year": 2013,
+  "difficulty": 1,
+  "video": "Gomenne, Iikoja Irarenai",
+  "channel": "Miku Sawai - Topic",
+  "startSource": "peak"
+ },
+ {
   "id": "a-b2cff022",
   "workId": "wdde0ce",
   "kind": "ED",
@@ -18916,6 +19085,26 @@
   "startSource": "heuristic"
  },
  {
+  "id": "a-f43ff356",
+  "workId": "wbd921f",
+  "kind": "INSERT",
+  "ytId": "udzQ9moiLDY",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ちゃんとした合体のテーマ",
+   "work": "阿松（おそ松さん）",
+   "artist": "佐伯ユウスケ",
+   "lyricist": "橋本由香利",
+   "composer": "橋本由香利"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "[わ] 【おそ松さん】ちゃんとした合体のテーマ オフボ＆歌詞あり",
+  "channel": "ワーニんぐ",
+  "startSource": "heuristic"
+ },
+ {
   "id": "a-075a2f3e",
   "workId": "wbd921f",
   "kind": "INSERT",
@@ -18952,6 +19141,24 @@
   "difficulty": 2,
   "video": "[わ]【おそ松さん】第３期挿入歌「マジック天使マジヘライッチー」ＯＰ曲 耳コピオフボ＆歌詞(音源配布)",
   "channel": "ワーニんぐ",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-16dbe4ed",
+  "workId": "wbd921f",
+  "kind": "INSERT",
+  "ytId": "O3b9TO610Fw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Great Victory ～大いなる勝利～",
+   "work": "阿松（おそ松さん）",
+   "artist": "AIJ"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "Great Victory! (Boss Battle Win BGM)",
+  "channel": "SNK SOUND TEAM - Topic",
   "startSource": "heuristic"
  },
  {
@@ -20676,6 +20883,26 @@
   "startSource": "peak"
  },
  {
+  "id": "a-b39466f3",
+  "workId": "w63ea32",
+  "kind": "ED",
+  "ytId": "AA-ZMEyje38",
+  "start": 0,
+  "revealStart": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "So Precious",
+   "work": "搖曳露營△（ゆるキャン△）",
+   "artist": "亜咲花",
+   "lyricist": "佐々木恵梨"
+  },
+  "year": 2018,
+  "difficulty": 1,
+  "video": "亜咲花「So Precious」Music Video Full ver. (TVアニメ『ゆるキャン△ SEASON３』エンディングテーマ)",
+  "channel": "亜咲花公式チャンネル",
+  "startSource": "peak"
+ },
+ {
   "id": "a-4d8fff99",
   "workId": "w63ea32",
   "kind": "INSERT",
@@ -21653,6 +21880,26 @@
   "review": true
  },
  {
+  "id": "a-dd9e2d03",
+  "workId": "w446bed",
+  "kind": "OP",
+  "ytId": "RIkDbB3De_8",
+  "start": 0,
+  "revealStart": 185,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "祈りの唄",
+   "work": "無職轉生（無職転生 ~異世界行ったら本気だす~）",
+   "artist": "Yuiko Ohara (大原ゆい子)"
+  },
+  "year": 2021,
+  "difficulty": 1,
+  "video": "祈りの唄",
+  "channel": "Yuiko Ohara - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
   "id": "a-43d40838",
   "workId": "w446bed",
   "kind": "OP",
@@ -21668,6 +21915,26 @@
   "year": 2021,
   "difficulty": 1,
   "video": "遠くの子守の唄",
+  "channel": "Yuiko Ohara - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-8d79a5dd",
+  "workId": "w446bed",
+  "kind": "OP",
+  "ytId": "hZ6TnKvB2rc",
+  "start": 0,
+  "revealStart": 223,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "旅人の唄~帰郷~",
+   "work": "無職轉生（無職転生 ~異世界行ったら本気だす~）",
+   "artist": "Yuiko Ohara (大原ゆい子)"
+  },
+  "year": 2021,
+  "difficulty": 1,
+  "video": "旅人の唄",
   "channel": "Yuiko Ohara - Topic",
   "startSource": "peak",
   "review": true
@@ -21932,6 +22199,1179 @@
   "video": "OneRepublic - Beautiful Colors - Kaiju No. 8 (End Title Extended Version) [Official Audio]",
   "channel": "OneRepublic",
   "startSource": "peak"
+ },
+ {
+  "id": "a-ec13d2dc",
+  "workId": "w479a21",
+  "kind": "OP",
+  "ytId": "zORYdnt1XFE",
+  "start": 0,
+  "revealStart": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "言わないけどね。",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "大原ゆい子",
+   "lyricist": "大原ゆい子",
+   "composer": "大原ゆい子",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 1,
+  "video": "TVアニメ『からかい上手の高木さん』ノンクレジットOP「言わないけどね。」／大原ゆい子",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-9cdb8e7b",
+  "workId": "w479a21",
+  "kind": "OP",
+  "ytId": "tRUdfiUQkx4",
+  "start": 0,
+  "revealStart": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ゼロセンチメートル",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "大原ゆい子",
+   "lyricist": "大原ゆい子",
+   "composer": "大原ゆい子",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 1,
+  "video": "TVアニメ『からかい上手の高木さん２』ノンクレジットOP「ゼロセンチメートル」／大原ゆい子",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-789b7f92",
+  "workId": "w479a21",
+  "kind": "OP",
+  "ytId": "hlH22hjkkcw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "まっすぐ",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "大原ゆい子",
+   "lyricist": "大原ゆい子",
+   "composer": "大原ゆい子",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 1,
+  "video": "大原ゆい子「まっすぐ」ミュージックビデオ／「からかい上手の高木さん３」オープニングテーマ",
+  "channel": "大原ゆい子Official YouTube",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-79d2c42e",
+  "workId": "w479a21",
+  "kind": "OP",
+  "ytId": "xEm1FO-_isY",
+  "start": 0,
+  "revealStart": 66,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "はじまりの夏",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "大原ゆい子",
+   "lyricist": "大原ゆい子",
+   "composer": "大原ゆい子",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "はじまりの夏",
+  "channel": "Yuiko Ohara - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-84c542f0",
+  "workId": "w479a21",
+  "kind": "INSERT",
+  "ytId": "Udm0ZdnZGs0",
+  "start": 0,
+  "revealStart": 228,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "君と光",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "大原ゆい子",
+   "lyricist": "大原ゆい子",
+   "composer": "大原ゆい子",
+   "arranger": "MANYO"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "大原ゆい子「君と光」ミュージックビデオ からかい上手の高木さんver.",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-489dca12",
+  "workId": "w479a21",
+  "kind": "INSERT",
+  "ytId": "KMSzqa8xP4M",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "サンタになりたい",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "大原ゆい子",
+   "lyricist": "大原ゆい子",
+   "composer": "大原ゆい子",
+   "arranger": "manzo"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "サンタになりたい",
+  "channel": "Yuiko Ohara - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-8e294daa",
+  "workId": "w479a21",
+  "kind": "INSERT",
+  "ytId": "bE0G9c7fc8Q",
+  "start": 0,
+  "revealStart": 251,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "風見鶏を見つけて",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "大原ゆい子",
+   "lyricist": "大原ゆい子",
+   "composer": "大原ゆい子",
+   "arranger": "MANYO"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "風見鶏を見つけて",
+  "channel": "Yuiko Ohara - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-8a3af893",
+  "workId": "w479a21",
+  "kind": "INSERT",
+  "ytId": "MGO1VzUmI4E",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ハマボウの花",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "大原ゆい子",
+   "lyricist": "大原ゆい子",
+   "composer": "大原ゆい子",
+   "arranger": "MANYO"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "ハマボウの花",
+  "channel": "Yuiko Ohara - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-019318db",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "bUbl1JEDeN0",
+  "start": 0,
+  "revealStart": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "気まぐれロマンティック",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：いきものがかり",
+   "lyricist": "水野良樹",
+   "composer": "水野良樹",
+   "arranger": "el"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん』ノンクレジットED「気まぐれロマンティック」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-82af39c7",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "YHDS1D-Xz7Y",
+  "start": 0,
+  "revealStart": 135,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "AM11:00",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：HY",
+   "lyricist": "TUN",
+   "composer": "TUN",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "AM11:00",
+  "channel": "Akemi(CV:Rie Takahashi) - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-0875803e",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "qpPFZ9_DILw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "自転車",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：JUDY AND MARY",
+   "lyricist": "磯谷有希",
+   "composer": "恩田快人",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Jitensha",
+  "channel": "Akemi(CV:Rie Takahashi) - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-5627e4de",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "Z68EWZ9w0Hs",
+  "start": 0,
+  "revealStart": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "風吹けば恋",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：チャットモンチー",
+   "lyricist": "高橋久美子",
+   "composer": "橋本絵莉子",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん』ノンクレジットED「風吹けば恋」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-759902ef",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "hpn6NOCCahA",
+  "start": 0,
+  "revealStart": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "小さな恋のうた",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：MONGOL800",
+   "lyricist": "上江洌清作",
+   "composer": "上江洌清作",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Chiisana Koi no Uta",
+  "channel": "Akemi(CV:Rie Takahashi) - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-09fcaddb",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "5LLu-WKm74I",
+  "start": 0,
+  "revealStart": 138,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "愛唄",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：GReeeeN",
+   "lyricist": "GReeeeN",
+   "composer": "GReeeeN",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Ai Uta",
+  "channel": "Akemi(CV:Rie Takahashi) - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-44997a90",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "nGDzL5Fxw0U",
+  "start": 0,
+  "revealStart": 27,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "出逢った頃のように",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：Every Little Thing",
+   "lyricist": "五十嵐充",
+   "composer": "五十嵐充",
+   "arranger": "吉田穣"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん』ノンクレジットED「出逢った頃のように」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b9bb642f",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "JnfcxDO7Y4A",
+  "start": 0,
+  "revealStart": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "奏（かなで）",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：スキマスイッチ",
+   "lyricist": "大橋卓弥・常田真太郎",
+   "composer": "大橋卓弥・常田真太郎",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「奏（かなで）」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-929abd89",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "GJPMqJf6fOo",
+  "start": 0,
+  "revealStart": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "粉雪",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：レミオロメン",
+   "lyricist": "藤巻亮太",
+   "composer": "藤巻亮太",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「粉雪」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-cba8650e",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "ZhJWZuFZ5oc",
+  "start": 0,
+  "revealStart": 39,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "キセキ",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：GReeeeN",
+   "lyricist": "GReeeeN",
+   "composer": "GReeeeN",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「キセキ」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b9a40b40",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "6nbC_2rBy60",
+  "start": 0,
+  "revealStart": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ありがとう",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：いきものがかり",
+   "lyricist": "水野良樹",
+   "composer": "水野良樹",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「ありがとう」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-41cb4e5d",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "_b_BWG6fk08",
+  "start": 0,
+  "revealStart": 80,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "STARS",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：中島美嘉",
+   "lyricist": "秋元康",
+   "composer": "川口大輔",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「ＳＴＡＲＳ」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-bb84e720",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "w6pnvtuwwoI",
+  "start": 0,
+  "revealStart": 22,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "あなたに",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：MONGOL800",
+   "lyricist": "上江洌清作",
+   "composer": "上江洌清作",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「あなたに」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-f1cb6e15",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "1sQutrB-Aws",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "やさしい気持ち",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：Chara",
+   "lyricist": "Chara",
+   "composer": "Chara",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん２』ノンクレジットED「やさしい気持ち」／高木さん（CV：高橋李依）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-e56b897a",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "8cQCn63acJ0",
+  "start": 0,
+  "revealStart": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "夢で逢えたら",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：大瀧詠一",
+   "lyricist": "大瀧詠一",
+   "composer": "大瀧詠一",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「夢で逢えたら」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-300329fb",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "udXPAhWqi08",
+  "start": 0,
+  "revealStart": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Over Drive",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：JUDY AND MARY",
+   "lyricist": "YUKI",
+   "composer": "TAKUYA",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「Over Drive」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-71830f7a",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "Whr_aXoCOWo",
+  "start": 0,
+  "revealStart": 68,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ひまわりの約束",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：秦基博",
+   "lyricist": "秦基博",
+   "composer": "秦基博",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「ひまわりの約束」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-9d203221",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "_F4KfTqrFIs",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "学園天国",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん with 2年2組／原唱：フィンガー5",
+   "lyricist": "阿久悠",
+   "composer": "井上忠夫"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「学園天国」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-6e56c191",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "kjJInMoZTT8",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "じょいふる",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：いきものがかり",
+   "lyricist": "水野良樹",
+   "composer": "水野良樹",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「じょいふる」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-10c260a3",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "OQDil8AlN0c",
+  "start": 0,
+  "revealStart": 44,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "サンタが町にやってくる",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「サンタが町にやってくる」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-97b1918c",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "5Dr9p0lrurg",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "スノーマジックファンタジー",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：SEKAI NO OWARI",
+   "lyricist": "Fukase",
+   "composer": "Nakajin",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「スノーマジックファンタジー」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-30530409",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "g9Khq8BZh8U",
+  "start": 0,
+  "revealStart": 82,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "花",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：ORANGE RANGE",
+   "lyricist": "ORANGE RANGE",
+   "composer": "ORANGE RANGE",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "TVアニメ『からかい上手の高木さん３』ノンクレジットED「花」／高木さん(CV:高橋李依)",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-1a40054f",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "d2ZrKv4O_e4",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "明日への扉",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：I WiSH",
+   "lyricist": "ai",
+   "composer": "ai",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "からかい上手の高木さん　明日への扉",
+  "channel": "すずめ",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-46636121",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "WsX1ChfHqgg",
+  "start": 0,
+  "revealStart": 242,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "fragile",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：Every Little Thing",
+   "lyricist": "持田香織",
+   "composer": "菊池一仁",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "fragile",
+  "channel": "Moritani Misuzu (CV:Miku Ito) - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-fcac4e4b",
+  "workId": "w479a21",
+  "kind": "ED",
+  "ytId": "3a3iAC2nuYo",
+  "start": 0,
+  "revealStart": 167,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "君に届け",
+   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
+   "artist": "高木さん（CV：高橋李依）／原唱：flumpool",
+   "lyricist": "山村隆太",
+   "composer": "阪井一生",
+   "arranger": "久下真音"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "君に届け",
+  "channel": "Mahiru Shiina（CV.Manaka Iwami） - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-daff1826",
+  "workId": "w9e8599",
+  "kind": "OP",
+  "ytId": "Pf1rqYWhUB4",
+  "start": 0,
+  "revealStart": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Go EXCEED!!",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "Tom-H@ck feat. オーイシマサヨシ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Go EXCEED!!",
+  "channel": "Tom-h@ck - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-5d301816",
+  "workId": "w9e8599",
+  "kind": "OP",
+  "ytId": "eZdnlkdidVw",
+  "start": 0,
+  "revealStart": 41,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Perfect HERO",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "Tom-H@ck feat. オーイシマサヨシ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Perfect HERO",
+  "channel": "Tom-h@ck - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-46890874",
+  "workId": "w9e8599",
+  "kind": "OP",
+  "ytId": "dcKD9nRnAnw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "疾走れ！ミライ",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "GLAY"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "GLAY - 疾走れ!ミライ (하시레! 미라이 / 달려라! 미래)  |  「다이아몬드 에이스」 오프닝 [가사/해석/Lyrics/Korean/RomajiSub]",
+  "channel": "GLAY Lyrics KR (unofficial)",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-3f0de704",
+  "workId": "w9e8599",
+  "kind": "OP",
+  "ytId": "QUCGlpCP2uc",
+  "start": 0,
+  "revealStart": 186,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "HEROES",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "GLAY"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "GLAY / HEROES",
+  "channel": "GLAY",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-2993e994",
+  "workId": "w9e8599",
+  "kind": "OP",
+  "ytId": "agF2190uQjk",
+  "start": 0,
+  "revealStart": 72,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "空が青空であるために",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "GLAY"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "空が青空であるために",
+  "channel": "GLAY - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-d964ea1a",
+  "workId": "w9e8599",
+  "kind": "OP",
+  "ytId": "Ws2ElPz8Gk0",
+  "start": 0,
+  "revealStart": 76,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "はじまりのうた",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "GLAY"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "はじまりのうた",
+  "channel": "GLAY - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-15ea7aa5",
+  "workId": "w9e8599",
+  "kind": "OP",
+  "ytId": "PwyoH-KTuCY",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "流星のHOWL",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "GLAY"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "GLAY - 流星のHowl (류-세이노Howl / 유성의 하울)  |  「다이아몬드 에이스 ACT 2」 오프닝 [가사/해석/Lyrics/Korean/RomajiSub]",
+  "channel": "GLAY Lyrics KR (unofficial)",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-e8c83416",
+  "workId": "w9e8599",
+  "kind": "OP",
+  "ytId": "ksl3zMFMeFI",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Let's Go Crazy",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "Baby Canta"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Ace of the Diamond Act II Season 2 - Opening FULL \"Let's Go Crazy\" by Baby Canta (Lyrics)",
+  "channel": "Nippon Notes",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-bbdfe68b",
+  "workId": "w9e8599",
+  "kind": "OP",
+  "ytId": "i-e0ektxmQg",
+  "start": 0,
+  "revealStart": 168,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "NEVER SAY NEVER AGAIN",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "GLAY"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "NEVER SAY NEVER AGAIN",
+  "channel": "GLAY - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-af369647",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "rSj5O5biEXw",
+  "start": 0,
+  "revealStart": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Seek Diamonds",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "日笠陽子"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Seek Diamonds",
+  "channel": "Yoko Hikasa - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-8dfa8809",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "nMJbTxr3RtU",
+  "start": 0,
+  "revealStart": 127,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "グローリー！",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "三森すずこ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "WIN GLORY",
+  "channel": "東条秀明(CV:蒼井翔太) - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-177adab6",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "_eEvRYHZna0",
+  "start": 0,
+  "revealStart": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "未来へつなげ",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "DOP（ダイヤのA応援プロジェクト）"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "未来へつなげ",
+  "channel": "D応P - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-66bc5e0e",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "1NOxz99IQqM",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "CLOUD NINE",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "青道高校野球部（逢坂良太・島﨑信長・花江夏樹）"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "CLOUD NINE",
+  "channel": "降谷暁(CV:島﨑信長) - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-a1f10812",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "r56zYUkF51Y",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "PROMISED FIELD",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "青道高校野球部（逢坂良太・島﨑信長・花江夏樹）"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "PROMISED FIELD (feat.Furuya)",
+  "channel": "降谷暁(CV:島﨑信長) - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-652e7899",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "jB345kW3h3s",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "FINAL VICTORY",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "青道高校野球部（逢坂良太・島﨑信長・花江夏樹）"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "FINAL VICTORY (TV edit)",
+  "channel": "青道高校野球部 - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-05d33c08",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "XeY92DYug1c",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "KIMERO!!",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "OxT"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "KIMERO!!",
+  "channel": "OxT - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-cb27b635",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "O_lJ6d2qedw",
+  "start": 0,
+  "revealStart": 61,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "BLUE WINDING ROAD",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "青道高校野球部"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "BLUE WINDING ROAD",
+  "channel": "降谷暁(CV:島﨑信長) - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-930cd488",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "oYiQV2ua1CQ",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "BLOOM OF YOUTH",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "OxT"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "BLOOM OF YOUTH",
+  "channel": "OxT - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-3e02ea6b",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "H11OQOBCl0g",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "BRAND NEW BLUE",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "沢村栄純（逢坂良太）feat. オーイシマサヨシ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "BRAND NEW BLUE (feat.オーイシマサヨシ)",
+  "channel": "沢村栄純(CV:逢坂良太) - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-2fa58f4b",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "WS5oYfMlAR0",
+  "start": 0,
+  "revealStart": 156,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ゴールデンアフタースクール",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "OxT"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "OxT「ゴールデンアフタースクール」 Official Video",
+  "channel": "ponycanyon",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-24b1188f",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "OgLAGtlVBho",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "鼓動エスカレーション",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "内田真礼"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "内田真礼「鼓動エスカレーション」Music Video Full",
+  "channel": "内田真礼（UCHIDA MAAYA）Official Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-7bfa771b",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "MNzIIZzqAVU",
+  "start": 0,
+  "revealStart": 41,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "チャンス！",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "三森すずこ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "チャンス!",
+  "channel": "Suzuko Mimori - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-74588b16",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "0_U-rTr2Iq0",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Everlasting Dream",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "OxT"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Everlasting Dream -TV edit-",
+  "channel": "OxT - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-4929960e",
+  "workId": "w9e8599",
+  "kind": "ED",
+  "ytId": "bY8c0FAtCZc",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ROAD TO BE BLUE",
+   "work": "鑽石王牌（ダイヤのA[エース]）",
+   "artist": "OxT"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "ROAD TO BE BLUE",
+  "channel": "OxT - Topic",
+  "startSource": "heuristic"
  },
  {
   "id": "a-d952f903",
@@ -22367,6 +23807,25 @@
   "difficulty": 1,
   "video": "2PM 「Take off」 MV Full ver.",
   "channel": "2PM Japan Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c0b3157f",
+  "workId": "wde4864",
+  "kind": "ED",
+  "ytId": "mLOjfP1BdVQ",
+  "start": 0,
+  "revealStart": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Wired Life",
+   "work": "青之驅魔師（青の祓魔師）",
+   "artist": "Meisa Kuroki"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "Wired Life",
+  "channel": "Meisa Kuroki - Topic",
   "startSource": "peak"
  },
  {
@@ -23021,6 +24480,28 @@
   "difficulty": 1,
   "video": "視紅",
   "channel": "Saori Hayami - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-5d58dbd7",
+  "workId": "w543e0f",
+  "kind": "OP",
+  "ytId": "LwYG_kKzGv8",
+  "start": 0,
+  "revealStart": 178,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "少年",
+   "work": "在地下城尋求邂逅是否搞錯了什麼（ダンジョンに出会いを求めるのは間違っているだろうか）",
+   "artist": "GRe4N BOYZ",
+   "lyricist": "GRe4N BOYZ",
+   "composer": "GRe4N BOYZ"
+  },
+  "year": 2015,
+  "difficulty": 1,
+  "video": "GRe4N BOYZ / 少年　アニメ「ダンまちV」OP主題歌",
+  "channel": "GRe4N BOYZ",
   "startSource": "peak",
   "review": true
  },
@@ -24759,6 +26240,27 @@
   "startSource": "peak"
  },
  {
+  "id": "a-edb05348",
+  "workId": "w29fb7c",
+  "kind": "INSERT",
+  "ytId": "WrG0QYKTmeQ",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ロックンロールは鳴り止まないっ",
+   "work": "戀愛要在變裝後（その着せ替え人形は恋をする）",
+   "artist": "菅谷乃羽",
+   "lyricist": "の子",
+   "composer": "の子"
+  },
+  "year": 2022,
+  "difficulty": 1,
+  "video": "神聖かまってちゃん「ロックンロールは鳴り止まないっ」 at 恵比寿LIQUIDROOM /  20251227 Net Generation'25",
+  "channel": "かまってチャンネル【公式】",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
   "id": "a-d88e8049",
   "workId": "w59c154",
   "kind": "ED",
@@ -25037,6 +26539,25 @@
   "difficulty": 1,
   "video": "アニメ『斉木楠雄のΨ難』｜でんぱ組.inc「最Ψ最好調！」第1期第2クールノンクレジットOP映像",
   "channel": "ShoProアニメチャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-3010b649",
+  "workId": "wd7989a",
+  "kind": "ED",
+  "ytId": "gxBVdUty1UQ",
+  "start": 0,
+  "revealStart": 120,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "こころ",
+   "work": "超能力者齊木楠雄的災難（斉木楠雄のΨ難）",
+   "artist": "Natsuki Hanae"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "花江夏樹 / こころ(TVアニメ「斉木楠雄のΨ難」第2クール エンディングテーマ)",
+  "channel": "日本コロムビア 公式YouTubeチャンネル",
   "startSource": "peak"
  },
  {
@@ -34517,161 +36038,6 @@
   "startSource": "peak"
  },
  {
-  "id": "a-019318db",
-  "workId": "w479a21",
-  "kind": "ED",
-  "ytId": "bUbl1JEDeN0",
-  "start": 0,
-  "revealStart": 60,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "気まぐれロマンティック",
-   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
-   "artist": "Takagi-san (Rie Takahashi)"
-  },
-  "year": 2018,
-  "difficulty": 2,
-  "video": "TVアニメ『からかい上手の高木さん』ノンクレジットED「気まぐれロマンティック」／高木さん（CV：高橋李依）",
-  "channel": "TOHO animation チャンネル",
-  "startSource": "peak"
- },
- {
-  "id": "a-82af39c7",
-  "workId": "w479a21",
-  "kind": "ED",
-  "ytId": "YHDS1D-Xz7Y",
-  "start": 0,
-  "revealStart": 135,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "AM11:00",
-   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
-   "artist": "Takagi-san (Rie Takahashi)"
-  },
-  "year": 2018,
-  "difficulty": 2,
-  "video": "AM11:00",
-  "channel": "Akemi(CV:Rie Takahashi) - Topic",
-  "startSource": "peak",
-  "review": true
- },
- {
-  "id": "a-0875803e",
-  "workId": "w479a21",
-  "kind": "ED",
-  "ytId": "qpPFZ9_DILw",
-  "start": 0,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "自転車",
-   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
-   "artist": "Takagi-san (Rie Takahashi)"
-  },
-  "year": 2018,
-  "difficulty": 2,
-  "video": "Jitensha",
-  "channel": "Akemi(CV:Rie Takahashi) - Topic",
-  "startSource": "heuristic",
-  "review": true
- },
- {
-  "id": "a-5627e4de",
-  "workId": "w479a21",
-  "kind": "ED",
-  "ytId": "Z68EWZ9w0Hs",
-  "start": 0,
-  "revealStart": 54,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "風吹けば恋",
-   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
-   "artist": "Takagi-san (Rie Takahashi)"
-  },
-  "year": 2018,
-  "difficulty": 2,
-  "video": "TVアニメ『からかい上手の高木さん』ノンクレジットED「風吹けば恋」／高木さん（CV：高橋李依）",
-  "channel": "TOHO animation チャンネル",
-  "startSource": "peak"
- },
- {
-  "id": "a-759902ef",
-  "workId": "w479a21",
-  "kind": "ED",
-  "ytId": "hpn6NOCCahA",
-  "start": 0,
-  "revealStart": 50,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "小さな恋のうた",
-   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
-   "artist": "Takagi-san (Rie Takahashi)"
-  },
-  "year": 2018,
-  "difficulty": 2,
-  "video": "Chiisana Koi no Uta",
-  "channel": "Akemi(CV:Rie Takahashi) - Topic",
-  "startSource": "peak",
-  "review": true
- },
- {
-  "id": "a-09fcaddb",
-  "workId": "w479a21",
-  "kind": "ED",
-  "ytId": "5LLu-WKm74I",
-  "start": 0,
-  "revealStart": 138,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "愛唄",
-   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
-   "artist": "Takagi-san (Rie Takahashi)"
-  },
-  "year": 2018,
-  "difficulty": 2,
-  "video": "Ai Uta",
-  "channel": "Akemi(CV:Rie Takahashi) - Topic",
-  "startSource": "peak",
-  "review": true
- },
- {
-  "id": "a-44997a90",
-  "workId": "w479a21",
-  "kind": "ED",
-  "ytId": "nGDzL5Fxw0U",
-  "start": 0,
-  "revealStart": 27,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "出逢った頃のように",
-   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
-   "artist": "Takagi-san (Rie Takahashi)"
-  },
-  "year": 2018,
-  "difficulty": 2,
-  "video": "TVアニメ『からかい上手の高木さん』ノンクレジットED「出逢った頃のように」／高木さん（CV：高橋李依）",
-  "channel": "TOHO animation チャンネル",
-  "startSource": "peak"
- },
- {
-  "id": "a-ba6efdcf",
-  "workId": "w479a21",
-  "kind": "ED",
-  "ytId": "zORYdnt1XFE",
-  "start": 0,
-  "revealStart": 60,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "言わないけどね。",
-   "work": "擅長捉弄人的高木同學（からかい上手の高木さん）",
-   "artist": "第1期オープニングテーマ。第2期第10話・第11話では高木さん"
-  },
-  "year": 2018,
-  "difficulty": 2,
-  "video": "TVアニメ『からかい上手の高木さん』ノンクレジットOP「言わないけどね。」／大原ゆい子",
-  "channel": "TOHO animation チャンネル",
-  "startSource": "peak"
- },
- {
   "id": "a-2b276efe",
   "workId": "wf7d76d",
   "kind": "OP",
@@ -35753,7 +37119,7 @@
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "究極アンバランス！",
-   "work": "因為太怕痛，所以全點防禦力（痛いのは嫌なので防御力に極振りしたいと思います。）",
+   "work": "怕痛的我，把防禦力點滿就對了。（痛いのは嫌なので防御力に極振りしたいと思います。）",
    "artist": "Junjou no Afilia"
   },
   "year": 2020,
@@ -35772,7 +37138,7 @@
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Play the world",
-   "work": "因為太怕痛，所以全點防禦力（痛いのは嫌なので防御力に極振りしたいと思います。）",
+   "work": "怕痛的我，把防禦力點滿就對了。（痛いのは嫌なので防御力に極振りしたいと思います。）",
    "artist": "Rico Sasaki"
   },
   "year": 2020,
@@ -35791,7 +37157,7 @@
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Good Night",
-   "work": "因為太怕痛，所以全點防禦力（痛いのは嫌なので防御力に極振りしたいと思います。）",
+   "work": "怕痛的我，把防禦力點滿就對了。（痛いのは嫌なので防御力に極振りしたいと思います。）",
    "artist": "佐々木李子",
    "lyricist": "徐賢眞と雨野どんぐり",
    "composer": "徐賢眞"
@@ -35812,7 +37178,7 @@
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Step for Joy",
-   "work": "因為太怕痛，所以全點防禦力（痛いのは嫌なので防御力に極振りしたいと思います。）",
+   "work": "怕痛的我，把防禦力點滿就對了。（痛いのは嫌なので防御力に極振りしたいと思います。）",
    "artist": "FRAM",
    "lyricist": "東乃カノ"
   },
@@ -35832,7 +37198,7 @@
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "As You Wish",
-   "work": "因為太怕痛，所以全點防禦力（痛いのは嫌なので防御力に極振りしたいと思います。）",
+   "work": "怕痛的我，把防禦力點滿就對了。（痛いのは嫌なので防御力に極振りしたいと思います。）",
    "artist": "FRAM",
    "lyricist": "姜藝利"
   },
@@ -35852,7 +37218,7 @@
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Scutum",
-   "work": "因為太怕痛，所以全點防禦力（痛いのは嫌なので防御力に極振りしたいと思います。）",
+   "work": "怕痛的我，把防禦力點滿就對了。（痛いのは嫌なので防御力に極振りしたいと思います。）",
    "artist": "FRAM",
    "lyricist": "姜藝利"
   },
@@ -44837,173 +46203,6 @@
   "difficulty": 2,
   "video": "本気グループのうた",
   "channel": "Release - Topic",
-  "startSource": "heuristic"
- },
- {
-  "id": "a-daff1826",
-  "workId": "w9e8599",
-  "kind": "OP",
-  "ytId": "Pf1rqYWhUB4",
-  "start": 0,
-  "revealStart": 55,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "Go EXCEED!!",
-   "work": "鑽石王牌（ダイヤのA[エース]）",
-   "artist": "Tom-H@ck featuring Masayoshi Oishi"
-  },
-  "year": 2013,
-  "difficulty": 2,
-  "video": "Go EXCEED!!",
-  "channel": "Tom-h@ck - Topic",
-  "startSource": "peak"
- },
- {
-  "id": "a-5d301816",
-  "workId": "w9e8599",
-  "kind": "OP",
-  "ytId": "eZdnlkdidVw",
-  "start": 0,
-  "revealStart": 41,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "Perfect HERO",
-   "work": "鑽石王牌（ダイヤのA[エース]）",
-   "artist": "Tom-H@ck featuring Masayoshi Oishi"
-  },
-  "year": 2013,
-  "difficulty": 2,
-  "video": "Perfect HERO",
-  "channel": "Tom-h@ck - Topic",
-  "startSource": "peak"
- },
- {
-  "id": "a-46890874",
-  "workId": "w9e8599",
-  "kind": "OP",
-  "ytId": "dcKD9nRnAnw",
-  "start": 0,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "疾走れ！ミライ",
-   "work": "鑽石王牌（ダイヤのA[エース]）",
-   "artist": "Glay"
-  },
-  "year": 2013,
-  "difficulty": 2,
-  "video": "GLAY - 疾走れ!ミライ (하시레! 미라이 / 달려라! 미래)  |  「다이아몬드 에이스」 오프닝 [가사/해석/Lyrics/Korean/RomajiSub]",
-  "channel": "GLAY Lyrics KR (unofficial)",
-  "startSource": "heuristic"
- },
- {
-  "id": "a-af369647",
-  "workId": "w9e8599",
-  "kind": "ED",
-  "ytId": "rSj5O5biEXw",
-  "start": 0,
-  "revealStart": 57,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "Seek Diamonds",
-   "work": "鑽石王牌（ダイヤのA[エース]）",
-   "artist": "Yoko Hikasa"
-  },
-  "year": 2013,
-  "difficulty": 2,
-  "video": "Seek Diamonds",
-  "channel": "Yoko Hikasa - Topic",
-  "startSource": "peak"
- },
- {
-  "id": "a-8dfa8809",
-  "workId": "w9e8599",
-  "kind": "ED",
-  "ytId": "nMJbTxr3RtU",
-  "start": 0,
-  "revealStart": 127,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "グローリー！",
-   "work": "鑽石王牌（ダイヤのA[エース]）",
-   "artist": "Suzuko Mimori"
-  },
-  "year": 2013,
-  "difficulty": 2,
-  "video": "WIN GLORY",
-  "channel": "東条秀明(CV:蒼井翔太) - Topic",
-  "startSource": "peak"
- },
- {
-  "id": "a-177adab6",
-  "workId": "w9e8599",
-  "kind": "ED",
-  "ytId": "_eEvRYHZna0",
-  "start": 0,
-  "revealStart": 60,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "未来へつなげ",
-   "work": "鑽石王牌（ダイヤのA[エース]）",
-   "artist": "DOP (Diamond no Ace Ouen Project: Wakaba, Haruno Yoshikawa, Takako Fujiwara, Sachiko Umemoto, Yui Natsukawa with AOP)"
-  },
-  "year": 2013,
-  "difficulty": 2,
-  "video": "未来へつなげ",
-  "channel": "D応P - Topic",
-  "startSource": "peak"
- },
- {
-  "id": "a-66bc5e0e",
-  "workId": "w9e8599",
-  "kind": "ED",
-  "ytId": "1NOxz99IQqM",
-  "start": 0,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "CLOUD NINE",
-   "work": "鑽石王牌（ダイヤのA[エース]）",
-   "artist": "Seidou High School Basebal Club (Ryota Ohsaka, Nobunaga Shimazaki, Natsuki Hanae)"
-  },
-  "year": 2013,
-  "difficulty": 2,
-  "video": "CLOUD NINE",
-  "channel": "降谷暁(CV:島﨑信長) - Topic",
-  "startSource": "heuristic"
- },
- {
-  "id": "a-a1f10812",
-  "workId": "w9e8599",
-  "kind": "ED",
-  "ytId": "r56zYUkF51Y",
-  "start": 0,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "PROMISED FIELD",
-   "work": "鑽石王牌（ダイヤのA[エース]）",
-   "artist": "Seidou High School Basebal Club (Ryota Ohsaka, Nobunaga Shimazaki, Natsuki Hanae)"
-  },
-  "year": 2013,
-  "difficulty": 2,
-  "video": "PROMISED FIELD (feat.Furuya)",
-  "channel": "降谷暁(CV:島﨑信長) - Topic",
-  "startSource": "heuristic"
- },
- {
-  "id": "a-652e7899",
-  "workId": "w9e8599",
-  "kind": "ED",
-  "ytId": "jB345kW3h3s",
-  "start": 0,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "FINAL VICTORY",
-   "work": "鑽石王牌（ダイヤのA[エース]）",
-   "artist": "Seidou High Baseball Club (Ryota Ohsaka, Nobunaga Shimazaki, Natsuki Hanae)"
-  },
-  "year": 2013,
-  "difficulty": 2,
-  "video": "FINAL VICTORY (TV edit)",
-  "channel": "青道高校野球部 - Topic",
   "startSource": "heuristic"
  },
  {

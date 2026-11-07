@@ -1546,15 +1546,6 @@ ED | まるつけ | Given [Mafuyu Satou (Shougo Yano) | t=Marutsuke d=2
 OP | ハニージェットコースター | Nasuo☆ (なすお☆) | t=Honey Jet Coaster d=2
 ED | Route BLUE | Yuki Nakashima | d=2
 
-# 擅長捉弄人的高木同學（からかい上手の高木さん） | 2018
-ED | 気まぐれロマンティック | Takagi-san (Rie Takahashi) | t=Kimagure Romantic d=2
-ED | AM11:00 | Takagi-san (Rie Takahashi) | d=2
-ED | 自転車 | Takagi-san (Rie Takahashi) | t=Jitensha d=2
-ED | 風吹けば恋 | Takagi-san (Rie Takahashi) | t=Kaze Fukeba Koi d=2
-ED | 小さな恋のうた | Takagi-san (Rie Takahashi) | t=Chiisana Koi no Uta d=2
-ED | 愛唄 | Takagi-san (Rie Takahashi) | t=Ai Uta d=2
-ED | 出逢った頃のように | Takagi-san (Rie Takahashi) | t=Deatta Koro no You ni d=2
-
 # The Case Study of Vanitas（ヴァニタスの手記） | 2021
 OP | 空と虚 | sasanomaly | t=Sora to Utsuro d=2
 ED | zero | LMYK | t=0 d=2
@@ -2369,17 +2360,6 @@ ED | ミンナノナマエヲイレテクダサイ | Roka Shibasaki (CV: Kana Ha
 OP | 大大大大大好きな君へ♡ | Hakari Hanazono (CV: Kaede Hondo), Karane Inda (CV: Miyu Tomita), Shizuka Yoshimoto (CV: Maria Naganawa), Nano Eiai (CV: Asami Seto), Kusuri Yakuzen (CV: Ayaka Asai) | t=Daidaidaidai Daisuki na Kimi e♡ d=2
 ED | スイートサイン | Nako Misaki (岬なこ) | t=Sweet Sign d=2
 ED | 今日のエンディングは私が買い取ったから好きにしていいわよね♡ | Hahari Hanazono (CV: Sumire Uesaka) | t=Kyou no Ending wa Watashi ga Kaitotta kara Suki ni Shite Ii wa yo ne ♡ d=2
-
-# Ace of Diamond（ダイヤのA[エース]） | 2013
-OP | Go EXCEED!! | Tom-H@ck featuring Masayoshi Oishi | d=2
-OP | Perfect HERO | Tom-H@ck featuring Masayoshi Oishi | d=2
-OP | 疾走れ！ミライ | Glay | t=Hashire! Mirai d=2
-ED | Seek Diamonds | Yoko Hikasa | d=2
-ED | グローリー！ | Suzuko Mimori | t=Glory! d=2
-ED | 未来へつなげ | DOP (Diamond no Ace Ouen Project: Wakaba, Haruno Yoshikawa, Takako Fujiwara, Sachiko Umemoto, Yui Natsukawa with AOP) | t=Mirai e Tsunage d=2
-ED | CLOUD NINE | Seidou High School Basebal Club (Ryota Ohsaka, Nobunaga Shimazaki, Natsuki Hanae) | d=2
-ED | PROMISED FIELD | Seidou High School Basebal Club (Ryota Ohsaka, Nobunaga Shimazaki, Natsuki Hanae) | d=2
-ED | FINAL VICTORY | Seidou High Baseball Club (Ryota Ohsaka, Nobunaga Shimazaki, Natsuki Hanae) | d=2
 
 # 機動戰士鋼彈SEED（機動戦士ガンダムSEED） | 2002
 OP | moment | Vivian or Kazuma | d=2

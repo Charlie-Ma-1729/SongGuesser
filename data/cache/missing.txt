@@ -6,14 +6,11 @@
 浪客劍心 / ED 愛しさの糧
 幸運星 / ED 行け!ゴッドマン
 日常 / ED 気球にのってどこまでも
-日常 / ED 怪獣のバラード
 日常 / ED あの素晴らしい愛をもう一度
 吹響吧!上低音號 / ED トゥッティ!
 吹響吧!上低音號 / ED ヴィヴァーチェ!
 靈魂食者 / ED Ao no Kaori
-靈魂食者 / ED Bakusou Yumeuta
 科學超電磁砲 / ED Smile -You and Me-
-刀劍神域 / OP Resolution
 跳躍吧！時空少女 / OP Summer Sky ~ Opening Theme~
 JOJO的奇妙冒險 / ED アク役♢協奏曲〜オインゴとボインゴ〜
 七大罪 / ED 色褪せない瞳
@@ -21,7 +18,6 @@ Free! / ED Hosoya), Aiichirou Nitori (Kouki Miyata), Momotarou Mikoshiba (Kenich
 遊戲人生 / OP おねがい☆すにゃいばー
 物語系列 / ED étoile et toi
 物語系列 / ED étoile et toi [édition le blanc]
-紫羅蘭永恆花園 / ED Amy
 青春豬頭少年不會夢到兔女郎學姊 / INSERT オトメノート」 / 「ミューズになっちゃう」 / 「超音波のメロディ
 青春豬頭少年不會夢到兔女郎學姊 / INSERT Social World piano arrange
 青春豬頭少年不會夢到兔女郎學姊 / INSERT ミューズになっちゃう
@@ -29,20 +25,15 @@ Free! / ED Hosoya), Aiichirou Nitori (Kouki Miyata), Momotarou Mikoshiba (Kenich
 小林家的龍女僕 / ED イシュカン❤︎リレーションシップ
 小林家的龍女僕 / ED めいど・うぃず・どらごんず︎❤︎
 小林家的龍女僕 / ED イシュカン♡リレーションシップ
-路人超能100 / ED Exist
-黑色五葉草 / ED 天上天下
 銀魂 / OP R1: "Bakuchi Dancer (バクチ・ダンサー)" by DOES (eps 1-9) R2: "Kaze no Gotoku (風のごとく)" by Inoue Joe (eps 10-26) R3: "Kanousei Girl (可能性ガール)" by Chiaki Kuriyama (eps 27-39) R4: "Katoniago (カートニアゴ )" by FLiP (eps 40-51) "Pray
 銀魂 / ED R1: "Bokutachi no Kisetsu" by DOES (eps 1-9) R2: "Wave" by Vijandeux (eps 10-26) R3: "In My Life" by AZU (eps 27-39) R4: "Sakurane" by Piko (eps 40-51) "Fuusen Gum
 炎炎消防隊 / OP Ignis -イグニス-
-輝夜姬想讓人告白 / ED ハートはお手上げ
 鬼滅之刃 / ED 勝利の鳴動 ～絆ノ奇跡 & 竈門禰󠄀豆子のうたREMIX～
-孤獨搖滾! / INSERT あのバンド
 我推的孩子 / INSERT HEART's♡KISS -アイ Solo Ver.-
 鏈鋸人 / ED 刃渡り2億センチ
 鏈鋸人 / ED 渇きを錆びて
 國王排名 / OP 裸の勇者
 少女與戰車 / INSERT コサックの子守唄
-KILL la KILL / ED ごめんね、いいコじゃいられない。
 偽戀 / ED オーダー×オーダー
 偽戀 / ED 大切の作り方
 偽戀 / OP マジカル☆スタイリング
@@ -52,18 +43,14 @@ KILL la KILL / ED ごめんね、いいコじゃいられない。
 請問您今天要來點兔子嗎？ / INSERT 『ラビットハウスへ行こうよ♪』のうた
 SHIROBAKO / OP あいむそーりーEXODUS
 阿松 / ED はなまるぴっぴはよいこだけ
-阿松 / INSERT ちゃんとした合体のテーマ
-阿松 / INSERT Great Victory ～大いなる勝利～
 三月的獅子 / ED ニャー将棋音頭
-搖曳露營△ / ED So Precious
 搖曳露營△ / OP ぶらんにゅ。
 搖曳露營△ / ED 葉っぱの手紙
 工作細胞 / OP Dance in the Game
-無職轉生 / OP 祈りの唄
-無職轉生 / OP 旅人の唄~帰郷~
 怪獸8號 / INSERT Scream feat. (sic)boy
-青之驅魔師 / ED Wired Life
-在地下城尋求邂逅是否搞錯了什麼 / OP 少年
+擅長捉弄人的高木同學 / INSERT RUNNER
+擅長捉弄人的高木同學 / ED 天体観測
+鑽石王牌 / ED NUMBER
 在地下城尋求邂逅是否搞錯了什麼 / ED トロピカッ☆バケーション
 在地下城尋求邂逅是否搞錯了什麼 / ED 男と女はラビリンス
 在地下城尋求邂逅是否搞錯了什麼 / INSERT 繭色
@@ -75,11 +62,9 @@ SHIROBAKO / OP あいむそーりーEXODUS
 惡魔高校D×D / ED らぶりぃ♥でびる
 戀愛要在變裝後 / INSERT 君に伝えたいことがあるんだ
 戀愛要在變裝後 / INSERT 片目のウィリー
-戀愛要在變裝後 / INSERT ロックンロールは鳴り止まないっ
 會長是女僕大人！ / OP My Secret
 櫻花莊的寵物女孩 / ED Sakurai Takahiro, Kayano Ai, Kawasumi Ayako, Toyoguchi Megumi (ep 23) "DAYS of DASH
 超能力者齊木楠雄的災難 / ED Ψ desu I LIKE YOU
-超能力者齊木楠雄的災難 / ED こころ
 櫻蘭高校公關部 / OP Sakura Kiss
 Fate/stay night / ED Fukaki Nemuri (深き眠り) UBW Extended" composed
 ReLIFE 重返17歲 / ED イ―ジュ－★ライダー
@@ -148,7 +133,7 @@ Gangsta. / ED with You featuring ALEX BENEDETTO
 問題兒童都來自異世界？ / ED ぼくたちの星座
 問題兒童都來自異世界？ / INSERT Scarlet
 Vivy -Fluorite Eye's Song- / ED Flourite Eye’s Song
-因為太怕痛，所以全點防禦力 / OP この盾に、隠れます。
+怕痛的我，把防禦力點滿就對了。 / OP この盾に、隠れます。
 第一次的辣妹 / ED GAL的LOVE（ギャルチックラブ）
 Kiss×sis / ED Futari
 我的女友與青梅竹馬的修羅場 / OP Girlish Lover

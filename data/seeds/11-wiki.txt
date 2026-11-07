@@ -595,9 +595,6 @@ OP | キヅアト | センチミリメンタル |  d=2
 INSERT | 冬のはなし | ギヴン |  d=2
 INSERT | 夜が明ける | ギヴン |  d=2
 
-# 擅長捉弄人的高木同學（からかい上手の高木さん） | 2018
-ED | 言わないけどね。 | 第1期オープニングテーマ。第2期第10話・第11話では高木さん |  d=2
-
 # The Case Study of Vanitas（ヴァニタスの手記） | 2021
 ED | 0 | LMYK | l=LMYK c=LMYK t=zero d=2
 OP | Your Name | Little Glee Monster |  d=2
