@@ -89,7 +89,26 @@ export function parseSeeds({ exclude = [] } = {}) {
     });
   }
   applyCredits(works);
+  applyNames(works);
   return works;
+}
+
+/** data/seeds/names.tsv：用日文原名對應「台灣譯名」，只改顯示用的中文名（不影響題目 ID） */
+function applyNames(works) {
+  const f = path.join(SEED_DIR, 'names.tsv');
+  let text;
+  try { text = readFileSync(f, 'utf8'); } catch { return; }
+  const map = new Map();
+  for (const raw of text.split(/\r?\n/)) {
+    const line = raw.trim();
+    if (!line || line.startsWith('#')) continue;
+    const [ja, zh] = line.split('|').map((x) => x.trim());
+    if (ja && zh) map.set(norm(ja), zh);
+  }
+  for (const w of works) {
+    const zh = map.get(norm(w.ja));
+    if (zh) w.zh = zh;
+  }
 }
 
 /** data/seeds/credits.tsv：以歌名補充（只補歌單沒填的欄位） */

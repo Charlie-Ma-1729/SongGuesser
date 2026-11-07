@@ -82,10 +82,12 @@ export class ClipPlayer {
   }
 
   /** 揭曉後解除長度限制，繼續播放 */
-  release() {
+  release(jumpTo) {
     this.free = true;
+    clearTimeout(this.stuckTimer);
     try {
-      if (this.yt.getPlayerState() !== YT.PlayerState.PLAYING) this.yt.playVideo();
+      if (typeof jumpTo === 'number') this.yt.seekTo(jumpTo, true); // 揭曉：跳到最多重播的地方
+      if (typeof jumpTo === 'number' || this.yt.getPlayerState() !== YT.PlayerState.PLAYING) this.yt.playVideo();
     } catch { /* ignore */ }
   }
 

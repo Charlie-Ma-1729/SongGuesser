@@ -70,6 +70,9 @@ node scripts/resolve.mjs                                   # 幫新歌找 YouTub
 node scripts/build.mjs
 ```
 
+- `data/seeds/mal-extra.list`：想指定一定要收的作品，每行寫一個英文／羅馬字作品名（或 MAL 編號）
+- `node scripts/fetch-wiki.mjs`：從日文維基百科補插入歌／劇中歌與 MAL 漏掉的 OP/ED（寫到 `11-wiki.txt`）
+- `data/seeds/names.tsv`：作品的台灣譯名對照（`日文原名 | 台灣譯名`），只影響顯示
 - 各季會依 Prequel 合併成同一部作品；中文名取自 Wikidata，沒有就用英文名
 - 已經出現在其他歌單的作品／歌曲不會重複；`10-mal.txt` 是自動產生的，不要手動改
 - 前 90 名人氣作品難度 1，其餘難度 2
@@ -90,7 +93,7 @@ node scripts/build.mjs       # 產生 data/anime.json
 
 開 `preview.html`（需 http 伺服器）：逐首試聽、修改起點秒數（或在播放中按「設為目前位置」）、停用有問題的題目。按「複製 overrides.json」貼進 `data/overrides.json`，再跑 `node scripts/build.mjs` 就會永久生效（不會被重新建置覆蓋）。
 
-> 遊戲一律從影片開頭播放（不會跳到中間）。所以挑影片時優先選「一開始就是音樂」的類型（歌詞版、ノンクレジット OP/ED、官方音源），`preview.html` 勾「只看需確認的」是不屬於這類、開頭可能有對白或劇情的影片。真的需要從別處開始，可在 `overrides.json` 針對單題設定 `start`。
+> 猜歌時一律從影片開頭播放；按下揭曉後，若有 YouTube「最多重播」資料，會跳到那個位置（通常是副歌）繼續播，沒有資料的影片就接著播（題庫欄位 `revealStart`，可在 `overrides.json` 針對單題改）。所以挑影片時優先選「一開始就是音樂」的類型（歌詞版、ノンクレジット OP/ED、官方音源），`preview.html` 勾「只看需確認的」是不屬於這類、開頭可能有對白或劇情的影片。真的需要從別處開始，可在 `overrides.json` 針對單題設定 `start`。
 
 ## 已知限制
 

@@ -79,7 +79,7 @@ export class Game {
   _reveal() {
     this.state = 'revealed';
     ui.showAnswer(this.current);
-    this.player.release();
+    this.player.release(this.current.revealStart);
   }
 
   _end() {

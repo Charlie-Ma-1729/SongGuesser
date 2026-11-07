@@ -40,6 +40,8 @@ for (const w of works) {
       ytId: ov.ytId || r.ytId,
       // 一律從影片開頭播；只有在 overrides.json 手動指定時才用其他起點
       start: ov.start ?? 0,
+      // 揭曉時跳到「最多重播」的位置（通常是副歌）；沒有重播資料的影片就不跳，接著播
+      revealStart: ov.revealStart ?? (r.startSource === 'peak' ? r.start : undefined),
       prompt: s.kind === 'OST' ? '這段配樂來自哪部動畫？' : '這首歌來自哪部動畫？',
       answer: {
         title: s.title,

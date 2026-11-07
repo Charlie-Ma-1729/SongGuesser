@@ -10,11 +10,12 @@ import { parseSeeds, norm, ROOT, SEED_DIR, CACHE_DIR } from './lib.mjs';
 
 const args = process.argv.slice(2);
 const opt = (name, def) => (args.includes(name) ? args[args.indexOf(name) + 1] : def);
-const [Y0, Y1] = String(opt('--years', '2012-2026')).split('-').map(Number);
+const [Y0, Y1] = String(opt('--years', '2005-2026')).split('-').map(Number);
 const WORKS = Number(opt('--works', 260));
 const PAGES = Number(opt('--pages', 40));
 const PER_WORK = Number(opt('--per-work', 16));
-const EASY_WORKS = Number(opt('--easy', 90)); // 前幾名人氣作品難度 1，其餘難度 2
+const EASY_WORKS = Number(opt('--easy', 120)); // 人氣前 N 名難度 1
+const MID_WORKS = Number(opt('--mid', 420)); // 到這個名次難度 2，其餘難度 3
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 const H = { 'user-agent': UA, 'accept-language': 'en-US,en;q=0.8' };
@@ -71,7 +72,7 @@ async function loadPopularity() {
 
 // ---------- 2. 單部作品頁 ----------
 async function loadPage(id) {
-  if (cache.pages[id]) return cache.pages[id];
+  if (cache.pages[id]?.v === 3) return cache.pages[id];
   const html = await get(`https://myanimelist.net/anime/${id}`);
   const english = dec(html.match(/title-english[^>]*>([^<]*)/)?.[1] || '');
   const romaji = dec(html.match(/<h1 class="title-name[^>]*><strong>([^<]*)/)?.[1] || '');
@@ -79,6 +80,7 @@ async function loadPage(id) {
   const aired = dec(html.match(/Aired:<\/span>\s*([^<]*)/)?.[1] || '');
   const year = Number(aired.match(/\b(19|20)\d{2}\b/)?.[0]) || 0;
   const type = dec(html.match(/Type:<\/span>\s*(?:<a[^>]*>)?([^<]*)/)?.[1] || '');
+  const members = Number((html.match(/Members:<\/span>\s*([\d,]+)/)?.[1] || '0').replace(/,/g, ''));
   // 前作（只追 Prequel，才能把各季合併到第一季）
   let prequel = null;
   const rel = html.match(/Prequel:<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/);
@@ -91,13 +93,14 @@ async function loadPage(id) {
     let seg = html.slice(i);
     const end = seg.indexOf('</table>\n    </div>');
     seg = seg.slice(0, end > 0 ? end : 20000);
-    for (const m of seg.matchAll(/<span class="theme-song-title">([\s\S]*?)<\/span>(?:<\/a>)?(?:<span class="theme-song-artist">([\s\S]*?)<\/span>)?/g)) {
-      const title = dec(m[1]).replace(/^"|"$/g, '');
-      const artist = dec(m[2] || '').replace(/^by\s+/i, '');
+    // 每一列：<td width="84%"> ... <span class="theme-song-artist">by X</span>；歌名可能有連結、也可能沒有，編號（1:）也可能沒有
+    for (const m of seg.matchAll(/<td width="84%">([\s\S]*?)<span class="theme-song-artist">([\s\S]*?)<\/span>/g)) {
+      const title = dec(m[1].replace(/<input[^>]*>/g, '').replace(/<span class="theme-song-index">[^<]*<\/span>/, '').replace(/<[^>]+>/g, '')).replace(/^"|"$/g, '');
+      const artist = dec(m[2]).replace(/^by\s+/i, '');
       if (title) themes[kind].push({ title, artist });
     }
   }
-  const page = { id, english, romaji, japanese, year, type, prequel, themes };
+  const page = { v: 3, id, english, romaji, japanese, year, type, members, prequel, themes };
   cache.pages[id] = page;
   if (Object.keys(cache.pages).length % 10 === 0) save();
   await sleep(1300);
@@ -142,13 +145,48 @@ async function loadZh(ids) {
   }
 }
 
+// ---------- 指定要加入的作品（data/seeds/mal-extra.txt：每行一個 MAL 編號或搜尋關鍵字）----------
+async function loadExtras() {
+  const f = path.join(SEED_DIR, 'mal-extra.list');
+  if (!existsSync(f)) return [];
+  cache.search = cache.search || {};
+  const ids = [];
+  for (const raw of readFileSync(f, 'utf8').split(/\r?\n/)) {
+    const line = raw.trim();
+    if (!line || line.startsWith('#')) continue;
+    if (/^\d+$/.test(line)) { ids.push(Number(line)); continue; }
+    if (!(line in cache.search)) {
+      try {
+        const res = await fetch('https://myanimelist.net/search/prefix.json?type=anime&keyword=' + encodeURIComponent(line) + '&v=1', { headers: H, signal: AbortSignal.timeout(30000) });
+        const j = await res.json();
+        const hit = (j.categories?.[0]?.items || [])[0];
+        cache.search[line] = hit ? Number(hit.id) : null;
+        console.log(`指定作品「${line}」→ ${hit ? hit.id + ' ' + hit.name : '找不到'}`);
+      } catch (e) {
+        console.warn('搜尋失敗：', line, e.message);
+      }
+      await sleep(1200);
+    }
+    if (cache.search[line]) ids.push(cache.search[line]);
+  }
+  save();
+  return ids;
+}
+
 // ---------- 主流程 ----------
 const popular = await loadPopularity();
 const MAX_CANDS = Number(opt('--max-cands', 420)); // 只處理人氣最高的前 N 個條目（各季算一個）
-const cands = popular
+const extraIds = await loadExtras();
+let cands = popular
   .filter((a) => a.year >= Y0 && a.year <= Y1 && (a.type === 'TV' || a.type === 'Movie'))
   .sort((a, b) => b.members - a.members)
   .slice(0, MAX_CANDS);
+for (const id of extraIds) {
+  if (cands.some((c) => c.id === id)) continue;
+  const pg = await loadPage(id);
+  cands.push({ id, title: pg.romaji, type: pg.type, year: pg.year, members: pg.members || 1 });
+}
+save();
 console.log(`符合年份/類型的作品共 ${cands.length} 部`);
 
 // 以第一季（root）為單位合併
@@ -162,7 +200,7 @@ for (const a of cands) {
   const page = await loadPage(a.id);
   let g = groups.get(root.id);
   if (!g) {
-    if (groups.size >= WORKS) continue;
+    if (groups.size >= WORKS && !extraIds.includes(a.id)) continue;
     g = { root, entries: [], members: 0 };
     groups.set(root.id, g);
   }
@@ -188,7 +226,7 @@ const songSeen = new Set(existing.flatMap((w) => w.songs.map((s) => norm(s.title
 const HEADER = '# 由 scripts/fetch-mal.mjs 自動產生（資料來源：MyAnimeList 人氣排行）。請勿手動編輯，要改請改其他歌單或 overrides。';
 const romajiTitle = (t) => {
   const m = t.match(/^(.*?)\s*\(([^()]*)\)\s*$/);
-  return m ? { ja: m[2].trim(), ro: m[1].trim() } : { ja: t.trim(), ro: '' };
+  return m ? { ja: m[2].split(';')[0].trim(), ro: m[1].trim() } : { ja: t.trim(), ro: '' };
 };
 
 // 以「日文標題前綴」合併各季／劇場版：例如「進撃の巨人 Season3」併入「進撃の巨人」
@@ -229,7 +267,7 @@ let totalWorks = 0;
 for (const c of canon.filter((x) => x.songs.length).sort((a, b) => a.rank - b.rank)) {
   totalWorks++;
   lines.push(`# ${c.header} | ${c.year}`);
-  const d = c.rank < EASY_WORKS ? 1 : 2;
+  const d = c.rank < EASY_WORKS ? 1 : c.rank < MID_WORKS ? 2 : 3;
   for (const s of c.songs.slice(0, PER_WORK)) { lines.push(s.line.replace('DIFF', `d=${d}`)); totalSongs++; }
   lines.push('');
 }

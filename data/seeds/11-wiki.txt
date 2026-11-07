@@ -1,0 +1,857 @@
+# 由 scripts/fetch-wiki.mjs 自動產生（資料來源：日文維基百科）。請勿手動編輯。
+
+# 通靈王（シャーマンキング） | 2001
+INSERT | ちみ・ちみMORYO -二経- Remix | BōZ | l=武井宏之 d=1
+INSERT | ファウスト・ラブ | ファウストVIII世 | l=武井宏之 d=1
+INSERT | BOB LOVE | BOB | l=武井宏之 d=1
+INSERT | りんごウラミウタ | あわやりんご | l=武井宏之 d=1
+INSERT | 恐山ル・ヴォワール | 林原めぐみ | l=武井宏之 d=1
+
+# 死神（BLEACH） | 2004
+OP | *〜アスタリスク〜 | ORANGE RANGE | l=ORANGE RANGE c=ORANGE RANGE d=1
+OP | D-tecnoLife | UVERworld | l=TAKUYA∞ c=TAKUYA∞ d=1
+OP | TONIGHT,TONIGHT,TONIGHT | BEAT CRUSADERS | l=ヒダカトオル d=1
+OP | アフターダーク | ASIAN KUNG-FU GENERATION | l=後藤正文 c=後藤正文と山田貴洋 d=1
+OP | CHU-BURA | KELUN | l=KELUN c=KELUN d=1
+OP | Velonica | Aqua Timez | l=太志 d=1
+OP | 少女S | SCANDAL | l=TOMOMI c=Yuichi Tajika d=1
+OP | アニマロッサ | ポルノグラフィティ | l=岡野昭仁 c=岡野昭仁 d=1
+OP | chAngE | miwa | l=miwa c=miwa d=1
+OP | 乱舞のメロディ | シド | l=マオ c=御恵明希 d=1
+OP | BLUE | ViViD | l=シン c=イヴ d=1
+OP | HARUKAZE | SCANDAL | l=SCANDALとNoriyasu Isshiki c=Noriyasu Isshiki d=1
+ED | サンキュー!! | HOME MADE 家族 | l=KUROとMICROとU-ICHI c=KUROとMICROとU-ICHIとTAKAHIRO WATANABE d=1
+ED | ほうき星 | ユンナ | l=佐藤永麻 d=1
+ED | happypeople | Skoop On Somebody | l=SOSと小林夏海 c=SOS d=1
+ED | マイペース | SunSet Swish | l=石田順三 c=石田順三 d=1
+ED | HANABI | いきものがかり | l=水野良樹 c=水野良樹 d=1
+ED | MOVIN!! | タカチャ | l=タカチャ c=タカチャ d=1
+ED | Baby It's You | JUNE | l=立田野純 c=オオヤギヒロオ d=1
+ED | 桜日和 | 星村麻衣 | l=星村麻衣 c=星村麻衣 d=1
+ED | 爪先 | オレスカバンド | l=たえさん c=いかす d=1
+ED | 橙 | チャットモンチー | l=橋本絵莉子 c=橋本絵莉子 d=1
+ED | 種をまく日々 | 中孝介 | l=鴨川義之 c=大坂孝之介 d=1
+ED | 感謝。 | RSP | l=RSPとAdamとAkira c=DJ TAKI-SHITとAdamとAkira d=1
+ED | ギャロップ | pe'zmoku | l=suzumoku c=Ohyama"B.M.W"Wataru d=1
+ED | ヒトヒラのハナビラ | ステレオポニー | l=AIMI c=AIMI d=1
+ED | Sky chord 〜大人になる君へ〜 | 辻詩音 | l=辻詩音 c=辻詩音 d=1
+ED | 君を守って 君を愛して | サンボマスター | l=山口隆 c=山口隆 d=1
+ED | Mad Surfer | 浅井健一 | l=浅井健一 c=浅井健一 d=1
+ED | さくらびと | SunSet Swish | l=石田順三 c=石田順三 d=1
+ED | 旅立つキミへ | RSP | l=kanako katoとRSP d=1
+ED | STAY BEAUTIFUL | Diggy-MO' | l=Diggy-MO' d=1
+ED | echoes | universe | l=haru c=haruと板垣祐介 d=1
+ED | Last Moment | SPYAIR | l=MOMIKEN c=UZ d=1
+ED | Song for... | ROOKiEZ is PUNK'D | l=SHiNNOSUKE c=ROOKiEZ is PUNK'D d=1
+ED | アオイトリ | fumika | l=田中秀典と大西省吾 c=大西省吾 d=1
+ED | ハルカカナタ | UNLIMITS | l=郡島陽子 c=清水葉子 d=1
+ED | Re:pray | Aimer | l=Jane Suと玉井健二 c=矢田亨 d=1
+ED | MASK | Aqua Timez | l=太志 c=太志 d=1
+
+# 浪客劍心（るろうに剣心） | 1996
+OP | 虹 | L'Arc〜en〜Ciel | l=hyde c=ken d=1
+ED | 永遠の未来 | タル | l=森雪之丞 c=山崎利明 d=1
+ED | 愛しさの糧 | 笠原弘子 | l=山田ひろし d=1
+ED | 七色の風 | 住岡梨奈 | l=駒沢すみ絵 d=1
+ED | feel you | 住岡梨奈 | l=住岡梨奈 c=COZZI d=1
+OP | 飛天 | Ayase×R-指定 | l=AyaseとR-指定 c=Ayase d=1
+OP | るろうの形代 | 菅田将暉×東京スカパラダイスオーケストラ | l=谷中敦 c=川上つよし d=1
+ED | 切っ先 | Reol | l=Reol c=Reol d=1
+ED | 存在証明 | KID PHENOMENON | l=辻村有記 d=1
+OP | いらないもの | キタニタツヤ×なとり | l=Tatsuya Kitaniとなとり c=Tatsuya Kitaniとなとり d=1
+OP | BURN | yama✕WurtS | l=WurtS c=WurtS d=1
+ED | 水光接天 | NOMELON NOLEMON | l=ツミキ c=ツミキ d=1
+ED | ただひとつ | ざらめ | l=ざらめとCHIMERAZ c=ざらめとCHIMERAZ d=1
+
+# 亂馬1/2（らんま1/2） | 1989
+OP | 許婚っきゅん | ano | l=あのと真部脩一 c=真部脩一 d=2
+ED | あんたなんて。 | りりあ。 | l=りりあ c=りりあ d=2
+OP | ウォーアイニー | 水曜日のカンパネラ | l=ケンモチヒデフミ c=ケンモチヒデフミ d=2
+ED | パンダガール | にしな | l=にしな c=にしな d=2
+OP | 素直未満 | ふみの | l=ふみの c=ふみのとSANGWOOと岡村夏彦 d=2
+ED | かわいくない | 『ユイカ』 | l=『ユイカ』 c=『ユイカ』 d=2
+
+# 輕音少女（けいおん!） | 2009
+INSERT | Maddy Candy | DEATH DEVIL | l=KANATA d=1
+INSERT | ラヴ | DEATH DEVIL | l=KANATA d=1
+
+# 吹響吧!上低音號（響け!ユーフォニアム） | 2015
+OP | サウンドスケープ | TRUE | l=唐沢美帆 c=渡辺拓也 d=2
+ED | ヴィヴァーチェ! | 北宇治カルテット | l=ZAQ c=ZAQ d=2
+OP | ReCoda | TRUE | l=唐沢美帆 c=トミタカズキ（SUPA LOVE） d=2
+ED | 音色の彼方 | 北宇治カルテット | l=ZAQ c=ZAQ d=2
+
+# 蟲師（蟲師） | 2005
+OP | SHIVER | ルーシー・ローズ |  d=2
+
+# 一拳超人（ワンパンマン） | 2015
+ED | 星より先に見つけてあげる | 森口博子 | l=畑亜貴 d=1
+ED | 悲しみたちを抱きしめて | 森口博子 | l=畑亜貴 d=1
+OP | Get No Satisfied! | JAM Project feat. BABYMETAL | l=影山ヒロノブ c=影山ヒロノブ d=1
+ED | そこに有る灯り | 古川慎 | l=磯谷佳江 c=本多友紀 d=1
+
+# JOJO的奇妙冒險（ジョジョの奇妙な冒険） | 2012
+OP | ジョジョ その血の記憶〜end of THE WORLD〜 | JO☆STARS〜TOMMY,Coda,JIN〜 | l=藤林聖子 c=田中公平 d=1
+ED | Last Train Home | Pat Metheny Group | l=Pat Methenyによる c=Pat Methenyによる d=1
+ED | アク役◇協奏曲 | オインゴ | l=田無夢太郎 d=1
+OP | 裏切り者のレクイエム | ハセガワダイスケ | l=藤林聖子 d=1
+ED | Freek'n You | Jodeci |  d=1
+ED | Modern Crusaders | Enigma | l=Michael Cretu・Carl Orffによる c=Michael Cretu・Carl Orffによる d=1
+OP | STONE OCEAN | ichigo from 岸田教団&THE明星ロケッツ | l=藤林聖子 c=河田孝男 d=1
+OP | Heaven's falling down | sana (sajou no hana) | l=藤林聖子 d=1
+ED | Distant Dreamer | Duffy | l=Butler Bernard・Aimee Anne Duffyによる c=Butler Bernard・Aimee Anne Duffyによる d=1
+OP | SPIN | Kroi | l=内田怜央 d=1
+ED | Dance with STEEL BALL RUN | 菅野祐悟作曲・編曲 |  d=1
+ED | 死ぬか生きるか | 千葉雄喜 | l=千葉雄喜 c=Lukasz Gottwald d=1
+
+# 妖精的尾巴（FAIRY TAIL） | 2009
+OP | Story | Da-iCE | l=和田颯と明神ナオ c=和田颯と明神ナオ d=1
+OP | Endless Happy-Ending | THE RAMPAGE | l=草野華余子 c=草野華余子 d=1
+ED | 友よ ここでサヨナラだ | 僕が見たかった青空 | l=秋元康 d=1
+ED | ties | 野田愛実 | l=野田愛実 c=野田愛実 d=1
+INSERT | Beyond the Quest | 高梨康治 featuring Noora Louhimo | l=若井望 c=高梨康治 d=1
+
+# 約會大作戰（デート・ア・ライブ） | 2013
+INSERT | Go☆サマーガール | 誘宵美九 |  d=2
+ED | Only wish | Luiza | l=渡部紫緒 d=2
+ED | Precious | RinamooN | l=渡部紫緒 d=2
+
+# 物語系列（化物語） | 2009
+ED | étoile et toi | クレモンティーヌ | l=meg rock c=神前暁 d=2
+ED | étoile et toi [édition le blanc] | Clementine&Ainhoa | l=meg rock c=神前暁 d=2
+
+# 紫羅蘭永恆花園（ヴァイオレット・エヴァーガーデン） | 2018
+INSERT | The Songstress Aria | TRUE | l=Evan Call c=Evan Call d=1
+
+# 青春豬頭少年不會夢到兔女郎學姊（青春ブタ野郎はバニーガール先輩の夢を見ない） | 2018
+ED | 不可思議のカルテ | 桜島麻衣 | l=児玉雨子 d=2
+INSERT | BABY! | スイートバレット | l=北澤ゆうほ c=北澤ゆうほ d=2
+OP | スノウドロップ | Conton Candy | l=Conton Candy c=Conton Candy d=2
+ED | 水平線は僕の古傷 | 広川卯月、赤城郁実、姫路紗良、霧島透子、岩見沢寧々 | l=児玉雨子 d=2
+INSERT | オトメノート」 / 「ミューズになっちゃう」 / 「超音波のメロディ | スイートバレット |  d=2
+INSERT | Social World piano arrange | 岩見沢寧々 | l=霧島透子 c=霧島透子 d=2
+INSERT | ミューズになっちゃう | スイートバレット | l=児玉雨子 d=2
+INSERT | オトメノート | スイートバレット | l=児玉雨子 d=2
+
+# 為美好世界獻上祝福（この素晴らしい世界に祝福を!） | 2016
+ED | おうちに帰りたい | 雨宮天・高橋李依・茅野愛衣の演じるアクア・めぐみん・ダクネス | l=佐藤良成による c=佐藤良成による d=1
+OP | Growing Up | Machico | l=園田健太郎 c=園田健太郎 d=1
+ED | あの日のままのぼくら | 雨宮天・高橋李依・茅野愛衣の演じるアクア・めぐみん・ダクネス |  d=1
+OP | STAY FREE | Machico | l=岩崎貴文 c=岩崎貴文 d=1
+ED | JUMP IN | めぐみん | l=YeYe c=YeYe d=1
+
+# 小林家的龍女僕（小林さんちのメイドラゴン） | 2017
+ED | イシュカン・コミュニケーション | ちょろゴンず | l=松井洋平 c=佐藤純一 d=2
+OP | 愛のシュプリーム! | fhána | l=林英樹 d=2
+ED | めいど・うぃず・どらごんず︎❤︎ | スーパーちょろゴンず | l=松井洋平 d=2
+ED | イシュカン♡リレーションシップ | トール | l=星銀乃丈 c=星銀乃丈 d=2
+OP | 涙のパレード | fhána | l=林英樹 d=2
+ED | 僕たちの日々 | 小林幸子 | l=Kanata Okajimaとyouth case c=Kanata Okajimaとyouth case d=2
+INSERT | ねがいごと | コトリンゴ | l=コトリンゴ d=2
+
+# 奧伯龍（オーバーロード） | 2015
+ED | L.L.L. | MYTH & ROID | l=MYTH & ROID c=MYTH & ROID d=1
+OP | GO CRY GO | OxT | l=hotaru c=大石昌良 d=1
+ED | HYDRA | MYTH & ROID | l=MYTH & ROID c=MYTH & ROID d=1
+ED | Silent Solitude | OxT | l=hotaru c=Tom-H@ck d=1
+ED | No Man’s Dawn | 前島麻由 | l=hotaru d=1
+INSERT | fallen | ラナー | l=hotaru c=Tom-H@ck d=1
+
+# 我的英雄學院（僕のヒーローアカデミア） | 2016
+INSERT | フラワーズ | ASIAN KUNG-FU GENERATION | l=後藤正文 c=後藤正文 d=1
+ED | Gift | Vaundy | l=Vaundy c=Vaundy d=1
+OP | けっかおーらい | こっちのけんと | l=こっちのけんと c=こっちのけんと とGRP d=1
+ED | スピード | yutori | l=浦山蓮 c=浦山蓮 d=1
+OP | CATCH!!! | すりぃ | l=すりぃ c=すりぃ d=1
+ED | ミス・ユー | シャイトープ | l=佐々木想 c=佐々木想 d=1
+
+# 黑色五葉草（ブラッククローバー） | 2017
+ED | 天上天下 | みゆな | c=佐伯ユウスケとみゆな d=2
+ED | My Song My Days | SOLIDEMO with 桜men | l=藤原優樹 c=和音&江上浩太郎 d=2
+ED | 花が咲く道 | THE CHARM PARK | l=THE CHARM PARK c=THE CHARM PARK d=2
+ED | against all gods | m-flo | l=m-flo c=m-flo d=2
+ED | 人生は戦場だ | 安斉かれん | l=Kalen Anzai c=Kazuhito KikuchiとTetsuya Yukumi d=2
+ED | New Page | INTERSECTION | l=INTERSECTION c=INTERSECTION d=2
+OP | Stories | Snow Man | l=HIKARI c=HIKARI d=2
+ED | A Walk | 梶原岳人 | l=加藤冴人とモリタコータ d=2
+OP | Grandeur | Snow Man | l=Atsushi Shimada & MiNE c=Tommy ClintとMiNEとAtsushi Shimada d=2
+OP | 消えない理由 | WANIMA | l=KENTA c=KENTA d=2
+ED | Yellow Brick Road | ONE OR EIGHT | l=BBY NABEとShiho TakahashiとYuta SakaiとNatrix c=Isak AlvedahlとBenAddict（벤에딕트）とScott Quinn, NILD d=2
+
+# 黑執事（黒執事） | 2008
+ED | I'm ALIVE! | BECCA | l=BECCA,Meredith Brooks c=TABO d=2
+OP | ENAMEL | シド | l=マオ c=御恵明希 d=2
+ED | 蒼き月満ちて | AKIRA | l=AKIRA SUOU d=2
+OP | 狂信者のパレード - The Parade of Battlers | 音羽-otoha- |  d=2
+ED | 贖罪 | シド |  d=2
+OP | MAISIE | Cö shu Nie feat. HYDE | l=HYDE c=HYDE d=2
+ED | WALTZ | 龍宮城 | l=薔薇園アヴ c=薔薇園アヴ d=2
+
+# 尤里!!! on ICE（ユーリ!!! on ICE） | 2016
+ED | You Only Live Once | YURI!!! on ICE feat. w.hatano | l=西寺郷太 c=彦田元気 d=1
+
+# 五等分的新娘（五等分の花嫁） | 2019
+OP | 五等分のカタチ | 中野家の五つ子 | l=武田将弥 c=武田将弥 d=2
+ED | はつこい | 中野家の五つ子 | l=結城アイラ c=Art Neco d=2
+OP | 五等分の未来 | 中野家の五つ子 | l=武田将弥 c=武田将弥 d=2
+ED | たからもの | 中野家の五つ子 | l=結城アイラ c=中村巴奈重 d=2
+OP | 五等分の笑顔 | 中野家の五つ子 | l=結城アイラ d=2
+OP | みなみかぜ | 中野家の五つ子 | l=結城アイラ d=2
+ED | サマーデイズ | 中野家の五つ子 | l=結城アイラ d=2
+
+# 炎炎消防隊（炎炎ノ消防隊） | 2019
+OP | 強火 | 女王蜂 | l=薔薇園アヴ c=薔薇園アヴ d=1
+ED | ウルサイレン | 梅田サイファー | l=梅田サイファー c=Cosaquと梅田サイファー d=1
+OP | Ignis -イグニス- | 西川貴教 | l=TOPHAMHAT-KYO d=1
+ED | Speak of the Devil | Survive Said The Prophet | l=Yosh c=Survive Said The ProphetとMatt Good d=1
+ED | 爆走夢歌 | Diggy-MO' | l=Diggy-MO' c=Diggy-MO' d=1
+
+# 輝夜姬想讓人告白（かぐや様は告らせたい） | 2019
+INSERT | やさしさの記憶 | maimie | l=くまのきよみ d=1
+INSERT | あなたの♡にヘッドショット！ | 國土佳音 | l=赤坂アカ d=1
+INSERT | 悲しくて lulululu | 早坂愛 | l=赤坂アカとくまのきよみ c=西田圭稀 d=1
+INSERT | 春色リップ | 告RADIO Loves 花守ゆみり | l=西田圭稀 c=西田圭稀 d=1
+INSERT | センチメンタルクライシス | halca | l=宮嶋淳子 d=1
+INSERT | ロマンティックマニフェスト | halca | l=宮嶋淳子 d=1
+INSERT | heart notes | 鈴木愛理 | l=meg rock d=1
+
+# 鬼滅之刃（鬼滅の刃） | 2019
+INSERT | 竈門禰󠄀豆子のうた | 椎名豪 featuring 中川奈美 | l=ufotable d=1
+ED | 勝利の鳴動 ～絆ノ奇跡 & 竈門禰󠄀豆子のうたREMIX～ | MAN WITH A MISSION×milet×椎名豪 |  d=1
+
+# 咒術迴戰（呪術廻戦） | 2020
+ED | LOST IN PARADISE feat.AKLO | ALI | l=LEOとLUTHFIとALEとALOLO c=ALIとAKLO d=1
+INSERT | Stand In The Darkness | Steve Memmolo | l=China d=1
+INSERT | REMEMBER | Masato (coldrain) | l=Masato d=1
+ED | 燈 | 崎山蒼志 | l=崎山蒼志 c=崎山蒼志 d=1
+ED | more than words | 羊文学 | l=塩塚モエカ c=塩塚モエカ d=1
+INSERT | 最高潮☆JUMPING! | 高田ちゃん | l=ミズノゲンキ c=照井順政と堤博明 d=1
+OP | AIZO | King Gnu | l=常田大希 c=常田大希 d=1
+ED | よあけのうた | jo0ji | l=jo0ji c=jo0ji d=1
+
+# 葬送的芙莉蓮（葬送のフリーレン） | 2023
+OP | 晴る | ヨルシカ | l=n-buna c=n-buna d=1
+ED | bliss | milet | l=milet d=1
+OP | lulu. | Mrs. GREEN APPLE | l=大森元貴 c=大森元貴 d=1
+ED | The Story of Us | milet | l=milet c=miletと野村陽一郎 d=1
+ED | Trace | milet | l=milet c=miletと野村陽一郎 d=1
+
+# 我推的孩子（【推しの子】） | 2023
+OP | ファタール | GEMN | l=Tatsuya Kitani c=Tatsuya Kitani d=1
+ED | Burning | 羊文学 | l=塩塚モエカ c=塩塚モエカ d=1
+OP | TEST ME | ちゃんみな | l=CHANMINA c=CHANMINAとRyosuke“Dr.R”Sakai d=1
+ED | セレナーデ | なとり | l=なとり c=なとり d=1
+INSERT | サインはB | B小町 | l=大石昌良 c=大石昌良 d=1
+INSERT | STAR☆T☆RAIN | B小町 | l=小野寺祐輔 c=小野寺祐輔 t=スター・ティー・レイン d=1
+INSERT | HEART's♡KISS -アイ Solo Ver.- | B小町アイ |  d=1
+INSERT | ぴえヨンブートダンス | ぴえヨン | l=ピヨす屋茶房 d=1
+INSERT | Full moon…！ | 有馬かな | l=JunPayer c=JunPayer d=1
+INSERT | ピーマン体操 | 有馬かな | l=Kijibato c=Kijibato d=1
+INSERT | POP IN 2 | ルビー | l=つむぎしゃち c=つむぎしゃち・久下真音 d=1
+INSERT | Bのリベンジ | ルビー | l=大石昌良 c=大石昌良 d=1
+
+# 膽大黨（ダンダダン） | 2024
+OP | 革命道中 | アイナ・ジ・エンド | l=アイナ・ジ・エンドとShin Sakiura c=アイナ・ジ・エンドとShin Sakiura d=2
+ED | どうかしてる | WurtS | l=WurtS c=WurtS d=2
+
+# 我獨自升級（俺だけレベルアップな件） | 2024
+ED | request | krage | l=TK（凛として時雨） c=TK（凛として時雨） d=2
+OP | ReawakeR | LiSA | l=Benjamin + cAnON. t=feat. Felix of Stray Kids d=2
+ED | UN-APEX | TK from 凛として時雨 | l=TK c=TK d=2
+
+# 瑪修爾（マッシュル-MASHLE-） | 2023
+OP | Knock Out | 岡崎体育 | l=岡崎体育 c=岡崎体育 d=1
+ED | シュークリーム・ファンク | フィロソフィーのダンス | l=COMiNUM, Kaz Kuwamura, Kentaro c=Kaz Kuwamura, Kentaro d=1
+ED | トーキョーズ・ウェイ！ | 私立恵比寿中学 | l=細井涼介・林武蔵 c=細井涼介・林武蔵 d=1
+
+# 地下城美食（ダンジョン飯） | 2024
+ED | Party!! | 緑黄色社会 | l=小林壱誓 c=小林壱誓 d=2
+OP | 運命 | sumika | l=片岡健太 c=片岡健太 d=2
+ED | キラキラの灰 | リーガルリリー | l=たかはしほのか c=たかはしほのか d=2
+
+# 國王排名（王様ランキング） | 2021
+OP | BOY | King Gnu | l=常田大希 c=常田大希 d=2
+ED | Oz. | yama | l=泣き虫☔︎ c=泣き虫☔︎ d=2
+OP | GOLD | PEOPLE 1 | l=Deu c=Deu d=2
+ED | あてもなく | Aimer | l=aimerrhythm c=飛内将大 d=2
+
+# 機動戰士鋼彈 水星的魔女（機動戦士ガンダム 水星の魔女） | 2022
+ED | 君よ 気高くあれ | シユイ | l=supercellのryo c=supercellのryo d=2
+OP | slash | yama | l=馬場龍樹 c=両名の共作 d=2
+ED | Red:birthmark | アイナ・ジ・エンド | l=TK c=TK d=2
+INSERT | 宝石の日々 | アイナ・ジ・エンド | l=アイナ・ジ・エンド c=アイナ・ジ・エンド d=2
+
+# 賽博龐克 邊緣行者（サイバーパンク エッジランナーズ） | 2022
+OP | This Fffire | Franz Ferdinand | l=Nick McCarthyとAlex Kapranos c=Nick McCarthyとAlex Kapranos d=2
+ED | Let You Down | Dawid Podsiadło | l=Dawid Podsiadło c=Dawid PodsiadłoとMagdalena Laskowska d=2
+
+# 文豪野犬（文豪ストレイドッグス） | 2016
+INSERT | TRASH CANDY | GRANRODEO | l=谷山紀章 d=2
+ED | 僕ら～芥川龍之介ver.～ | 芥川龍之介 |  d=2
+
+# 少女與戰車（ガールズ&パンツァー） | 2012
+ED | Enter Enter MISSION! | あんこうチーム | l=畑亜貴 c=矢吹香那 d=2
+INSERT | カチューシャ Sung by カチューシャ&ノンナ | カチューシャ | l=ミハイル・イサコフスキー c=マトヴェイ・ブランテル d=2
+INSERT | コサックの子守唄 | ノンナ | l=M・レールモントフ c=M・レールモントフ d=2
+INSERT | 雪の進軍 | エルヴィン | l=永井建子 c=永井建子 d=2
+INSERT | それゆけ! 乙女の戦車道!! | あんこうチーム | l=水島努 d=2
+OP | Grand symphony | 佐咲紗花の作詞・歌 |  d=2
+OP | Never Say Goodbye | ChouChoの作詞・作曲・歌 |  d=2
+ED | Enter Enter MISSION! 最終章 ver. | あんこうチーム | l=畑亜貴 c=矢吹香那 d=2
+INSERT | 大洗の海賊のうた | フリント | l=吉田玲子 c=水島努 d=2
+INSERT | おいらボコだぜ! | ボコ | l=吉田玲子 c=水島努 d=2
+OP | Nonstop Daydream | 佐咲紗花 × ChouCho | l=佐咲紗花 c=ChouCho d=2
+ED | おやすみなさいの続きです! | 西住みほ | l=松井洋平 d=2
+ED | いいえ!もっとLOVEでしょう?〜Can’t Stop Tank Love〜 | 家元シスターズ | l=松井洋平 d=2
+
+# 請問您今天要來點兔子嗎？（ご注文はうさぎですか?） | 2014
+INSERT | ハピネスアンコール | 「Petit Rabbit's」 | l=畑亜貴 c=木村有希 d=1
+INSERT | Hi Hi High☆ | シャロ | l=高瀬愛虹 d=1
+INSERT | 振り向けば月、いいえ団子。 | 千夜 | l=畑亜貴 d=1
+INSERT | 『ラビットハウスへ行こうよ♪』のうた | ココア | l=高瀬愛虹 c=大隈知宇 d=1
+INSERT | 木もれび青春譜 | チノ | l=磯谷佳江 d=1
+INSERT | しんがーそんぐぱやぽやメロディー | 「Petit Rabbit's with beans」 | l=畑亜貴 d=1
+
+# 魔法科高中的劣等生（魔法科高校の劣等生） | 2014
+OP | 101 | 三月のパンタシア | l=じん c=じん d=1
+ED | ダブル・スタンダード | フィロソフィーのダンス | l=SHOW d=1
+
+# 阿松（おそ松さん） | 2015
+INSERT | ちゃんとした合体のテーマ | 佐伯ユウスケ | l=橋本由香利 c=橋本由香利 d=2
+INSERT | イルカになった青年 | 佐伯ユウスケ | l=松原秀 d=2
+INSERT | マジック天使マジヘライッチー | 五條真由美 | l=橋本由香利 c=橋本由香利 d=2
+INSERT | Great Victory ～大いなる勝利～ | AIJ |  d=2
+INSERT | ネコとディスコとサカナ | 弱井トト子 | l=eNu d=2
+
+# NEW GAME!（NEW GAME!） | 2016
+OP | SAKURAスキップ | fourfolium | l=KOCHO d=2
+OP | 祈りの羽 | en | l=紘瀬さやか c=加藤賢二 d=2
+ED | Now Loading!!!! | fourfolium | l=烏屋茶房 c=和田たけあき d=2
+INSERT | CONTINUE...? | 涼風青葉 | l=ヒゲドライバー c=ヒゲドライバー d=2
+ED | JUMPin' JUMP UP!!!! | fourfolium | l=烏屋茶房 d=2
+ED | ユメイロコンパス | fourfolium | l=KOCHO d=2
+
+# 動物朋友（けものフレンズ） | 2017
+ED | ぼくのフレンド | みゆはんの作詞・作曲・歌 |  d=1
+
+# 幼女戰記（幼女戦記） | 2017
+OP | JINGO JUNGLE | MYTH & ROID |  d=2
+ED | 戦線のリアリズム | 新菜まこ | l=Heart's Cry c=Heart's Cry d=2
+OP | Why? RED induction | MYTH & ROID | l=MYTH & ROID c=MYTH & ROID d=2
+ED | Weiter! Weiter! | ターニャ・フォン・デグレチャフ | l=hotaru d=2
+INSERT | Imperial Anthem | 第二〇三航空魔導大隊の声優 |  d=2
+
+# 轉生史萊姆（転生したらスライムだった件） | 2018
+INSERT | 僕の中の君へ | TRUE | l=唐沢美帆 d=2
+OP | Storyteller | TRUE | l=唐沢美帆 d=2
+OP | Like Flames | MindaRyn | l=SACHIKO c=SACHIKO d=2
+ED | STORYSEEKER | STEREO DIVE FOUNDATION | l=R・O・N c=R・O・N d=2
+ED | Reincarnate | 寺島拓篤 | l=寺島 d=2
+INSERT | 黎明 | TRUE | l=唐沢美帆 d=2
+OP | ヒカリハナツ | 寺島拓篤 | l=寺島拓篤 d=2
+ED | ココロトラベル | 岡咲美保 | l=永塚健登 c=永塚健登 d=2
+OP | PEACEKEEPER | STEREO DIVE FOUNDATION | l=R・O・N c=R・O・N d=2
+OP | レナセールセレナーデ | ももいろクローバーZ | l=大森元貴 c=大森元貴 d=2
+ED | Believer | 来栖りん | l=Junxix. c=Junxix. d=2
+ED | Miracle soup | MindaRyn | l=SACHIKO c=SACHIKO d=2
+OP | 絵空事 | 藍井エイル | l=RUCCA d=2
+ED | 渇望 | CiON | l=シミズサチ d=2
+OP | TACTIC | Daoko | l=Daoko d=2
+ED | ヒムナル | 田所あずさ |  d=2
+INSERT | Walk on your way | 藍井エイル | l=R・O・N c=R・O・N d=2
+OP | Brand new diary | 熊田茜音 | l=寺島拓篤 d=2
+ED | カモナ・テンペスト！ | リムル | l=松井洋平 d=2
+ED | おやすみオレンジ | リムル | l=ミズノゲンキ d=2
+INSERT | ヨイハナビ | リムル | l=ミズノゲンキ d=2
+INSERT | Christmas Festa | エレン | l=ミズノゲンキ d=2
+INSERT | 浄歌 | TRUE | l=唐沢美帆 d=2
+INSERT | SPARKLES | STEREO DIVE FOUNDATION | l=R・O・N c=R・O・N d=2
+INSERT | レンアイノー | ARCANA PROJECT | l=ヤマモトショウ c=ヤマモトショウ d=2
+INSERT | 蒼刻 | ユラ | l=ミズノゲンキ d=2
+INSERT | Harmonics | STEREO DIVE FOUNDATION・ASH | l=R・O・N c=R・O・N d=2
+
+# 搖曳露營△（ゆるキャン△） | 2018
+ED | ふゆびより | 佐々木恵梨 | l=佐々木恵梨 d=1
+OP | Seize The Day | 亜咲花 | l=永塚健登 c=永塚健登 d=1
+ED | はるのとなり | 佐々木恵梨 | l=佐々木恵梨 d=1
+OP | レイドバックジャーニー | キミのね | l=つむぎしゃちと久下真音 d=1
+ED | So Precious | 亜咲花 | l=佐々木恵梨 d=1
+OP | ぶらんにゅ。 | 亜咲花 | l=久下真音 c=久下真音 d=1
+ED | 葉っぱの手紙 | 佐々木恵梨 | l=佐々木恵梨 d=1
+INSERT | この場所で。 | 屋内活動サークル |  d=1
+
+# SSSS.GRIDMAN（SSSS.GRIDMAN） | 2018
+ED | youthful beautiful | 内田真礼 | l=RIRIKO c=RIRIKO d=2
+
+# 工作細胞（はたらく細胞） | 2018
+OP | ミッション！ 健・康・第・イチ | 赤血球 | l=ゆうまお c=ゆうまお d=2
+ED | CheerS | ClariS | l=ハヤシケイ c=megane d=2
+OP | GO!GO!細胞フェスタ | 赤血球 | l=ゆうまお c=ゆうまお d=2
+ED | Fight!! | ClariS | l=KOH c=KOH d=2
+INSERT | ばんばん！ばばーん！ | 血小板 | l=ゆうまお c=ゆうまお d=2
+
+# 夜遊（よふかしのうた） | 2022
+OP | 堕天 | Creepy Nuts | l=R-指定 c=DJ松永 d=2
+INSERT | ロスタイム | Creepy Nuts | l=R-指定 d=2
+OP | Mirage | Creepy Nuts | l=R-指定 c=DJ松永 d=2
+ED | 眠れ | Creepy Nuts | l=R-指定 c=DJ松永 d=2
+
+# 莉可麗絲（リコリス・リコイル） | 2022
+OP | ALIVE | ClariS | l=重永亮介 c=重永亮介 d=2
+
+# 怪獸8號（怪獣8号） | 2024
+ED | Nobody | ONEREPUBLIC | l=Josh VarnadoreとRyan TedderとJoe HendersonとBrent KutzleとTyler Spry c=Josh VarnadoreとRyan TedderとJoe HendersonとBrent KutzleとTyler Spry d=2
+INSERT | Scream feat. (sic)boy | 坂東祐大と(sic)boy | l=(sic)boy c=坂東祐大と(sic)boy d=2
+INSERT | Warcry feat. 岡崎体育 | 坂東祐大と岡崎体育 | l=岡崎体育 d=2
+INSERT | Never Break Down feat. LEO今井 | 坂東祐大とLEO今井 | l=坂東祐大とLEO今井 d=2
+OP | You Can’t Run From Yourself | Aurora | l=Aurora AksnesとFredrik Svarbo c=Aurora AksnesとFredrik Svarbo d=2
+ED | Beautiful Colors | ONEREPUBLIC | l=Ryan TedderとBrent KutzleとJosh VarnadoreとJeff OwenとTyler Spry c=Ryan TedderとBrent KutzleとJosh VarnadoreとJeff OwenとTyler Spry d=2
+
+# 堀與宮村（ホリミヤ） | 2021
+ED | ドクロニンジャコノハ | 河野桜 | l=HERO c=松下英樹 d=1
+
+# Is It Wrong to Try to Pick Up Girls in a Dungeon?（ダンジョンに出会いを求めるのは間違っているだろうか） | 2015
+OP | Hey World | 井口裕香 | l=松尾潔 c=馬飼野康二 d=1
+OP | HELLO to DREAM | 井口裕香 | c=ヒロイズム d=1
+OP | over and over | 井口裕香 | c=御恵明希 d=1
+OP | 天灯 | sajou no hana | l=キタニタツヤ c=キタニタツヤ d=1
+OP | 視紅 | 早見沙織 | l=渡辺翔 c=渡辺翔 d=1
+OP | 少年 | GRe4N BOYZ | l=GRe4N BOYZ c=GRe4N BOYZ d=1
+ED | 君とボクの1日 | ヘスティア | l=分島花音 c=カヨコ d=1
+ED | ささやかな祝祭 | sora tob sakana |  d=1
+ED | トロピカッ☆バケーション | アイズ・ヴァレンシュタイン | l=うらん d=1
+ED | Evergreen | sajou no hana | c=渡辺翔 d=1
+ED | 男と女はラビリンス | ヘスティア | l=うらん d=1
+ED | Guide | 早見沙織 |  d=1
+ED | 切り傷 | sajou no hana | l=キタニタツヤ c=キタニタツヤ d=1
+ED | ハイドレート | sajou no hana | l=渡辺翔 c=渡辺翔 d=1
+INSERT | REALIZE 〜始まりのとき〜 | リリルカ・アーデ | l=うらん c=Rie d=1
+INSERT | 満月の調べ | サンジョウノ・春姫 | l=うらん c=高尾奏之介 d=1
+INSERT | 繭色 | sajou no hana | c=渡辺翔 d=1
+INSERT | Not meet doubt | リュー・リオン | l=マイクスギヤマ d=1
+OP | RE-ILLUSION | 井口裕香 | c=渡辺翔 d=1
+ED | day by day | 鹿乃 | l=鹿乃 d=1
+INSERT | 月鏡 | sana | l=陽月万葉 d=1
+
+# Kakegurui（賭ケグルイ） | 2017
+OP | ソノ乙女ム双 | 石川智久 |  d=1
+ED | Queens Bluff | i☆Ris | l=ARAKI c=ARAKI d=1
+
+# High School DxD（ハイスクールD×D） | 2012
+OP | Trip -innocent of D- | Larval Stage Planning | l=桐島愛里 c=C.G mix d=1
+ED | STUDY×STUDY | StylipS | l=こだまさおり d=1
+OP | Sympathy | Larval Stage Planning | l=朝見凛 c=C.G mix d=1
+ED | 方程式は答えない | オカルト研究部ガールズ［リアス・グレモリー | l=ZAQ c=ZAQ d=1
+OP | BLESS YoUr NAME | ChouCho | l=松井洋平 d=1
+ED | ギブミー・シークレット | StylipS | l=真崎エリカ c=宮崎まゆ d=1
+ED | おっぱいドラゴンの歌 | 兵藤一誠 | l=アザ☆ゼル c=サーゼクス・ルシファー d=1
+OP | SWITCH | Minamiの作詞・作曲・歌 |  d=1
+ED | モテないくせに | たぴみるの作詞・歌 | t=｀；ω；´ d=1
+
+# My Dress-Up Darling（その着せ替え人形は恋をする） | 2022
+INSERT | 君に伝えたいことがあるんだ | スピラ・スピカ | l=幹葉 c=寺西裕二 d=1
+INSERT | 片目のウィリー | 菅谷乃羽 | l=古川貴之 c=古川貴之 d=1
+INSERT | ロックンロールは鳴り止まないっ | 菅谷乃羽 | l=の子 c=の子 d=1
+
+# Goblin Slayer（ゴブリンスレイヤー） | 2018
+OP | Rightfully | Mili | l=momocashew c=momocashewとYamato Kasai d=1
+OP | Entertainment | Mili | l=Cassie Wei c=Cassie WeiとYamato Kasai d=1
+ED | 霞の向こうへ | 中島由貴 | l=敬也-amazuti- c=敬也-amazuti- d=1
+
+# Fate/stay night（Fate/stay night） | 2006
+INSERT | imitation | タイナカサチ | l=芳賀敬太 c=川井憲次 d=1
+INSERT | LAST STARDUST | Aimer | l=aimerrhythm c=飛内将大 d=1
+
+# 阿宅的戀愛太難（ヲタクに恋は難しい） | 2018
+OP | フィクション | 片岡健太作詞・作曲、sumika編曲・歌 |  d=1
+ED | Love or Respect | 桃瀬成海 | l=藤林聖子 d=1
+
+# 出租女友（彼女、お借りします） | 2020
+INSERT | 君を通して | 雨宮天 | l=やまし d=2
+OP | ヒミツ恋ゴコロ | CHiCO with HoneyWorks | l=HoneyWorks c=HoneyWorks d=2
+ED | 言えない feat.asmi | MIMiNARI | l=MIMiNARI c=MIMiNARI d=2
+INSERT | まみラップ | 七海麻美 | l=前山田健一 c=前山田健一 d=2
+INSERT | DATE | 水原千鶴 | l=前山田健一 c=前山田健一 d=2
+INSERT | 彼女宣言 | 更科瑠夏 | l=前山田健一 c=前山田健一 d=2
+INSERT | 桜selfish | 桜沢墨 | l=前山田健一 c=前山田健一 d=2
+INSERT | Favorite Lover | 水原千鶴 | l=前山田健一 c=前山田健一 d=2
+OP | 恋愛ミリフィルム | halca | l=北澤ゆうほ c=北澤ゆうほ d=2
+ED | エンドロール | Amber's | l=豊島こうき c=Amber's d=2
+OP | Umitsuki | ClariS | l=ClariS c=栗林悟と栗原暁 d=2
+ED | ぼくのベガ | リーガルリリー | l=たかはしほのか c=たかはしほのか d=2
+OP | ノンシナリオ・エチュード | 雨宮天 | l=雨宮天 c=雨宮天 d=2
+ED | 204号室 | なきごと | l=水上えみり c=水上えみり d=2
+
+# 只想告訴你（君に届け） | 2009
+OP | エトセトラ | imase |  d=2
+
+# Chivalry of a Failed Knight（落第騎士の英雄譚） | 2015
+INSERT | 覚醒の無意識 | 酒井ミキオ作詞・作曲・編曲・歌 |  d=2
+
+# Komi Can't Communicate（古見さんは、コミュ症です。） | 2021
+OP | シンデレラ | サイダーガール | l=Yurin c=Yurin d=2
+OP | 青100色 | 伊藤美来 | l=川本真琴 c=川本真琴 d=2
+ED | 小喋日和 | FantasticYouth | l=Onyu d=2
+
+# 給不滅的你（不滅のあなたへ） | 2021
+ED | Roots | 浜渦正志作曲・編曲 |  d=2
+OP | ふめつのあなた | Perfume | l=中田ヤスタカ c=中田ヤスタカ d=2
+ED | Recollections | 浜渦正志作曲・編曲 |  d=2
+
+# The God of High School（THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール） | 2020
+INSERT | It's Your Time | Chica | l=YOKI KANESAKAとShayne Holland d=2
+
+# Masamune-kun's Revenge（政宗くんのリベンジ） | 2017
+OP | ワガママMIRROR HEART | 大橋彩香 | l=真崎エリカ c=加藤裕介 d=2
+ED | まなざしサイレント | 安達垣愛姫 | l=真崎エリカ d=2
+INSERT | さよなら 大好きな人 | 藤ノ宮寧子 | l=こじまいづみ c=こじまいづみ d=2
+INSERT | 天城越え | 小岩井吉乃 | l=吉岡治 c=弦哲也 d=2
+INSERT | 笑顔deハダピュア! | 安達垣愛姫 | l=yuiko c=ラムシーニ d=2
+OP | Please, please! | 大橋彩香 | l=Kanata Okajima c=Kanata Okajimaとpw.a d=2
+ED | twilight little star | ChouCho | l=ChouCho c=ChouCho d=2
+
+# Blue Lock（ブルーロック） | 2022
+OP | Judgement | ASH DA HERO | l=ASH c=両者の共作 d=2
+ED | WINNER | 仲村宗悟 | l=仲村 c=仲村 d=2
+ED | Numbness like a ginger | UNISON SQUARE GARDEN | l=田淵智也 c=田淵智也 d=2
+OP | 傍若のカリスマ | UNISON SQUARE GARDEN | l=田淵智也 c=田淵智也 d=2
+ED | One | Snow Man | l=JUN (Blue Vintage) d=2
+
+# Grand Blue Dreaming（ぐらんぶる） | 2018
+ED | 紺碧のアル・フィーネ | 藤永龍太郎作詞、末益涼太作編曲 |  d=2
+OP | 青春永遠 | 湘南乃風 feat. 新しい学校のリーダーズ | l=湘南乃風とyonkeyと新しい学校のリーダーズ d=2
+ED | 裸でどつきあい | SEAMO feat. May'n | l=Naoki Takada c=Naoki TakadaとGiz'Mo(from Jam9) d=2
+
+# The Misfit of Demon King Academy（魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～） | 2020
+OP | SEIEN | Lenny code fiction | l=片桐航 c=片桐航 d=2
+ED | エソア | ももすももす | l=ももすももす c=ももすももす d=2
+OP | 魔王 | BURNOUT SYNDROMES×東山奈央 | l=熊谷和海 c=熊谷和海 d=2
+ED | シンゲツ | 楠木ともり | l=楠木ともり d=2
+
+# The Eminence in Shadow（陰の実力者になりたくて！） | 2022
+OP | grayscale dominator | OxT | l=hotaru d=2
+INSERT | Everything is Changing | 前島麻由 | l=川田まみ d=2
+
+# 狼與辛香料（狼と香辛料） | 2008
+OP | 蜜の夜明け | 新居昭乃 | l=新居 c=新居 d=2
+ED | Perfect World | ROCKY CHACK | l=岩里祐穂 c=山下太郎&noe d=2
+OP | 旅のゆくえ | Hana Hope | l=小西裕子 c=ぱやん d=2
+ED | アンダンテ | ClariS | l=長沢知亜紀と永野小織 d=2
+ED | りんごと君 | 音莉飴 | l=音莉飴 c=あかり（音莉飴）とbutter.D（MARUMOCHI） d=2
+
+# Tonikawa: Over The Moon For You（トニカクカワイイ） | 2020
+OP | 恋のうた | Yunomi | l=全てYunomiが担当しており c=全てYunomiが担当しており t=feat.由崎司 d=2
+ED | 月と星空 | カノエラナ | l=エンドウ. c=エンドウ. d=2
+OP | Tsukasa's♪ Kitchen | 由崎司 | l=PA-NON c=ペロ・Kohei Yokono d=2
+OP | 刹那の誓い | Neko Hacker | l=全てNeko Hackerが担当しており c=全てNeko Hackerが担当しており t=feat.由崎司 d=2
+ED | 夜のかたすみ | 由崎司 | l=エンドウ. c=エンドウ. d=2
+OP | plan | 早見沙織 | l=in the blue shirt c=in the blue shirt d=2
+ED | ぐるぐるライブ | 由崎司 | l=Chinozo c=Chinozo d=2
+
+# Arifureta: From Commonplace to World's Strongest（ありふれた職業で世界最強） | 2019
+OP | Unending Wish | Void_Chords feat. MindaRyn | l=Konnie Aoki d=2
+OP | Compass | Void_Chords feat. MindaRyn | l=Konnie Aoki d=2
+ED | The other story | DOBERMAN INFINITY |  d=2
+ED | Metamorphosis | iScream | l=Mayu Wakisaka c=Yui Mugino d=2
+
+# 不正經的魔術講師與禁忌教典（ロクでなし魔術講師と禁忌教典） | 2017
+ED | Precious You☆ | システィーナ | l=hotaru c=杉下トキヤ d=2
+
+# Monster Musume: Everyday Life with Monster Girls（モンスター娘のいる日常） | 2015
+INSERT | エブリデイけもみみ | ANM48 | l=中野愛子 d=2
+INSERT | ここだよ。 | 第7話挿入歌として使用されたUNDER17 | l=桃井はるこ c=桃井はるこ d=2
+INSERT | 狩りたかった | ANM48 | l=中野愛子 d=2
+
+# How Not to Summon a Demon Lord（異世界魔王と召喚少女の奴隷魔術） | 2018
+ED | 最悪な日でもあなたが好き。 | 芹澤優 | l=HoneyWorks c=HoneyWorks d=2
+OP | EVERYBODY! EVERYBODY! | 芹澤 優 with DJ KOO & MOTSU | l=MOTSU c=MOTSU d=2
+ED | YOU YOU YOU | 芹澤 優 with DJ KOO & MOTSU | l=MOTSU c=MOTSU d=2
+INSERT | 頑張っている君だから | シェラ | l=オオヤギヒロオ c=オオヤギヒロオ d=2
+
+# 地縛少年花子君（地縛少年花子くん） | 2020
+ED | With a Wish | 鬼頭明里 | l=Saku c=Saku d=2
+OP | かごめかごめ | オーイシマサヨシ | l=大石昌良 c=大石昌良 d=2
+ED | mo∞ent | 鬼頭明里 | l=Saku c=Saku d=2
+ED | 来い！濃い恋 | 八尋寧々 | l=オノシ（24chocolate） c=オノシ（24chocolate） d=2
+
+# 刮掉鬍子的我與撿到的女高中生（ひげを剃る。そして女子高生を拾う。） | 2021
+OP | おもいでしりとり | DIALOGUE+ | l=田淵智也（UNISON SQUARE GARDEN） c=田淵智也（UNISON SQUARE GARDEN） d=2
+
+# The Fruit of Grisaia（グリザイアの果実） | 2014
+OP | 幻想の輪舞 | 黒崎真音 |  d=2
+ED | サヨナラの惑星 | 南條愛乃 |  d=2
+ED | 涙流るるまま | 南條愛乃 |  d=2
+OP | ゼロ・イグニッション | 上杉真央 |  d=2
+ED | ダンデライオン | 南條愛乃 |  d=2
+ED | クロスバース | THE SIXTH LIE | c=Reiji d=2
+
+# The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat（世界最高の暗殺者、異世界貴族に転生する） | 2021
+INSERT | Dazzling | ディア | l=結城アイラ d=2
+INSERT | 甘い夢 | マーハ | l=結城アイラ d=2
+INSERT | For you | タルト | l=結城アイラ d=2
+
+# Given（ギヴン） | 2019
+OP | キヅアト | センチミリメンタル |  d=2
+INSERT | 冬のはなし | ギヴン |  d=2
+INSERT | 夜が明ける | ギヴン |  d=2
+
+# 擅長捉弄人的高木同學（からかい上手の高木さん） | 2018
+ED | 言わないけどね。 | 第1期オープニングテーマ。第2期第10話・第11話では高木さん |  d=2
+
+# The Case Study of Vanitas（ヴァニタスの手記） | 2021
+ED | 0 | LMYK | l=LMYK c=LMYK t=zero d=2
+OP | Your Name | Little Glee Monster |  d=2
+ED | salvation | モノンクル |  d=2
+
+# SK∞（SK∞ エスケーエイト） | 2021
+INSERT | Dimensions of the Wind | ASH DA HERO | l=Konnie Aoki d=2
+INSERT | Behind the Mask | Jon Underdown | l=Konnie Aoki d=2
+
+# Vampire Knight（ヴァンパイア騎士〈ナイト〉） | 2008
+OP | ふたつの鼓動と赤い罪 | ON/OFF | l=mavie c=黒須克彦 d=2
+OP | 輪廻-ロンド- | ON/OFF | l=間みおこ c=中野雄太 d=2
+ED | 砂のお城 | 分島花音 | l=分島花音 d=2
+
+# In Another World With My Smartphone（異世界はスマートフォンとともに。） | 2017
+OP | Another World | A応P | l=島崎貴光 c=島崎貴光 d=2
+OP | リアルダイヤモンド | Gemstone7 | l=坂田めぐみ d=2
+
+# Problem Children Are Coming from Another World, Aren't They?（問題児たちが異世界から来るそうですよ?） | 2013
+ED | To Be Continued? | 佐土原かおり | l=三浦誠司 c=大沢圭一 d=2
+ED | ぼくたちの星座 | 佐土原かおり | l=三浦誠司 c=Noda Akiko d=2
+INSERT | Beauty as the Beast | 佐土原かおり featuring 山形ユキオ | l=三浦誠司 c=酒匂謙一 d=2
+INSERT | Scarlet | 久遠飛鳥 starring ブリドカットセーラ恵美 | l=RUCCA c=雅大 d=2
+
+# BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.（痛いのは嫌なので防御力に極振りしたいと思います。） | 2020
+INSERT | Good Night | 佐々木李子 | l=徐賢眞と雨野どんぐり c=徐賢眞 d=2
+OP | この盾に、隠れます。 | 純情のアフィリア | l=志倉千代丸 c=志倉千代丸 d=2
+ED | Step for Joy | FRAM | l=東乃カノ d=2
+INSERT | As You Wish | FRAM | l=姜藝利 d=2
+INSERT | Scutum | FRAM | l=姜藝利 d=2
+
+# My First Girlfriend is a Gal（はじめてのギャル） | 2017
+ED | GAL的LOVE | エラバレシ | l=尾藤琉星 c=志倉千代丸 t=ギャルチックラブ d=2
+
+# 月色真美（月がきれい） | 2017
+INSERT | やさしい気持ち | 東山奈央 | l=Chara c=Chara d=2
+INSERT | 3月9日 | 東山奈央 | l=藤巻亮太 c=藤巻亮太 d=2
+INSERT | 旅立ちの日に | 川越市立第三中学3年1組 | l=小嶋登 c=坂本浩美 d=2
+INSERT | fragile | 東山奈央 | l=持田香織 c=菊池一仁 d=2
+INSERT | 未来へ | 東山奈央 | l=玉城千春 c=玉城千春 d=2
+
+# Oreshura（俺の彼女と幼なじみが修羅場すぎる） | 2013
+OP | Girlish Lover | ? | l=小田倉奈知 c=太田雅友 d=2
+
+# Welcome to Demon School! Iruma-kun（魔入りました！入間くん） | 2019
+INSERT | クララランド〜奇跡のちゅちゅちゅ〜 | 仲良し満タン！ウァラク一家 | l=大島のぞむ d=2
+INSERT | キミの小悪魔黙示録 | くろむ | l=西修 d=2
+INSERT | ロノウェのミュージカル」 / 「太陽のロロロロロノウェ | ロノウェ・ロミエール | l=大島のぞむと西修（3番は筆安一幸と西修） c=本間昭光 d=2
+INSERT | 魔イ魔イティーチャー | ウァラク一家 | l=加藤還一 c=本間昭光 d=2
+INSERT | 恋する乙女は最強無敵 | くろむ | l=西修 d=2
+INSERT | ガヤガヤ森はスーパー魔ーけっと | ウァラク一家 | l=大島のぞむ c=本間昭光 d=2
+INSERT | クララの子守歌 | ウァラク・クララ | l=大島のぞむ d=2
+INSERT | おもちゃの国のビーナス | ウァラク・クララ | l=大島のぞむ d=2
+INSERT | レジェンドリーフみつけ歌 | 森のケモノたち | l=西修 d=2
+INSERT | トモダチの背中 | 朝井彩加 | l=筆安一幸 d=2
+INSERT | リリス・カーペット | 問題児 | l=西修と大島のぞむ c=本間昭光と関向弥生 d=2
+INSERT | ハウェーヤー・ソング | イルマくんをお祝いし隊 | l=加藤還一 c=本間昭光 d=2
+INSERT | ロックンロール・デビウォッチャー | ギャリー | l=西修 c=本間昭光 d=2
+INSERT | キミの小悪魔黙示録 ロックver. | くろむ | l=西修 c=本間昭光 d=2
+
+# 和山田談場Lv999的戀愛（山田くんとLv999の恋をする） | 2023
+OP | ぐらでーしょん feat. 北澤ゆうほ | KANA-BOON | l=谷口鮪 c=谷口鮪 d=2
+
+# Tsukimichi: Moonlit Fantasy（月が導く異世界道中） | 2021
+OP | ギャンブル | syudou | l=syudou c=syudou d=2
+OP | ユートピア | 須田景凪 | l=須田景凪 c=須田景凪 d=2
+ED | My Factor | 伊東健人 | l=常楽寺澪 c=石黑剛と常楽寺澪 d=2
+OP | リヴァーサル | syudou | l=syudou c=syudou d=2
+ED | 常識外れヒューマン | 前田佳織里 | l=田仲圭太 c=田仲圭太 d=2
+
+# Death March to the Parallel World Rhapsody（デスマーチからはじまる異世界狂想曲） | 2018
+OP | スライドライド | Run Girls, Run! | l=只野菜摘 d=2
+INSERT | 美少女天使マジカルローズ | ポチ | l=吉田詩織 d=2
+
+# Gachiakuta（ガチアクタ） | 2025
+OP | LET’S JUST CRASH | Mori Calliope | l=Mori Calliopeとsyudou d=2
+
+# 比宇宙更遠的地方（宇宙よりも遠い場所） | 2018
+OP | The Girls Are Alright! | saya | l=ミト c=ミト d=2
+INSERT | ハルカトオク」 / 「宇宙を見上げて」 / 「またね | saya | l=藤澤慶昌 c=藤澤慶昌 d=2
+INSERT | フォローバックが止まらない | 白石結月 | l=emon d=2
+INSERT | One Step | 玉木マリ | l=ゆよゆっぺ c=ゆよゆっぺ d=2
+
+# Hinamatsuri（ヒナまつり） | 2018
+INSERT | エンジェル〜翼は砕けてもまた生える〜 | CENTRAL PARK | l=山本アツシ（大武政夫） c=三澤康広 d=2
+
+# Sakamoto Days（SAKAMOTO DAYS） | 2025
+OP | 走れSAKAMOTO | Vaundy | l=Vaundy c=Vaundy d=2
+OP | Method | Kroi | l=内田怜央 d=2
+
+# In/Spectre（虚構推理） | 2020
+INSERT | 火炎放射器とわたし | 七瀬かりん | l=桑原永江と漫画版作者の片瀬茶紫 d=2
+OP | ヨトギバナシ | カノエラナ | l=カノエラナ c=カノエラナ d=2
+ED | Invincible Love | 宮野真守 | l=Amon Hayashi c=$ÜN (SUN) d=2
+
+# 宇崎學妹想要玩！（宇崎ちゃんは遊びたい！） | 2020
+OP | いちごいちえ Celebration | 鹿乃と宇崎ちゃん | l=田代智一 d=2
+ED | はっぴーらいふ | MKLNtic | l=chinozo c=chinozo d=2
+
+# Land of the Lustrous（宝石の国） | 2017
+OP | 鏡面の波 | YURiKA | l=照井順政 c=照井順政 d=2
+ED | 鏡面の波[Orchestra Ver.] | 第12話でのみ使用されたYURiKA | l=照井順政 c=照井順政 d=2
+
+# 奇巧計程車（オッドタクシー） | 2021
+OP | ODDTAXI | スカートとPUNPEE | l=スカートとPUNPEE c=スカートとPUNPEE d=2
+
+# 轉生成蜘蛛又怎樣！（蜘蛛ですが、なにか？） | 2021
+ED | がんばれ！蜘蛛子さんのテーマ | 「私」 | l=烏屋茶房 d=2
+ED | 現実凸撃ヒエラルキー | 「私」 | l=hotaru d=2
+
+# My Next Life as a Villainess: All Routes Lead to Doom!（乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…） | 2020
+ED | BAD END | 蒼井翔太 | l=荘野ジュリ c=鈴木エレカ d=2
+INSERT | 君の影、オレンジの空 | angela | l=atsuko c=両者の共同による d=2
+OP | アンダンテに恋をして！ | angela | l=atsuko c=両者の共作 d=2
+ED | give me ♡ me | 蒼井翔太 | l=leonn c=日比野裕史 d=2
+INSERT | あなたがくれたヒカリ | angela | l=atsuko c=両者の共同による d=2
+
+# 薰香花朵凜然綻放（薫る花は凛と咲く） | 2025
+OP | まなざしは光 | キタニタツヤ | l=Tatsuya Kitani c=Tatsuya Kitani d=2
+
+# The Tatami Galaxy（四畳半神話大系） | 2010
+ED | ラブマゲドン | シナリオアート | l=ハヤシコウスケ c=シナリオアート d=2
+
+# Shangri-La Frontier（シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～） | 2023
+ED | ガジュマル 〜Heaven in the Rain〜 | ReoNa | l=ReoNaとハヤシケイ c=毛蟹 d=2
+INSERT | 鉄打ち唄 | ヴァイスアッシュ |  d=2
+OP | QUEEN | LiSA | l=MAQUMA c=HONNWAKA88とLiSA d=2
+ED | 闇夜のダンサー -Dancer in the Dark Night | 音羽-otoha- | l=音羽-otoha- c=音羽-otoha- d=2
+OP | Frontiers | Awich | l=Awich c=Chaki Zulu d=2
+ED | realitYhurts. | CVLTE | l=aviel kaei c=aviel kaei d=2
+
+# Wind Breaker（WIND BREAKER） | 2024
+OP | BOYZ | SixTONES | l=Ryo″tono″Nakamura c=Ryo″tono″Nakamura d=2
+ED | It’s myself | シャイトープ | l=佐々木想 c=佐々木想 d=2
+
+# We Never Learn: BOKUBEN（ぼくたちは勉強ができない） | 2019
+OP | Can now, Can now | Study | l=園田健太郎 c=園田健太郎 d=2
+ED | 放課後のリバティ | halca | l=宮嶋淳子 d=2
+ED | 関係≧方程式 | Study | l=橋本由香利 c=橋本由香利 d=2
+INSERT | ワンダー・ピュアマジック! | 川瀬あゆ子 | l=西田圭稀 c=西田圭稀 d=2
+INSERT | 星空のプレリュード | 武元うるか | l=西田圭稀 c=西田圭稀 d=2
+
+# World Trigger（ワールドトリガー） | 2014
+OP | Force | TOMORROW X TOGETHER | l=大森元貴 c=大森元貴 d=2
+ED | 未来永劫 | 神はサイコロを振らない | l=柳田周作 c=柳田周作 d=2
+OP | タイムファクター | 神はサイコロを振らない | l=柳田周作 c=柳田周作 d=2
+ED | 雲外憧憬 | FantasticYouth | l=Onyu d=2
+
+# The Angel Next Door Spoils Me Rotten（お隣の天使様にいつの間にか駄目人間にされていた件） | 2023
+OP | 君は恋人 | オーイシマサヨシ | l=大石昌良 c=大石昌良 d=2
+ED | うれしい!たのしい!大好き! | 椎名真昼 | l=吉田美和 c=吉田美和 d=2
+ED | ヘビーローテーション | 歌：椎名真昼 | l=秋元康 c=山崎燿 d=2
+
+# How a Realist Hero Rebuilt the Kingdom（現実主義勇者の王国再建記） | 2021
+INSERT | Give a reason | ジュナ・ドーマ | l=有森聡美 c=佐藤英敏 d=2
+INSERT | 港町の子守唄 | ジュナ・ドーマ | l=どぜう丸 c=夢見クジラ d=2
+INSERT | ワタリドリ | ジュナ・ドーマ | l=吉田詩織 c=金子麻友美 d=2
+INSERT | 原野の風 | パミーユ・キャロル | l=吉田詩織 c=ANDW d=2
+INSERT | ゴルドアの谷を越えて | マルガリタ・ワンダー | l=どぜう丸 d=2
+
+# Golden Kamuy（ゴールデンカムイ） | 2018
+OP | レイメイ | さユり & MY FIRST STORY | l=さユりとHiro c=さユりとSho d=2
+ED | 時計台の鐘 | eastern youth | l=吉野寿 d=2
+OP | Grey | FOMARE | l=アマダシンスケと田中秀典 c=FOMARE d=2
+ED | 融雪 | THE SIXTH LIE | l=Ray c=Reiji d=2
+OP | NEVER SAY GOODBYE feat. Mummy-D | ALI | l=LUTHFI c=LEO d=2
+ED | すべてがそこにありますように。 | THE SPELLBOUND | l=THE SPELLBOUND c=THE SPELLBOUND d=2
+OP | 黄金の彼方 | Awich & ALI | l=Awich c=Chaki Zulu d=2
+ED | The Ballad | Ken Yokoyama | l=Ken c=Ken d=2
+
+# Witch Hat Atelier（とんがり帽子のアトリエ） | 2026
+OP | 風のアンセム feat. suis from ヨルシカ | Eve | l=Eve c=Eve d=2
+
+# 玉子市場（たまこまーけっと） | 2013
+OP | ドラマチックマーケットライド | 北白川たまこ | l=藤本功一 c=片岡知子 d=2
+
+# Seirei Gensouki: Spirit Chronicles（精霊幻想記） | 2021
+OP | アウフタクト | 大西亜玖璃 | l=鶴﨑輝一 c=鶴﨑輝一 d=2
+ED | 春待歌 | 諏訪ななか | l=hisakuni d=2
+
+# The Dangers in My Heart（僕の心のヤバイやつ） | 2023
+OP | 僕は… | あたらよ | l=ひとみ c=ひとみ d=2
+ED | 恋してる自分すら愛せるんだ | こはならむ | l=タカノシンヤとKERENMI c=KERENMI d=2
+INSERT | 神様の秒針を壊した | こはならむ | l=タカノシンヤとKERENMI c=KERENMI d=2
+INSERT | 春となり | あたらよ | l=ひとみ c=ひとみとSoma Genda d=2
+INSERT | つづく -Movie Version- | Primary COLOR | l=桜井のりお c=中嶋イッキュウ d=2
+
+# 持續狩獵史萊姆三百年，不知不覺就練到LV MAX（スライム倒して300年、知らないうちにレベルMAXになってました） | 2021
+INSERT | ありがとう | クク | l=森田季節とUyu d=2
+OP | So☆Lucky | 小倉唯 | l=小倉唯 d=2
+ED | イニミニマニモ | 大西亜玖璃 | c=habana d=2
+ED | 生まれ変わろうと | アズサ | l=マイクスギヤマ d=2
+INSERT | MAD ODD WOO | ペコラ | l=マイクスギヤマ d=2
+
+# Non Non Biyori（のんのんびより） | 2013
+OP | あおのらくがき | nano.RIPE | l=きみコ c=きみコ d=2
+ED | おもいで | 宮内れんげ | l=ZAQ c=ZAQ d=2
+
+# 夫婦以上，戀人未滿（夫婦以上、恋人未満。） | 2022
+OP | TRUE FOOL LOVE | Liyuu | l=TAKUYA c=TAKUYA d=2
+
+# Love and Lies（恋と嘘） | 2017
+ED | Can’t you say | Roys作詞・作曲・歌唱 |  d=2
+
+# 異世界歸來的舅舅（異世界おじさん） | 2022
+INSERT | みっつの祠の民謡 | メイベル | l=殆ど死んでいる c=うたたね歌菜 d=2
+INSERT | Star Light Zone | メイベル | c=中村正人 d=2
+INSERT | DREAMS DREAMS:Mabel Ver | メイベル | l=ササキトモコ c=ササキトモコ d=2
+INSERT | 解けない魔法 | 井口裕香 | l=PA-NON c=amazuti d=2
+
+# 流汗吧！健身少女（ダンベル何キロ持てる？） | 2019
+OP | お願いマッスル | 紗倉ひびき | l=サイドチェスト烏屋 c=サイドチェスト烏屋とシックスパック篠崎 d=2
+
+# Girlfriend, Girlfriend（カノジョも彼女） | 2021
+OP | ドラマチックに恋したい | 小玉ひかり | l=小玉ひかり c=小玉ひかり d=2
+ED | ふぉりら | ClariS | l=重永亮介 c=重永亮介 d=2
+
+# Wistoria: Wand and Sword（杖と剣のウィストリア） | 2024
+OP | BELIEVERS | ASH DA HERO | l=ASH c=ASH d=2
+ED | リーチライト | シユイ | l=水野あつ c=水野あつと雪乃イト d=2
+
+# 怪物事变（怪物事変） | 2021
+ED | -標- | 佐咲紗花 | l=佐咲 d=2
+
+# The Detective Is Already Dead（探偵はもう、死んでいる。） | 2021
+INSERT | 九星号は急停車！」「さふぁいあ☆ふぁんたずむ」「らずべりー×ぐりずりー | 斎川唯 | l=Nor c=Nor d=2
+OP | この心臓に花束を | 心梅 | l=40mP c=40mP d=2
+ED | 白昼夢 | カグラナナ | l=40mP c=40mP d=2
+
+# 未確認進行式（未確認で進行形） | 2014
+INSERT | ほんとのきもち | 夜ノ森小紅 | l=小寺可南子 d=2
+
+# 超超超超超喜歡你的100個女朋友（君のことが大大大大大好きな100人の彼女） | 2023
+OP | ありがと、大好きになってくれて | 恋太郎ファミリー | l=安藤紗々 d=2
+ED | Unmei? | 原賀胡桃 | l=安藤紗々 d=2
+INSERT | Love Love 妄想パレード | 花園羽香里 | l=万登香 d=2
+INSERT | Daybreak embers | 院田唐音 | l=Mitsu（TRYTONELABO） d=2
+INSERT | ずっと、ぎゅっと | 好本静 | l=Mitsu（TRYTONELABO） d=2
+INSERT | 星彩予報 | 栄逢凪乃 | l=ミズノゲンキ d=2
+INSERT | ペン太郎の大！大！大冒険 | 薬膳楠莉 | l=ふじのマナミ（TRYTONELABO） d=2
+INSERT | drowning in deep love | 花園羽々里 | l=Manami（TRYTONELABO） d=2
+INSERT | HANGREED!! | 原賀胡桃 | l=ミズノゲンキ d=2
+INSERT | この出会いに花束を | 銘戸芽衣 | l=eNu d=2
+INSERT | 最高最強splash | 須藤育 | l=eNu d=2
+OP | 大好き♡ずっと永遠に♡ | 恋太郎ファミリー | l=安藤紗々 c=田淵智也と滝澤俊輔と山本真央樹 d=2
+ED | 来れ恋・至れ愛 | 恋太郎ファミリー | l=安藤紗々 c=Neko Hackerとebaと睦月周平と田淵智也 d=2
+INSERT | きゅんチ♡！ | 恋太郎ファミリー | l=安藤紗々 c=Neko Hacker d=2
+INSERT | HAKOBUNE ～100人のっても大丈夫～ | 恋太郎ファミリー | l=安藤紗々 c=山本真央樹 d=2
+INSERT | 本気グループのうた | 設楽哲也 | l=安藤紗々 d=2
+
+# Tying the Knot with an Amagami Sister（甘神さんちの縁結び） | 2024
+ED | 神様の言うとーり！ | ≠ME | l=指原莉乃 d=2
+
+# 聲優廣播的幕前幕後（声優ラジオのウラオモテ） | 2024
+INSERT | 揺れ恋ゆららか！ | 歌種やすみ | l=広川恵一（MONACA） c=広川恵一（MONACA） d=2
+INSERT | さくらいろ | ハートタルト | l=広川恵一（MONACA） c=広川恵一（MONACA） d=2
+INSERT | 君と指を絡めて | 佐藤由美子 | l=黒木人生 d=2
