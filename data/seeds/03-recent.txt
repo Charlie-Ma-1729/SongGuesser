@@ -22,7 +22,7 @@ OP | 喜劇 | 星野源
 
 # 孤獨搖滾!（ぼっち・ざ・ろっく!） | 2022
 OP | 青春コンプレックス | 結束バンド
-INSERT | ギターと孤独と蒼い惑星 | 結束バンド
+INSERT | ギターと孤独と蒼い惑星 | 結束バンド | t=Guitar, Loneliness and Blue Planet/Guitar to Kodoku to Aoi Wakusei
 INSERT | あのバンド | 結束バンド d=2
 
 # 葬送的芙莉蓮（葬送のフリーレン） | 2023
@@ -65,7 +65,7 @@ ED | I Really Want to Stay at Your House | Rosa Walton d=2
 
 # 四月是你的謊言（四月は君の嘘） | 2014
 OP | 光るなら | Goose house
-OP | ナナイロ・シンフォニー | coalamode.
+OP | ナナイロ・シンフォニー | coalamode. | t=Nanairo Symphony
 ED | オレンジ | 7!! d=2
 
 # 麻辣教師 GTO（GTO） | 1999
@@ -85,7 +85,7 @@ OP | 空想メソロギヰ | 妖精帝國 d=2
 OP | Chase the world | May'n d=2
 
 # 文豪野犬（文豪ストレイドッグス） | 2016
-OP | トラッシュ・キャンディ | GRANRODEO | q=Trash Candy GRANRODEO 文豪ストレイドッグス d=2
+OP | トラッシュ・キャンディ | GRANRODEO | t=Trash Candy d=2
 
 # 聲之形（聲の形） | 2016
 INSERT | 恋をしたのは | aiko d=2

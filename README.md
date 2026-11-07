@@ -13,6 +13,7 @@
 | `空白鍵` | 播放中 → 揭曉答案；揭曉後 → 下一題 |
 | `R` | 重播這一題的片段 |
 | `→` | 跳過這題（不計入題數） |
+| `X` | 回報這題有問題（例如開頭不是音樂）：立刻跳過，之後在這台瀏覽器不再出現 |
 
 設定畫面可選題數、播放長度、難度、同一作品最多出幾首、歌曲類型。
 
@@ -39,7 +40,7 @@ npx serve .
 ```
 data/seeds/*.txt          歌單（以作品為單位，每首歌一行）
         │  node scripts/resolve.mjs   自動搜尋 YouTube、驗證可嵌入 → data/cache/resolved.json
-        │  node scripts/enrich.mjs    從日文維基百科補作詞／作曲（可選）→ data/cache/credits.json
+        │  data/seeds/credits.tsv     以歌名補作詞／作曲（歌單沒填的才會補）
         │  data/overrides.json        手動調整（起點秒數、停用）
         ▼  node scripts/build.mjs
 data/anime.json           遊戲實際讀取的題庫
@@ -56,8 +57,9 @@ OST | 竈門炭治郎のうた | 椎名豪 feat. 中川奈美
 
 - `# 作品中文（日文） | 年份` 開始一部作品；同一部作品可以有多首歌
 - 歌曲行：`類型 | 歌名 | 演唱 | 選填欄位`，類型為 `OP` / `ED` / `INSERT` / `OST`
-- 選填欄位：`l=作詞` `c=作曲` `a=編曲` `q=自訂 YouTube 搜尋字` `d=難度`（1 全民熟知，2 普通）
+- 選填欄位：`l=作詞` `c=作曲` `a=編曲` `q=自訂 YouTube 搜尋字` `t=別名/別名`（影片標題可能用的其他寫法，如英文名）`d=難度`（1 全民熟知，2 普通）
 - 演唱寫 `?` 代表不確定
+- 作詞／作曲也可以寫在 `data/seeds/credits.tsv`（`歌名|作詞|作曲|編曲`，沒有的填 `-`）；詞曲不是必填，沒有的欄位揭曉時不會顯示
 
 ### 新增題目
 
@@ -66,7 +68,6 @@ OST | 竈門炭治郎のうた | 椎名豪 feat. 中川奈美
 
 ```bash
 node scripts/resolve.mjs     # 只會處理新加的歌；--retry-failed 重試失敗的
-node scripts/enrich.mjs      # 補詞曲（可選）
 node scripts/build.mjs       # 產生 data/anime.json
 ```
 
@@ -76,13 +77,13 @@ node scripts/build.mjs       # 產生 data/anime.json
 
 開 `preview.html`（需 http 伺服器）：逐首試聽、修改起點秒數（或在播放中按「設為目前位置」）、停用有問題的題目。按「複製 overrides.json」貼進 `data/overrides.json`，再跑 `node scripts/build.mjs` 就會永久生效（不會被重新建置覆蓋）。
 
-> 自動決定的起點只是估計（約落在歌曲前段的副歌附近），有些歌可能剛好是安靜的前奏——用 `preview.html` 修正即可。
+> 起點優先取 YouTube「最多重播」的高峰；沒有資料的才用估計值（`preview.html` 勾「只看需確認的」就是這些）。有些歌可能剛好落在安靜的前奏——用 `preview.html` 修正即可。
 
 ## 已知限制
 
 - 影片來自 YouTube，日後若被刪除、設為私人或禁止嵌入，遊戲會自動跳過那一題；可重新執行 `resolve.mjs --force` 更新
 - 部分影片開頭可能有 YouTube 廣告（取決於影片與使用者帳號）
-- 詞曲唱資料來自歌單與維基百科，冷門歌曲可能缺漏，缺的欄位揭曉時不會顯示
+- 詞曲唱資料來自歌單與 `credits.tsv`，不是每首都有；缺的欄位揭曉時不會顯示
 - 手機／平板第一次播放需要點擊畫面（瀏覽器自動播放限制）
 
 ## 之後可擴充

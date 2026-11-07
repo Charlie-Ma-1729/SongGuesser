@@ -17,11 +17,11 @@ ED | 風の谷のナウシカ | 安田成美 d=2
 # 神隱少女（千と千尋の神隠し） | 2001
 ED | いつも何度でも | 木村弓 | l=覚和歌子 c=木村弓
 OST | One Summer's Day | 久石譲 | c=久石譲
-OST | 竜の少年 | 久石譲 | c=久石譲 d=2
+OST | 竜の少年 | 久石譲 | c=久石譲 t=Dragon Boy/The Dragon Boy d=2
 
 # 哈爾的移動城（ハウルの動く城） | 2004
 ED | 世界の約束 | 倍賞千恵子 | c=木村弓
-OST | 人生のメリーゴーランド | 久石譲 | c=久石譲
+OST | 人生のメリーゴーランド | 久石譲 | c=久石譲 t=Merry-Go-Round of Life/Merry-Go-Round
 
 # 心之谷（耳をすませば） | 1995
 ED | カントリー・ロード | 本名陽子
@@ -61,7 +61,7 @@ ED | ガーネット | 奥華子 d=2
 ED | 僕らの夏の夢 | 山下達郎 d=2
 
 # 狼的孩子雨與雪（おおかみこどもの雨と雪） | 2012
-ED | おかあさんの唄 | アン・サリー d=2
+ED | おかあさんの唄 | アン・サリー | t=Okasan no Uta d=2
 
 # ===== 2010～2014 =====
 
@@ -132,7 +132,7 @@ OP | This game | 鈴木このみ
 OP | 青春サツバツ論 | 3年E組うた担 d=2
 
 # 約會大作戰（デート・ア・ライブ） | 2013
-OP | Date A Live | sweet ARMS | d=2
+OP | デート・ア・ライブ | sweet ARMS | t=Date A Live d=2
 
 # 罪惡王冠（ギルティクラウン） | 2011
 OP | My Dearest | supercell | d=2
@@ -153,7 +153,7 @@ ED | みちしるべ | 茅原実里 d=2
 OP | 優しさの理由 | ChouCho d=2
 
 # 青春豬頭少年不會夢到兔女郎學姊（青春ブタ野郎はバニーガール先輩の夢を見ない） | 2018
-OP | Kimi no Sei | the peggies | q=君のせい the peggies 青春ブタ野郎 d=2
+OP | 君のせい | the peggies | t=Kimi no Sei/Kiminosei d=2
 
 # 戀愛 Lovelive!（ラブライブ!） | 2013
 OP | Snow halation | μ's
@@ -199,7 +199,7 @@ OP | Black Rover | Vickeblanka d=2
 OP | Samurai Heart (Some Like It Hot!!) | SPYAIR
 
 # 黑執事（黒執事） | 2008
-OP | Monochrome Kiss | SID d=2
+OP | モノクロのキス | SID | t=Monochrome Kiss/Monokuro no Kiss d=2
 
 # 尤里!!! on ICE（ユーリ!!! on ICE） | 2016
 OP | History Maker | Dean Fujioka

@@ -3,8 +3,8 @@
   "id": "a-23f9e9e4",
   "workId": "wba78c9",
   "kind": "OP",
-  "ytId": "FhsqaWUlR9U",
-  "start": 39,
+  "ytId": "FfH4qp48U28",
+  "start": 36,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "CHA-LA HEAD-CHA-LA",
@@ -14,14 +14,18 @@
    "composer": "清水昭男"
   },
   "year": 1986,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "CHA-LA HEAD-CHA-LA　ドラゴンボールZ  影山ヒロノブ　主題歌　アニソン　香取慎吾",
+  "channel": "とあるRETROGAME支部四箇田",
+  "startSource": "heuristic",
+  "review": true
  },
  {
   "id": "a-d769c5c0",
   "workId": "wba78c9",
   "kind": "OP",
   "ytId": "6bBosQiTyNw",
-  "start": 52,
+  "start": 63,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "魔訶不思議アドベンチャー!",
@@ -30,13 +34,16 @@
    "lyricist": "森雪之丞"
   },
   "year": 1986,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "魔訶不思議アドベンチャー！ (21st century ver.）)",
+  "channel": "Hiroki Takahashi - Topic",
+  "startSource": "peak"
  },
  {
   "id": "a-f0a7d20d",
   "workId": "wba78c9",
   "kind": "OP",
-  "ytId": "Y6TumtxMzC0",
+  "ytId": "BDvD-KGqt2E",
   "start": 48,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
@@ -45,14 +52,18 @@
    "artist": "影山ヒロノブ"
   },
   "year": 1986,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "We Gotta Power (2013 Remaster)",
+  "channel": "EnigmoMusic",
+  "startSource": "heuristic",
+  "review": true
  },
  {
   "id": "a-880d4621",
   "workId": "wba78c9",
   "kind": "OP",
   "ytId": "bdU0J4_TCLQ",
-  "start": 53,
+  "start": 65,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Dragon Soul",
@@ -60,13 +71,16 @@
    "artist": "谷本貴義"
   },
   "year": 1986,
-  "difficulty": 2
+  "difficulty": 2,
+  "video": "Dragon Soul",
+  "channel": "Takayoshi Tanimoto - Topic",
+  "startSource": "peak"
  },
  {
   "id": "a-cc5893c3",
   "workId": "wbcbc5f",
   "kind": "OP",
-  "ytId": "SvB9misfquA",
+  "ytId": "rqzJ7QkGb28",
   "start": 35,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
@@ -75,14 +89,17 @@
    "artist": "DALI"
   },
   "year": 1992,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "ムーンライト伝説　DALI  歌詞付き",
+  "channel": "安本太郎",
+  "startSource": "heuristic"
  },
  {
   "id": "a-afb6289a",
   "workId": "w083678",
   "kind": "OP",
   "ytId": "mgWONfthS9U",
-  "start": 46,
+  "start": 148,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "君が好きだと叫びたい",
@@ -92,7 +109,10 @@
    "composer": "織田哲郎"
   },
   "year": 1993,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "君が好きだと叫びたい - BAAD（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
  },
  {
   "id": "a-84a11589",
@@ -109,14 +129,18 @@
    "composer": "織田哲郎"
   },
   "year": 1993,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "WANDS 「世界が終るまでは… [WANDS第５期ver.]」 MV",
+  "channel": "WANDS Official",
+  "startSource": "heuristic",
+  "review": true
  },
  {
   "id": "a-b58164ce",
   "workId": "w083678",
   "kind": "ED",
   "ytId": "776kOps8h4A",
-  "start": 57,
+  "start": 237,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "あなただけ見つめてる",
@@ -126,13 +150,16 @@
    "composer": "大黒摩季"
   },
   "year": 1993,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "あなただけ見つめてる - 大黒摩季（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
  },
  {
   "id": "a-68018930",
   "workId": "we200bb",
   "kind": "OP",
-  "ytId": "M37FeC4iUAw",
+  "ytId": "3S5Yu9HpE3I",
   "start": 48,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
@@ -143,14 +170,17 @@
    "composer": "佐藤英敏"
   },
   "year": 1995,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "残酷な天使のテーゼ - 高橋洋子（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "heuristic"
  },
  {
   "id": "a-be327827",
   "workId": "we200bb",
   "kind": "ED",
   "ytId": "jmKRgqWGrWc",
-  "start": 33,
+  "start": 108,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Beautiful World",
@@ -160,14 +190,17 @@
    "composer": "宇多田ヒカル"
   },
   "year": 1995,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "Utada Hikaru「Beautiful World」　Directed by Tsurumaki Kazuya",
+  "channel": "UNIVERSAL MUSIC JAPAN",
+  "startSource": "peak"
  },
  {
   "id": "a-07f61105",
   "workId": "we200bb",
   "kind": "ED",
-  "ytId": "xatKOAWhG-g",
-  "start": 58,
+  "ytId": "1XbBdY6Wj5Y",
+  "start": 51,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "One Last Kiss",
@@ -177,14 +210,17 @@
    "composer": "宇多田ヒカル"
   },
   "year": 1995,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "[ 中日歌詞 ]  宇多田ヒカル - One Last Kiss / 新·福音戰士劇場版𝄇",
+  "channel": "KT 翻譯社",
+  "startSource": "heuristic"
  },
  {
   "id": "a-3233d418",
   "workId": "we200bb",
   "kind": "OST",
   "ytId": "o1Eo3VW693Q",
-  "start": 17,
+  "start": 23,
   "prompt": "這段配樂來自哪部動畫？",
   "answer": {
    "title": "Decisive Battle",
@@ -192,22 +228,30 @@
    "artist": "鷺巣詩郎"
   },
   "year": 1995,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "DECISIVE BATTLE",
+  "channel": "Shiro Sagisu - Topic",
+  "startSource": "peak"
  },
  {
   "id": "a-aa1489ea",
   "workId": "wb2f166",
   "kind": "OP",
   "ytId": "DZvDz6YdnP4",
-  "start": 15,
+  "start": 55,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Secret of my heart",
    "work": "名偵探柯南（名探偵コナン）",
-   "artist": "倉木麻衣"
+   "artist": "倉木麻衣",
+   "lyricist": "倉木麻衣",
+   "composer": "大野愛果"
   },
   "year": 1996,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "『名探偵コナン』ノンクレジットED　倉木麻衣/Secret of my heart　【倉木麻衣×『名探偵コナン』主題歌30曲記念】",
+  "channel": "【アニメ】名探偵コナン公式",
+  "startSource": "peak"
  },
  {
   "id": "a-20c5369e",
@@ -222,14 +266,18 @@
    "artist": "大野克夫"
   },
   "year": 1996,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "大野克夫「名探偵コナン メイン・テーマ~Vocal Version」",
+  "channel": "A_oldmusic",
+  "startSource": "heuristic",
+  "review": true
  },
  {
   "id": "a-e43c9d9d",
   "workId": "w91fa59",
   "kind": "OP",
-  "ytId": "QhkyDmPavaU",
-  "start": 34,
+  "ytId": "f70nyb-55ME",
+  "start": 65,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "オラはにんきもの",
@@ -237,7 +285,10 @@
    "artist": "野原しんのすけ"
   },
   "year": 1992,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "オラはにんきもの (インドバージョン)",
+  "channel": "NOHARASHINNNOSUKE - Topic",
+  "startSource": "peak"
  },
  {
   "id": "a-5d02fe8d",
@@ -249,17 +300,23 @@
   "answer": {
    "title": "ドラえもんのうた",
    "work": "哆啦A夢（ドラえもん）",
-   "artist": "大杉久美子"
+   "artist": "大杉久美子",
+   "lyricist": "楠部工",
+   "composer": "菊池俊輔"
   },
   "year": 1979,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "大杉久美子 - ドラえもんのうた",
+  "channel": "OLD J-MUSIC LOVER CHANNEL",
+  "startSource": "heuristic",
+  "review": true
  },
  {
   "id": "a-2c33600c",
   "workId": "wec022d",
   "kind": "OP",
-  "ytId": "jvLDPAFwgw4",
-  "start": 50,
+  "ytId": "57XElj3BSYI",
+  "start": 12,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "夢をかなえてドラえもん",
@@ -267,29 +324,38 @@
    "artist": "mao"
   },
   "year": 1979,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "2009 夢をかなえてドラえもん-mao",
+  "channel": "ドラえもん",
+  "startSource": "heuristic",
+  "review": true
  },
  {
   "id": "a-13e714cd",
   "workId": "wec022d",
   "kind": "INSERT",
   "ytId": "eXTo49Qo-9E",
-  "start": 62,
+  "start": 48,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "ひまわりの約束",
    "work": "哆啦A夢（ドラえもん）",
-   "artist": "秦基博"
+   "artist": "秦基博",
+   "lyricist": "秦基博",
+   "composer": "秦基博"
   },
   "year": 1979,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "ひまわりの約束 - 秦基博（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
  },
  {
   "id": "a-c643d623",
   "workId": "w83588e",
   "kind": "OP",
   "ytId": "OmTJQVnNq5Y",
-  "start": 15,
+  "start": 40,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "おどるポンポコリン",
@@ -299,14 +365,17 @@
    "composer": "織田哲郎"
   },
   "year": 1990,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "ちびまる子ちゃん初代エンディング「おどるポンポコリン」",
+  "channel": "【公式】ちびまる子ちゃんねる",
+  "startSource": "peak"
  },
  {
   "id": "a-4fe726a3",
   "workId": "w60b1cd",
   "kind": "OP",
-  "ytId": "4ph_VTcReGU",
-  "start": 51,
+  "ytId": "kbsRaNXfsew",
+  "start": 12,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "めざせポケモンマスター",
@@ -314,43 +383,55 @@
    "artist": "松本梨香"
   },
   "year": 1997,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "【公式】「めざせポケモンマスター -with my friends-」テレビアニメ「ポケットモンスター めざせポケモンマスター」新オープニングテーマ",
+  "channel": "Sony Music (Japan)",
+  "startSource": "heuristic"
  },
  {
   "id": "a-c01e8321",
   "workId": "w60b1cd",
   "kind": "ED",
-  "ytId": "Lvh_NMq2O0Y",
-  "start": 54,
+  "ytId": "_jgKBl0JNDM",
+  "start": 53,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "ポケモン言えるかな?",
    "work": "神奇寶貝（ポケットモンスター）"
   },
   "year": 1997,
-  "difficulty": 2
+  "difficulty": 2,
+  "video": "KABA.ちゃん with 愉快な仲間たち「ポケモン言えるかな?2004」",
+  "channel": "A_oldmusic",
+  "startSource": "heuristic",
+  "review": true
  },
  {
   "id": "a-3970eef4",
   "workId": "w9c0de9",
   "kind": "OP",
   "ytId": "hf3DcnSByTA",
-  "start": 51,
+  "start": 182,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Butterfly",
    "work": "數碼寶貝（デジモンアドベンチャー）",
-   "artist": "和田光司"
+   "artist": "和田光司",
+   "lyricist": "千綿偉功",
+   "composer": "渡部チェル"
   },
   "year": 1999,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "Butter-Fly - 和田光司（フル）（デジモンアドベンチャーOP）",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
  },
  {
   "id": "a-be744d3f",
   "workId": "w9c0de9",
   "kind": "OP",
-  "ytId": "hYQshuLmwIk",
-  "start": 54,
+  "ytId": "ViH67GL-Wz8",
+  "start": 55,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Target ~赤い衝撃~",
@@ -358,14 +439,18 @@
    "artist": "和田光司"
   },
   "year": 1999,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "Kouji Wada(和田 光司) -- target akai shougeki (ターゲット～赤い衝撃～)",
+  "channel": "Migerux",
+  "startSource": "heuristic",
+  "review": true
  },
  {
   "id": "a-22298f5e",
   "workId": "w9c0de9",
   "kind": "OP",
-  "ytId": "G2Dog01cP9A",
-  "start": 47,
+  "ytId": "C7-DM_c-2Hc",
+  "start": 51,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "The Biggest Dreamer",
@@ -373,7 +458,10 @@
    "artist": "和田光司"
   },
   "year": 1999,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "【歌詞付】The Biggest Dreamer / 和田光司【デジモンテイマーズＯＰ】",
+  "channel": "Moumantai 「無問題」",
+  "startSource": "peak"
  },
  {
   "id": "a-86ef0369",
@@ -388,14 +476,17 @@
    "artist": "宮崎歩"
   },
   "year": 1999,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "【歌詞付】brave heart / 宮崎歩【デジモンアドベンチャー挿入歌】",
+  "channel": "Moumantai 「無問題」",
+  "startSource": "heuristic"
  },
  {
   "id": "a-ec6b2548",
   "workId": "w3c15cc",
   "kind": "OP",
-  "ytId": "wcnxGkotK_E",
-  "start": 46,
+  "ytId": "6gpcPYDkPdg",
+  "start": 61,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "Catch You Catch Me",
@@ -403,14 +494,17 @@
    "artist": "丹下桜"
   },
   "year": 1998,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "Catch You Catch Me",
+  "channel": "Gumi - Topic",
+  "startSource": "peak"
  },
  {
   "id": "a-9cab4dd6",
   "workId": "w3c15cc",
   "kind": "OP",
   "ytId": "u3njK1Hi818",
-  "start": 57,
+  "start": 192,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "プラチナ",
@@ -418,7 +512,10 @@
    "artist": "岡本真夜"
   },
   "year": 1998,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "竹達彩奈 - プラチナ  from CrosSing/TVアニメ「カードキャプターさくら」OPテーマ",
+  "channel": "CrosSing",
+  "startSource": "peak"
  },
  {
   "id": "a-d36a4eb1",
@@ -433,14 +530,35 @@
    "artist": "坂本真綾"
   },
   "year": 1998,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "カードキャプターさくら クリアカード編 オープニング主題歌「Clear」坂本真綾 CCさくら OP",
+  "channel": "木之本桜Best Music studio 2nd Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-2a837a87",
+  "workId": "wf5c5fb",
+  "kind": "OP",
+  "ytId": "G85XxnQyI0A",
+  "start": 40,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Oversoul",
+   "work": "通靈王（シャーマンキング）",
+   "artist": "松本梨香"
+  },
+  "year": 2001,
+  "difficulty": 1,
+  "video": "Over Soul",
+  "channel": "Megumi Hayashibara - Topic",
+  "startSource": "peak"
  },
  {
   "id": "a-a6bbe63e",
   "workId": "wc201c6",
   "kind": "OP",
   "ytId": "X3aFz8eUmfQ",
-  "start": 73,
+  "start": 108,
   "prompt": "這首歌來自哪部動畫？",
   "answer": {
    "title": "遥か彼方",
@@ -450,6 +568,5076 @@
    "composer": "後藤正文"
   },
   "year": 2002,
-  "difficulty": 1
+  "difficulty": 1,
+  "video": "ASIAN KUNG-FU GENERATION - Haruka Kanata / THE FIRST TAKE",
+  "channel": "THE FIRST TAKE",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-2fb772e3",
+  "workId": "wc201c6",
+  "kind": "OP",
+  "ytId": "WobAS2RKg30",
+  "start": 63,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "GO!!!",
+   "work": "火影忍者（NARUTO）",
+   "artist": "FLOW"
+  },
+  "year": 2002,
+  "difficulty": 1,
+  "video": "Go!!! (Naruto Opening Mix)",
+  "channel": "FLOW - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a567daec",
+  "workId": "wc201c6",
+  "kind": "OP",
+  "ytId": "4LtyE7L4BOs",
+  "start": 43,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Blue Bird",
+   "work": "火影忍者（NARUTO）",
+   "artist": "いきものがかり",
+   "lyricist": "水野良樹",
+   "composer": "水野良樹"
+  },
+  "year": 2002,
+  "difficulty": 1,
+  "video": "[나루토op] いきものがかり IkimonoGakari - Blue Bird 가사/해석/자막 (lyric video)",
+  "channel": "에리어",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-4cafa652",
+  "workId": "wc201c6",
+  "kind": "OP",
+  "ytId": "ZFoJYI7Q4iA",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "シルエット",
+   "work": "火影忍者（NARUTO）",
+   "artist": "KANA-BOON",
+   "lyricist": "谷口鮪",
+   "composer": "谷口鮪"
+  },
+  "year": 2002,
+  "difficulty": 1,
+  "video": "KANA-BOON 『シルエット』Music Video",
+  "channel": "KANA-BOON Official YouTube Channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-ca49d2e8",
+  "workId": "wc201c6",
+  "kind": "OST",
+  "ytId": "wEWF2xh5E8s",
+  "start": 40,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "Sadness and Sorrow",
+   "work": "火影忍者（NARUTO）",
+   "artist": "高梨康治"
+  },
+  "year": 2002,
+  "difficulty": 1,
+  "video": "Naruto Soundtrack- Sadness and Sorrow (FULL VERSION)",
+  "channel": "TheSideralninja",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-835d66ce",
+  "workId": "w984f01",
+  "kind": "OP",
+  "ytId": "1uUxadMJewQ",
+  "start": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ASTERISK",
+   "work": "死神（BLEACH）",
+   "artist": "ORANGE RANGE"
+  },
+  "year": 2004,
+  "difficulty": 1,
+  "video": "ORANGE RANGE - ＊〜アスタリスク〜",
+  "channel": "ORANGE RANGE",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-826b0280",
+  "workId": "w984f01",
+  "kind": "OP",
+  "ytId": "KF0aWY-Bs_s",
+  "start": 38,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Rolling star",
+   "work": "死神（BLEACH）",
+   "artist": "YUI",
+   "lyricist": "YUI",
+   "composer": "YUI"
+  },
+  "year": 2004,
+  "difficulty": 1,
+  "video": "YUI - Rolling Star (Official Audio)",
+  "channel": "YUI Music",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-91aca124",
+  "workId": "w984f01",
+  "kind": "OP",
+  "ytId": "km1CEwOaXsg",
+  "start": 66,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "一輪の花",
+   "work": "死神（BLEACH）",
+   "artist": "HIGH and MIGHTY COLOR"
+  },
+  "year": 2004,
+  "difficulty": 1,
+  "video": "【期間限定】TVアニメ『BLEACH』OP映像｜「一輪の花」HIGH and MIGHTY COLOR",
+  "channel": "『BLEACH』アニメ公式チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-7d2b601c",
+  "workId": "w984f01",
+  "kind": "OP",
+  "ytId": "xOF65F9FHqE",
+  "start": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Alones",
+   "work": "死神（BLEACH）",
+   "artist": "aqua timez"
+  },
+  "year": 2004,
+  "difficulty": 1,
+  "video": "Aqua Timez『ALONES』Music Video（アニメ「BLEACH」第6期OPテーマ）",
+  "channel": "Aqua Timez Official",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-5528a5d6",
+  "workId": "w984f01",
+  "kind": "ED",
+  "ytId": "LIZOJwuG12U",
+  "start": 26,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Life is Like a Boat",
+   "work": "死神（BLEACH）",
+   "artist": "rie fu"
+  },
+  "year": 2004,
+  "difficulty": 1,
+  "video": "【期間限定】TVアニメ『BLEACH』ED映像｜「Life is Like a Boat」Rie fu",
+  "channel": "『BLEACH』アニメ公式チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-10bf2853",
+  "workId": "we6ca79",
+  "kind": "OP",
+  "ytId": "r7n-L5B0bBw",
+  "start": 92,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ウィーアー!",
+   "work": "海賊王（ONE PIECE）",
+   "artist": "きただにひろし",
+   "lyricist": "藤林聖子",
+   "composer": "田中公平"
+  },
+  "year": 1999,
+  "difficulty": 1,
+  "video": "きただにひろし / ウィーアー!(TVアニメ「ONE PIECE」オープニングテーマ) [Official Audio]",
+  "channel": "日本コロムビア 公式YouTubeチャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b63b836b",
+  "workId": "we6ca79",
+  "kind": "OP",
+  "ytId": "WmkRJd2Lv0A",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Believe",
+   "work": "海賊王（ONE PIECE）",
+   "artist": "Folder5"
+  },
+  "year": 1999,
+  "difficulty": 1,
+  "video": "Believe",
+  "channel": "Folder 5 - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-3c3d02b1",
+  "workId": "we6ca79",
+  "kind": "OP",
+  "ytId": "_ULPAtFBkxc",
+  "start": 200,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "BRAND NEW WORLD",
+   "work": "海賊王（ONE PIECE）",
+   "artist": "D-51"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "Brand New World",
+  "channel": "D-51 - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c1931e52",
+  "workId": "we6ca79",
+  "kind": "OP",
+  "ytId": "IznYQHSWJ7w",
+  "start": 121,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Share the World",
+   "work": "海賊王（ONE PIECE）",
+   "artist": "東方神起"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "東方神起「Share The World -RED OCEAN Ver.-」TVアニメ「ONE PIECE」（2009年）ノンテロップオープニング映像",
+  "channel": "ONE PIECE公式YouTubeチャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-07cba202",
+  "workId": "we6ca79",
+  "kind": "OP",
+  "ytId": "6l2xK4HqJBM",
+  "start": 69,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Bon Voyage!",
+   "work": "海賊王（ONE PIECE）",
+   "artist": "ボン・ボン・ブランコ"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "BON VOYAGE!",
+  "channel": "Bon-Bon Blanco - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-f579a8f1",
+  "workId": "we6ca79",
+  "kind": "OST",
+  "ytId": "SPoj6_TT8GI",
+  "start": 157,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "ビンクスの酒",
+   "work": "海賊王（ONE PIECE）",
+   "artist": "田中公平"
+  },
+  "year": 1999,
+  "difficulty": 1,
+  "video": "ビンクスの酒～ブルックver.～",
+  "channel": "Brook(Cho) - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-17abee7e",
+  "workId": "w8eebb3",
+  "kind": "OP",
+  "ytId": "cAFOrxAlZkw",
+  "start": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "the WORLD",
+   "work": "死亡筆記本（DEATH NOTE）",
+   "artist": "Nightmare"
+  },
+  "year": 2006,
+  "difficulty": 1,
+  "video": "the WORLD (TV Size)",
+  "channel": "NIGHTMARE - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c4a7f937",
+  "workId": "w8eebb3",
+  "kind": "OP",
+  "ytId": "wiE3XXRkdpc",
+  "start": 12,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "What's up, people?!",
+   "work": "死亡筆記本（DEATH NOTE）",
+   "artist": "MAXIMUM THE HORMONE"
+  },
+  "year": 2006,
+  "difficulty": 1,
+  "video": "What's Up People - Maximum The Hormone (Death Note Opening)",
+  "channel": "CLIP-REMASTERED",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-c7b40442",
+  "workId": "w8eebb3",
+  "kind": "OST",
+  "ytId": "meUAWE18m0s",
+  "start": 194,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "L's Theme",
+   "work": "死亡筆記本（DEATH NOTE）",
+   "artist": "平野義久"
+  },
+  "year": 2006,
+  "difficulty": 1,
+  "video": "L's Theme (Ultra Epic Version)",
+  "channel": "CJ Music - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-93155966",
+  "workId": "w4d871b",
+  "kind": "OP",
+  "ytId": "eIWmoKBh7iI",
+  "start": 10,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Melissa",
+   "work": "鋼之鍊金術師（鋼の錬金術師）",
+   "artist": "ポルノグラフィティ",
+   "lyricist": "新藤晴一",
+   "composer": "ak.homma"
+  },
+  "year": 2003,
+  "difficulty": 1,
+  "video": "ポルノグラフィティ『メリッサ(Short ver.)』 / PORNOGRAFFITTI 『Melissa (Short Ver.)』",
+  "channel": "ポルノグラフィティ Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-8b922ede",
+  "workId": "w4d871b",
+  "kind": "OP",
+  "ytId": "NZdjDUjzUiQ",
+  "start": 48,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "READY STEADY GO",
+   "work": "鋼之鍊金術師（鋼の錬金術師）",
+   "artist": "L'Arc~en~Ciel",
+   "lyricist": "hyde",
+   "composer": "ken"
+  },
+  "year": 2003,
+  "difficulty": 1,
+  "video": "L'Arc-en-Ciel「READY STEADY GO」-Music Clip-",
+  "channel": "L'Arc-en-Ciel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-9ec163e1",
+  "workId": "w4d871b",
+  "kind": "OP",
+  "ytId": "w5OUAY1j3gQ",
+  "start": 52,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Again",
+   "work": "鋼之鍊金術師（鋼の錬金術師）",
+   "artist": "YUI",
+   "lyricist": "YUI",
+   "composer": "YUI"
+  },
+  "year": 2003,
+  "difficulty": 1,
+  "video": "YUI - Again (Official Audio)",
+  "channel": "YUI Music",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-ab0a6568",
+  "workId": "w4d871b",
+  "kind": "OP",
+  "ytId": "xslAjvvlJkE",
+  "start": 172,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Period",
+   "work": "鋼之鍊金術師（鋼の錬金術師）",
+   "artist": "CHEMISTRY"
+  },
+  "year": 2003,
+  "difficulty": 1,
+  "video": "CHEMISTRY \"Period\" Official Video",
+  "channel": "CHEMISTRY Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-aba9117b",
+  "workId": "w4d871b",
+  "kind": "OP",
+  "ytId": "o71vyLnNtBo",
+  "start": 56,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ホログラム",
+   "work": "鋼之鍊金術師（鋼の錬金術師）",
+   "artist": "NICO Touches the Walls"
+  },
+  "year": 2003,
+  "difficulty": 1,
+  "video": "Hologram",
+  "channel": "NICO Touches the Walls - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-f2450285",
+  "workId": "wc589fb",
+  "kind": "OP",
+  "ytId": "3SqhXiimlrg",
+  "start": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Departure!",
+   "work": "獵人（HUNTER×HUNTER）",
+   "artist": "小野正利",
+   "lyricist": "久保田利伸",
+   "composer": "久保田利伸"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "departure!",
+  "channel": "Masatoshi Ono - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-369efd44",
+  "workId": "wc589fb",
+  "kind": "OP",
+  "ytId": "uLVFtc3lUjE",
+  "start": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Just Awake",
+   "work": "獵人（HUNTER×HUNTER）",
+   "artist": "Fear, and Loathing in Las Vegas"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "Just Awake (TV Size)",
+  "channel": "Fear, and Loathing in Las Vegas - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-aad7e027",
+  "workId": "w10488c",
+  "kind": "OP",
+  "ytId": "GtrJMZfFN50",
+  "start": 92,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Change the World",
+   "work": "犬夜叉",
+   "artist": "V6"
+  },
+  "year": 2000,
+  "difficulty": 1,
+  "video": "CHANGE THE WORLD",
+  "channel": "V6 - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-f515fe3a",
+  "workId": "w10488c",
+  "kind": "ED",
+  "ytId": "uNJ0HFbQZ8s",
+  "start": 12,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "深い森",
+   "work": "犬夜叉",
+   "artist": "Do As Infinity"
+  },
+  "year": 2000,
+  "difficulty": 1,
+  "video": "犬夜叉 ED2［Do As Infinity / 深い森］",
+  "channel": "IMAYASHA //",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-b7f8ad86",
+  "workId": "w10488c",
+  "kind": "ED",
+  "ytId": "qe_kKwdYCG8",
+  "start": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Every Heart -ミンナノキモチ-",
+   "work": "犬夜叉",
+   "artist": "BoA"
+  },
+  "year": 2000,
+  "difficulty": 1,
+  "video": "Every Heart -ミンナノキモチ- -The Greatest Ver.-",
+  "channel": "BoA - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-2336d99c",
+  "workId": "w7f84d8",
+  "kind": "OP",
+  "ytId": "8iSG4jIUkcU",
+  "start": 105,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "そばかす",
+   "work": "浪客劍心（るろうに剣心）",
+   "artist": "JUDY AND MARY",
+   "lyricist": "YUKI",
+   "composer": "TAKUYA"
+  },
+  "year": 1996,
+  "difficulty": 1,
+  "video": "そばかす - JUDY AND MARY（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-be856385",
+  "workId": "w7f84d8",
+  "kind": "OP",
+  "ytId": "0tWbScMyBLM",
+  "start": 167,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "1/3の純情な感情",
+   "work": "浪客劍心（るろうに剣心）",
+   "artist": "SIAM SHADE"
+  },
+  "year": 1996,
+  "difficulty": 1,
+  "video": "1/3の純情な感情 - SIAM SHADE 歌詞付き フル",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-62bc6802",
+  "workId": "w7f84d8",
+  "kind": "OP",
+  "ytId": "NFxSCSGxCjQ",
+  "start": 15,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Heart of Sword ~夜明け前~",
+   "work": "浪客劍心（るろうに剣心）",
+   "artist": "T.M.Revolution"
+  },
+  "year": 1996,
+  "difficulty": 1,
+  "video": "HEART OF SWORD",
+  "channel": "T.M. Revolution - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-17a54805",
+  "workId": "w1f9f72",
+  "kind": "ED",
+  "ytId": "714YD9FWsmw",
+  "start": 204,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Get Wild",
+   "work": "城市獵人（シティーハンター）",
+   "artist": "TM NETWORK",
+   "lyricist": "小室みつ子",
+   "composer": "小室哲哉"
+  },
+  "year": 1987,
+  "difficulty": 1,
+  "video": "City Hunter 《シティーハンター 城市獵人》 主题歌 Get Wild Continual TM Network 【Kan/Rom/English Lyrics】 Netflix ネトフリ",
+  "channel": "Starlight Music",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-2b25a8da",
+  "workId": "wd42c94",
+  "kind": "OP",
+  "ytId": "YC-8zsvExwU",
+  "start": 140,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "じゃじゃ馬にさせないで",
+   "work": "亂馬1/2（らんま1/2）",
+   "artist": "CINDY"
+  },
+  "year": 1989,
+  "difficulty": 2,
+  "video": "Hidaka Noriko - Jajaumani sasenaide from CrosSing TV Anime \"Ranma 1/2\" Opening Theme",
+  "channel": "CrosSing",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b82b31c2",
+  "workId": "w36ec64",
+  "kind": "OP",
+  "ytId": "hx2StgpGgMs",
+  "start": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "愛をとりもどせ!!",
+   "work": "北斗神拳（北斗の拳）",
+   "artist": "クリスタルキング",
+   "lyricist": "来生えつこ",
+   "composer": "来生たかお"
+  },
+  "year": 1984,
+  "difficulty": 1,
+  "video": "Toshl「愛をとりもどせ!!」｜『北斗の拳 -FIST OF THE NORTH STAR-』ノンクレジットエンディング",
+  "channel": "Warner Bros. Japan Anime",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-07bd71b7",
+  "workId": "w90e1f6",
+  "kind": "OP",
+  "ytId": "Op-gm7TRBjU",
+  "start": 163,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ペガサス幻想",
+   "work": "聖鬥士星矢（聖闘士星矢）",
+   "artist": "MAKE-UP"
+  },
+  "year": 1986,
+  "difficulty": 1,
+  "video": "ペガサス幻想 (21st century ver.）)",
+  "channel": "MAKE-UP - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-1d405c82",
+  "workId": "w90e1f6",
+  "kind": "OP",
+  "ytId": "jrvBYJqOuDg",
+  "start": 42,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ソルジャー・ドリーム",
+   "work": "聖鬥士星矢（聖闘士星矢）",
+   "artist": "影山ヒロノブ"
+  },
+  "year": 1986,
+  "difficulty": 1,
+  "video": "聖闘士星矢OP～聖闘士神話～ソルジャー・ドリーム/影山ヒロノブ",
+  "channel": "ピポルろーかるch.",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-54f67f70",
+  "workId": "w51e22c",
+  "kind": "OP",
+  "ytId": "H1DelNpdvTU",
+  "start": 37,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "翔べ!ガンダム",
+   "work": "機動戰士鋼彈（機動戦士ガンダム）",
+   "artist": "池田鴻"
+  },
+  "year": 1979,
+  "difficulty": 2,
+  "video": "翔べ！ガンダム",
+  "channel": "池田鴻 - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-2be0ea6a",
+  "workId": "w51e22c",
+  "kind": "OST",
+  "ytId": "V-eJsBx6kG8",
+  "start": 165,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "BEYOND THE TIME",
+   "work": "機動戰士鋼彈（機動戦士ガンダム）",
+   "artist": "DEEN"
+  },
+  "year": 1979,
+  "difficulty": 1,
+  "video": "BEYOND THE TIME (メビウスの宇宙を越えて)",
+  "channel": "Nami Tamaki - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-ef51faa3",
+  "workId": "w58295e",
+  "kind": "OP",
+  "ytId": "88we5_2ehDE",
+  "start": 61,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "INVOKE",
+   "work": "機動戰士鋼彈SEED（機動戦士ガンダムSEED）",
+   "artist": "T.M.Revolution",
+   "lyricist": "井上秋緒",
+   "composer": "浅倉大介"
+  },
+  "year": 2002,
+  "difficulty": 1,
+  "video": "Invoke (Tv Opening Version)",
+  "channel": "T.M. Revolution - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-8514f726",
+  "workId": "w58295e",
+  "kind": "ED",
+  "ytId": "aufDdA7aoc4",
+  "start": 58,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "あんなに一緒だったのに",
+   "work": "機動戰士鋼彈SEED（機動戦士ガンダムSEED）",
+   "artist": "See-Saw",
+   "lyricist": "石川智晶",
+   "composer": "梶浦由記"
+  },
+  "year": 2002,
+  "difficulty": 1,
+  "video": "あんなに一緒だったのに",
+  "channel": "See-Saw - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-021c1e8e",
+  "workId": "w2668b5",
+  "kind": "OP",
+  "ytId": "VUOgmg0RXrE",
+  "start": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "DAYBREAK'S BELL",
+   "work": "機動戰士鋼彈00（機動戦士ガンダム00）",
+   "artist": "L'Arc~en~Ciel"
+  },
+  "year": 2007,
+  "difficulty": 1,
+  "video": "L'Arc-en-Ciel「DAYBREAK'S BELL」-Music Clip-",
+  "channel": "L'Arc-en-Ciel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-36522208",
+  "workId": "wf2ac45",
+  "kind": "OP",
+  "ytId": "PiQpGzYMVos",
+  "start": 61,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Raise your flag",
+   "work": "機動戰士鋼彈 鐵血孤兒（機動戦士ガンダム 鉄血のオルフェンズ）",
+   "artist": "MAN WITH A MISSION"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "MAN WITH A MISSION 『Raise your flag』",
+  "channel": "Sony Music (Japan)",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-9ed5a53f",
+  "workId": "w935ce4",
+  "kind": "OP",
+  "ytId": "oNJ4aBoRipg",
+  "start": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Just Communication",
+   "work": "機動戰士鋼彈 W（新機動戦記ガンダムW）",
+   "artist": "TWO-MIX"
+  },
+  "year": 1995,
+  "difficulty": 2,
+  "video": "Mobile Suit Gundam Wing Opening 1 | Just Communication by Two-Mix",
+  "channel": "Crunchyroll",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-843f0717",
+  "workId": "w78f465",
+  "kind": "OP",
+  "ytId": "lCQ392MwsYo",
+  "start": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "宇宙戦艦ヤマト",
+   "work": "宇宙戰艦大和號（宇宙戦艦ヤマト）",
+   "artist": "ささきいさお",
+   "lyricist": "阿久悠",
+   "composer": "宮川泰"
+  },
+  "year": 1974,
+  "difficulty": 2,
+  "video": "宇宙戦艦ヤマト",
+  "channel": "Isao Sasaki - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-7f871e33",
+  "workId": "weeb4bd",
+  "kind": "OP",
+  "ytId": "_2fPk8CTn38",
+  "start": 166,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "銀河鉄道999",
+   "work": "銀河鐵道999（銀河鉄道999）",
+   "artist": "ゴダイゴ",
+   "lyricist": "奈良橋陽子",
+   "composer": "タケカワユキヒデ"
+  },
+  "year": 1978,
+  "difficulty": 2,
+  "video": "テレビアニメ「悪役令嬢転生おじさん」挿入歌 「銀河鉄道999」",
+  "channel": "GRACE＝KENZABURO（CV: KAZUHIKO INOUE、CV: M・A・O） - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-214f7c7d",
+  "workId": "w75bc80",
+  "kind": "OP",
+  "ytId": "zRwha_d-CWI",
+  "start": 39,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "マジンガーZ",
+   "work": "無敵鐵金剛（マジンガーZ）",
+   "artist": "水木一郎",
+   "lyricist": "保富康午",
+   "composer": "渡辺宙明"
+  },
+  "year": 1972,
+  "difficulty": 2,
+  "video": "マジンガーZ (21st century ver.)",
+  "channel": "Ichiro Mizuki - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-ceb67999",
+  "workId": "w26a778",
+  "kind": "OST",
+  "ytId": "k3Wxg8j9j7A",
+  "start": 43,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "ルパン三世のテーマ'78",
+   "work": "魯邦三世（ルパン三世）",
+   "artist": "大野雄二",
+   "composer": "大野雄二"
+  },
+  "year": 1971,
+  "difficulty": 1,
+  "video": "ルパン三世のテーマ (「ルパン三世のテーマ'78」シングル・ヴァージョン)",
+  "channel": "YUJI OHNO TRIO - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-06ae79ea",
+  "workId": "w88fe25",
+  "kind": "OP",
+  "ytId": "Ivrod1Hk6xc",
+  "start": 26,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "おしえて",
+   "work": "阿爾卑斯山少女海蒂（アルプスの少女ハイジ）",
+   "artist": "伊藤薫",
+   "lyricist": "岸田衿子",
+   "composer": "渡辺岳夫"
+  },
+  "year": 1974,
+  "difficulty": 2,
+  "video": "おしえて（アルプスの少女ハイジ）　歌：NEUTRINO（歌詞付き）",
+  "channel": "みんなのおんがくしつ",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-e79b613e",
+  "workId": "w454f55",
+  "kind": "OP",
+  "ytId": "UFFa0QoHWvE",
+  "start": 42,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Tank!",
+   "work": "星際牛仔（カウボーイビバップ）",
+   "artist": "菅野よう子 / The Seatbelts",
+   "composer": "菅野よう子"
+  },
+  "year": 1998,
+  "difficulty": 1,
+  "video": "Tank!",
+  "channel": "SEATBELTS - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-6be7ddd0",
+  "workId": "w454f55",
+  "kind": "ED",
+  "ytId": "xFaY4VobUBg",
+  "start": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "The Real Folk Blues",
+   "work": "星際牛仔（カウボーイビバップ）",
+   "artist": "The Seatbelts",
+   "composer": "菅野よう子"
+  },
+  "year": 1998,
+  "difficulty": 2,
+  "video": "Cowboy Bebop (カウボーイビバップ) THE REAL FOLK BLUES",
+  "channel": "FUKUSHU BAND - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-5a33a9f1",
+  "workId": "w8ee8db",
+  "kind": "OP",
+  "ytId": "QnuWM42S4h4",
+  "start": 34,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Inner Universe",
+   "work": "攻殼機動隊（攻殻機動隊）",
+   "artist": "Origa"
+  },
+  "year": 1995,
+  "difficulty": 2,
+  "video": "inner universe",
+  "channel": "Origa - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-791d13bd",
+  "workId": "w1867d8",
+  "kind": "OP",
+  "ytId": "7EuTPTVpuNI",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "コネクト",
+   "work": "魔法少女小圓（魔法少女まどか☆マギカ）",
+   "artist": "ClariS",
+   "lyricist": "渡辺翔",
+   "composer": "渡辺翔"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "ClariS 『コネクト』 -reformare- Music Video 【TVアニメ「魔法少女まどか☆マギカ」オープニングテーマ】",
+  "channel": "ClariS Official YouTube Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-d1507179",
+  "workId": "w1867d8",
+  "kind": "ED",
+  "ytId": "QwquipMpsiQ",
+  "start": 48,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Magia",
+   "work": "魔法少女小圓（魔法少女まどか☆マギカ）",
+   "artist": "Kalafina",
+   "lyricist": "梶浦由記",
+   "composer": "梶浦由記"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "Kalafina - Magia",
+  "channel": "KalafinaVEVO",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-f43e3844",
+  "workId": "w1867d8",
+  "kind": "OST",
+  "ytId": "A_J3UhPK-Zo",
+  "start": 58,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "Credens justitiam",
+   "work": "魔法少女小圓（魔法少女まどか☆マギカ）",
+   "artist": "梶浦由記",
+   "composer": "梶浦由記"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "Credens Justitiam",
+  "channel": "Yuki Kajiura - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a5498f73",
+  "workId": "w09ceb7",
+  "kind": "OP",
+  "ytId": "OuVNnfDyEDU",
+  "start": 110,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "冒険でしょでしょ?",
+   "work": "涼宮春日的憂鬱（涼宮ハルヒの憂鬱）",
+   "artist": "平野綾"
+  },
+  "year": 2006,
+  "difficulty": 1,
+  "video": "平野 綾「冒険でしょでしょ？」Music Video full size-TVアニメ『涼宮ハルヒの憂鬱』オープニングテーマ",
+  "channel": "Lantis Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a8f00cb2",
+  "workId": "w09ceb7",
+  "kind": "ED",
+  "ytId": "7t6A5Y_r0sM",
+  "start": 12,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ハレ晴レユカイ",
+   "work": "涼宮春日的憂鬱（涼宮ハルヒの憂鬱）",
+   "artist": "平野綾 茅原実里 後藤邑子",
+   "lyricist": "畑亜貴",
+   "composer": "神前暁"
+  },
+  "year": 2006,
+  "difficulty": 1,
+  "video": "涼宮ハルヒの憂鬱 ED「ハレ晴レユカイ」平野綾、茅原実里、後藤邑子（2006）",
+  "channel": "AnimeSongs Official",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-5a75e82b",
+  "workId": "w047196",
+  "kind": "OP",
+  "ytId": "ua02dloykJ4",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Cagayake!GIRLS",
+   "work": "輕音少女（けいおん!）",
+   "artist": "放課後ティータイム"
+  },
+  "year": 2009,
+  "difficulty": 1,
+  "video": "Cagayake!GIRLS",
+  "channel": "Release - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-9b8a4654",
+  "workId": "w047196",
+  "kind": "OP",
+  "ytId": "5CSNv9MNEC4",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Don't say \"lazy\"",
+   "work": "輕音少女（けいおん!）",
+   "artist": "放課後ティータイム"
+  },
+  "year": 2009,
+  "difficulty": 1,
+  "video": "Don't say \"lazy\"",
+  "channel": "Release - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-b20774dc",
+  "workId": "w047196",
+  "kind": "ED",
+  "ytId": "TjqfGUFCJeA",
+  "start": 39,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ふわふわ時間",
+   "work": "輕音少女（けいおん!）",
+   "artist": "放課後ティータイム",
+   "lyricist": "はまじあき",
+   "composer": "はまじあき"
+  },
+  "year": 2009,
+  "difficulty": 1,
+  "video": "ふわふわ時間 (映画「けいおん!」Mix)",
+  "channel": "Houkago Teatime - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-0d84fa54",
+  "workId": "w047196",
+  "kind": "INSERT",
+  "ytId": "DYeHthHX6Z0",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Go! Go! MANIAC",
+   "work": "輕音少女（けいおん!）",
+   "artist": "放課後ティータイム"
+  },
+  "year": 2009,
+  "difficulty": 1,
+  "video": "【けいおん!!】 GO! GO! MANIAC 【初音ミク】 Full",
+  "channel": "NicoRockK",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-a5c22e09",
+  "workId": "wa62423",
+  "kind": "OP",
+  "ytId": "73O7tATQ8og",
+  "start": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "もってけ!セーラーふく",
+   "work": "幸運星（らき☆すた）",
+   "artist": "泉こなた 柊かがみ 柊つかさ 高良みゆき",
+   "lyricist": "畑亜貴",
+   "composer": "神前暁"
+  },
+  "year": 2007,
+  "difficulty": 1,
+  "video": "らき☆すたOP「もってけ！セーラーふく」(歌詞字幕つき)",
+  "channel": "keitetsudo",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-dab83ae4",
+  "workId": "w1511cb",
+  "kind": "OP",
+  "ytId": "lTzCWxvT5C0",
+  "start": 64,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ヒャダインのカカカタ☆カタオモイ-C",
+   "work": "日常",
+   "artist": "ヒャダイン"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "ヒャダインのカカカタ☆カタオモイ-C",
+  "channel": "STUDIO TRAM - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-ef363f91",
+  "workId": "wee90ad",
+  "kind": "OP",
+  "ytId": "tCV7yyImQFk",
+  "start": 87,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "メグメル",
+   "work": "CLANNAD（CLANNAD -クラナド-）",
+   "artist": "Rita"
+  },
+  "year": 2007,
+  "difficulty": 1,
+  "video": "Key『CLANNAD』オープニングムービー｜riya「メグメル」",
+  "channel": "ビジュアルアーツ【公式】",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-6f6b13a3",
+  "workId": "wee90ad",
+  "kind": "ED",
+  "ytId": "a5KUdNx9mYo",
+  "start": 12,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "だんご大家族",
+   "work": "CLANNAD（CLANNAD -クラナド-）",
+   "artist": "茶太"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "CLANNAD ED「だんご大家族」茶太 / コーラス - 真理絵、くない瓜、Rio、Morrigan、藤枝あかね、茶太、たくまる（2007）",
+  "channel": "AnimeSongs Official",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-c66af120",
+  "workId": "w3671c8",
+  "kind": "OP",
+  "ytId": "7mZlRSAUSsU",
+  "start": 110,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "鳥の詩",
+   "work": "AIR",
+   "artist": "Lia"
+  },
+  "year": 2005,
+  "difficulty": 2,
+  "video": "鳥の詩",
+  "channel": "Lia - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-bc09b504",
+  "workId": "wd642a9",
+  "kind": "OP",
+  "ytId": "al6Z7Z_fN-k",
+  "start": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "My Soul, Your Beats!",
+   "work": "Angel Beats!",
+   "artist": "Lia",
+   "lyricist": "麻枝准",
+   "composer": "麻枝准"
+  },
+  "year": 2010,
+  "difficulty": 1,
+  "video": "My Soul, Your Beats!",
+  "channel": "Lia - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-46d68544",
+  "workId": "wd642a9",
+  "kind": "ED",
+  "ytId": "XQWWS8f6X9I",
+  "start": 239,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "一番の宝物",
+   "work": "Angel Beats!",
+   "artist": "LiSA",
+   "lyricist": "麻枝准",
+   "composer": "麻枝准"
+  },
+  "year": 2010,
+  "difficulty": 1,
+  "video": "一番の宝物 (Yui final Ver.)",
+  "channel": "LiSA - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-3ed1de02",
+  "workId": "wad00ec",
+  "kind": "OP",
+  "ytId": "8Yvd1y2tRpo",
+  "start": 71,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "青い栞",
+   "work": "我們仍未知道那天所看見的花的名字（あの日見た花の名前を僕達はまだ知らない。）",
+   "artist": "Galileo Galilei",
+   "lyricist": "尾崎雄貴",
+   "composer": "尾崎雄貴"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "【𝟰𝗞 中日歌詞】Galileo Galilei × 茅野愛衣 - 青い栞／藍色書籤 ♡ THE FIRST TAKE ♡ 未聞花名OP",
+  "channel": "I'm QM ( ᜊ°-° )ᜊ",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-bdb5642e",
+  "workId": "wad00ec",
+  "kind": "ED",
+  "ytId": "p2bx9n-ybrU",
+  "start": 59,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "secret base ~君がくれたもの~",
+   "work": "我們仍未知道那天所看見的花的名字（あの日見た花の名前を僕達はまだ知らない。）",
+   "artist": "ZONE"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "secret base ～君がくれたもの～ ZONE（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-e08d393f",
+  "workId": "w18b056",
+  "kind": "OP",
+  "ytId": "ylPEBnmRRxQ",
+  "start": 41,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "プレパレード",
+   "work": "龍與虎（とらドラ!）",
+   "artist": "釘宮理恵 堀江由衣 喜多村英梨"
+  },
+  "year": 2008,
+  "difficulty": 1,
+  "video": "プレパレード",
+  "channel": "Taiga Aisaka, Minori Kushieda, Ami Kawashima(Rie Kugimiya, Yui Horie,... - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-10dd633c",
+  "workId": "w18b056",
+  "kind": "OP",
+  "ytId": "LVh_hUxm-0A",
+  "start": 56,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "silky heart",
+   "work": "龍與虎（とらドラ!）",
+   "artist": "堀江由衣"
+  },
+  "year": 2008,
+  "difficulty": 2,
+  "video": "silky heart",
+  "channel": "Yui Horie - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b35d0187",
+  "workId": "w507fa4",
+  "kind": "OP",
+  "ytId": "ruox4M-bEok",
+  "start": 72,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "DREAM SOLISTER",
+   "work": "吹響吧!上低音號（響け!ユーフォニアム）",
+   "artist": "TRUE"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "DREAM SOLISTER (Movie Ver.)",
+  "channel": "TRUE - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-75be3c55",
+  "workId": "wb7a21d",
+  "kind": "OP",
+  "ytId": "vVGa8I0Atcg",
+  "start": 43,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "空色デイズ",
+   "work": "天元突破 紅蓮螺巖（天元突破グレンラガン）",
+   "artist": "中川翔子"
+  },
+  "year": 2007,
+  "difficulty": 1,
+  "video": "中川翔子『空色デイズ』 ～ 天元突破グレンラガン special music video ～",
+  "channel": "Shoko Nakagawa OFFICIAL YouTube CHANNEL",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-0d736643",
+  "workId": "wb7a21d",
+  "kind": "OP",
+  "ytId": "BM-39hPIIyM",
+  "start": 34,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Libera me from Hell",
+   "work": "天元突破 紅蓮螺巖（天元突破グレンラガン）",
+   "artist": "小野大輔"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Libera Me From Hell",
+  "channel": "Benny Best - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-0f39ea73",
+  "workId": "w1f21b8",
+  "kind": "OP",
+  "ytId": "H7cykKMpp_I",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "COLORS",
+   "work": "反叛的魯路修（コードギアス 反逆のルルーシュ）",
+   "artist": "FLOW"
+  },
+  "year": 2006,
+  "difficulty": 1,
+  "video": "FLOW「COLORS」MUSIC VIDEO (MBS・TBS系アニメ『コードギアス 反逆のルルーシュ』前期オープニングテーマ)",
+  "channel": "FLOW Official YouTube Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-a50572c8",
+  "workId": "w1f21b8",
+  "kind": "ED",
+  "ytId": "ked9t2AlGTA",
+  "start": 58,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "モザイクカケラ",
+   "work": "反叛的魯路修（コードギアス 反逆のルルーシュ）",
+   "artist": "SunSet Swish"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "SunSet Swish - モザイクカケラ (Mozaiku Kakera)【Official Video】",
+  "channel": "SunSet Swish Official",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-6e0cd65e",
+  "workId": "wefeb2a",
+  "kind": "OP",
+  "ytId": "0Fn1Z2iKtUg",
+  "start": 23,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "resonance",
+   "work": "靈魂食者（ソウルイーター）",
+   "artist": "T.M.Revolution"
+  },
+  "year": 2008,
+  "difficulty": 2,
+  "video": "RESONANCE",
+  "channel": "izzie - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-72b1c1de",
+  "workId": "w563373",
+  "kind": "ED",
+  "ytId": "5WVuisSdAGk",
+  "start": 155,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "The Sore Feet Song",
+   "work": "蟲師",
+   "artist": "Ally Kerr"
+  },
+  "year": 2005,
+  "difficulty": 2,
+  "video": "Ally Kerr - The Sore Feet Song / Mushishi Opening Theme Song (audio)",
+  "channel": "Ally Kerr",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-81f9aaed",
+  "workId": "w2f4efe",
+  "kind": "OP",
+  "ytId": "HHE7ZbsZOwc",
+  "start": 52,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ひぐらしのなく頃に",
+   "work": "寒蟬鳴泣之時（ひぐらしのなく頃に）",
+   "artist": "島宮えい子"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "ひぐらしのなく頃に",
+  "channel": "Eiko Shimamiya - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c84e5756",
+  "workId": "w6c392f",
+  "kind": "OP",
+  "ytId": "8RK4bxMR_70",
+  "start": 42,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Battlecry",
+   "work": "武士道Champloo（サムライチャンプルー）",
+   "artist": "Nujabes feat. Shing02"
+  },
+  "year": 2004,
+  "difficulty": 2,
+  "video": "Nujabes - Battlecry  (Lyrics)",
+  "channel": "Miekallalaulaja",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-d531f751",
+  "workId": "w5eaa3a",
+  "kind": "OP",
+  "ytId": "1jD6_NjzZpI",
+  "start": 29,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Ride on shooting star",
+   "work": "福利喵（FLCL）",
+   "artist": "the pillows"
+  },
+  "year": 2000,
+  "difficulty": 2,
+  "video": "FLCL (フリクリ) Creditless Ending [HD] // Ride on shooting star - [the pillows]",
+  "channel": "main rouge",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-45de1843",
+  "workId": "w5eaa3a",
+  "kind": "INSERT",
+  "ytId": "xshuvos1bm0",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Little Busters",
+   "work": "福利喵（FLCL）",
+   "artist": "the pillows"
+  },
+  "year": 2000,
+  "difficulty": 2,
+  "video": "LITTLE BUSTERS",
+  "channel": "the pillows - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-fa46d1f7",
+  "workId": "w42d531",
+  "kind": "OP",
+  "ytId": "k_MOplEpe1o",
+  "start": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Rose",
+   "work": "NANA",
+   "artist": "Anna Tsuchiya inspi' NANA (BLACK STONES)"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "rose",
+  "channel": "ANNA inspi' NANA(BLACK STONES) - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-73f7e924",
+  "workId": "w42d531",
+  "kind": "ED",
+  "ytId": "TWM5Ipw7mvQ",
+  "start": 61,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "a little pain",
+   "work": "NANA",
+   "artist": "OLIVIA inspi' REIRA (TRAPNEST)"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "A little Pain (From The Anime 'NANA')",
+  "channel": "Howanoi - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-861b1413",
+  "workId": "wf4b138",
+  "kind": "INSERT",
+  "ytId": "AKrJsb32wPI",
+  "start": 19,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Running in the 90's",
+   "work": "頭文字D",
+   "artist": "Max Coveri"
+  },
+  "year": 1998,
+  "difficulty": 1,
+  "video": "RUNNING IN THE 90S",
+  "channel": "MR.\"M\" - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-060bd118",
+  "workId": "wf4b138",
+  "kind": "INSERT",
+  "ytId": "9xfYNbqs7vo",
+  "start": 145,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Deja Vu",
+   "work": "頭文字D",
+   "artist": "Dave Rodgers"
+  },
+  "year": 1998,
+  "difficulty": 1,
+  "video": "Deja Vu",
+  "channel": "DAVE RODGERS feat. ALEX DE ROSSO - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-7b45fdbf",
+  "workId": "wf4b138",
+  "kind": "INSERT",
+  "ytId": "ljwUlY9WW1I",
+  "start": 72,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Gas Gas Gas",
+   "work": "頭文字D",
+   "artist": "Manuel"
+  },
+  "year": 1998,
+  "difficulty": 1,
+  "video": "MANUEL  /  GAS GAS GAS【Official Lyric Video】",
+  "channel": "avex",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a53faa80",
+  "workId": "w40c87f",
+  "kind": "OP",
+  "ytId": "bk239XQ6MJQ",
+  "start": 49,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Overlap",
+   "work": "遊戲王（遊☆戯☆王デュエルモンスターズ）",
+   "artist": "Kimeru"
+  },
+  "year": 2000,
+  "difficulty": 2,
+  "video": "OVERLAP",
+  "channel": "Kimeru - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b0798088",
+  "workId": "w34816c",
+  "kind": "OP",
+  "ytId": "2T9-VHpkj_I",
+  "start": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Boys & Girls",
+   "work": "家庭教師（ヒットマンREBORN!）"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "TVアニメ『家庭教師ヒットマンREBORN!』ノンクレジット映像 標的27-51｜オープニングテーマ「BOYS & GIRLS」LM.C",
+  "channel": "『家庭教師ヒットマンREBORN!』アニメ公式",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-d8797f9a",
+  "workId": "w257333",
+  "kind": "OP",
+  "ytId": "9ZbVCs3EJUA",
+  "start": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "微笑みの爆弾",
+   "work": "幽遊白書（幽☆遊☆白書）"
+  },
+  "year": 1992,
+  "difficulty": 2,
+  "video": "微笑みの爆弾",
+  "channel": "Matsuko Mawatari - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-04f50374",
+  "workId": "w0b02c8",
+  "kind": "OP",
+  "ytId": "5OGpQGTLSic",
+  "start": 85,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "PSI-missing",
+   "work": "魔法禁書目錄（とある魔術の禁書目録）",
+   "artist": "黒崎真音"
+  },
+  "year": 2008,
+  "difficulty": 2,
+  "video": "川田まみ「PSI-missing」Official MV(Full ver.)　Mami Kawada/PSI-missing",
+  "channel": "川田まみ(Mami Kawada) Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-ea19f228",
+  "workId": "w4b074f",
+  "kind": "OP",
+  "ytId": "ZhIxg6_Femo",
+  "start": 59,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "only my railgun",
+   "work": "科學超電磁砲（とある科学の超電磁砲）",
+   "artist": "fripSide"
+  },
+  "year": 2009,
+  "difficulty": 1,
+  "video": "fripSide - only my railgun (Audio)",
+  "channel": "fripSide Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-eadc3fa8",
+  "workId": "w4b074f",
+  "kind": "OP",
+  "ytId": "W4YbIxlfw8k",
+  "start": 207,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "LEVEL5-judgelight-",
+   "work": "科學超電磁砲（とある科学の超電磁砲）",
+   "artist": "fripSide"
+  },
+  "year": 2009,
+  "difficulty": 1,
+  "video": "fripSide - LEVEL5-judgelight- (Audio)",
+  "channel": "fripSide Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-ff127db3",
+  "workId": "w4b074f",
+  "kind": "OP",
+  "ytId": "e6g3mkqhFzo",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "sister's noise",
+   "work": "科學超電磁砲（とある科学の超電磁砲）",
+   "artist": "fripSide"
+  },
+  "year": 2009,
+  "difficulty": 1,
+  "video": "fripSide - sister's noise (Audio)",
+  "channel": "fripSide Official YouTube Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-119d8b05",
+  "workId": "w5e678d",
+  "kind": "OP",
+  "ytId": "1aPOj0ERTEc",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "crossing field",
+   "work": "刀劍神域（ソードアート・オンライン）",
+   "artist": "LiSA"
+  },
+  "year": 2012,
+  "difficulty": 1,
+  "video": "LiSA『crossing field』 -MUSiC CLiP-（TVアニメ 「ソードアート・オンライン」 オープニングテーマ）",
+  "channel": "LiSA Official YouTube",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-b00a4d03",
+  "workId": "w5e678d",
+  "kind": "OP",
+  "ytId": "J9ZLO7wZlXk",
+  "start": 67,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "INNOCENCE",
+   "work": "刀劍神域（ソードアート・オンライン）",
+   "artist": "藍井エイル"
+  },
+  "year": 2012,
+  "difficulty": 1,
+  "video": "藍井エイル「INNOCENCE」Music Video（TVアニメ『ソードアート・オンライン』フェアリィ・ダンス編OPテーマ）",
+  "channel": "藍井エイル Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-32c93012",
+  "workId": "w5e678d",
+  "kind": "ED",
+  "ytId": "CpDyF4pkbAs",
+  "start": 206,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Overfly",
+   "work": "刀劍神域（ソードアート・オンライン）",
+   "artist": "春奈るな"
+  },
+  "year": 2012,
+  "difficulty": 1,
+  "video": "Luna Haruna - Overfly",
+  "channel": "lunaharunaVEVO",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-6eae3de9",
+  "workId": "w5e678d",
+  "kind": "OP",
+  "ytId": "v2tmzEuVEz8",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ADAMAS",
+   "work": "刀劍神域（ソードアート・オンライン）",
+   "artist": "LiSA"
+  },
+  "year": 2012,
+  "difficulty": 1,
+  "video": "LiSA『ADAMAS』-MUSiC CLiP-（TVアニメ「ソードアート・オンライン アリシゼーション」オープニングテーマ）",
+  "channel": "LiSA Official YouTube",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-f1795a4e",
+  "workId": "w5e678d",
+  "kind": "INSERT",
+  "ytId": "LJkn2qqtijk",
+  "start": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Catch the Moment",
+   "work": "刀劍神域（ソードアート・オンライン）",
+   "artist": "LiSA"
+  },
+  "year": 2012,
+  "difficulty": 1,
+  "video": "LiSA『Catch the Moment』（「劇場版 ソードアート・オンライン -オーディナル・スケール-」主題歌）",
+  "channel": "LiSA Official YouTube",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-6dea9489",
+  "workId": "w5e678d",
+  "kind": "OST",
+  "ytId": "jUuknk81n2w",
+  "start": 132,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "Swordland",
+   "work": "刀劍神域（ソードアート・オンライン）",
+   "artist": "梶浦由記",
+   "composer": "梶浦由記"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "Swordland",
+  "channel": "Yuki Kajiura - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b96e0fac",
+  "workId": "w5549c6",
+  "kind": "OP",
+  "ytId": "OcNSFV5Io0Q",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "oath sign",
+   "work": "Fate 系列（Fate/Zero・Fate/stay night）",
+   "artist": "LiSA"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "LiSA『oath sign』-MUSiC CLiP-（TVアニメ「Fate/Zero」オープニングテーマ）",
+  "channel": "LiSA Official YouTube",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-7d56908e",
+  "workId": "w5549c6",
+  "kind": "ED",
+  "ytId": "b1bXu0XZDlU",
+  "start": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "to the beginning",
+   "work": "Fate 系列（Fate/Zero・Fate/stay night）",
+   "artist": "Kalafina",
+   "lyricist": "梶浦由記",
+   "composer": "梶浦由記"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "Kalafina - To the Beginning",
+  "channel": "KalafinaVEVO",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-edcc20cf",
+  "workId": "w5549c6",
+  "kind": "OP",
+  "ytId": "VQ2D8rZljwU",
+  "start": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Brave Shine",
+   "work": "Fate 系列（Fate/Zero・Fate/stay night）",
+   "artist": "Aimer"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "Aimer 『Brave Shine』MUSIC VIDEO（FULL ver.）",
+  "channel": "Aimer Official YouTube Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-dcc0fffa",
+  "workId": "w5549c6",
+  "kind": "ED",
+  "ytId": "Q4DpvK0DWlI",
+  "start": 203,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "this illusion",
+   "work": "Fate 系列（Fate/Zero・Fate/stay night）",
+   "artist": "Aimer"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "This Illusion (FGOW Version)",
+  "channel": "Fate/Grand Order - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-bf86a3fe",
+  "workId": "w5549c6",
+  "kind": "INSERT",
+  "ytId": "pCC6qbAnX00",
+  "start": 222,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "I beg you",
+   "work": "Fate 系列（Fate/Zero・Fate/stay night）",
+   "artist": "Aimer"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "Aimer 『I beg you』（主演：浜辺美波 / 劇場版「Fate/stay night [Heaven's Feel]」Ⅱ.lost butterfly主題歌）",
+  "channel": "Aimer Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-58a077c7",
+  "workId": "wb449e8",
+  "kind": "OP",
+  "ytId": "yv86Xg1CqPQ",
+  "start": 33,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "さんぽ",
+   "work": "龍貓（となりのトトロ）",
+   "artist": "井上あずみ",
+   "lyricist": "中川李枝子",
+   "composer": "久石譲"
+  },
+  "year": 1988,
+  "difficulty": 1,
+  "video": "さんぽ - となりのトトロ 井上あずみ",
+  "channel": "high_note Music Lounge",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-b8a79885",
+  "workId": "wb449e8",
+  "kind": "ED",
+  "ytId": "yXD_BJWSkGc",
+  "start": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "となりのトトロ",
+   "work": "龍貓（となりのトトロ）",
+   "artist": "井上あずみ",
+   "lyricist": "宮崎駿",
+   "composer": "久石譲"
+  },
+  "year": 1988,
+  "difficulty": 1,
+  "video": "となりのトトロ - 井上あずみ（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-17f46386",
+  "workId": "wc74fd7",
+  "kind": "OP",
+  "ytId": "N-uCT3jGEMs",
+  "start": 38,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "やさしさに包まれたなら",
+   "work": "魔女宅急便（魔女の宅急便）",
+   "artist": "荒井由実",
+   "lyricist": "荒井由実",
+   "composer": "荒井由実"
+  },
+  "year": 1989,
+  "difficulty": 1,
+  "video": "やさしさに包まれたなら - 荒井由実（松任谷由実）",
+  "channel": "high_note Music Lounge",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-b9ea3280",
+  "workId": "wc74fd7",
+  "kind": "ED",
+  "ytId": "Zpt13XMGI0Y",
+  "start": 171,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "海の見える街",
+   "work": "魔女宅急便（魔女の宅急便）",
+   "artist": "久石譲",
+   "composer": "久石譲"
+  },
+  "year": 1989,
+  "difficulty": 2,
+  "video": "久石譲 - 海の見える街 Joe Hisaishi - A Town with an Ocean View 【魔女の宅急便】",
+  "channel": "鈴木ゆうは / Yuha Suzuki",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-bb62949b",
+  "workId": "w1adc11",
+  "kind": "ED",
+  "ytId": "SEtbAEjanWo",
+  "start": 40,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "君をのせて",
+   "work": "天空之城（天空の城ラピュタ）",
+   "artist": "井上あずみ",
+   "lyricist": "宮崎駿",
+   "composer": "久石譲"
+  },
+  "year": 1986,
+  "difficulty": 1,
+  "video": "君をのせて 天空の城ラピュタ 井上あずみ",
+  "channel": "high_note Music Lounge",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-7d38a9cb",
+  "workId": "wa40707",
+  "kind": "ED",
+  "ytId": "X8Qg_EwjA4Y",
+  "start": 94,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "風の谷のナウシカ",
+   "work": "風之谷（風の谷のナウシカ）",
+   "artist": "安田成美",
+   "lyricist": "松本隆",
+   "composer": "細野晴臣"
+  },
+  "year": 1984,
+  "difficulty": 2,
+  "video": "風の谷のナウシカ",
+  "channel": "Release - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b14661b7",
+  "workId": "w770c82",
+  "kind": "ED",
+  "ytId": "Ei54KPjp35M",
+  "start": 192,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "いつも何度でも",
+   "work": "神隱少女（千と千尋の神隠し）",
+   "artist": "木村弓",
+   "lyricist": "覚和歌子",
+   "composer": "木村弓"
+  },
+  "year": 2001,
+  "difficulty": 1,
+  "video": "『 木村弓 / いつも何度でも ～千と千尋の神隠し～ 』 High-quality sound　歌詞付き",
+  "channel": "Q Heart",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-adfd871d",
+  "workId": "w770c82",
+  "kind": "OST",
+  "ytId": "TK1Ij_-mank",
+  "start": 214,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "One Summer's Day",
+   "work": "神隱少女（千と千尋の神隠し）",
+   "artist": "久石譲",
+   "composer": "久石譲"
+  },
+  "year": 2001,
+  "difficulty": 1,
+  "video": "Joe Hisaishi - One Summer's Day",
+  "channel": "JoeHisaishiVEVO",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a828a9fc",
+  "workId": "w770c82",
+  "kind": "OST",
+  "ytId": "PlJ5j8VMiMw",
+  "start": 30,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "竜の少年",
+   "work": "神隱少女（千と千尋の神隠し）",
+   "artist": "久石譲",
+   "composer": "久石譲"
+  },
+  "year": 2001,
+  "difficulty": 2,
+  "video": "Spirited Away   soundtrack　Dragon Boy　千と千尋の神隠し　サントラ",
+  "channel": "Sound Track",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-d9c40fd1",
+  "workId": "wbcf59a",
+  "kind": "ED",
+  "ytId": "cEXG5iVIQ7g",
+  "start": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "世界の約束",
+   "work": "哈爾的移動城（ハウルの動く城）",
+   "artist": "倍賞千恵子",
+   "lyricist": "谷川俊太郎",
+   "composer": "木村弓"
+  },
+  "year": 2004,
+  "difficulty": 1,
+  "video": "世界の約束〜人生のメリーゴーランド-エンディング- 　　ハウルの動く城",
+  "channel": "You Pica Music　",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-1201e9e7",
+  "workId": "wbcf59a",
+  "kind": "OST",
+  "ytId": "f7SS57LFPco",
+  "start": 242,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "人生のメリーゴーランド",
+   "work": "哈爾的移動城（ハウルの動く城）",
+   "artist": "久石譲",
+   "composer": "久石譲"
+  },
+  "year": 2004,
+  "difficulty": 1,
+  "video": "Joe Hisaishi - Merry-Go-Round of Life (from Howl’s Moving Castle)",
+  "channel": "JoeHisaishiVEVO",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-4fc5683b",
+  "workId": "w03dc27",
+  "kind": "ED",
+  "ytId": "TSktP_og4pw",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "カントリー・ロード",
+   "work": "心之谷（耳をすませば）",
+   "artist": "本名陽子"
+  },
+  "year": 1995,
+  "difficulty": 1,
+  "video": "カントリー・ロード - 本名陽子（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-a59e4441",
+  "workId": "w35b78f",
+  "kind": "ED",
+  "ytId": "mWx2DHtD0rQ",
+  "start": 17,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "風になる",
+   "work": "貓的報恩（猫の恩返し）",
+   "artist": "つじあやの",
+   "lyricist": "つじあやの",
+   "composer": "つじあやの"
+  },
+  "year": 2002,
+  "difficulty": 2,
+  "video": "風になる - つじあやの（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-500fa670",
+  "workId": "w2b4e46",
+  "kind": "ED",
+  "ytId": "Q0LWIGDnjlE",
+  "start": 33,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "崖の上のポニョ",
+   "work": "崖上的波妞（崖の上のポニョ）",
+   "artist": "藤岡藤巻と大橋のぞみ",
+   "lyricist": "近藤勝也・宮崎駿",
+   "composer": "久石譲"
+  },
+  "year": 2008,
+  "difficulty": 1,
+  "video": "崖の上のポニョ/藤岡藤巻と大橋のぞみ Ponyo on a Cliff by the Sea 久石譲 Joe Hisaishi『崖の上のポニョ』イメージアルバム Ponyo Image Album",
+  "channel": "HVRK Film Music and CD Archives",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-975bc716",
+  "workId": "w2dba66",
+  "kind": "ED",
+  "ytId": "9HInQDjCCRc",
+  "start": 153,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ひこうき雲",
+   "work": "風起（風立ちぬ）",
+   "artist": "荒井由実",
+   "lyricist": "荒井由実",
+   "composer": "荒井由実"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "ひこうき雲 - 荒井由実（松任谷由実）",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c090b0f1",
+  "workId": "wb574a2",
+  "kind": "INSERT",
+  "ytId": "S90X8XK0Cs8",
+  "start": 233,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "前前前世",
+   "work": "你的名字。（君の名は。）",
+   "artist": "RADWIMPS",
+   "lyricist": "野田洋次郎",
+   "composer": "野田洋次郎"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "Vaundy - 前前前世 / Zenzenzense [Audio]",
+  "channel": "RADWIMPS",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-3777c134",
+  "workId": "wb574a2",
+  "kind": "INSERT",
+  "ytId": "yqwoY-aIVUI",
+  "start": 93,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "スパークル",
+   "work": "你的名字。（君の名は。）",
+   "artist": "RADWIMPS",
+   "lyricist": "野田洋次郎",
+   "composer": "野田洋次郎"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "RADWIMPS - スパークル 【歌詞付き】",
+  "channel": "TT - MUSIC",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-92151d5b",
+  "workId": "wb574a2",
+  "kind": "INSERT",
+  "ytId": "fOn7bpQpAZI",
+  "start": 69,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "なんでもないや",
+   "work": "你的名字。（君の名は。）",
+   "artist": "RADWIMPS",
+   "lyricist": "野田洋次郎",
+   "composer": "野田洋次郎"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "【歌詞動画】なんでもないや-RADWIMPS",
+  "channel": "音彩_Neiro",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-b7693716",
+  "workId": "wb574a2",
+  "kind": "INSERT",
+  "ytId": "wOsEvAmz6vc",
+  "start": 25,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "夢灯籠",
+   "work": "你的名字。（君の名は。）",
+   "artist": "RADWIMPS",
+   "lyricist": "野田洋次郎",
+   "composer": "野田洋次郎"
+  },
+  "year": 2016,
+  "difficulty": 2,
+  "video": "RADWIMPS - 夢灯籠 (歌詞動画)",
+  "channel": "LilimusicJPN",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-17153574",
+  "workId": "w432c33",
+  "kind": "INSERT",
+  "ytId": "D6S3YrdDE5U",
+  "start": 75,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "愛にできることはまだあるかい",
+   "work": "天氣之子（天気の子）",
+   "artist": "RADWIMPS",
+   "lyricist": "野田洋次郎",
+   "composer": "野田洋次郎"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "RADWIMPS - 愛にできることはまだあるかい [歌詞付き] [Sub Español] [Romaji]",
+  "channel": "RADWIMPS MÉXICO",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-785b108a",
+  "workId": "w432c33",
+  "kind": "INSERT",
+  "ytId": "HUGR4hTwK4A",
+  "start": 279,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "グランドエスケープ",
+   "work": "天氣之子（天気の子）",
+   "artist": "RADWIMPS feat. 三浦透子",
+   "lyricist": "野田洋次郎",
+   "composer": "野田洋次郎"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "RADWIMPS - グランドエスケープ [Audio]",
+  "channel": "RADWIMPS",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-ea7736ba",
+  "workId": "w237f0f",
+  "kind": "INSERT",
+  "ytId": "Xs0Lxif1u9E",
+  "start": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "すずめ",
+   "work": "鈴芽之旅（すずめの戸締まり）",
+   "artist": "RADWIMPS feat. 十明",
+   "lyricist": "野田洋次郎",
+   "composer": "野田洋次郎"
+  },
+  "year": 2022,
+  "difficulty": 1,
+  "video": "RADWIMPS - すずめ feat.十明 [Official Lyric Video]",
+  "channel": "RADWIMPS",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-2c5953bb",
+  "workId": "w3cfe0c",
+  "kind": "ED",
+  "ytId": "hfDxEXA-RSc",
+  "start": 65,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "One more time, One more chance",
+   "work": "秒速5公分（秒速5センチメートル）",
+   "artist": "山崎まさよし",
+   "lyricist": "山崎まさよし",
+   "composer": "山崎まさよし"
+  },
+  "year": 2007,
+  "difficulty": 1,
+  "video": "One More Time, One More Chance",
+  "channel": "Masayoshi Yamazaki - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-0414b1fd",
+  "workId": "wb1f1bd",
+  "kind": "ED",
+  "ytId": "Cy3rUQUAfxM",
+  "start": 180,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Rain",
+   "work": "言葉之庭（言の葉の庭）",
+   "artist": "秦基博",
+   "lyricist": "大江千里",
+   "composer": "大江千里"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Rain - 秦基博（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-986f9604",
+  "workId": "waf5c38",
+  "kind": "ED",
+  "ytId": "JRCZhseEcqA",
+  "start": 175,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ガーネット",
+   "work": "時空少女（時をかける少女）",
+   "artist": "奥華子",
+   "lyricist": "奥華子",
+   "composer": "奥華子"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "劇場版アニメーション『時をかける少女』主題歌　「ガーネット 」　♪奥華子",
+  "channel": "奥華子 Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-006d8be8",
+  "workId": "w65e516",
+  "kind": "ED",
+  "ytId": "yCnNHJteVLk",
+  "start": 231,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "僕らの夏の夢",
+   "work": "夏日大作戰（サマーウォーズ）",
+   "artist": "山下達郎",
+   "lyricist": "山下達郎",
+   "composer": "山下達郎"
+  },
+  "year": 2009,
+  "difficulty": 2,
+  "video": "【Wedding】結婚式 自作ムービー guest focus (山下達郎/僕らの夏の夢)",
+  "channel": "ちげお.",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a5b7ec8e",
+  "workId": "w238c4e",
+  "kind": "ED",
+  "ytId": "Yn62y_grvPc",
+  "start": 259,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "おかあさんの唄",
+   "work": "狼的孩子雨與雪（おおかみこどもの雨と雪）",
+   "artist": "アン・サリー"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "Okasan no Uta",
+  "channel": "Ann Sally & Saigenji - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-26a2b7a0",
+  "workId": "w046080",
+  "kind": "OP",
+  "ytId": "AW5_k_Cf4wM",
+  "start": 43,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "紅蓮の弓矢",
+   "work": "進擊的巨人（進撃の巨人）",
+   "artist": "Linked Horizon",
+   "lyricist": "Revo",
+   "composer": "Revo"
+  },
+  "year": 2013,
+  "difficulty": 1,
+  "video": "「進撃の巨人」Season 1前期ノンクレジットOP｜Linked Horizon「紅蓮の弓矢」",
+  "channel": "進撃の巨人 - Attack on Titan Official",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a6fea92f",
+  "workId": "w046080",
+  "kind": "OP",
+  "ytId": "43spp3kzGVw",
+  "start": 41,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "自由の翼",
+   "work": "進擊的巨人（進撃の巨人）",
+   "artist": "Linked Horizon",
+   "lyricist": "Revo",
+   "composer": "Revo"
+  },
+  "year": 2013,
+  "difficulty": 1,
+  "video": "「進撃の巨人」Season 1後期ノンクレジットOP｜Linked Horizon「自由の翼」",
+  "channel": "進撃の巨人 - Attack on Titan Official",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-85aa9291",
+  "workId": "w046080",
+  "kind": "OP",
+  "ytId": "nAksM2HAAqo",
+  "start": 43,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "心臓を捧げよ!",
+   "work": "進擊的巨人（進撃の巨人）",
+   "artist": "Linked Horizon",
+   "lyricist": "Revo",
+   "composer": "Revo"
+  },
+  "year": 2013,
+  "difficulty": 1,
+  "video": "「進撃の巨人」Season 2ノンクレジットOP｜Linked Horizon「心臓を捧げよ！」",
+  "channel": "進撃の巨人 - Attack on Titan Official",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-63038d39",
+  "workId": "w046080",
+  "kind": "OP",
+  "ytId": "eN_rq3FvJUs",
+  "start": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "美しき残酷な世界",
+   "work": "進擊的巨人（進撃の巨人）",
+   "artist": "Linked Horizon",
+   "lyricist": "Revo",
+   "composer": "Revo"
+  },
+  "year": 2013,
+  "difficulty": 1,
+  "video": "「進撃の巨人」Season 1前期ノンクレジットED｜日笠陽子「美しき残酷な世界」",
+  "channel": "進撃の巨人 - Attack on Titan Official",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-8049ea86",
+  "workId": "w046080",
+  "kind": "OP",
+  "ytId": "r1XE8ON8fos",
+  "start": 212,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Red Swan",
+   "work": "進擊的巨人（進撃の巨人）",
+   "artist": "Yoshiki feat. HYDE"
+  },
+  "year": 2013,
+  "difficulty": 1,
+  "video": "\"Red Swan\" (Attack on Titan anime theme) - 進撃の巨人 Official Lyric Video YOSHIKI feat. HYDE",
+  "channel": "Yoshiki",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a033e625",
+  "workId": "w046080",
+  "kind": "OP",
+  "ytId": "6TolbTZXDjI",
+  "start": 36,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "僕の戦争",
+   "work": "進擊的巨人（進撃の巨人）",
+   "artist": "神様、僕は気づいてしまった"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "「進撃の巨人」The Final Season Part 1ノンクレジットOP｜神聖かまってちゃん「僕の戦争」",
+  "channel": "進撃の巨人 - Attack on Titan Official",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-f2a530f6",
+  "workId": "w046080",
+  "kind": "OP",
+  "ytId": "OBqw818mQ1E",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "The Rumbling",
+   "work": "進擊的巨人（進撃の巨人）",
+   "artist": "SiM"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "SiM – The Rumbling (OFFICIAL VIDEO)",
+  "channel": "SiM Official YouTube Channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-19bdc915",
+  "workId": "w046080",
+  "kind": "OST",
+  "ytId": "zroFzv7sFis",
+  "start": 142,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "ətˈæk 0N tάɪtn",
+   "work": "進擊的巨人（進撃の巨人）",
+   "artist": "澤野弘之",
+   "composer": "澤野弘之"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "ətˈæk 0N tάɪtn",
+  "channel": "Hiroyuki SAWANO - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-7d878682",
+  "workId": "w046080",
+  "kind": "OST",
+  "ytId": "H76_uW1Fnso",
+  "start": 331,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "Vogel im Käfig",
+   "work": "進擊的巨人（進撃の巨人）",
+   "artist": "澤野弘之",
+   "composer": "澤野弘之"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Vogel im Käfig",
+  "channel": "Hiroyuki SAWANO - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-56ba7ab7",
+  "workId": "w677d52",
+  "kind": "OP",
+  "ytId": "QImBolnTVH8",
+  "start": 34,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "THE HERO !! ~怒れる拳に火をつけろ~",
+   "work": "一拳超人（ワンパンマン）",
+   "artist": "JAM Project"
+  },
+  "year": 2015,
+  "difficulty": 1,
+  "video": "[Official Video] JAM Project - THE HERO !! -  \"One Punch Man\" Opening Theme ワンパンマン",
+  "channel": "Lantis Global Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c03df823",
+  "workId": "w677d52",
+  "kind": "OP",
+  "ytId": "lpGSwTUSynM",
+  "start": 184,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "静寂のアポストル",
+   "work": "一拳超人（ワンパンマン）",
+   "artist": "JAM Project"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "JAM Project「静寂のアポストル」（TVアニメ『ワンパンマン』第2期オープニング主題歌）- Music Video（Full ver.）-",
+  "channel": "Lantis Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-0a1482ef",
+  "workId": "w772b66",
+  "kind": "OP",
+  "ytId": "_N_Uqd7JBcM",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "JoJo ~その血の運命~",
+   "work": "JOJO的奇妙冒險（ジョジョの奇妙な冒険）",
+   "artist": "富永TOMMY弘明"
+  },
+  "year": 2012,
+  "difficulty": 1,
+  "video": "JOJO SONO CHINO SADAME",
+  "channel": "Tominaga TOMMY Hiroaki - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-3837f24b",
+  "workId": "w772b66",
+  "kind": "OP",
+  "ytId": "hmpJqJLsR48",
+  "start": 52,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "BLOODY STREAM",
+   "work": "JOJO的奇妙冒險（ジョジョの奇妙な冒険）",
+   "artist": "Coda"
+  },
+  "year": 2012,
+  "difficulty": 1,
+  "video": "BLOODY STREAM",
+  "channel": "Coda - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-8882e07c",
+  "workId": "w772b66",
+  "kind": "OP",
+  "ytId": "oAzNQKbncxA",
+  "start": 248,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "STAND PROUD",
+   "work": "JOJO的奇妙冒險（ジョジョの奇妙な冒険）",
+   "artist": "橋本仁"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "STAND PROUD",
+  "channel": "JIN HASHIMOTO - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b0339a04",
+  "workId": "w772b66",
+  "kind": "OST",
+  "ytId": "U0TXIXTzJEY",
+  "start": 220,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "Il vento d'oro",
+   "work": "JOJO的奇妙冒險（ジョジョの奇妙な冒険）",
+   "artist": "菅野祐悟",
+   "composer": "菅野祐悟"
+  },
+  "year": 2012,
+  "difficulty": 1,
+  "video": "il vento d'oro",
+  "channel": "Yugo Kanno - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-4fe442ad",
+  "workId": "w0d81e0",
+  "kind": "OP",
+  "ytId": "uX53ttaY-oo",
+  "start": 52,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Can Do",
+   "work": "黑子的籃球（黒子のバスケ）",
+   "artist": "GRANRODEO"
+  },
+  "year": 2012,
+  "difficulty": 1,
+  "video": "GRANRODEO - Can Do [Kuroko no Basket 黒子のバスケ Opening 1] [Color Coded Lyrics/KAN/ROM/EN]",
+  "channel": "Melloaeriz ",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-305e2fdf",
+  "workId": "w0d81e0",
+  "kind": "OP",
+  "ytId": "bkGCeyzjEiA",
+  "start": 12,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Hot Limit",
+   "work": "黑子的籃球（黒子のバスケ）",
+   "artist": "GRANRODEO"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "TVアニメ『ぷにるはかわいいスライム』“ぷにかわ”MV第7弾／「HOT LIMIT」ぷにる(CV：篠原 侑)／第2期制作決定！",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-95978ddc",
+  "workId": "w13efa6",
+  "kind": "OP",
+  "ytId": "4EXnubrh-Vk",
+  "start": 43,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Snow Fairy",
+   "work": "妖精的尾巴（FAIRY TAIL）",
+   "artist": "Funkist"
+  },
+  "year": 2009,
+  "difficulty": 1,
+  "video": "FUNKIST - Snow fairy HQ [Fairy Tail] FULL",
+  "channel": "✨ Animusic HQ ✨",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-e64e1b7e",
+  "workId": "w13efa6",
+  "kind": "OP",
+  "ytId": "7ElM39gw1FI",
+  "start": 44,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Masayume Chasing",
+   "work": "妖精的尾巴（FAIRY TAIL）",
+   "artist": "BoA"
+  },
+  "year": 2009,
+  "difficulty": 2,
+  "video": "Masayume Chasing - BoA | Fairy Tail 2014 Opening 1 (Vietsub | Lyrics)",
+  "channel": "DaiTran Vietsub",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-2ec6a722",
+  "workId": "w13efa6",
+  "kind": "OST",
+  "ytId": "help5ZL7yiw",
+  "start": 20,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "FAIRY TAIL メインテーマ",
+   "work": "妖精的尾巴（FAIRY TAIL）",
+   "artist": "高梨康治"
+  },
+  "year": 2009,
+  "difficulty": 2,
+  "video": "FAIRY TAIL メインテーマ　2014",
+  "channel": "Yasuharu Takanashi - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-02a14812",
+  "workId": "w60939c",
+  "kind": "OP",
+  "ytId": "FLs2faYqoNU",
+  "start": 62,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "熱情のスペクトラム",
+   "work": "七大罪（七つの大罪）",
+   "artist": "いきものがかり",
+   "lyricist": "水野良樹",
+   "composer": "水野良樹"
+  },
+  "year": 2014,
+  "difficulty": 1,
+  "video": "いきものがかり 『熱情のスペクトラム』Music Video",
+  "channel": "いきものがかり",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-0e44b64d",
+  "workId": "w774fff",
+  "kind": "OP",
+  "ytId": "QbwE7OhmkYc",
+  "start": 38,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "イマジネーション",
+   "work": "排球少年!!（ハイキュー!!）",
+   "artist": "SPYAIR"
+  },
+  "year": 2014,
+  "difficulty": 1,
+  "video": "SPYAIR『イマジネーション - New Version -』Music Video",
+  "channel": "SPYAIR Official YouTube Channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-532ee672",
+  "workId": "w774fff",
+  "kind": "OP",
+  "ytId": "b5lsuPxMFmw",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "PHOENIX",
+   "work": "排球少年!!（ハイキュー!!）",
+   "artist": "BURNOUT SYNDROMES"
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "BURNOUT SYNDROMES 『PHOENIX』Music Video（TVアニメ「ハイキュー!! TO THE TOP」オープニングテーマ）",
+  "channel": "BURNOUT SYNDROMES Official YouTube Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-a051b168",
+  "workId": "w774fff",
+  "kind": "OP",
+  "ytId": "24LxVVnRTpg",
+  "start": 178,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ヒカリアレ",
+   "work": "排球少年!!（ハイキュー!!）",
+   "artist": "BURNOUT SYNDROMES"
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "BURNOUT SYNDROMES 『ヒカリアレ』 Music Video（FULL）",
+  "channel": "BURNOUT SYNDROMES Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-0eb5a47d",
+  "workId": "w774fff",
+  "kind": "OP",
+  "ytId": "YX74EyoEVKc",
+  "start": 49,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "FLY HIGH!!",
+   "work": "排球少年!!（ハイキュー!!）",
+   "artist": "BURNOUT SYNDROMES"
+  },
+  "year": 2014,
+  "difficulty": 1,
+  "video": "BURNOUT SYNDROMES 『FLY HIGH!!』 Music Video（FULL）",
+  "channel": "BURNOUT SYNDROMES Official YouTube Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-dc340986",
+  "workId": "w050820",
+  "kind": "OP",
+  "ytId": "LrmkEqxfcqQ",
+  "start": 179,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Touch Off",
+   "work": "約定的夢幻島（約束のネバーランド）",
+   "artist": "UVERworld"
+  },
+  "year": 2019,
+  "difficulty": 2,
+  "video": "UVERworld『Touch off』x 360 Reality Audio スペシャルビデオ",
+  "channel": "UVERworld Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c5eb6898",
+  "workId": "w050820",
+  "kind": "ED",
+  "ytId": "6WNk9yMNovs",
+  "start": 107,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "絶体絶命",
+   "work": "約定的夢幻島（約束のネバーランド）",
+   "artist": "Cö shu Nie"
+  },
+  "year": 2019,
+  "difficulty": 2,
+  "video": "Cö shu Nie – 絶体絶命 (Official Video)　/ “約束のネバーランド” ED",
+  "channel": "Cö shu Nie Official Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b2ed2c2b",
+  "workId": "wd6a00d",
+  "kind": "OP",
+  "ytId": "Fve_lHIPa-I",
+  "start": 61,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "unravel",
+   "work": "東京喰種（東京喰種トーキョーグール）",
+   "artist": "TK from 凛として時雨",
+   "lyricist": "TK",
+   "composer": "TK"
+  },
+  "year": 2014,
+  "difficulty": 1,
+  "video": "TK from 凛として時雨 『unravel』 Music Video(Full Size)",
+  "channel": "凛として時雨 / TK",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-da4a3dff",
+  "workId": "wd6a00d",
+  "kind": "OP",
+  "ytId": "ZB9UvUJL_lE",
+  "start": 49,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Asphyxia",
+   "work": "東京喰種（東京喰種トーキョーグール）",
+   "artist": "Cö shu Nie"
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "Cö shu Nie - Asphyxia",
+  "channel": "coshunieVEVO",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-41982035",
+  "workId": "wec9123",
+  "kind": "OP",
+  "ytId": "DOKM9QWJG3g",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "abnormalize",
+   "work": "心理測量者（PSYCHO-PASS サイコパス）",
+   "artist": "凛として時雨"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "凛として時雨 『abnormalize(full ver.)』",
+  "channel": "凛として時雨 / TK",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-188cf3e3",
+  "workId": "wec9123",
+  "kind": "OP",
+  "ytId": "qPcNKyYew3g",
+  "start": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Out of Control",
+   "work": "心理測量者（PSYCHO-PASS サイコパス）",
+   "artist": "Nothing's Carved In Stone"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "Psycho-Pass OP 2 FULL 『Out Of Control』- Nothing's Carved In Stone 『Lyrics English/Español』",
+  "channel": "TempleAnime",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-28ba2e47",
+  "workId": "w9452e1",
+  "kind": "OP",
+  "ytId": "bUDp4tF8Hbo",
+  "start": 64,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Let Me Hear",
+   "work": "寄生獸（寄生獣 セイの格率）",
+   "artist": "Fear, and Loathing in Las Vegas"
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "Parasyte let me hear- full theme song",
+  "channel": "Zain",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-f31e9294",
+  "workId": "w10c425",
+  "kind": "OP",
+  "ytId": "WTZRgj6Afes",
+  "start": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "狂乱 Hey Kids!!",
+   "work": "野良神（ノラガミ）",
+   "artist": "THE ORAL CIGARETTES"
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "【ノンクレジットOP】TVアニメ『ノラガミ ARAGOTO』狂乱 Hey Kids!! / THE ORAL CIGARETTES",
+  "channel": "avex pictures",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-f97540b5",
+  "workId": "w65c2c1",
+  "kind": "OP",
+  "ytId": "Ca_mEv2Se_s",
+  "start": 52,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Rage on",
+   "work": "Free!",
+   "artist": "OLDCODEX"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Rage on",
+  "channel": "OLDCODEX - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-628646ab",
+  "workId": "w2d3d94",
+  "kind": "OP",
+  "ytId": "kJ04dMmimn8",
+  "start": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "This game",
+   "work": "遊戲人生（ノーゲーム・ノーライフ）",
+   "artist": "鈴木このみ"
+  },
+  "year": 2014,
+  "difficulty": 1,
+  "video": "This game",
+  "channel": "KONOMI SUZUKI from the Ultra League - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-8113be02",
+  "workId": "w683a1b",
+  "kind": "OP",
+  "ytId": "mQS_iWWp1sQ",
+  "start": 56,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "青春サツバツ論",
+   "work": "暗殺教室",
+   "artist": "3年E組うた担"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "TVアニメ『暗殺教室』第1期ノンクレジットOP映像①／3年E組うた担「青春サツバツ論」",
+  "channel": "【フジテレビ】アニメ公式チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-19bc4813",
+  "workId": "w89b05d",
+  "kind": "OP",
+  "ytId": "Vz_BqxcdHMM",
+  "start": 65,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "デート・ア・ライブ",
+   "work": "約會大作戰（デート・ア・ライブ）",
+   "artist": "sweet ARMS"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "デート・ア・ライブ",
+  "channel": "sweet ARMS - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-2486eff5",
+  "workId": "wee1ccc",
+  "kind": "OP",
+  "ytId": "0ebPURhgTeM",
+  "start": 64,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "My Dearest",
+   "work": "罪惡王冠（ギルティクラウン）",
+   "artist": "supercell",
+   "lyricist": "ryo",
+   "composer": "ryo"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "My Dearest (TV Edit)",
+  "channel": "supercell - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-6399817a",
+  "workId": "wee1ccc",
+  "kind": "ED",
+  "ytId": "LKqgY0VKZX4",
+  "start": 201,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Departures ~あなたにおくる愛の歌~",
+   "work": "罪惡王冠（ギルティクラウン）",
+   "artist": "EGOIST",
+   "lyricist": "ryo",
+   "composer": "ryo"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "EGOIST『Departures 〜あなたにおくるアイの歌〜』Music Video（テレビアニメ『ギルティクラウン』前期エンディングテーマ）",
+  "channel": "EGOIST Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-e37a3edd",
+  "workId": "w833920",
+  "kind": "OP",
+  "ytId": "bMuIoZVbDMM",
+  "start": 102,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "恋愛サーキュレーション",
+   "work": "物語系列（化物語）",
+   "artist": "花澤香菜"
+  },
+  "year": 2009,
+  "difficulty": 2,
+  "video": "恋愛サーキュレーション - 花澤香菜（フル）",
+  "channel": "high_note Music Lounge",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-fd9c2a0f",
+  "workId": "wc13ce2",
+  "kind": "OP",
+  "ytId": "3TADlbgAXHY",
+  "start": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Hacking to the Gate",
+   "work": "神的記事本（Steins;Gate）",
+   "artist": "いとうかなこ"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "Hacking to the Gate",
+  "channel": "Ito Kanako - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-5bf2f910",
+  "workId": "wc13ce2",
+  "kind": "ED",
+  "ytId": "aivI0dwJJ4I",
+  "start": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "刻司ル十二ノ盟約",
+   "work": "神的記事本（Steins;Gate）",
+   "artist": "いとうかなこ"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "Steins;Gate ED 『刻司ル十二ノ盟約』 (Toki Tsukasadoru Juuni no Meiyaku)",
+  "channel": "Barghest SMG",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-9837aea1",
+  "workId": "w087cdf",
+  "kind": "OP",
+  "ytId": "qXbwjzu2HME",
+  "start": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Sincerely",
+   "work": "紫羅蘭永恆花園（ヴァイオレット・エヴァーガーデン）",
+   "artist": "TRUE"
+  },
+  "year": 2018,
+  "difficulty": 1,
+  "video": "Sincerely (Short Size)",
+  "channel": "TRUE - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c8f93fda",
+  "workId": "w087cdf",
+  "kind": "ED",
+  "ytId": "UKU4B05fPck",
+  "start": 213,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "みちしるべ",
+   "work": "紫羅蘭永恆花園（ヴァイオレット・エヴァーガーデン）",
+   "artist": "茅原実里"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "茅原実里「みちしるべ」 MV  Full Size 『ヴァイオレット・エヴァーガーデン』ED主題歌 / \"violet-evergarden\" Ending Theme Michishirube",
+  "channel": "Lantis Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-36136ee7",
+  "workId": "w568449",
+  "kind": "OP",
+  "ytId": "BGiE6xFBlR4",
+  "start": 191,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "優しさの理由",
+   "work": "冰菓（氷菓）",
+   "artist": "ChouCho"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "優しさの理由 （ Full 歌詞付き ） ChouCho 氷菓 OP - Hyouka",
+  "channel": "汚野寺国際 （総本部）",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-9b44e82a",
+  "workId": "w89756f",
+  "kind": "OP",
+  "ytId": "KbT3JsJmd14",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "君のせい",
+   "work": "青春豬頭少年不會夢到兔女郎學姊（青春ブタ野郎はバニーガール先輩の夢を見ない）",
+   "artist": "the peggies"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Kiminosei",
+  "channel": "the peggies - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-2a31d2fa",
+  "workId": "w80d706",
+  "kind": "OP",
+  "ytId": "vJ3jNTH2QL0",
+  "start": 253,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Snow halation",
+   "work": "戀愛 Lovelive!（ラブライブ!）",
+   "artist": "μ's",
+   "lyricist": "畑亜貴",
+   "composer": "酒井陽一"
+  },
+  "year": 2013,
+  "difficulty": 1,
+  "video": "【MV Full】µ's 2ndシングル「Snow halation」【スクスタリリース記念！】",
+  "channel": "(Love Live! series)ラブライブ！シリーズ公式チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-0fa322b0",
+  "workId": "w80d706",
+  "kind": "OP",
+  "ytId": "Mu3OZaeyFac",
+  "start": 219,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "僕らは今のなかで",
+   "work": "戀愛 Lovelive!（ラブライブ!）",
+   "artist": "μ's"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "僕らは今のなかで",
+  "channel": "Tokai Teio (CV: Machico) - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-d757c4e0",
+  "workId": "w80d706",
+  "kind": "OP",
+  "ytId": "qGyLRdMiQfE",
+  "start": 62,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "START:DASH!!",
+   "work": "戀愛 Lovelive!（ラブライブ!）",
+   "artist": "μ's"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "START:DASH!!",
+  "channel": "Honoka Kosaka (CV: Emi Nitta) - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-ddd64d16",
+  "workId": "w80d706",
+  "kind": "OP",
+  "ytId": "I3NmHsDXeFc",
+  "start": 80,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "君のこころは輝いてるかい?",
+   "work": "戀愛 Lovelive!（ラブライブ!）",
+   "artist": "Aqours"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Aqours 1stSingle「君のこころは輝いてるかい？」Full",
+  "channel": "Lantis Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-f2f3b6c8",
+  "workId": "w80d706",
+  "kind": "OP",
+  "ytId": "s4PoEQ8ZwoU",
+  "start": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "青空Jumping Heart",
+   "work": "戀愛 Lovelive!（ラブライブ!）",
+   "artist": "Aqours"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "青空Jumping Heart (渡辺 曜 Solo Ver.)",
+  "channel": "You Watanabe (CV: Shuka Saito) - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-d58ae069",
+  "workId": "w360adc",
+  "kind": "OP",
+  "ytId": "lFLMh-nIgZs",
+  "start": 69,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "fantastic dreamer",
+   "work": "為美好世界獻上祝福（この素晴らしい世界に祝福を!）",
+   "artist": "Machico"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "Machico / fantastic dreamer(TVアニメ「この素晴らしい世界に祝福を！」オープニング・テーマ)",
+  "channel": "日本コロムビア 公式YouTubeチャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a1f4f0da",
+  "workId": "w360adc",
+  "kind": "ED",
+  "ytId": "_4W1OQoDEDg",
+  "start": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ちいさな冒険者",
+   "work": "為美好世界獻上祝福（この素晴らしい世界に祝福を!）",
+   "artist": "あくあ めぐみん だくね"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣) / ちいさな冒険者(TVアニメ「この素晴らしい世界に祝福を！」エンディング・テーマ)",
+  "channel": "日本コロムビア 公式YouTubeチャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-07409130",
+  "workId": "w491998",
+  "kind": "OP",
+  "ytId": "_v9U5fGylA8",
+  "start": 58,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "青空のラプソディ",
+   "work": "小林家的龍女僕（小林さんちのメイドラゴン）",
+   "artist": "fhána"
+  },
+  "year": 2017,
+  "difficulty": 2,
+  "video": "青空のラプソディ",
+  "channel": "fhana - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-968c7b42",
+  "workId": "wc942eb",
+  "kind": "OP",
+  "ytId": "8_PvNdZJ378",
+  "start": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Redo",
+   "work": "從零開始的異世界生活（Re:ゼロから始める異世界生活）",
+   "artist": "鈴木このみ"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "-コンビニを出ると、そこは不思議の世界でした-＜Redo/鈴木このみ＞ #rezero",
+  "channel": "「Re:ゼロから始める異世界生活」チャンネル【公式】",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-d1046db9",
+  "workId": "wc942eb",
+  "kind": "ED",
+  "ytId": "84YBqfpCGW8",
+  "start": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Stay Alive",
+   "work": "從零開始的異世界生活（Re:ゼロから始める異世界生活）",
+   "artist": "高橋李依"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "Stay Alive",
+  "channel": "エミリア（CV：高橋李依） - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-1c48db4a",
+  "workId": "wc942eb",
+  "kind": "OP",
+  "ytId": "K5bm_ER9CKw",
+  "start": 56,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Paradisus-Paradoxum",
+   "work": "從零開始的異世界生活（Re:ゼロから始める異世界生活）",
+   "artist": "MYTH & ROID"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "Paradisus-Paradoxum",
+  "channel": "MYTH & ROID - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-05511c18",
+  "workId": "wc942eb",
+  "kind": "OP",
+  "ytId": "uaRnwnmqrws",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Realize",
+   "work": "從零開始的異世界生活（Re:ゼロから始める異世界生活）",
+   "artist": "鈴木このみ"
+  },
+  "year": 2016,
+  "difficulty": 2,
+  "video": "TVアニメ「Re:ゼロから始める異世界生活」2nd season OPテーマ「Realize」Music Video (Full size)",
+  "channel": "KADOKAWAanime",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-16665199",
+  "workId": "wc942eb",
+  "kind": "OP",
+  "ytId": "7uJxtwBFxxI",
+  "start": 59,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Styx Helix",
+   "work": "從零開始的異世界生活（Re:ゼロから始める異世界生活）",
+   "artist": "MYTH & ROID"
+  },
+  "year": 2016,
+  "difficulty": 2,
+  "video": "Styx Helix",
+  "channel": "MYTH & ROID - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-8980a7fb",
+  "workId": "wca35d1",
+  "kind": "OP",
+  "ytId": "gme1ffqskew",
+  "start": 56,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Clattanoia",
+   "work": "奧伯龍（オーバーロード）",
+   "artist": "OxT"
+  },
+  "year": 2015,
+  "difficulty": 1,
+  "video": "TVアニメ「オーバーロード」ノンクレジットOP映像【OxT「Clattanoia」】",
+  "channel": "KADOKAWAanime",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-8e458fad",
+  "workId": "wca35d1",
+  "kind": "OP",
+  "ytId": "XPOIe6WdhPQ",
+  "start": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "VORACITY",
+   "work": "奧伯龍（オーバーロード）",
+   "artist": "MYTH & ROID"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "VORACITY",
+  "channel": "MYTH & ROID - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-dcb91631",
+  "workId": "wca35d1",
+  "kind": "OP",
+  "ytId": "Tkkp3FhDVxQ",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "HOLLOW HUNGER",
+   "work": "奧伯龍（オーバーロード）",
+   "artist": "OxT"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "HOLLOW HUNGER",
+  "channel": "OxT - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-95d58ed5",
+  "workId": "wb3a3ef",
+  "kind": "OP",
+  "ytId": "BGBQkvPAzSY",
+  "start": 62,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "The Day",
+   "work": "我的英雄學院（僕のヒーローアカデミア）",
+   "artist": "Porno Graffitti"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "『僕のヒーローアカデミア』1期ノンクレジットオープニング映像／OPテーマ：「THE DAY」ポルノグラフィティ／ヒロアカOP",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-e08c3797",
+  "workId": "wb3a3ef",
+  "kind": "OP",
+  "ytId": "9aJVr5tTTWk",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Peace Sign",
+   "work": "我的英雄學院（僕のヒーローアカデミア）",
+   "artist": "米津玄師",
+   "lyricist": "米津玄師",
+   "composer": "米津玄師"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "米津玄師 - ピースサイン , Kenshi Yonezu - Peace Sign",
+  "channel": "Kenshi Yonezu  米津玄師",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-e996222e",
+  "workId": "wb3a3ef",
+  "kind": "OP",
+  "ytId": "0zLxFAlS29A",
+  "start": 194,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ODD FUTURE",
+   "work": "我的英雄學院（僕のヒーローアカデミア）",
+   "artist": "UVERworld"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "UVERworld 『ODD FUTURE』",
+  "channel": "UVERworld Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-07bbb1e7",
+  "workId": "wb3a3ef",
+  "kind": "OP",
+  "ytId": "tjNJeSBj6Mg",
+  "start": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Polaris",
+   "work": "我的英雄學院（僕のヒーローアカデミア）",
+   "artist": "BLUE ENCOUNT"
+  },
+  "year": 2016,
+  "difficulty": 2,
+  "video": "Polaris (TV Size)",
+  "channel": "BLUE ENCOUNT - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-16f428d5",
+  "workId": "wb3a3ef",
+  "kind": "OST",
+  "ytId": "QwACoXnNcwg",
+  "start": 142,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "You Say Run",
+   "work": "我的英雄學院（僕のヒーローアカデミア）",
+   "artist": "林ゆうき",
+   "composer": "林ゆうき"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "You Say Run",
+  "channel": "Yuki Hayashi - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-538c2899",
+  "workId": "w369624",
+  "kind": "OP",
+  "ytId": "aFPGhSkx7eA",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "99",
+   "work": "路人超能100（モブサイコ100）",
+   "artist": "MOB CHOIR"
+  },
+  "year": 2016,
+  "difficulty": 2,
+  "video": "99",
+  "channel": "MOB CHOIR - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-ba74f93c",
+  "workId": "wd4deee",
+  "kind": "OP",
+  "ytId": "ARfwJLhJ6y4",
+  "start": 227,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ハルカミライ",
+   "work": "黑色五葉草（ブラッククローバー）",
+   "artist": "感覚ピエロ"
+  },
+  "year": 2017,
+  "difficulty": 2,
+  "video": "感覚ピエロ『ハルカミライ last page.』 OFFICIAL LYRIC VIDEO（TVアニメ「ブラッククローバー」最終回）",
+  "channel": "JIJI INC.",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-283100b2",
+  "workId": "wd4deee",
+  "kind": "OP",
+  "ytId": "Y27hMeRCYzA",
+  "start": 49,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Black Rover",
+   "work": "黑色五葉草（ブラッククローバー）",
+   "artist": "Vickeblanka"
+  },
+  "year": 2017,
+  "difficulty": 2,
+  "video": "Black Clover Opening 3 Full『Black Rover』by Vickeblanka | Lyrics",
+  "channel": "Black Clover Music Collection",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-17489dc8",
+  "workId": "w1b80bc",
+  "kind": "OP",
+  "ytId": "p8Y0KdseuGM",
+  "start": 41,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Samurai Heart (Some Like It Hot!!)",
+   "work": "銀魂",
+   "artist": "SPYAIR"
+  },
+  "year": 2006,
+  "difficulty": 1,
+  "video": "SPYAIR 『サムライハート (Some Like It Hot!!) - New Version -』Music Video",
+  "channel": "SPYAIR Official YouTube Channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-1106d864",
+  "workId": "we2a2f2",
+  "kind": "OP",
+  "ytId": "kRHYuG1KBdA",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "モノクロのキス",
+   "work": "黑執事（黒執事）",
+   "artist": "SID"
+  },
+  "year": 2008,
+  "difficulty": 2,
+  "video": "シド 『モノクロのキス』Music Video",
+  "channel": "SID",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-592bcc33",
+  "workId": "wed4d7f",
+  "kind": "OP",
+  "ytId": "og0KAkYb0cU",
+  "start": 31,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "History Maker",
+   "work": "尤里!!! on ICE（ユーリ!!! on ICE）",
+   "artist": "Dean Fujioka"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "「History Maker」 DEAN FUJIOKA＜TVアニメ「ユーリ!!! on ICE」オープニングテーマ＞",
+  "channel": "avex pictures",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-46473dce",
+  "workId": "wff7139",
+  "kind": "OP",
+  "ytId": "cFqnHdp0_1M",
+  "start": 181,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Flyers",
+   "work": "死亡遊行（デス・パレード）",
+   "artist": "BRADIO"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "Flyers (Hidden AFRO ver.)",
+  "channel": "BRADIO - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-9b8e0e34",
+  "workId": "w00858c",
+  "kind": "OP",
+  "ytId": "m1GpZxkFjDQ",
+  "start": 12,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Make debut!",
+   "work": "賽馬娘（ウマ娘 プリティーダービー）",
+   "artist": "スペシャルウィーク 他"
+  },
+  "year": 2018,
+  "difficulty": 1,
+  "video": "Make debut! ―育成はじめました―",
+  "channel": "Shun Aratame - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-ef01686c",
+  "workId": "w00858c",
+  "kind": "ED",
+  "ytId": "ymIx4zMeNEk",
+  "start": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "うまぴょい伝説",
+   "work": "賽馬娘（ウマ娘 プリティーダービー）",
+   "artist": "スペシャルウィーク 他"
+  },
+  "year": 2018,
+  "difficulty": 1,
+  "video": "ＭＡＤ『ウマ娘プリティーダービー』「うまぴょい伝説　フルバージョン　ウマ娘ＭＩＸ」「スペシャルウィーク　ホッコータルマエ　マチカネタンホイザ他」４Ｋ６０ｆｐｓ　高音質",
+  "channel": "misasin",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-7bc49246",
+  "workId": "w6bd110",
+  "kind": "OP",
+  "ytId": "dJN_Afb0Pgc",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "五等分の気持ち",
+   "work": "五等分的新娘（五等分の花嫁）",
+   "artist": "中野家の五つ子"
+  },
+  "year": 2019,
+  "difficulty": 2,
+  "video": "五等分の花嫁 『五等分の気持ち - 中野家の五つ子 』OP - Lyrics MAD",
+  "channel": "KumaGetsu",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-c714c76a",
+  "workId": "w48d40e",
+  "kind": "OP",
+  "ytId": "wfCcs0vLysk",
+  "start": 44,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Inferno",
+   "work": "炎炎消防隊（炎炎ノ消防隊）",
+   "artist": "Mrs. GREEN APPLE",
+   "lyricist": "大森元貴",
+   "composer": "大森元貴"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "Mrs. GREEN APPLE - インフェルノ（Inferno）",
+  "channel": "Mrs. GREEN APPLE",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-c6f0ed92",
+  "workId": "w659436",
+  "kind": "OP",
+  "ytId": "yQEUGxngQN4",
+  "start": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Good Morning World!",
+   "work": "Dr.STONE 新石紀（Dr.STONE）",
+   "artist": "BURNOUT SYNDROMES",
+   "lyricist": "熊谷和海",
+   "composer": "熊谷和海"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "BURNOUT SYNDROMES 『Good Morning World!』Music Video（TVアニメ「Ｄｒ．ＳＴＯＮＥ」オープニングテーマ）",
+  "channel": "BURNOUT SYNDROMES Official YouTube Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-b9513b0f",
+  "workId": "w898b38",
+  "kind": "OP",
+  "ytId": "u5heWZ9occg",
+  "start": 113,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Wild side",
+   "work": "BEASTARS",
+   "artist": "ALI"
+  },
+  "year": 2019,
+  "difficulty": 2,
+  "video": "Wild Side",
+  "channel": "ALI - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-7bcfde41",
+  "workId": "w898b38",
+  "kind": "ED",
+  "ytId": "1dr4HfjgtUU",
+  "start": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "優しい彗星",
+   "work": "BEASTARS",
+   "artist": "YOASOBI",
+   "lyricist": "Ayase",
+   "composer": "Ayase",
+   "arranger": "Ayase"
+  },
+  "year": 2019,
+  "difficulty": 2,
+  "video": "TVアニメ「BEASTARS」 第2期エンディング　ノンクレジット版／YOASOBI　『優しい彗星』",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-7383b971",
+  "workId": "w4f8386",
+  "kind": "OP",
+  "ytId": "BC4zaaiXNMI",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Love Dramatic",
+   "work": "輝夜姬想讓人告白（かぐや様は告らせたい）",
+   "artist": "鈴木雅之 feat. 伊原六花"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "Love Dramatic",
+  "channel": "Masayuki Suzuki - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-aab67f84",
+  "workId": "w4f8386",
+  "kind": "ED",
+  "ytId": "r0B7kg38xYc",
+  "start": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "チカっとチカ千花っ♡",
+   "work": "輝夜姬想讓人告白（かぐや様は告らせたい）",
+   "artist": "藤原千花"
+  },
+  "year": 2019,
+  "difficulty": 2,
+  "video": "書記舞【輝夜姬想讓人告白～天才們的戀愛頭腦戰～ 第一季 第三話ED】藤原千花(CV.小原好美)「チカっとチカ千花っ♡」中日歌詞｜Muse木棉花",
+  "channel": "Muse木棉花-TW",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-51f952c3",
+  "workId": "wf8f557",
+  "kind": "OP",
+  "ytId": "x1FV6IrjZCY",
+  "start": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "紅蓮華",
+   "work": "鬼滅之刃（鬼滅の刃）",
+   "artist": "LiSA",
+   "lyricist": "LiSA",
+   "composer": "草野華余子"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "LiSA『紅蓮華』-MUSiC CLiP-（テレビアニメ「鬼滅の刃」竈門炭治郎 立志編 オープニングテーマ）",
+  "channel": "LiSA Official YouTube",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-e2a0b381",
+  "workId": "wf8f557",
+  "kind": "OP",
+  "ytId": "4DxL6IKmXx4",
+  "start": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "炎",
+   "work": "鬼滅之刃（鬼滅の刃）",
+   "artist": "LiSA",
+   "lyricist": "梶浦由記",
+   "composer": "梶浦由記"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "LiSA 『炎』 -MUSiC CLiP-",
+  "channel": "LiSA Official YouTube",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-80df00e2",
+  "workId": "wf8f557",
+  "kind": "OP",
+  "ytId": "tLQLa6lM3Us",
+  "start": 36,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "残響散歌",
+   "work": "鬼滅之刃（鬼滅の刃）",
+   "artist": "Aimer"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "Aimer「Zankyosanka」MUSIC VIDEO（Demon Slayer:Kimetsu no Yaiba Entertainment District Arc Theme Song）",
+  "channel": "Aimer Official YouTube Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-53e90614",
+  "workId": "wf8f557",
+  "kind": "OP",
+  "ytId": "UF5Sgl56-Ts",
+  "start": 43,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "絆ノ奇跡",
+   "work": "鬼滅之刃（鬼滅の刃）",
+   "artist": "MAN WITH A MISSION × milet"
+  },
+  "year": 2019,
+  "difficulty": 2,
+  "video": "milet「絆ノ奇跡」《鬼滅之刃•刀匠村篇》OP 主題曲【中日歌詞】(Lyrics)HD",
+  "channel": "Music OP",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-db907c8a",
+  "workId": "wf8f557",
+  "kind": "ED",
+  "ytId": "-cRcMiLDDOs",
+  "start": 29,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "from the edge",
+   "work": "鬼滅之刃（鬼滅の刃）",
+   "artist": "FictionJunction feat. LiSA",
+   "lyricist": "梶浦由記",
+   "composer": "梶浦由記"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "From the Edge",
+  "channel": "FictionJunction YUUKA/Lacus Clyne(CV:Rie Tanaka) - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-66385392",
+  "workId": "wf8f557",
+  "kind": "OST",
+  "ytId": "-JMDqLN1-A8",
+  "start": 40,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "竈門炭治郎のうた",
+   "work": "鬼滅之刃（鬼滅の刃）",
+   "artist": "椎名豪 feat. 中川奈美",
+   "composer": "椎名豪"
+  },
+  "year": 2019,
+  "difficulty": 1,
+  "video": "Demon Slayer : Kimetsu no Yaiba Insert Full『中川奈美 - 竈門炭治郎のうた』【with Lyrics】",
+  "channel": "Music Cat",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-c8d009b3",
+  "workId": "w89e27f",
+  "kind": "OP",
+  "ytId": "v8bZVdTgXoY",
+  "start": 56,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "廻廻奇譚",
+   "work": "咒術迴戰（呪術廻戦）",
+   "artist": "Eve",
+   "lyricist": "Eve",
+   "composer": "Eve"
+  },
+  "year": 2020,
+  "difficulty": 1,
+  "video": "TVアニメ『呪術廻戦』ノンクレジットOPムービー／OPテーマ：Eve「廻廻奇譚」",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-bdf513bb",
+  "workId": "w89e27f",
+  "kind": "OP",
+  "ytId": "EU6I8TxU6Z4",
+  "start": 62,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "VIVID VICE",
+   "work": "咒術迴戰（呪術廻戦）",
+   "artist": "Who-ya Extended"
+  },
+  "year": 2020,
+  "difficulty": 1,
+  "video": "Who-ya Extended 「VIVID VICE」 MUSIC VIDEO TVアニメ『呪術廻戦』OPテーマ",
+  "channel": "Who-ya Extended official YouTube channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-6415c1d8",
+  "workId": "w89e27f",
+  "kind": "OP",
+  "ytId": "gcgKUcJKxIs",
+  "start": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "青のすみか",
+   "work": "咒術迴戰（呪術廻戦）",
+   "artist": "キタニタツヤ",
+   "lyricist": "キタニタツヤ",
+   "composer": "キタニタツヤ"
+  },
+  "year": 2020,
+  "difficulty": 1,
+  "video": "TVアニメ『呪術廻戦』第2期「懐玉・玉折」ノンクレジットOPムービー／OPテーマ：キタニタツヤ「青のすみか」｜毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c3e05d19",
+  "workId": "w89e27f",
+  "kind": "OP",
+  "ytId": "fhzKLBZJC3w",
+  "start": 48,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "SPECIALZ",
+   "work": "咒術迴戰（呪術廻戦）",
+   "artist": "King Gnu",
+   "lyricist": "常田大希",
+   "composer": "常田大希"
+  },
+  "year": 2020,
+  "difficulty": 1,
+  "video": "King Gnu - SPECIALZ",
+  "channel": "King Gnu official YouTube channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-97d622fc",
+  "workId": "w89e27f",
+  "kind": "ED",
+  "ytId": "AWEm4tA2hMc",
+  "start": 54,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "LOST IN PARADISE",
+   "work": "咒術迴戰（呪術廻戦）",
+   "artist": "ALI feat. AKLO"
+  },
+  "year": 2020,
+  "difficulty": 2,
+  "video": "TVアニメ『呪術廻戦』ノンクレジットEDムービー／EDテーマ：ALI「LOST IN PARADISE feat. AKLO」",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a2cd6429",
+  "workId": "w89e27f",
+  "kind": "INSERT",
+  "ytId": "hm1na9R2uYA",
+  "start": 38,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "一途",
+   "work": "咒術迴戰（呪術廻戦）",
+   "artist": "King Gnu",
+   "lyricist": "常田大希",
+   "composer": "常田大希"
+  },
+  "year": 2020,
+  "difficulty": 1,
+  "video": "King Gnu - 一途",
+  "channel": "King Gnu official YouTube channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-a2165c7d",
+  "workId": "w388ded",
+  "kind": "OP",
+  "ytId": "CbH2F0kXgTY",
+  "start": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ミックスナッツ",
+   "work": "間諜家家酒（SPY×FAMILY）",
+   "artist": "Official髭男dism",
+   "lyricist": "藤原聡",
+   "composer": "藤原聡"
+  },
+  "year": 2022,
+  "difficulty": 1,
+  "video": "OFFICIAL HIGE DANDISM - MIXED NUTS [ Official Video ]",
+  "channel": "Official髭男dism",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-0778dc59",
+  "workId": "w388ded",
+  "kind": "OP",
+  "ytId": "nRKJBpFFsuI",
+  "start": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "喜劇",
+   "work": "間諜家家酒（SPY×FAMILY）",
+   "artist": "星野源",
+   "lyricist": "星野源",
+   "composer": "星野源"
+  },
+  "year": 2022,
+  "difficulty": 1,
+  "video": "星野源「喜劇」:『SPY×FAMILY』エンディング主題歌 アニメ映像（ノンクレジット）／“SPY × FAMILY” Ending theme song animation",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-bffad1d4",
+  "workId": "w82dda7",
+  "kind": "OP",
+  "ytId": "Yd8kUoB72xU",
+  "start": 42,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "青春コンプレックス",
+   "work": "孤獨搖滾!（ぼっち・ざ・ろっく!）",
+   "artist": "結束バンド"
+  },
+  "year": 2022,
+  "difficulty": 1,
+  "video": "TVアニメ「ぼっち・ざ・ろっく！」オープニング映像/「青春コンプレックス」#結束バンド",
+  "channel": "アニメ「ぼっち・ざ・ろっく！」公式チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-094b2570",
+  "workId": "w82dda7",
+  "kind": "INSERT",
+  "ytId": "YqrFW9xP7NM",
+  "start": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ギターと孤独と蒼い惑星",
+   "work": "孤獨搖滾!（ぼっち・ざ・ろっく!）",
+   "artist": "結束バンド"
+  },
+  "year": 2022,
+  "difficulty": 1,
+  "video": "ギターと孤独と蒼い惑星【歌詞付き】／結束バンド TVアニメ『ぼっち・ざ・ろっく！』",
+  "channel": "歌聴いて泣き隊",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-81ef05c0",
+  "workId": "w6a46f1",
+  "kind": "OP",
+  "ytId": "OIBODIPC_8Y",
+  "start": 140,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "勇者",
+   "work": "葬送的芙莉蓮（葬送のフリーレン）",
+   "artist": "YOASOBI",
+   "lyricist": "Ayase",
+   "composer": "Ayase",
+   "arranger": "Ayase"
+  },
+  "year": 2023,
+  "difficulty": 1,
+  "video": "YOASOBI「勇者」 Official Music Video／TVアニメ『葬送のフリーレン』オープニングテーマ",
+  "channel": "YOASOBI",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-70562430",
+  "workId": "w6a46f1",
+  "kind": "ED",
+  "ytId": "r105CzDvoo0",
+  "start": 52,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Anytime Anywhere",
+   "work": "葬送的芙莉蓮（葬送のフリーレン）",
+   "artist": "milet"
+  },
+  "year": 2023,
+  "difficulty": 2,
+  "video": "milet「Anytime Anywhere」MUSIC VIDEO (TVアニメ『葬送のフリーレン』エンディングテーマ)",
+  "channel": "milet Official YouTube Channel",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-3cff91fc",
+  "workId": "w1abb78",
+  "kind": "OP",
+  "ytId": "wxNhlCeB9WE",
+  "start": 43,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "アイドル",
+   "work": "我推的孩子（【推しの子】）",
+   "artist": "YOASOBI",
+   "lyricist": "Ayase",
+   "composer": "Ayase",
+   "arranger": "Ayase"
+  },
+  "year": 2023,
+  "difficulty": 1,
+  "video": "YOASOBI - Idol「アイドル」Lyrics Video [Kan/Rom/Eng] Oshi no Ko (推しの子) OP",
+  "channel": "mimanimi",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-ebb99809",
+  "workId": "w1abb78",
+  "kind": "OP",
+  "ytId": "_ECcne6U-vs",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "メフィスト",
+   "work": "我推的孩子（【推しの子】）",
+   "artist": "女王蜂"
+  },
+  "year": 2023,
+  "difficulty": 2,
+  "video": "メフィスト -  Mephisto 女王蜂 【歌詞付き】【推しの子】",
+  "channel": "douyinmusic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-3856a875",
+  "workId": "wc574de",
+  "kind": "OP",
+  "ytId": "M2cckDmNLMI",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "KICK BACK",
+   "work": "鏈鋸人（チェンソーマン）",
+   "artist": "米津玄師",
+   "lyricist": "米津玄師",
+   "composer": "米津玄師"
+  },
+  "year": 2022,
+  "difficulty": 1,
+  "video": "米津玄師 Kenshi Yonezu - KICKBACK",
+  "channel": "Kenshi Yonezu  米津玄師",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-7fca2e36",
+  "workId": "wa83db8",
+  "kind": "INSERT",
+  "ytId": "ux3QETpLcPs",
+  "start": 118,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "IRIS OUT",
+   "work": "鏈鋸人 蕾潔篇（劇場版 チェンソーマン レゼ篇）",
+   "artist": "米津玄師",
+   "lyricist": "米津玄師",
+   "composer": "米津玄師"
+  },
+  "year": 2025,
+  "difficulty": 2,
+  "video": "劇場版『チェンソーマン レゼ篇』オープニングムービー 　主題歌：米津玄師「IRIS OUT」“Chainsaw Man – The Movie: Reze Arc” – Opening Movie",
+  "channel": "Kenshi Yonezu  米津玄師",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-3f90602b",
+  "workId": "w359749",
+  "kind": "OP",
+  "ytId": "Nw_XzGZ35As",
+  "start": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "オトノケ",
+   "work": "膽大黨（ダンダダン）",
+   "artist": "Creepy Nuts"
+  },
+  "year": 2024,
+  "difficulty": 2,
+  "video": "TVアニメ「ダンダダン」オープニング映像｜Creepy Nuts「オトノケ」",
+  "channel": "MBS animation 公式チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-adc17d3b",
+  "workId": "w9ee1df",
+  "kind": "OP",
+  "ytId": "XqD0oCHLIF8",
+  "start": 30,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "LEveL",
+   "work": "我獨自升級（俺だけレベルアップな件）",
+   "artist": "SawanoHiroyuki[nZk]:TOMORROW X TOGETHER"
+  },
+  "year": 2024,
+  "difficulty": 2,
+  "video": "Solo Leveling Opening | \"LEveL\" by Hiroyuki Sawano [nZk] and TOMORROW X TOGETHER",
+  "channel": "Crunchyroll",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-68144c3e",
+  "workId": "w79191a",
+  "kind": "OP",
+  "ytId": "lRDaREIDxEg",
+  "start": 121,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Bling-Bang-Bang-Born",
+   "work": "瑪修爾（マッシュル-MASHLE-）",
+   "artist": "Creepy Nuts"
+  },
+  "year": 2023,
+  "difficulty": 1,
+  "video": "【English Lyric Video】Creepy Nuts - Bling-Bang-Bang-Born",
+  "channel": "Creepy Nuts",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-fb11dc7a",
+  "workId": "w7d145e",
+  "kind": "OP",
+  "ytId": "O1bhZgkC4Gw",
+  "start": 48,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Cry Baby",
+   "work": "東京復仇者（東京リベンジャーズ）",
+   "artist": "Official髭男dism",
+   "lyricist": "藤原聡",
+   "composer": "藤原聡"
+  },
+  "year": 2021,
+  "difficulty": 1,
+  "video": "Official髭男dism - Cry Baby［Official Video］",
+  "channel": "Official髭男dism",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-946ec406",
+  "workId": "w1868a1",
+  "kind": "OP",
+  "ytId": "92TZBzM9Pg8",
+  "start": 131,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Sleep Walking Orchestra",
+   "work": "地下城美食（ダンジョン飯）",
+   "artist": "BUMP OF CHICKEN"
+  },
+  "year": 2024,
+  "difficulty": 2,
+  "video": "TVアニメ『ダンジョン飯』 × BUMP OF CHICKEN「Sleep Walking Orchestra」スペシャルムービー",
+  "channel": "BUMP OF CHICKEN",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-76a8dd1c",
+  "workId": "w13fb10",
+  "kind": "OP",
+  "ytId": "3eytpBOkOFA",
+  "start": 40,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "祝福",
+   "work": "機動戰士鋼彈 水星的魔女（機動戦士ガンダム 水星の魔女）",
+   "artist": "YOASOBI",
+   "lyricist": "Ayase",
+   "composer": "Ayase",
+   "arranger": "Ayase"
+  },
+  "year": 2022,
+  "difficulty": 2,
+  "video": "YOASOBI「祝福」Official Music Video (『機動戦士ガンダム 水星の魔女』オープニングテーマ)",
+  "channel": "YOASOBI",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-0d7cd436",
+  "workId": "w72c401",
+  "kind": "ED",
+  "ytId": "gzbLODUb1sA",
+  "start": 208,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "I Really Want to Stay at Your House",
+   "work": "賽博龐克 邊緣行者（サイバーパンク エッジランナーズ）",
+   "artist": "Rosa Walton"
+  },
+  "year": 2022,
+  "difficulty": 2,
+  "video": "CYBERPUNK 2077 SOUNDTRACK - I REALLY WANT TO STAY AT YOUR HOUSE by Rosa Walton & Hallie Coggins",
+  "channel": "Lakeshore Records",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c8940f99",
+  "workId": "w44c8ee",
+  "kind": "OP",
+  "ytId": "SnXkhkEvNIM",
+  "start": 203,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "光るなら",
+   "work": "四月是你的謊言（四月は君の嘘）",
+   "artist": "Goose house"
+  },
+  "year": 2014,
+  "difficulty": 1,
+  "video": "光るなら／Goose house",
+  "channel": "Goose house",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-d0008ca3",
+  "workId": "w44c8ee",
+  "kind": "OP",
+  "ytId": "pS7Hbxv2E_E",
+  "start": 68,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ナナイロ・シンフォニー",
+   "work": "四月是你的謊言（四月は君の嘘）",
+   "artist": "coalamode."
+  },
+  "year": 2014,
+  "difficulty": 1,
+  "video": "COALAMODE. - Nanairo Symphony",
+  "channel": "coalamodeVEVO",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-3be62711",
+  "workId": "w44c8ee",
+  "kind": "ED",
+  "ytId": "KLmNloHQPyg",
+  "start": 70,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "オレンジ",
+   "work": "四月是你的謊言（四月は君の嘘）",
+   "artist": "7!!"
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "オレンジ - 7!!（フル）orange seven oops",
+  "channel": "high_note Music Lounge",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-bd4d4710",
+  "workId": "w958947",
+  "kind": "OP",
+  "ytId": "bzuuxp7dsxQ",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Driver's High",
+   "work": "麻辣教師 GTO（GTO）",
+   "artist": "L'Arc~en~Ciel"
+  },
+  "year": 1999,
+  "difficulty": 1,
+  "video": "L'Arc-en-Ciel「Driver's High」-Music Clip-",
+  "channel": "L'Arc-en-Ciel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-a81fbae5",
+  "workId": "w958947",
+  "kind": "OP",
+  "ytId": "m5ayAYRIZQI",
+  "start": 49,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "POISON ~言いたい事も言えないこんな世の中は~",
+   "work": "麻辣教師 GTO（GTO）",
+   "artist": "反町隆史"
+  },
+  "year": 1999,
+  "difficulty": 1,
+  "video": "POISON ～言いたい事も言えないこんな世の中は～ - 反町隆史 フル 歌詞付き",
+  "channel": "high_note Music Lounge",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-2af434a4",
+  "workId": "w42c066",
+  "kind": "OP",
+  "ytId": "McVHrQVIhbA",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Red Fraction",
+   "work": "黑礁（ブラック・ラグーン）",
+   "artist": "MELL"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "Red fraction",
+  "channel": "MELL - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-973f5a08",
+  "workId": "w227d8f",
+  "kind": "OP",
+  "ytId": "DcqmmiSVu44",
+  "start": 49,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Lilium",
+   "work": "精靈蟲（エルフェンリート）",
+   "artist": "野間久美子"
+  },
+  "year": 2004,
+  "difficulty": 2,
+  "video": "Elfen Lied - Lilium (Lyrics)",
+  "channel": "ShikoraMusics",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-743262b8",
+  "workId": "w0df3b8",
+  "kind": "OP",
+  "ytId": "ZZvJY7_gyfw",
+  "start": 5,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "空想メソロギヰ",
+   "work": "未來日記（未来日記）",
+   "artist": "妖精帝國"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "[Official Video] Yousei Teikoku - Kuusou Mesorogiwi - 空想メソロギヰ 妖精帝國",
+  "channel": "Lantis Global Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-bc5aced4",
+  "workId": "w617129",
+  "kind": "OP",
+  "ytId": "xILUxJVI7Ak",
+  "start": 45,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Chase the world",
+   "work": "加速世界（アクセル・ワールド）",
+   "artist": "May'n"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "Chase the world (Re-Recording)",
+  "channel": "Sheryl Nome starring May'n - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-90455b6b",
+  "workId": "w2fda17",
+  "kind": "OP",
+  "ytId": "-e119C6VGHA",
+  "start": 56,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "トラッシュ・キャンディ",
+   "work": "文豪野犬（文豪ストレイドッグス）",
+   "artist": "GRANRODEO"
+  },
+  "year": 2016,
+  "difficulty": 2,
+  "video": "GRANRODEO / TRASH CANDY",
+  "channel": "GRANRODEO",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-ce468f97",
+  "workId": "wec5f02",
+  "kind": "INSERT",
+  "ytId": "kh7rV6y1lZE",
+  "start": 221,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "恋をしたのは",
+   "work": "聲之形（聲の形）",
+   "artist": "aiko",
+   "lyricist": "aiko",
+   "composer": "aiko"
+  },
+  "year": 2016,
+  "difficulty": 2,
+  "video": "恋をしたのは",
+  "channel": "aiko - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-ec187c17",
+  "workId": "w636719",
+  "kind": "INSERT",
+  "ytId": "XjBSzdoVVZE",
+  "start": 72,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "もののけ姫",
+   "work": "魔法公主（もののけ姫）",
+   "artist": "米良美一",
+   "lyricist": "宮崎駿",
+   "composer": "久石譲"
+  },
+  "year": 1997,
+  "difficulty": 1,
+  "video": "♫もののけ姫/米良美一(歌詞入り)",
+  "channel": "D.C.J",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-caf9714c",
+  "workId": "wef7435",
+  "kind": "ED",
+  "ytId": "WWw3Po1wOtE",
+  "start": 130,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "時には昔の話を",
+   "work": "紅豬（紅の豚）",
+   "artist": "加藤登紀子",
+   "lyricist": "加藤登紀子",
+   "composer": "加藤登紀子"
+  },
+  "year": 1992,
+  "difficulty": 2,
+  "video": "「さよならポルコ」ジーナより愛を込めて〜時には昔の話を",
+  "channel": "加藤登紀子",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b9c8b727",
+  "workId": "wf00165",
+  "kind": "INSERT",
+  "ytId": "y3epfDcUqcU",
+  "start": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "テルーの唄",
+   "work": "地海戰記（ゲド戦記）",
+   "artist": "手嶌葵",
+   "lyricist": "宮崎吾朗",
+   "composer": "谷山浩子"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "『 手嶌葵 / テルーの唄 ～ゲド戦記～ 』 High-quality sound　歌詞付き",
+  "channel": "Q Heart",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-be3bfc3d",
+  "workId": "w266dbb",
+  "kind": "ED",
+  "ytId": "G7q07dyIsX8",
+  "start": 110,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Arrietty's Song",
+   "work": "借物少女艾莉緹（借りぐらしのアリエッティ）",
+   "artist": "セシル・コルベル"
+  },
+  "year": 2010,
+  "difficulty": 2,
+  "video": "Arrietty's Song / Cecile Corbel ( セシル・コルベル )",
+  "channel": "yamahamusicchannel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-97b4ce62",
+  "workId": "w8b4219",
+  "kind": "INSERT",
+  "ytId": "vBUlj5EZG6Q",
+  "start": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "新時代",
+   "work": "航海王 紅髮歌姬（ONE PIECE FILM RED）",
+   "artist": "Ado"
+  },
+  "year": 2022,
+  "difficulty": 1,
+  "video": "【歌詞付き】 新時代 - Ado",
+  "channel": "music　【歌詞付き】",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-0e826f8a",
+  "workId": "w8b4219",
+  "kind": "INSERT",
+  "ytId": "Z8DvPkmyClc",
+  "start": 52,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "私は最強",
+   "work": "航海王 紅髮歌姬（ONE PIECE FILM RED）",
+   "artist": "Ado"
+  },
+  "year": 2022,
+  "difficulty": 1,
+  "video": "【歌詞付き】 私は最強 - Ado",
+  "channel": "music　【歌詞付き】",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-69c917bc",
+  "workId": "w68c6bb",
+  "kind": "INSERT",
+  "ytId": "abKcYyQ1V7Y",
+  "start": 62,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "地球儀",
+   "work": "男孩與蒼鷺（君たちはどう生きるか）",
+   "artist": "米津玄師",
+   "lyricist": "米津玄師",
+   "composer": "米津玄師"
+  },
+  "year": 2023,
+  "difficulty": 2,
+  "video": "米津玄師「地球儀」× 宮﨑駿「君たちはどう生きるか」Kenshi Yonezu - Spinning Globe (Hayao Miyazaki, The Boy and The Heron)",
+  "channel": "Kenshi Yonezu  米津玄師",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-cbf615c9",
+  "workId": "w2e57ff",
+  "kind": "OP",
+  "ytId": "GPkj6vURyQ4",
+  "start": 34,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "アンパンマンのマーチ",
+   "work": "麵包超人（それいけ!アンパンマン）",
+   "artist": "ドリーミング",
+   "lyricist": "やなせたかし",
+   "composer": "三木たかし"
+  },
+  "year": 1988,
+  "difficulty": 1,
+  "video": "【歌詞付き】アンパンマンのマーチ - ドリーミング",
+  "channel": "music　【歌詞付き】",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-dbde8958",
+  "workId": "w170870",
+  "kind": "OP",
+  "ytId": "jKBO5z22ybU",
+  "start": 56,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ゲラゲラポーのうた",
+   "work": "妖怪手錶（妖怪ウォッチ）",
+   "artist": "キング・クリームソーダ"
+  },
+  "year": 2014,
+  "difficulty": 1,
+  "video": "【妖怪ウォッチ公式】オープニング第1弾 「ゲラゲラポーのうた」【妖Tube】",
+  "channel": "妖怪ウォッチ 公式チャンネル 妖Tube",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-76256bbf",
+  "workId": "w7efed7",
+  "kind": "OP",
+  "ytId": "fGGTf044UPI",
+  "start": 61,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ライオン",
+   "work": "太空堡壘 F（マクロスF）",
+   "artist": "May'n 中島愛",
+   "lyricist": "Gabriela Robin",
+   "composer": "菅野よう子"
+  },
+  "year": 2008,
+  "difficulty": 1,
+  "video": "ライオン",
+  "channel": "Sheryl Nome starring May'n - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-4bca97eb",
+  "workId": "w7efed7",
+  "kind": "OP",
+  "ytId": "ERntOS_TYlk",
+  "start": 12,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "射手座☆午後九時 Don't be late",
+   "work": "太空堡壘 F（マクロスF）",
+   "artist": "中島愛"
+  },
+  "year": 2008,
+  "difficulty": 2,
+  "video": "マクロスＦ　射手座☆午後九時　Don't　be　late",
+  "channel": "DHCB21",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-83873c4e",
+  "workId": "w923612",
+  "kind": "OP",
+  "ytId": "XjBjUURUg2w",
+  "start": 325,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "愛・おぼえていますか",
+   "work": "太空堡壘（超時空要塞マクロス）",
+   "artist": "飯島真理",
+   "lyricist": "安井かずみ",
+   "composer": "加藤和彦"
+  },
+  "year": 1982,
+  "difficulty": 2,
+  "video": "【FHD/歌詞付き】愛・おぼえていますか - 飯島真理【超時空要塞マクロス】",
+  "channel": "きよちゃんねる! / KIYO Project",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-5b605c05",
+  "workId": "w7e3d46",
+  "kind": "OP",
+  "ytId": "IQYq8BC2rMk",
+  "start": 150,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "サザエさん",
+   "work": "海螺小姐（サザエさん）",
+   "artist": "宇野ゆう子"
+  },
+  "year": 1969,
+  "difficulty": 2,
+  "video": "サザエさん",
+  "channel": "Kazuyo Inui - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-99c4f338",
+  "workId": "w0edb4e",
+  "kind": "OP",
+  "ytId": "Lg96zmH7D7w",
+  "start": 20,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ハム太郎とっとこうた",
+   "work": "小哈姆（とっとこハム太郎）"
+  },
+  "year": 2000,
+  "difficulty": 2,
+  "video": "【アニメ】「ハム太郎とっとこうた」　（歌：ハムちゃんず）【公式】とっとこハム太郎のオープニングテーマ曲　その１",
+  "channel": "ハム太郎とっとこちゃんねる【公式なのだ】",
+  "startSource": "peak"
  }
 ]

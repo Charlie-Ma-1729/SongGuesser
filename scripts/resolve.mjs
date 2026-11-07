@@ -22,7 +22,9 @@ const NOT_MUSIC = /予告|trailer|ティザー|teaser|\bpv\b|\bcm\b|スポット
 // 一開始就是音樂的影片類型：歌詞版、ノンクレジット映像、官方音源、Topic 頻道
 const AUDIO_FIRST = /ノンクレ|non-?credit|クレジットなし|ノンテロップ|歌詞|lyric|audio|フル|full|op映像|ed映像|オープニング|エンディング|opening|ending/i;
 const MV_LIKE = /\bmv\b|music ?video|ミュージックビデオ|short ver|ショートver/i;
-const OFFICIAL_CH =/official|公式|topic|lantis|aniplex|king ?records|sony ?music|avex|victor|warner|universal|pony ?canyon|toho|kadokawa|bandai|flying ?dog|columbia|nippon|テレビ|東宝|スタジオジブリ|ジブリ|tv ?asahi|テレ朝|テレビ朝日|avex|epic|toy'?s|ミュージック|music|records|レコード/i;
+// 現場版、演唱會、帶日期的場次、生日派對、樂團/管弦翻奏：一律不要（開頭常有 MC 談話或觀眾聲）
+const LIVE_HARD = /\b(19|20)\d{2}[.\/-]\d{1,2}[.\/-]\d{1,2}\b|台北|taipei|台湾|from .*(party|live|tour|concert)|birthday|周年|anniversary live|ライブ映像|live ?ver|ライブ ?ver|\blive\b|ライブ|concert|コンサート|brass|オルケスター|ブラス|吹奏楽|演奏|バンドで|粗品|流田|fes\b|弦オケ|オケ|オーケストラ|strings|draft|編曲[)）]|大学|研究会|サークル|吹奏|アンサンブル|ensemble|quartet|カルテット/i;
+const OFFICIAL_CH = /official|公式|topic|lantis|aniplex|king ?records|sony ?music|avex|victor|warner|universal|pony ?canyon|toho|kadokawa|bandai|flying ?dog|columbia|nippon|テレビ|東宝|スタジオジブリ|ジブリ|tv ?asahi|テレ朝|テレビ朝日|avex|epic|toy'?s|ミュージック|music|records|レコード/i;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -104,7 +106,8 @@ function score(c, song) {
   const vt = norm(c.title);
   const ch = norm(c.channel);
   const core = norm(coreTitle(song.title));
-  const titleMatch = core.length > 0 && (vt.includes(core) || vt.includes(norm(song.title)));
+  const titleMatch = core.length > 0 && (vt.includes(core) || vt.includes(norm(song.title)) ||
+    (song.alt || []).some((a) => norm(a).length > 0 && vt.includes(norm(a))));
   const toks = artistTokens(song.artist);
   const artistMatch = toks.some((t) => vt.includes(t) || ch.includes(t));
   const workMatch = [w.zh, w.ja].map(norm).some((x) => x.length >= 2 && vt.includes(x));
@@ -120,13 +123,25 @@ function score(c, song) {
   // 【某某】開頭但不是官方標記 → 很可能是翻唱/二創（例如 VTuber）
   const br = c.title.match(/^[【\[]([^】\]]{1,20})[】\]]/);
   if (br && !/mv|歌詞|lyric|公式|official|フル|full|アニメ|tv|op|ed|期間限定|映像|主題歌|挿入歌|ノンクレ|クレジットなし|ver|版/i.test(br[1])) s -= 8;
-  if (NOT_MUSIC.test(c.title)) s -= 30;
+  // 判斷「翻奏/現場/談話」前，先把歌名本身與作品名裡的字拿掉
+  // （例如歌名 Sleep Walking Orchestra 含 orchestra、デート・ア・ライブ 含 ライブ，不是翻奏或現場）
+  const strip = (str) => {
+    let x = str;
+    for (const t of [song.title, coreTitle(song.title), ...(song.alt || []), w.zh, w.ja]) {
+      if (t && t.length >= 2) x = x.split(t).join(' ');
+    }
+    return x.replace(/love ?live!?|ラブライブ[!！]?(サンシャイン)?|デート[・･]?ア[・･]?ライブ|date a live|アライブ/gi, ' ');
+  };
+  const ct = strip(c.title);
+  const cc = strip(c.channel);
+  if (NOT_MUSIC.test(ct)) s -= 30;
   const topic = /- topic$/i.test(c.channel);
-  const audioFirst = topic || AUDIO_FIRST.test(c.title);
+  const audioFirst = topic || AUDIO_FIRST.test(ct);
   if (audioFirst) s += 3;
-  if (MV_LIKE.test(c.title) && !audioFirst) s -= 2;
-  if (BAD.test(c.title)) s -= 20;
-  if (LIVE.test(c.title)) s -= 4;
+  if (MV_LIKE.test(ct) && !audioFirst) s -= 2;
+  if (BAD.test(ct) || BAD.test(cc)) s -= 20;
+  if (LIVE_HARD.test(ct) || LIVE_HARD.test(cc)) s -= 30;
+  if (LIVE.test(ct)) s -= 4;
   const max = song.kind === 'OST' ? 720 : 420;
   if (c.len < 45 || c.len > max) s -= 20;
   if (c.len > 330 && song.kind !== 'OST') s -= 1;
@@ -201,6 +216,13 @@ async function resolveOne(song) {
     } catch (e) {
       tried.push({ q, error: String(e.message || e) });
       continue;
+    }
+    if (process.env.DEBUG) {
+      console.log(`\n[DEBUG] q=${q}`);
+      for (const c of results.slice(0, 10)) {
+        const r = score(c, song);
+        console.log(`  ${r.ok ? 'OK ' : '-- '} ${r.s.toFixed(1).padStart(5)} ${c.len}s [${c.channel.slice(0, 18)}] ${c.title.slice(0, 70)}`);
+      }
     }
     const ranked = results
       .filter((c) => !seen.has(c.id))

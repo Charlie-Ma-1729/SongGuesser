@@ -62,7 +62,7 @@ export function parseSeeds() {
       const title = fields[1];
       const rest = fields.slice(2).join(' ');
       // 解析 key=value（q 的值可含空白，直到下一個 key）
-      const re = /(?:^|\s)([lcaqd])=/g;
+      const re = /(?:^|\s)([lcaqdt])=/g;
       const marks = [];
       let m;
       while ((m = re.exec(rest))) marks.push({ key: m[1], idx: m.index, end: re.lastIndex });
@@ -83,6 +83,7 @@ export function parseSeeds() {
         composer: kv.c || null,
         arranger: kv.a || null,
         query: kv.q || null,
+        alt: kv.t ? kv.t.split('/').map((x) => x.trim()).filter(Boolean) : [],
         difficulty: kv.d ? Number(kv.d) : 1,
       });
     });

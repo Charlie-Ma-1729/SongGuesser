@@ -40,7 +40,7 @@ OP | おどるポンポコリン | B.B.クイーンズ | l=さくらももこ c=
 
 # 神奇寶貝（ポケットモンスター） | 1997
 OP | めざせポケモンマスター | 松本梨香
-OP | XY&Z | 松本梨香
+OP | XY&Z | 松本梨香 | t=XY and Z
 ED | ポケモン言えるかな? | ? | q=ポケモン言えるかな 1997 d=2
 
 # 數碼寶貝（デジモンアドベンチャー） | 1999
@@ -90,7 +90,7 @@ OP | Melissa | ポルノグラフィティ
 OP | READY STEADY GO | L'Arc~en~Ciel
 OP | Again | YUI
 OP | Period | CHEMISTRY
-OP | ホログラム | NICO Touches the Walls
+OP | ホログラム | NICO Touches the Walls | t=Hologram
 
 # 獵人（HUNTER×HUNTER） | 2011
 OP | Departure! | 小野正利 | l=久保田利伸 c=久保田利伸
@@ -149,7 +149,7 @@ OP | マジンガーZ | 水木一郎 d=2
 OST | ルパン三世のテーマ'78 | 大野雄二 | c=大野雄二
 
 # 阿爾卑斯山少女海蒂（アルプスの少女ハイジ） | 1974
-OP | おしえて | 伊藤薫 | q=おしえて アルプスの少女ハイジ d=2
+OP | おしえて | 伊藤薫 | t=Oshiete d=2
 
 # 星際牛仔（カウボーイビバップ） | 1998
 OP | Tank! | 菅野よう子 / The Seatbelts | c=菅野よう子
@@ -170,7 +170,7 @@ ED | ハレ晴レユカイ | 平野綾 茅原実里 後藤邑子
 # 輕音少女（けいおん!） | 2009
 OP | Cagayake!GIRLS | 放課後ティータイム
 OP | Don't say "lazy" | 放課後ティータイム
-ED | ふわふわ時間 | 放課後ティータイム
+ED | ふわふわ時間 | 放課後ティータイム | t=Fuwa Fuwa Time/Fuwa Fuwa Jikan
 INSERT | Go! Go! MANIAC | 放課後ティータイム
 
 # 幸運星（らき☆すた） | 2007
