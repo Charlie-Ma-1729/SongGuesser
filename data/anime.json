@@ -23374,6 +23374,480 @@
   "startSource": "heuristic"
  },
  {
+  "id": "a-848afcbc",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "W67pYQhdTyU",
+  "start": 0,
+  "revealStart": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "リクライム",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "ROOKiEZ is PUNK'D"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Reclimb",
+  "channel": "Rookiez Is Punk'd - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-6450533f",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "KWXeaLtn6j8",
+  "start": 0,
+  "revealStart": 59,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "弱虫な炎",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "Dirty Old Men"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "アニメ『弱虫ペダル（1期）』第2クールノンクレジットOP／♪：「弱虫な炎」DIRTY OLD MEN",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-5681187d",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "SokqazxxR_U",
+  "start": 0,
+  "revealStart": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Be As One",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "チーム総北（小野田坂道・今泉俊輔・鳴子章吉・金城真護・巻島裕介・田所迅）"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "アニメ『弱虫ペダル（1期）』第3クールノンクレジットOP／♪：「Be As One」チーム総北",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-6cea5180",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "-AYcZACj46M",
+  "start": 0,
+  "revealStart": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Determination",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "LASTGASP"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "LASTGASP「Determination」MUSIC VIDEO（『弱虫ペダル GRANDE ROAD』オープニング・テーマ）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-fe842a15",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "Hh5TqiKRJbM",
+  "start": 0,
+  "revealStart": 28,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "リマインド",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "ROOKiEZ is PUNK'D"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Remind",
+  "channel": "Rookiez Is Punk'd - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-26596d55",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "zyazW3JpghM",
+  "start": 0,
+  "revealStart": 55,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ケイデンス",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "夏代孝明"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "『弱虫ペダル NEW GENERATION』ノンクレジットOPムービー（「ケイデンス」夏代孝明）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-9a6e4167",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "KbpdUE9ksvM",
+  "start": 0,
+  "revealStart": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "トランジット",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "夏代孝明"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "『弱虫ペダル NEW GENERATION』オープニングムービー（第2クール／「トランジット」夏代孝明）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-7b840430",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "9qX8rgHGR68",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "僕の声",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "Rhythmic Toy World"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "僕の声〔SHOT Ver.〕",
+  "channel": "Rhythmic Toy World - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-f3e6e2d3",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "9oqz1EAbR3Q",
+  "start": 0,
+  "revealStart": 66,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ダンシング",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "佐伯ユウスケ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "『弱虫ペダル GLORY LINE』第2クールノンクレジットOPムービー／「ダンシング」佐伯ユウスケ",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-e3f54214",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "mHflQcU__V4",
+  "start": 0,
+  "revealStart": 114,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Keep going",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "04 Limited Sazabys"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "04 Limited Sazabys「Keep going」(Official Music Video)",
+  "channel": "04 Limited Sazabys",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-fb46c288",
+  "workId": "w22eafb",
+  "kind": "OP",
+  "ytId": "l7SIo5K1yc4",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ラストシーン",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "Novelbright"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Last Scene",
+  "channel": "Novelbright - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-ef08e115",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "7hzTIsQGs7M",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "風を呼べ",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "UNDER GRAPH"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Under Graph - Kaze Wo Yobe Lyrics",
+  "channel": "Yu0han02",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-280de314",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "AwMztlEuYIw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "I am ready",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "AUTRIBE feat. Dirty Old Men"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "I Am Ready",
+  "channel": "The Abstrucks - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-3e3b906b",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "ahTQtrdBox0",
+  "start": 0,
+  "revealStart": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "リアライズ",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "ROOKiEZ is PUNK'D"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Realize",
+  "channel": "Rookiez Is Punk'd - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-06793d3e",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "d1-s8OInaVA",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "栄光への一秒",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "MAGIC OF LiFE"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "MAGIC OF LiFE - 栄光への一秒【TVアニメ「弱虫ペダル」ED曲】 (OFFICIAL MUSIC VIDEO)",
+  "channel": "MAGIC OF LiFE official",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-6cb544d8",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "kLWmuN86bHw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ナウオアネバー",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "佐伯ユウスケ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "ナウオアネバー(TVアニメ「弱虫ペダル」ED) / 佐伯ユウスケ【弾き語り】",
+  "channel": "佐伯ユウスケ Official Channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-bcbc5865",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "MrH22XrQvOk",
+  "start": 0,
+  "revealStart": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "タカイトコロ",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "佐伯ユウスケ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "『弱虫ペダル NEW GENERATION』エンディングムービー（第2クール／「タカイトコロ」佐伯ユウスケ）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-83319621",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "3vBmCdxYzTU",
+  "start": 0,
+  "revealStart": 60,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Carry the Hope",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "THE HIGH CADENCE"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "TVアニメ第4期『弱虫ペダル GLORY LINE』ノンクレジットED「Carry the Hope」／THE HIGH CADENCE",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-63fa0539",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "9B9ttO3Flrg",
+  "start": 0,
+  "revealStart": 66,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Over the Limit",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "ROUTE85"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "『弱虫ペダル GLORY LINE』第2クールノンクレジットEDムービー／「Over the Limit」ROUTE85＜箱根学園インターハイメンバー＞",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-98b45c24",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "wxVOBqQk8ME",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "PRIDE",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "Novelbright"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "PRIDE",
+  "channel": "Novelbright - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-02a36a83",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "8WFJTdYY5nI",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "アクション",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "小野田坂道（山下大輝）with 佐伯ユウスケ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "山下大輝 with 佐伯ユウスケ「アクション」Music Video",
+  "channel": "山下大輝 / Daiki Yamashita Official YouTube Channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-00ff9b84",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "nxE9S-qmklM",
+  "start": 0,
+  "revealStart": 126,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ツヨサヨワサ",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "佐伯ユウスケ"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "10/13（金）劇場公開『弱虫ペダル Re:GENERATION』主題歌「ツヨサヨワサ」アニメスペシャルMV（TVアニメ第4期2018年1月放送スタート）",
+  "channel": "TOHO animation チャンネル",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-9e8e29f9",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "6xTWYbqZeWs",
+  "start": 0,
+  "revealStart": 212,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Believer",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "LASTGASP"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "LASTGASP「Believer」MV【公式】",
+  "channel": "LASTGASP official",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-92c6236c",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "zGFfKdB2qJg",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Days",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "LASTGASP"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Days (“album” take ver.)",
+  "channel": "LASTGASP - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-16e81395",
+  "workId": "w22eafb",
+  "kind": "ED",
+  "ytId": "WiUd8zK1fi0",
+  "start": 0,
+  "revealStart": 65,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Link",
+   "work": "飆速宅男（弱虫ペダル）",
+   "artist": "LASTGASP"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Link (album take ver.)",
+  "channel": "LASTGASP - Topic",
+  "startSource": "peak"
+ },
+ {
   "id": "a-d952f903",
   "workId": "w44ba74",
   "kind": "ED",

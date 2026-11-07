@@ -1,0 +1,27 @@
+# 飆速宅男（弱虫ペダル） | 2013
+OP | リクライム | ROOKiEZ is PUNK'D | t=Reclimb d=2
+OP | 弱虫な炎 | Dirty Old Men | t=Yowamushi na Honoo d=2
+OP | Be As One | チーム総北（小野田坂道・今泉俊輔・鳴子章吉・金城真護・巻島裕介・田所迅） | d=2 q=弱虫ペダル Be As One 総北
+OP | Determination | LASTGASP | d=2 q=弱虫ペダル GRANDE ROAD OP Determination LASTGASP
+OP | リマインド | ROOKiEZ is PUNK'D | t=Remind d=2
+OP | ケイデンス | 夏代孝明 | t=Cadence d=2
+OP | トランジット | 夏代孝明 | t=Transit d=2
+OP | 僕の声 | Rhythmic Toy World | t=Boku no Koe d=2
+OP | ダンシング | 佐伯ユウスケ | t=Dancing d=2 q=弱虫ペダル GLORY LINE OP ダンシング 佐伯ユウスケ
+OP | Keep going | 04 Limited Sazabys | d=2 q=弱虫ペダル LIMIT BREAK OP Keep going 04 Limited Sazabys
+OP | ラストシーン | Novelbright | t=Last Scene d=2
+ED | 風を呼べ | UNDER GRAPH | t=Kaze wo Yobe d=2
+ED | I am ready | AUTRIBE feat. Dirty Old Men | d=2
+ED | リアライズ | ROOKiEZ is PUNK'D | t=Realize d=2
+ED | 栄光への一秒 | MAGIC OF LiFE | t=Eikou no Ichibyou d=2
+ED | ナウオアネバー | 佐伯ユウスケ | t=Now or Never d=2
+ED | タカイトコロ | 佐伯ユウスケ | t=Takai Tokoro d=2
+ED | Carry the Hope | THE HIGH CADENCE | d=2
+ED | Over the Limit | ROUTE85 | d=2
+ED | PRIDE | Novelbright | d=2 q=弱虫ペダル LIMIT BREAK ED PRIDE Novelbright
+ED | アクション | 小野田坂道（山下大輝）with 佐伯ユウスケ | t=Action d=2
+ED | ツヨサヨワサ | 佐伯ユウスケ | t=Tsuyosa Yowasa d=2
+ED | Believer | LASTGASP | d=2 q=弱虫ペダル Re:ROAD Believer LASTGASP
+ED | Days | LASTGASP | d=2 q=弱虫ペダル Re:RIDE Days LASTGASP
+ED | Link | LASTGASP | d=2 q=弱虫ペダル 劇場版 Link LASTGASP
+
