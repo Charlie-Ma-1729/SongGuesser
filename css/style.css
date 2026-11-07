@@ -60,6 +60,7 @@ kbd {
 /* 遊戲畫面 */
 .topbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; font-size: 20px; }
 .badge {
+  position: relative; z-index: 50; box-shadow: 0 0 0 0 transparent;
   background: linear-gradient(135deg, var(--accent), var(--accent2)); padding: 4px 16px; border-radius: 999px; font-weight: 700;
 }
 .stage { margin-top: 16px; }
@@ -70,9 +71,10 @@ kbd {
 .video-box iframe, .video-box #yt { position: absolute; inset: 0; width: 100%; height: 100%; }
 .cover {
   position: absolute; inset: 0; z-index: 2; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px;
-  background: linear-gradient(135deg, #2a1f5c, #6b2a7a 55%, #b0306a); transition: opacity 0.6s;
+  background: linear-gradient(135deg, #2a1f5c, #6b2a7a 55%, #b0306a);
+  transition: none; /* 蓋上要「立刻」蓋住，不能有淡入的空檔露出影片 */
 }
-.cover.open { opacity: 0; pointer-events: none; }
+.cover.open { opacity: 0; pointer-events: none; transition: opacity 0.6s; /* 只有揭曉時才淡出 */ }
 #cover-text { font-size: 22px; color: #ffe6f2; }
 .eq { display: flex; align-items: flex-end; gap: 8px; height: 90px; }
 .eq i { width: 12px; height: 12%; background: #fff; border-radius: 6px; opacity: 0.85; }

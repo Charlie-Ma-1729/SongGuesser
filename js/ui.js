@@ -6,6 +6,38 @@ const KIND_LABEL = { OP: 'OP 片頭曲', ED: 'ED 片尾曲', INSERT: '插入曲'
 export function showScreen(name) {
   document.querySelectorAll('.screen').forEach((s) => s.classList.remove('active'));
   $('screen-' + name).classList.add('active');
+  if (name === 'game') hideEverything(); // 進入遊戲畫面時，先確保影片與答案都是蓋住的
+}
+
+/** 立刻蓋住影片、收起答案（切歌時不能露出任何上一題／下一題的畫面） */
+function hideEverything() {
+  $('cover').classList.remove('open'); // CSS：關上是即時的，不淡入
+  $('answer').classList.add('hidden');
+  document.querySelector('.stage').classList.remove('revealed');
+}
+
+let badgeAnim = null;
+/** OP／ED 標籤：先在畫面正中央放大顯示，停一下再縮小飛到原本的位置 */
+function flyBadge() {
+  const el = $('badge');
+  if (badgeAnim) { badgeAnim.cancel(); badgeAnim = null; }
+  if (!el.animate || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const r = el.getBoundingClientRect();
+  if (!r.width) return;
+  const dx = window.innerWidth / 2 - (r.left + r.width / 2);
+  const dy = window.innerHeight / 2 - (r.top + r.height / 2);
+  const scale = Math.min(4, (window.innerWidth * 0.5) / r.width);
+  const from = `translate(${dx}px, ${dy}px) scale(${scale})`;
+  badgeAnim = el.animate(
+    [
+      { transform: from, opacity: 0, offset: 0 },
+      { transform: from, opacity: 1, offset: 0.12 },
+      { transform: from, opacity: 1, offset: 0.62 },
+      { transform: 'none', opacity: 1, offset: 1 },
+    ],
+    { duration: 2000, easing: 'cubic-bezier(.4,0,.2,1)' },
+  );
+  badgeAnim.onfinish = badgeAnim.oncancel = () => { badgeAnim = null; };
 }
 
 let toastTimer = null;
@@ -19,11 +51,10 @@ export function toast(msg, warn = false) {
 
 export function showQuestion(q, index, total) {
   $('progress').textContent = `第 ${index} / ${total} 題`;
+  hideEverything();
   $('badge').textContent = KIND_LABEL[q.kind] || '動漫';
+  flyBadge();
   $('prompt').textContent = q.prompt || '這首歌來自哪部動畫？';
-  $('answer').classList.add('hidden');
-  document.querySelector('.stage').classList.remove('revealed');
-  $('cover').classList.remove('open');
   $('cover-text').textContent = '載入中…';
   $('btn-main').textContent = '揭曉答案 (空白鍵)';
   setPlaying(false);

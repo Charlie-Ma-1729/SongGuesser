@@ -91,6 +91,13 @@ export class ClipPlayer {
     } catch { /* ignore */ }
   }
 
+  /** 切歌前先暫停上一首（避免上一首的聲音／畫面殘留到下一題） */
+  pause() {
+    this.clip = null;
+    clearTimeout(this.stuckTimer);
+    try { this.yt.pauseVideo(); } catch { /* ignore */ }
+  }
+
   stop() {
     this.clip = null;
     clearTimeout(this.stuckTimer);

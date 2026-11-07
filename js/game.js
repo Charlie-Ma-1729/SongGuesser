@@ -65,10 +65,11 @@ export class Game {
 
   _present() {
     if (this.shown >= this.total || this.queue.length === 0) return this._end();
+    this.player.pause(); // 先停掉上一首
     this.current = this.queue.shift();
     this.shown++;
     this.state = 'loading';
-    ui.showQuestion(this.current, this.shown, this.total);
+    ui.showQuestion(this.current, this.shown, this.total); // 同步蓋住影片、收起答案，之後才載入新影片
     this.player.load({
       ytId: this.current.ytId,
       start: this.current.start || 0,
