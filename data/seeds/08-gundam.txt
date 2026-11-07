@@ -1,0 +1,137 @@
+# 機動戰士鋼彈（機動戦士ガンダム） | 1979
+OP | 翔べ!ガンダム | 池田鴻 d=2
+ED | 永遠にアムロ | 池田鴻 | t=Eien ni Amuro d=2
+ED | 哀 戦士 | 井上大輔 | t=Ai Senshi d=2 q=哀 戦士 井上大輔 機動戦士ガンダム
+ED | めぐりあい | 井上大輔 | t=Meguriai d=2 q=めぐりあい 井上大輔 機動戦士ガンダム
+ED | ビギニング | 井上大輔 | t=Beginning d=2 q=ビギニング 井上大輔 機動戦士ガンダム
+
+# 機動戰士Z鋼彈（機動戦士Ζガンダム） | 1985
+OP | Z・刻をこえて | 鮎川麻弥 | t=Z Toki wo Koete d=1
+OP | 水の星へ愛をこめて | 森口博子 | t=Mizu no Hoshi e Ai wo Komete d=1
+ED | 星空のBelieve | 鮎川麻弥 | t=Hoshizora no Believe d=2
+
+# 機動戰士鋼彈ZZ（機動戦士ガンダムΖΖ） | 1986
+OP | アニメじゃない-夢を忘れた古い地球人よ- | 新井正人 | t=Anime Janai d=2
+OP | サイレント・ヴォイス | Jun Hiroe | t=Silent Voice d=2
+ED | 時代が泣いている | 新井正人 | t=Jidai ga Naiteiru d=2
+ED | 一千万年銀河 | Jun Hiroe | t=Issenmannen Ginga d=2
+
+# 機動戰士鋼彈 逆襲的夏亞（機動戦士ガンダム 逆襲のシャア） | 1988
+ED | Beyond The Time ～メビウスの宇宙を越えて～ | TM NETWORK | t=Beyond The Time d=1 q=TM NETWORK Beyond The Time メビウスの宇宙を越えて 逆襲のシャア
+
+# 機動戰士鋼彈0080 口袋裡的戰爭（機動戦士ガンダム0080 ポケットの中の戦争） | 1989
+OP | いつか空に届いて | 椎名へきる | t=Itsuka Sora ni Todoite d=2
+ED | 遠い記憶 | 椎名へきる | t=Tooi Kioku d=2
+
+# 機動戰士鋼彈0083 星塵的回憶（機動戦士ガンダム0083 STARDUST MEMORY） | 1991
+OP | The Winner | 松原みき | d=2
+OP | Men of Destiny | MIO | d=2
+ED | Magic | ジェイコブ・ウィーラー | d=2
+ED | Evergreen | MIO | d=2
+
+# 機動戰士鋼彈F91（機動戦士ガンダムF91） | 1991
+OP | 君を見つめて -The Time I'm Seeing You- | 森口博子 | t=Kimi wo Mitsumete d=2
+ED | Eternal Wind ～ほほえみは光る風の中～ | 森口博子 | d=2
+
+# 機動戰士V鋼彈（機動戦士Vガンダム） | 1993
+OP | Stand Up To The Victory | 川添智久 | d=2
+OP | Don't Stop! Carry On | RD | d=2
+ED | Winners Forever | INFIX | d=2
+ED | もう一度 Tenderness | KIX・S | t=Moichido Tenderness d=2
+
+# 機動武鬥傳G鋼彈（機動武闘伝Gガンダム） | 1994
+OP | FLYING IN THE SKY | 牛島義文 | d=2
+OP | TRUST YOU FOREVER | 牛島義文 | d=2
+ED | 海よりも深く | 才悦子 | t=Umi Yori mo Fukaku d=2
+ED | 君の中の永遠 | 井上武英 | t=Kimi no Naka no Eien d=2
+
+# 機動戰士鋼彈 W（新機動戦記ガンダムW） | 1995
+OP | Just Communication | TWO-MIX | d=2
+OP | RHYTHM EMOTION | TWO-MIX | d=2
+ED | It's Just Love | 大石ルミ | d=2
+ED | White Reflection | TWO-MIX | d=2 q=White Reflection TWO-MIX Endless Waltz
+
+# 機動新世紀鋼彈X（機動新世紀ガンダムX） | 1996
+OP | DREAMS | ROmantic Mode | d=2
+OP | Resolution | ROmantic Mode | d=2
+ED | Human Touch | Re-Kiss | d=2
+ED | 銀色ホライズン | 中瀬智美 | t=Gin-iro Horizon d=2
+
+# ∀鋼彈（∀ガンダム） | 1999
+OP | ターンAターン | 西城秀樹 | t=Turn A Turn d=2
+OP | Century Color | RAY-GUNS | d=2
+ED | AURA | 谷村新司 | d=2
+ED | 月の繭 | 奥井亜紀 | t=Tsuki no Mayu d=2
+ED | 限りなき旅路 | 奥井亜紀 | t=Kagirinaki Tabiji d=2
+
+# 機動戰士鋼彈00（機動戦士ガンダム00） | 2007
+OP | DAYBREAK'S BELL | L'Arc~en~Ciel
+OP | Ash Like Snow | the brilliant green | d=2
+OP | 儚くも永久のカナシ | UVERworld | t=Hakanaku mo Towa no Kanashi d=2
+OP | 涙のむこう | Stereopony | t=Namida no Mukou d=2
+ED | 罠 | the back horn | t=Wana d=2
+ED | Friends | Stephanie | d=2
+ED | Prototype | 石川智晶 | d=2
+ED | TOMORROW | 常松歩 | d=2
+
+# 機動戰士鋼彈SEED（機動戦士ガンダムSEED） | 2002
+OP | FREEDOM | 西川貴教 with t.komuro | d=1 q=FREEDOM 西川貴教 with t.komuro SEED FREEDOM
+ED | 去り際のロマンティクス | See-Saw | t=Sarigiwa no Romantics d=2
+
+# 機動戰士鋼彈UC（機動戦士ガンダムUC） | 2010
+ED | 流星のナミダ | 栗山千明 | t=Ryuusei no Namida d=2
+ED | Everlasting | Kylee | d=2
+OP | Into the Sky | SawanoHiroyuki[nZk]:Tielle | d=2
+OP | RE:I AM | Aimer | d=2
+ED | Next 2 U -eUC- | SawanoHiroyuki[nZk]:naNami | d=2
+ED | merry-go-round | CHEMISTRY | d=2
+OST | UNICORN | 澤野弘之 | d=2
+
+# 機動戰士鋼彈AGE（機動戦士ガンダムAGE） | 2011
+OP | 明日へ | Galileo Galilei | t=Asu e d=2
+OP | sharp # | Negoto | d=2
+OP | REAL | ViViD | d=2
+OP | AURORA | 藍井エイル | d=2
+ED | 君の中の英雄 | 栗林みな実 | t=Kimi no Naka no Eiyuu d=2
+ED | My World | SPYAIR | d=2
+
+# 鋼彈創鬥者（ガンダムビルドファイターズ） | 2013
+OP | ニブンノイチ | BACK-ON | t=Nibun no Ichi d=2
+OP | wimp ft. Lil'Fang (from FAKY) | BACK-ON | d=2
+ED | Imagination > Reality | AiRI | d=2
+OP | セルリアン | BACK-ON | t=Cerulean d=2
+OP | Just Fly Away | EDGE of LIFE | d=2
+ED | アメイジング ザ ワールド | SCREEN mode | t=Amazing The World d=2
+
+# 機動戰士鋼彈 G之復國運動（ガンダム Gのレコンギスタ） | 2014
+OP | Blazing | GARNiDELiA | d=2
+OP | ふたりのまほう | May J. | t=Futari no Mahou d=2
+ED | Gの閃光 | ハセガワダイスケ | t=G no Senkou d=2
+
+# 機動戰士鋼彈 鐵血孤兒（機動戦士ガンダム 鉄血のオルフェンズ） | 2015
+OP | Raise your flag | MAN WITH A MISSION | d=2
+OP | Survivor | BLUE ENCOUNT | d=2
+ED | オルフェンズの涙 | MISIA | t=Orphans no Namida d=2
+OP | RAGE OF DUST | SPYAIR | d=2
+OP | Fighter | KANA-BOON | d=2
+ED | 少年の果て | GRANRODEO | t=Shounen no Hate d=2
+
+# 機動戰士鋼彈 THE ORIGIN（機動戦士ガンダム THE ORIGIN） | 2015
+ED | 星屑の砂時計 | 服部隆之 presents GUNDAM THE ORIGIN featuring yu-yu | d=2
+ED | 永遠のAstraea | 柴咲コウ | d=2
+ED | 宇宙の彼方で | 森口博子 | d=2
+ED | 破線の涙 | 山崎まさよし | d=2
+
+# 鋼彈創鬥潛士（ガンダムビルドダイバーズ） | 2018
+OP | Diver's High | SKY-HI | d=2
+OP | Infinity | SWANKY DANK | d=2
+ED | Ashita e | Iris | d=2
+ED | Start Dash | Spira Spica | d=2
+
+# 機動戰士鋼彈NT（機動戦士ガンダムNT） | 2018
+ED | narrative | SawanoHiroyuki[nZk]:LiSA | d=2
+
+# 機動戰士鋼彈 閃光的哈薩威（機動戦士ガンダム 閃光のハサウェイ） | 2021
+OP | Möbius | Hiroyuki Sawano feat. mpi & Laco & Benjamin | d=2 q=閃光のハサウェイ Möbius 澤野弘之
+ED | 閃光 | [Alexandros] | t=Senkou d=2
+

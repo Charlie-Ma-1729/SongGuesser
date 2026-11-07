@@ -3316,23 +3316,79 @@
   "startSource": "peak"
  },
  {
-  "id": "a-2be0ea6a",
+  "id": "a-e9878509",
   "workId": "w51e22c",
-  "kind": "OST",
-  "ytId": "V-eJsBx6kG8",
+  "kind": "ED",
+  "ytId": "Oux7a8Bpi_Y",
   "start": 0,
-  "revealStart": 165,
-  "prompt": "這段配樂來自哪部動畫？",
+  "revealStart": 61,
+  "prompt": "這首歌來自哪部動畫？",
   "answer": {
-   "title": "BEYOND THE TIME",
+   "title": "永遠にアムロ",
    "work": "機動戰士鋼彈（機動戦士ガンダム）",
-   "artist": "DEEN"
+   "artist": "池田鴻"
   },
   "year": 1979,
-  "difficulty": 1,
-  "video": "BEYOND THE TIME (メビウスの宇宙を越えて)",
-  "channel": "Nami Tamaki - Topic",
+  "difficulty": 2,
+  "video": "永遠にアムロ",
+  "channel": "池田鴻 - Topic",
   "startSource": "peak"
+ },
+ {
+  "id": "a-29f933a1",
+  "workId": "w51e22c",
+  "kind": "ED",
+  "ytId": "dEzqQnTCpLM",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "哀 戦士",
+   "work": "機動戰士鋼彈（機動戦士ガンダム）",
+   "artist": "井上大輔"
+  },
+  "year": 1979,
+  "difficulty": 2,
+  "video": "機動戦士ガンダムII 哀・戦士編（劇場版）「哀 戦士」井上大輔 （1981）",
+  "channel": "AnimeSongs Official",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-a3e95af1",
+  "workId": "w51e22c",
+  "kind": "ED",
+  "ytId": "a4ZGivGieLE",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "めぐりあい",
+   "work": "機動戰士鋼彈（機動戦士ガンダム）",
+   "artist": "井上大輔"
+  },
+  "year": 1979,
+  "difficulty": 2,
+  "video": "機動戦士ガンダムIII めぐりあい宇宙編（劇場版）「めぐりあい」井上大輔 （1982）",
+  "channel": "AnimeSongs Official",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-c0ed0ac7",
+  "workId": "w51e22c",
+  "kind": "ED",
+  "ytId": "Ykkms6N-cDs",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ビギニング",
+   "work": "機動戰士鋼彈（機動戦士ガンダム）",
+   "artist": "井上大輔"
+  },
+  "year": 1979,
+  "difficulty": 2,
+  "video": "ビギニング",
+  "channel": "Daisuke Inoue - Topic",
+  "startSource": "heuristic"
  },
  {
   "id": "a-ef51faa3",
@@ -3374,6 +3430,46 @@
   "video": "あんなに一緒だったのに",
   "channel": "See-Saw - Topic",
   "startSource": "heuristic"
+ },
+ {
+  "id": "a-fef7c382",
+  "workId": "w58295e",
+  "kind": "OP",
+  "ytId": "W3YfiVGSbus",
+  "start": 0,
+  "revealStart": 196,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "FREEDOM",
+   "work": "機動戰士鋼彈SEED（機動戦士ガンダムSEED）",
+   "artist": "西川貴教 with t.komuro"
+  },
+  "year": 2002,
+  "difficulty": 1,
+  "video": "西川貴教 with t.komuro - FREEDOM × 『機動戦士ガンダムSEED FREEDOM』 Collaboration Music Video",
+  "channel": "西川貴教",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-36c7f745",
+  "workId": "w58295e",
+  "kind": "ED",
+  "ytId": "7t9UpkAsMmk",
+  "start": 0,
+  "revealStart": 246,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "去り際のロマンティクス",
+   "work": "機動戰士鋼彈SEED（機動戦士ガンダムSEED）",
+   "artist": "See-Saw"
+  },
+  "year": 2002,
+  "difficulty": 2,
+  "video": "中日字幕｜機動戰士鋼彈SEED FREEDOM｜主題曲｜去り際のロマンティクス｜See-Saw",
+  "channel": "AnimeMusicLover 2.0",
+  "startSource": "peak",
+  "review": true
  },
  {
   "id": "a-2addac95",
@@ -3626,6 +3722,134 @@
   "review": true
  },
  {
+  "id": "a-9318ae67",
+  "workId": "w2668b5",
+  "kind": "OP",
+  "ytId": "GDT_6zd_lvo",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Ash Like Snow",
+   "work": "機動戰士鋼彈00（機動戦士ガンダム00）",
+   "artist": "the brilliant green"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Gundam 00 Opening 2 Ash Like Snow",
+  "channel": "The Zeonoid",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-bb8176d5",
+  "workId": "w2668b5",
+  "kind": "OP",
+  "ytId": "ZIEQDjrAdwE",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "儚くも永久のカナシ",
+   "work": "機動戰士鋼彈00（機動戦士ガンダム00）",
+   "artist": "UVERworld"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "UVERworld　『儚くも永久のカナシ』",
+  "channel": "UVERworld Official YouTube Channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-db48894c",
+  "workId": "w2668b5",
+  "kind": "OP",
+  "ytId": "4Xsk17xUmzw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "涙のむこう",
+   "work": "機動戰士鋼彈00（機動戦士ガンダム00）",
+   "artist": "Stereopony"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Namida No Mukou (Aimi Acoustic Version)",
+  "channel": "Stereopony - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-f77cd7e5",
+  "workId": "w2668b5",
+  "kind": "ED",
+  "ytId": "_aw01by-hzE",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "罠",
+   "work": "機動戰士鋼彈00（機動戦士ガンダム00）",
+   "artist": "the back horn"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "THE BACK HORN｢罠｣MUSIC VIDEO",
+  "channel": "THE BACK HORN",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-c17da3c8",
+  "workId": "w2668b5",
+  "kind": "ED",
+  "ytId": "HjmF64FJVwk",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Friends",
+   "work": "機動戰士鋼彈00（機動戦士ガンダム00）",
+   "artist": "Stephanie"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Mobile Suit Gundam 00 ED2 Full | Friends － Stephanie",
+  "channel": "ツHyakuyaa",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-824bcec1",
+  "workId": "w2668b5",
+  "kind": "ED",
+  "ytId": "o-2lIigYSyI",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Prototype",
+   "work": "機動戰士鋼彈00（機動戦士ガンダム00）",
+   "artist": "石川智晶"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Gundam 00 ED3: ISHIKAWA CHIAKI 石川智晶 -  Prototype Lyrics (Color Coded Lyrics Kan/Rom/Eng)",
+  "channel": "Suga Cooky",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-d29843aa",
+  "workId": "w2668b5",
+  "kind": "ED",
+  "ytId": "isrBbCDjWLo",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "TOMORROW",
+   "work": "機動戰士鋼彈00（機動戦士ガンダム00）",
+   "artist": "常松歩"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Tomorrow",
+  "channel": "FreeTEMPO - Topic",
+  "startSource": "heuristic"
+ },
+ {
   "id": "a-36522208",
   "workId": "wf2ac45",
   "kind": "OP",
@@ -3642,6 +3866,104 @@
   "difficulty": 2,
   "video": "MAN WITH A MISSION 『Raise your flag』",
   "channel": "Sony Music (Japan)",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-1808c714",
+  "workId": "wf2ac45",
+  "kind": "OP",
+  "ytId": "-MnlFslr3Go",
+  "start": 0,
+  "revealStart": 114,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Survivor",
+   "work": "機動戰士鋼彈 鐵血孤兒（機動戦士ガンダム 鉄血のオルフェンズ）",
+   "artist": "BLUE ENCOUNT"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "BLUE ENCOUNT 『Survivor』Music Video 【「機動戦士ガンダム 鉄血のオルフェンズ」オープニングテーマ】",
+  "channel": "BLUE ENCOUNT Official YouTube Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-37195900",
+  "workId": "wf2ac45",
+  "kind": "ED",
+  "ytId": "_pyfH3oj_eg",
+  "start": 0,
+  "revealStart": 128,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "オルフェンズの涙",
+   "work": "機動戰士鋼彈 鐵血孤兒（機動戦士ガンダム 鉄血のオルフェンズ）",
+   "artist": "MISIA"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "MISIA - オルフェンズの涙（Official Music Video）",
+  "channel": "MISIA",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-264bc711",
+  "workId": "wf2ac45",
+  "kind": "OP",
+  "ytId": "PEVBOsSZkN8",
+  "start": 0,
+  "revealStart": 47,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "RAGE OF DUST",
+   "work": "機動戰士鋼彈 鐵血孤兒（機動戦士ガンダム 鉄血のオルフェンズ）",
+   "artist": "SPYAIR"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "Rage of Dust",
+  "channel": "SPYAIR - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-98939d0f",
+  "workId": "wf2ac45",
+  "kind": "OP",
+  "ytId": "zri8mjPnPto",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Fighter",
+   "work": "機動戰士鋼彈 鐵血孤兒（機動戦士ガンダム 鉄血のオルフェンズ）",
+   "artist": "KANA-BOON"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "KANA-BOON 「Fighter」初回生産限定盤 特典DVDトレーラー映像",
+  "channel": "KANA-BOON Official YouTube Channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-4193f9e1",
+  "workId": "wf2ac45",
+  "kind": "ED",
+  "ytId": "kFqQwX3AXbw",
+  "start": 0,
+  "revealStart": 94,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "少年の果て",
+   "work": "機動戰士鋼彈 鐵血孤兒（機動戦士ガンダム 鉄血のオルフェンズ）",
+   "artist": "GRANRODEO"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "GRANRODEO / 少年の果て",
+  "channel": "GRANRODEO",
   "startSource": "peak",
   "review": true
  },
@@ -3663,6 +3985,61 @@
   "video": "Mobile Suit Gundam Wing Opening 1 | Just Communication by Two-Mix",
   "channel": "Crunchyroll",
   "startSource": "peak"
+ },
+ {
+  "id": "a-5ff04ef9",
+  "workId": "w935ce4",
+  "kind": "OP",
+  "ytId": "5x9RFQbVbHc",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "RHYTHM EMOTION",
+   "work": "機動戰士鋼彈 W（新機動戦記ガンダムW）",
+   "artist": "TWO-MIX"
+  },
+  "year": 1995,
+  "difficulty": 2,
+  "video": "Gundam Wing OP2: TWO-MIX トゥーミックス - RHYTHM EMOTION Lyrics (Color Coded Lyrics Kan/Rom/Eng)",
+  "channel": "Suga Cooky",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-1dc3a08c",
+  "workId": "w935ce4",
+  "kind": "ED",
+  "ytId": "qcKDWTp7qzw",
+  "start": 0,
+  "revealStart": 19,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "It's Just Love",
+   "work": "機動戰士鋼彈 W（新機動戦記ガンダムW）",
+   "artist": "大石ルミ"
+  },
+  "year": 1995,
+  "difficulty": 2,
+  "video": "It's Just Love!",
+  "channel": "大石ルミ - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-026dfb0d",
+  "workId": "w935ce4",
+  "kind": "ED",
+  "ytId": "ZNSOcPjL-Gw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "White Reflection",
+   "work": "機動戰士鋼彈 W（新機動戦記ガンダムW）",
+   "artist": "TWO-MIX"
+  },
+  "year": 1995,
+  "difficulty": 2,
+  "video": "Two Mix White Reflection HQ with lyrics",
+  "channel": "Sandoka",
+  "startSource": "heuristic"
  },
  {
   "id": "a-843f0717",
@@ -23845,6 +24222,1204 @@
   "difficulty": 2,
   "video": "Link (album take ver.)",
   "channel": "LASTGASP - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-59a83e0e",
+  "workId": "we59158",
+  "kind": "OP",
+  "ytId": "GZAV7G5Q0r0",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Z・刻をこえて",
+   "work": "機動戰士Z鋼彈（機動戦士Ζガンダム）",
+   "artist": "鮎川麻弥"
+  },
+  "year": 1985,
+  "difficulty": 1,
+  "video": "Z・刻をこえて",
+  "channel": "Mami Ayukawa - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-4cfa1fbe",
+  "workId": "we59158",
+  "kind": "OP",
+  "ytId": "DH3Ywt7mQa4",
+  "start": 0,
+  "revealStart": 57,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "水の星へ愛をこめて",
+   "work": "機動戰士Z鋼彈（機動戦士Ζガンダム）",
+   "artist": "森口博子"
+  },
+  "year": 1985,
+  "difficulty": 1,
+  "video": "水の星へ愛をこめて",
+  "channel": "Hiroko Moriguchi - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-ea6ca33e",
+  "workId": "we59158",
+  "kind": "ED",
+  "ytId": "s9Yxb_-k_m0",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "星空のBelieve",
+   "work": "機動戰士Z鋼彈（機動戦士Ζガンダム）",
+   "artist": "鮎川麻弥"
+  },
+  "year": 1985,
+  "difficulty": 2,
+  "video": "鮎川麻弥 ♪星空のBelieve (bossa ver.)",
+  "channel": "鮎川麻弥公式 Mami Ayukawa Official YouTube Channel",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-1dbf1127",
+  "workId": "wcc81ef",
+  "kind": "OP",
+  "ytId": "Np1HhsXRQ0s",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "アニメじゃない-夢を忘れた古い地球人よ-",
+   "work": "機動戰士鋼彈ZZ（機動戦士ガンダムΖΖ）",
+   "artist": "新井正人"
+  },
+  "year": 1986,
+  "difficulty": 2,
+  "video": "アニメじゃない ～夢を忘れた古い地球人よ～",
+  "channel": "Masahito Arai - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-4bd93979",
+  "workId": "wcc81ef",
+  "kind": "OP",
+  "ytId": "6oBBGZJhduk",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "サイレント・ヴォイス",
+   "work": "機動戰士鋼彈ZZ（機動戦士ガンダムΖΖ）",
+   "artist": "Jun Hiroe"
+  },
+  "year": 1986,
+  "difficulty": 2,
+  "video": "サイレント・ヴォイス",
+  "channel": "ひろえ純 - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-3893d033",
+  "workId": "wcc81ef",
+  "kind": "ED",
+  "ytId": "23AONBskMsk",
+  "start": 0,
+  "revealStart": 167,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "時代が泣いている",
+   "work": "機動戰士鋼彈ZZ（機動戦士ガンダムΖΖ）",
+   "artist": "新井正人"
+  },
+  "year": 1986,
+  "difficulty": 2,
+  "video": "時代が泣いている",
+  "channel": "Masahito Arai - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-77baf56b",
+  "workId": "wcc81ef",
+  "kind": "ED",
+  "ytId": "oQ22iKMCULM",
+  "start": 0,
+  "revealStart": 135,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "一千万年銀河",
+   "work": "機動戰士鋼彈ZZ（機動戦士ガンダムΖΖ）",
+   "artist": "Jun Hiroe"
+  },
+  "year": 1986,
+  "difficulty": 2,
+  "video": "一千万年銀河",
+  "channel": "ひろえ純 - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a8cbdb7b",
+  "workId": "waa62e4",
+  "kind": "ED",
+  "ytId": "aQqHqaeM0xQ",
+  "start": 0,
+  "revealStart": 168,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Beyond The Time ～メビウスの宇宙を越えて～",
+   "work": "機動戰士鋼彈 逆襲的夏亞（機動戦士ガンダム 逆襲のシャア）",
+   "artist": "TM NETWORK"
+  },
+  "year": 1988,
+  "difficulty": 1,
+  "video": "Beyond The Time",
+  "channel": "TM NETWORK - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-e14c1349",
+  "workId": "w341547",
+  "kind": "OP",
+  "ytId": "MpZq_n40kmk",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "いつか空に届いて",
+   "work": "機動戰士鋼彈0080 口袋裡的戰爭（機動戦士ガンダム0080 ポケットの中の戦争）",
+   "artist": "椎名へきる"
+  },
+  "year": 1989,
+  "difficulty": 2,
+  "video": "いつか空に届いて",
+  "channel": "椎名恵 - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-0d46c3cf",
+  "workId": "w341547",
+  "kind": "ED",
+  "ytId": "CBKa7hr--pQ",
+  "start": 0,
+  "revealStart": 166,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "遠い記憶",
+   "work": "機動戰士鋼彈0080 口袋裡的戰爭（機動戦士ガンダム0080 ポケットの中の戦争）",
+   "artist": "椎名へきる"
+  },
+  "year": 1989,
+  "difficulty": 2,
+  "video": "遠い記憶",
+  "channel": "椎名恵 - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-c5bf24e0",
+  "workId": "wfb4e08",
+  "kind": "OP",
+  "ytId": "Egjzv2EV1_g",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "The Winner",
+   "work": "機動戰士鋼彈0083 星塵的回憶（機動戦士ガンダム0083 STARDUST MEMORY）",
+   "artist": "松原みき"
+  },
+  "year": 1991,
+  "difficulty": 2,
+  "video": "THE WINNER",
+  "channel": "Miki Matsubara - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-b7b697d5",
+  "workId": "wfb4e08",
+  "kind": "OP",
+  "ytId": "Yh-9Qk8DZG0",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Men of Destiny",
+   "work": "機動戰士鋼彈0083 星塵的回憶（機動戦士ガンダム0083 STARDUST MEMORY）",
+   "artist": "MIO"
+  },
+  "year": 1991,
+  "difficulty": 2,
+  "video": "MEN OF DESTINY",
+  "channel": "Mio - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-3d858bf1",
+  "workId": "wfb4e08",
+  "kind": "ED",
+  "ytId": "Se_4VgjC0sQ",
+  "start": 0,
+  "revealStart": 179,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Magic",
+   "work": "機動戰士鋼彈0083 星塵的回憶（機動戦士ガンダム0083 STARDUST MEMORY）",
+   "artist": "ジェイコブ・ウィーラー"
+  },
+  "year": 1991,
+  "difficulty": 2,
+  "video": "MAGIC",
+  "channel": "JACOB WHEELER - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-e85d433f",
+  "workId": "wfb4e08",
+  "kind": "ED",
+  "ytId": "8_YQdSuXP64",
+  "start": 0,
+  "revealStart": 127,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Evergreen",
+   "work": "機動戰士鋼彈0083 星塵的回憶（機動戦士ガンダム0083 STARDUST MEMORY）",
+   "artist": "MIO"
+  },
+  "year": 1991,
+  "difficulty": 2,
+  "video": "Evergreen",
+  "channel": "Mio - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-fb08beb5",
+  "workId": "wbda364",
+  "kind": "ED",
+  "ytId": "1gyFVYI62TY",
+  "start": 0,
+  "revealStart": 230,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Eternal Wind ～ほほえみは光る風の中～",
+   "work": "機動戰士鋼彈F91（機動戦士ガンダムF91）",
+   "artist": "森口博子"
+  },
+  "year": 1991,
+  "difficulty": 2,
+  "video": "ETERNAL WIND ～ほほえみは光る風の中～",
+  "channel": "Hiroko Moriguchi - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-36e1d366",
+  "workId": "w19d7c5",
+  "kind": "OP",
+  "ytId": "i_qB6h-Y-CA",
+  "start": 0,
+  "revealStart": 48,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Stand Up To The Victory",
+   "work": "機動戰士V鋼彈（機動戦士Vガンダム）",
+   "artist": "川添智久"
+  },
+  "year": 1993,
+  "difficulty": 2,
+  "video": "STAND UP TO THE VICTORY～トゥ・ザ・ヴィクトリー～",
+  "channel": "Tomohisa Kawazoe - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-5f02e8d5",
+  "workId": "w19d7c5",
+  "kind": "OP",
+  "ytId": "rbt7qXVnC6U",
+  "start": 0,
+  "revealStart": 42,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Don't Stop! Carry On",
+   "work": "機動戰士V鋼彈（機動戦士Vガンダム）",
+   "artist": "RD"
+  },
+  "year": 1993,
+  "difficulty": 2,
+  "video": "Don't Stop！Carry On！",
+  "channel": "R.D - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a77ac4e8",
+  "workId": "w19d7c5",
+  "kind": "ED",
+  "ytId": "TZK6uJpjHIg",
+  "start": 0,
+  "revealStart": 72,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Winners Forever",
+   "work": "機動戰士V鋼彈（機動戦士Vガンダム）",
+   "artist": "INFIX"
+  },
+  "year": 1993,
+  "difficulty": 2,
+  "video": "WINNERS FOREVER ～勝利者よ～",
+  "channel": "infix - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-826c13fe",
+  "workId": "w19d7c5",
+  "kind": "ED",
+  "ytId": "wLWhfDLEans",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "もう一度 Tenderness",
+   "work": "機動戰士V鋼彈（機動戦士Vガンダム）",
+   "artist": "KIX・S"
+  },
+  "year": 1993,
+  "difficulty": 2,
+  "video": "KIX-S / もう一度TENDERNESS",
+  "channel": "ROSE CYBER",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-7a9d58a3",
+  "workId": "w7d8862",
+  "kind": "OP",
+  "ytId": "kSk33GyJyII",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "FLYING IN THE SKY",
+   "work": "機動武鬥傳G鋼彈（機動武闘伝Gガンダム）",
+   "artist": "牛島義文"
+  },
+  "year": 1994,
+  "difficulty": 2,
+  "video": "FLYING IN THE SKY",
+  "channel": "YOSHIFUMI USHIMA - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-b9314e74",
+  "workId": "w7d8862",
+  "kind": "OP",
+  "ytId": "D1U0A8wVpYU",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "TRUST YOU FOREVER",
+   "work": "機動武鬥傳G鋼彈（機動武闘伝Gガンダム）",
+   "artist": "牛島義文"
+  },
+  "year": 1994,
+  "difficulty": 2,
+  "video": "Trust You Forever",
+  "channel": "YOSHIFUMI USHIMA - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-c133bdae",
+  "workId": "w7d8862",
+  "kind": "ED",
+  "ytId": "ZMqL4dgmUFA",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "海よりも深く",
+   "work": "機動武鬥傳G鋼彈（機動武闘伝Gガンダム）",
+   "artist": "才悦子"
+  },
+  "year": 1994,
+  "difficulty": 2,
+  "video": "海よりも深く (機動武闘伝Gガンダムより)",
+  "channel": "Release - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-347fb67f",
+  "workId": "w7d8862",
+  "kind": "ED",
+  "ytId": "sXvyQotkrRc",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "君の中の永遠",
+   "work": "機動武鬥傳G鋼彈（機動武闘伝Gガンダム）",
+   "artist": "井上武英"
+  },
+  "year": 1994,
+  "difficulty": 2,
+  "video": "君の中の永遠／井上武英(GガンダムED)",
+  "channel": "Rock Town Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-13bd121c",
+  "workId": "w584c56",
+  "kind": "OP",
+  "ytId": "e4MkG3TfSeU",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "DREAMS",
+   "work": "機動新世紀鋼彈X（機動新世紀ガンダムX）",
+   "artist": "ROmantic Mode"
+  },
+  "year": 1996,
+  "difficulty": 2,
+  "video": "DREAMS",
+  "channel": "ROMANTIC MODE - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-cf1026b5",
+  "workId": "w584c56",
+  "kind": "OP",
+  "ytId": "DIcDCwcERDU",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Resolution",
+   "work": "機動新世紀鋼彈X（機動新世紀ガンダムX）",
+   "artist": "ROmantic Mode"
+  },
+  "year": 1996,
+  "difficulty": 2,
+  "video": "Resolution",
+  "channel": "ROMANTIC MODE - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-4d6f6cad",
+  "workId": "w584c56",
+  "kind": "ED",
+  "ytId": "Vpm0d_7UIIk",
+  "start": 0,
+  "revealStart": 204,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Human Touch",
+   "work": "機動新世紀鋼彈X（機動新世紀ガンダムX）",
+   "artist": "Re-Kiss"
+  },
+  "year": 1996,
+  "difficulty": 2,
+  "video": "HUMAN TOUCH (JAPANESE VERSION)",
+  "channel": "re-kiss - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-74ea224a",
+  "workId": "w2641a6",
+  "kind": "OP",
+  "ytId": "SuuxltwBWM4",
+  "start": 0,
+  "revealStart": 44,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ターンAターン",
+   "work": "∀鋼彈（∀ガンダム）",
+   "artist": "西城秀樹"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "ターンＡターン",
+  "channel": "Hideki Saijo - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-0aa97f8a",
+  "workId": "w2641a6",
+  "kind": "OP",
+  "ytId": "BCW1hWrEcq0",
+  "start": 0,
+  "revealStart": 66,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Century Color",
+   "work": "∀鋼彈（∀ガンダム）",
+   "artist": "RAY-GUNS"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "CENTURY COLOR",
+  "channel": "RAY-GUNS - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-a97905e4",
+  "workId": "w2641a6",
+  "kind": "ED",
+  "ytId": "WQDQscGY4r4",
+  "start": 0,
+  "revealStart": 209,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "AURA",
+   "work": "∀鋼彈（∀ガンダム）",
+   "artist": "谷村新司"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "AURA ∀Gundam - Turn A Gundam Ending complete - 谷村新司",
+  "channel": "V.",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-cb9784d3",
+  "workId": "w2641a6",
+  "kind": "ED",
+  "ytId": "zUYFrj45bpw",
+  "start": 0,
+  "revealStart": 320,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "月の繭",
+   "work": "∀鋼彈（∀ガンダム）",
+   "artist": "奥井亜紀"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "奥井亜紀 - 月の繭",
+  "channel": "奥井亜紀",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-4596c7c8",
+  "workId": "w2641a6",
+  "kind": "ED",
+  "ytId": "YxWYKplJJgM",
+  "start": 0,
+  "revealStart": 222,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "限りなき旅路",
+   "work": "∀鋼彈（∀ガンダム）",
+   "artist": "奥井亜紀"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "限りなき旅路",
+  "channel": "Aki Okui - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-4bbeb36a",
+  "workId": "waf7881",
+  "kind": "ED",
+  "ytId": "O6yOTgH4R-g",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "流星のナミダ",
+   "work": "機動戰士鋼彈UC（機動戦士ガンダムUC）",
+   "artist": "栗山千明"
+  },
+  "year": 2010,
+  "difficulty": 2,
+  "video": "機動戦士ガンダムUC OVA ED「流星のナミダ」CHiAKi KURiYAMA（2010）",
+  "channel": "AnimeSongs Official",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-4489e5fb",
+  "workId": "waf7881",
+  "kind": "ED",
+  "ytId": "V8YEuquy7Nc",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Everlasting",
+   "work": "機動戰士鋼彈UC（機動戦士ガンダムUC）",
+   "artist": "Kylee"
+  },
+  "year": 2010,
+  "difficulty": 2,
+  "video": "Everlasting",
+  "channel": "Kylee - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-0b81c1e3",
+  "workId": "waf7881",
+  "kind": "OP",
+  "ytId": "SxembP_ahQU",
+  "start": 0,
+  "revealStart": 70,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Into the Sky",
+   "work": "機動戰士鋼彈UC（機動戦士ガンダムUC）",
+   "artist": "SawanoHiroyuki[nZk]:Tielle"
+  },
+  "year": 2010,
+  "difficulty": 2,
+  "video": "SawanoHiroyuki[nZk]:Tielle 『Into the Sky』Music Video Short Ver.（「機動戦士ガンダムUC RE:0096」オープニングテーマ）",
+  "channel": "澤野弘之 / SawanoHiroyuki[nZk]",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-d90139fb",
+  "workId": "waf7881",
+  "kind": "OP",
+  "ytId": "ptwH69_0EAo",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "RE:I AM",
+   "work": "機動戰士鋼彈UC（機動戦士ガンダムUC）",
+   "artist": "Aimer"
+  },
+  "year": 2010,
+  "difficulty": 2,
+  "video": "Re: I Am",
+  "channel": "Aimerrhythm - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-ed8fe91f",
+  "workId": "waf7881",
+  "kind": "ED",
+  "ytId": "NxeyzhJ9_Xc",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Next 2 U -eUC-",
+   "work": "機動戰士鋼彈UC（機動戦士ガンダムUC）",
+   "artist": "SawanoHiroyuki[nZk]:naNami"
+  },
+  "year": 2010,
+  "difficulty": 2,
+  "video": "next 2 U  SawanoHiroyuki[nZk]:naNami;",
+  "channel": "Co.ゴッセイ",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-07b5f809",
+  "workId": "waf7881",
+  "kind": "ED",
+  "ytId": "npkimnlrafY",
+  "start": 0,
+  "revealStart": 50,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "merry-go-round",
+   "work": "機動戰士鋼彈UC（機動戦士ガンダムUC）",
+   "artist": "CHEMISTRY"
+  },
+  "year": 2010,
+  "difficulty": 2,
+  "video": "Merry-Go-Round",
+  "channel": "Chemistry - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-aebef0f2",
+  "workId": "waf7881",
+  "kind": "OST",
+  "ytId": "13gcZ1Chayk",
+  "start": 0,
+  "revealStart": 36,
+  "prompt": "這段配樂來自哪部動畫？",
+  "answer": {
+   "title": "UNICORN",
+   "work": "機動戰士鋼彈UC（機動戦士ガンダムUC）",
+   "artist": "澤野弘之"
+  },
+  "year": 2010,
+  "difficulty": 2,
+  "video": "UNICORN",
+  "channel": "Hiroyuki SAWANO - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-efa5d582",
+  "workId": "w31c93e",
+  "kind": "OP",
+  "ytId": "oar85M231l8",
+  "start": 0,
+  "revealStart": 85,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "明日へ",
+   "work": "機動戰士鋼彈AGE（機動戦士ガンダムAGE）",
+   "artist": "Galileo Galilei"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "Asu E",
+  "channel": "Galileo Galilei - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-d7b372fb",
+  "workId": "w31c93e",
+  "kind": "OP",
+  "ytId": "4_3bh5k_v4c",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "sharp #",
+   "work": "機動戰士鋼彈AGE（機動戦士ガンダムAGE）",
+   "artist": "Negoto"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "sharp # (機動戦士ガンダムAGE OP)",
+  "channel": "Reiko Nakanishi - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-4c46010f",
+  "workId": "w31c93e",
+  "kind": "OP",
+  "ytId": "Y0VUJYGX3Lw",
+  "start": 0,
+  "revealStart": 59,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "AURORA",
+   "work": "機動戰士鋼彈AGE（機動戦士ガンダムAGE）",
+   "artist": "藍井エイル"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "藍井エイル「AURORA」Music Video（TVアニメ『機動戦士ガンダムAGE』OPテーマ）",
+  "channel": "藍井エイル Official YouTube Channel",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-1ffd6478",
+  "workId": "w31c93e",
+  "kind": "ED",
+  "ytId": "557YfJNk9XM",
+  "start": 0,
+  "revealStart": 51,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "君の中の英雄",
+   "work": "機動戰士鋼彈AGE（機動戦士ガンダムAGE）",
+   "artist": "栗林みな実"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "君の中の英雄",
+  "channel": "Minami Kuribayashi - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-47c6ffad",
+  "workId": "w31c93e",
+  "kind": "ED",
+  "ytId": "ETeGMgCvoNA",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "My World",
+   "work": "機動戰士鋼彈AGE（機動戦士ガンダムAGE）",
+   "artist": "SPYAIR"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "SPYAIR - My World",
+  "channel": "SPYAIRVEVO",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-dcd4f216",
+  "workId": "w55c76a",
+  "kind": "OP",
+  "ytId": "WT_A3GEaIu0",
+  "start": 0,
+  "revealStart": 144,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ニブンノイチ",
+   "work": "鋼彈創鬥者（ガンダムビルドファイターズ）",
+   "artist": "BACK-ON"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "ガンダムビルドファイターズ Full Opening ニブンノイチ by BACK-ON(Gundam Build Fighters)中日歌詞",
+  "channel": "Otaku生活",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-83e485e9",
+  "workId": "w55c76a",
+  "kind": "OP",
+  "ytId": "H8U58RZ1qRQ",
+  "start": 0,
+  "revealStart": 170,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "wimp ft. Lil'Fang (from FAKY)",
+   "work": "鋼彈創鬥者（ガンダムビルドファイターズ）",
+   "artist": "BACK-ON"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "ガンダムビルドファイターズ Full Opening wimp ft. Lil' Fang by BACK-ON & Lil' Fang(Gundam Build Fighters) 中日歌詞",
+  "channel": "Otaku生活",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-94393ec0",
+  "workId": "w55c76a",
+  "kind": "ED",
+  "ytId": "oKl5kRBZ6YM",
+  "start": 0,
+  "revealStart": 75,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Imagination > Reality",
+   "work": "鋼彈創鬥者（ガンダムビルドファイターズ）",
+   "artist": "AiRI"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Airi - Imagination Reality Full HD (Gundam Build Fighters ED1)",
+  "channel": "MxHFZ",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-d7e72651",
+  "workId": "w55c76a",
+  "kind": "OP",
+  "ytId": "y13x-92kr-U",
+  "start": 0,
+  "revealStart": 174,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "セルリアン",
+   "work": "鋼彈創鬥者（ガンダムビルドファイターズ）",
+   "artist": "BACK-ON"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "ガンダムビルドファイターズトライ Full Opening セルリアン by BACK-ON(Gundam Build Fighters try)中日歌詞",
+  "channel": "Otaku生活",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-7010fb5b",
+  "workId": "w55c76a",
+  "kind": "OP",
+  "ytId": "5q8t_ZguhZE",
+  "start": 0,
+  "revealStart": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Just Fly Away",
+   "work": "鋼彈創鬥者（ガンダムビルドファイターズ）",
+   "artist": "EDGE of LIFE"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "Just Fly Away (アニメ Version)",
+  "channel": "EDGE of LIFE - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-b901f0f4",
+  "workId": "w55c76a",
+  "kind": "ED",
+  "ytId": "6YXBW1OJR3g",
+  "start": 0,
+  "revealStart": 150,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "アメイジング ザ ワールド",
+   "work": "鋼彈創鬥者（ガンダムビルドファイターズ）",
+   "artist": "SCREEN mode"
+  },
+  "year": 2013,
+  "difficulty": 2,
+  "video": "SCREEN mode「アメイジング ザ ワールド」MV Full Size Ver",
+  "channel": "Lantis Channel",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-dcb193d1",
+  "workId": "w18fdf1",
+  "kind": "OP",
+  "ytId": "74q5yvpZAos",
+  "start": 0,
+  "revealStart": 53,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Blazing",
+   "work": "機動戰士鋼彈 G之復國運動（ガンダム Gのレコンギスタ）",
+   "artist": "GARNiDELiA"
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "GARNiDELiA - BLAZING",
+  "channel": "GARNiDELiAVEVO",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-206427da",
+  "workId": "w18fdf1",
+  "kind": "OP",
+  "ytId": "QQY1UmAOjlA",
+  "start": 0,
+  "revealStart": 58,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "ふたりのまほう",
+   "work": "機動戰士鋼彈 G之復國運動（ガンダム Gのレコンギスタ）",
+   "artist": "May J."
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "【公式】May J. / 『ふたりのまほう』[2/25発売 SG『ReBirth』収録] 『ガンダム Gのレコンギスタ』コラボ試聴動画",
+  "channel": "avex",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-e8a36ccf",
+  "workId": "w18fdf1",
+  "kind": "ED",
+  "ytId": "X7ph4qSq5Do",
+  "start": 0,
+  "revealStart": 166,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Gの閃光",
+   "work": "機動戰士鋼彈 G之復國運動（ガンダム Gのレコンギスタ）",
+   "artist": "ハセガワダイスケ"
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "Ｇの閃光",
+  "channel": "Daisuke Hasegawa - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-5999a589",
+  "workId": "w96e47c",
+  "kind": "ED",
+  "ytId": "eGbG_XuGp5o",
+  "start": 0,
+  "revealStart": 193,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "星屑の砂時計",
+   "work": "機動戰士鋼彈 THE ORIGIN（機動戦士ガンダム THE ORIGIN）",
+   "artist": "服部隆之 presents GUNDAM THE ORIGIN featuring yu-yu"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "星屑の砂時計",
+  "channel": "Takayuki Hattori - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-9d442ad8",
+  "workId": "w96e47c",
+  "kind": "ED",
+  "ytId": "czO1ZG8u1AY",
+  "start": 0,
+  "revealStart": 265,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "永遠のAstraea",
+   "work": "機動戰士鋼彈 THE ORIGIN（機動戦士ガンダム THE ORIGIN）",
+   "artist": "柴咲コウ"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "永遠のAstraea",
+  "channel": "Ko Shibasaki - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-6d1c34cf",
+  "workId": "w96e47c",
+  "kind": "ED",
+  "ytId": "vlyMRBQ8I_Y",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "宇宙の彼方で",
+   "work": "機動戰士鋼彈 THE ORIGIN（機動戦士ガンダム THE ORIGIN）",
+   "artist": "森口博子"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "宇宙の彼方で / 森口博子 (機動戦士ガンダム THE ORIGIN Ⅳ 運命の前夜 主題歌) 唄 :  fearless",
+  "channel": "fearlessMusicMovies",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "a-f418f851",
+  "workId": "w96e47c",
+  "kind": "ED",
+  "ytId": "GMs_mL9AHhI",
+  "start": 0,
+  "revealStart": 66,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "破線の涙",
+   "work": "機動戰士鋼彈 THE ORIGIN（機動戦士ガンダム THE ORIGIN）",
+   "artist": "山崎まさよし"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "破線の涙",
+  "channel": "Masayoshi Yamazaki - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-71707696",
+  "workId": "w95cda5",
+  "kind": "OP",
+  "ytId": "98CfjEnbB3s",
+  "start": 0,
+  "revealStart": 154,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Diver's High",
+   "work": "鋼彈創鬥潛士（ガンダムビルドダイバーズ）",
+   "artist": "SKY-HI"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Diver's High",
+  "channel": "SKY-HI - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-5a210a96",
+  "workId": "w95cda5",
+  "kind": "OP",
+  "ytId": "lVj_RxdM9Qk",
+  "start": 0,
+  "revealStart": 46,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Infinity",
+   "work": "鋼彈創鬥潛士（ガンダムビルドダイバーズ）",
+   "artist": "SWANKY DANK"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Infinity",
+  "channel": "SWANKY DANK - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-70a66b45",
+  "workId": "w95cda5",
+  "kind": "ED",
+  "ytId": "eRwgO8SKhsw",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Ashita e",
+   "work": "鋼彈創鬥潛士（ガンダムビルドダイバーズ）",
+   "artist": "Iris"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Ashita e (明日へ, Toward To Tomorrow) - Iris (Ending Gundam Build Divers)",
+  "channel": "Frendi Irawan",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-331f060c",
+  "workId": "w95cda5",
+  "kind": "ED",
+  "ytId": "HXGY6H1s8Xs",
+  "start": 0,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Start Dash",
+   "work": "鋼彈創鬥潛士（ガンダムビルドダイバーズ）",
+   "artist": "Spira Spica"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Gundam Build Divers ED 2 Ending 2 Full「Start Dash - Spira・Spica」",
+  "channel": "Build divers",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "a-c2865217",
+  "workId": "wae9dd0",
+  "kind": "ED",
+  "ytId": "Z94UDFeA-9I",
+  "start": 0,
+  "revealStart": 207,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "narrative",
+   "work": "機動戰士鋼彈NT（機動戦士ガンダムNT）",
+   "artist": "SawanoHiroyuki[nZk]:LiSA"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Mobile Suit Gundam NT Theme Song Full『SawanoHiroyuki[nZk]:LiSA - narrative』",
+  "channel": "Melodic Star",
+  "startSource": "peak"
+ },
+ {
+  "id": "a-983a531f",
+  "workId": "wdf09e4",
+  "kind": "OP",
+  "ytId": "hi-upDiznUY",
+  "start": 0,
+  "revealStart": 190,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "Möbius",
+   "work": "機動戰士鋼彈 閃光的哈薩威（機動戦士ガンダム 閃光のハサウェイ）",
+   "artist": "Hiroyuki Sawano feat. mpi & Laco & Benjamin"
+  },
+  "year": 2021,
+  "difficulty": 2,
+  "video": "Möbius",
+  "channel": "Hiroyuki SAWANO - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "a-2b54210e",
+  "workId": "wdf09e4",
+  "kind": "ED",
+  "ytId": "rja5s_imcM8",
+  "start": 0,
+  "revealStart": 147,
+  "prompt": "這首歌來自哪部動畫？",
+  "answer": {
+   "title": "閃光",
+   "work": "機動戰士鋼彈 閃光的哈薩威（機動戦士ガンダム 閃光のハサウェイ）",
+   "artist": "[Alexandros]"
+  },
+  "year": 2021,
+  "difficulty": 2,
+  "video": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』 挿入歌 「ENDROLL」 川上洋平 [Alexandros] × SennaRin 【Kan/Rom/English Lyrics 歌詞】",
+  "channel": "Starlight Music",
   "startSource": "peak"
  },
  {

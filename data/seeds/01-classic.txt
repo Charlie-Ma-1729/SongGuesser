@@ -121,7 +121,6 @@ OP | ソルジャー・ドリーム | 影山ヒロノブ
 
 # 機動戰士鋼彈（機動戦士ガンダム） | 1979
 OP | 翔べ!ガンダム | 池田鴻 d=2
-OST | BEYOND THE TIME | DEEN | q=BEYOND THE TIME メビウスの宇宙を越えて DEEN
 
 # 機動戰士鋼彈SEED（機動戦士ガンダムSEED） | 2002
 OP | INVOKE | T.M.Revolution
