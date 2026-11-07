@@ -16,6 +16,36 @@ function hideEverything() {
   document.querySelector('.stage').classList.remove('revealed');
 }
 
+let lastCount = null;
+function setCountdown(n) {
+  const el = $('countdown');
+  if (n === lastCount) return;
+  lastCount = n;
+  el.classList.toggle('on', n != null);
+  if (n == null) { el.textContent = ''; return; }
+  const b = document.createElement('b'); // 每換一個數字就重建元素，讓彈跳動畫重播
+  b.textContent = String(n);
+  el.replaceChildren(b);
+}
+
+/** 重置跑條與倒數（換題、重播時）；show=false 代表「不限長度」，沒有跑條 */
+export function resetProgress(show) {
+  const fill = $('timebar-fill');
+  fill.classList.add('reset');
+  fill.style.width = '0%';
+  void fill.offsetWidth; // 立刻套用，下一次更新才會有動畫
+  fill.classList.remove('reset');
+  $('timebar').classList.toggle('off', !show);
+  setCountdown(null);
+}
+
+/** 播放中更新跑條；auto 為 true 時最後 5 秒顯示大字倒數 */
+export function setProgress(elapsed, duration, auto) {
+  $('timebar-fill').style.width = `${Math.min(100, (elapsed / duration) * 100)}%`;
+  const remain = duration - elapsed;
+  setCountdown(auto && remain > 0 && remain <= 5 ? Math.max(1, Math.ceil(remain)) : null);
+}
+
 let badgeAnim = null;
 /** OP／ED 標籤：先在畫面正中央放大顯示，停一下再縮小飛到原本的位置 */
 function flyBadge() {
@@ -84,6 +114,7 @@ export function showAnswer(q) {
     dd.textContent = v;
     dl.append(dt, dd);
   });
+  setCountdown(null);
   $('answer').classList.remove('hidden');
   document.querySelector('.stage').classList.add('revealed');
   $('cover').classList.add('open'); // 揭曉後露出影片

@@ -115,6 +115,7 @@ export class ClipPlayer {
     try { state = this.yt.getPlayerState(); } catch { return; }
     if (state !== YT.PlayerState.PLAYING) return;
     const t = this.yt.getCurrentTime();
+    if (this.clip.duration && this.h.onProgress) this.h.onProgress(Math.max(0, t - this.clip.start), this.clip.duration);
     if (t >= this.clip.start + this.clip.duration) {
       this.yt.pauseVideo();
       this.h.onClipEnd && this.h.onClipEnd();

@@ -16,16 +16,19 @@ export class Game {
       onClipEnd: () => this._onClipEnd(),
       onError: (code) => this._onError(code),
       onStuck: () => this._onStuck(),
+      onProgress: (elapsed, duration) => ui.setProgress(elapsed, duration, this.auto && this.state === 'playing'),
     });
+    this.auto = false;
     if (initialVolume != null) this.player.volume = initialVolume;
     this.ready = this.player.init();
   }
 
-  async start(queue, total, duration) {
+  async start(queue, total, duration, auto = false) {
     await this.ready;
     this.queue = queue.slice();
     this.total = Math.min(total, queue.length);
     this.duration = duration;
+    this.auto = !!auto && duration > 0; // 「不限長度」時沒有時間可倒數，自動模式不適用
     this.shown = 0;
     this.state = 'idle';
     this._present();
@@ -41,6 +44,7 @@ export class Game {
     if (!this.current || this.state === 'revealed') return;
     this.state = 'loading';
     ui.toast('');
+    ui.resetProgress(this.duration > 0);
     this.player.replay();
   }
 
@@ -70,6 +74,7 @@ export class Game {
     this.shown++;
     this.state = 'loading';
     ui.showQuestion(this.current, this.shown, this.total); // 同步蓋住影片、收起答案，之後才載入新影片
+    ui.resetProgress(this.duration > 0);
     this.player.load({
       ytId: this.current.ytId,
       start: this.current.start || 0,
@@ -98,6 +103,7 @@ export class Game {
 
   _onClipEnd() {
     if (this.state === 'playing') {
+      if (this.auto) return this._reveal(); // 自動模式：時間到直接揭曉（之後仍要手動才進下一題）
       this.state = 'ended';
       ui.setClipEnded();
     }

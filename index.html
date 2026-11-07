@@ -40,6 +40,12 @@
           <option value="0">不限（手動揭曉前一直播）</option>
         </select>
       </label>
+      <label>揭曉方式
+        <select id="opt-auto">
+          <option value="0" selected>手動（按空白鍵揭曉）</option>
+          <option value="1">自動（播完倒數 5 秒後自動揭曉）</option>
+        </select>
+      </label>
       <label>難度
         <select id="opt-difficulty">
           <option value="1">簡單（大家都聽過）</option>
@@ -89,6 +95,8 @@
         <div id="cover" class="cover">
           <div id="eq" class="eq"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
           <div id="cover-text">載入中…</div>
+          <div id="countdown" class="countdown" aria-live="off"></div>
+          <div id="timebar" class="timebar"><i id="timebar-fill"></i></div>
         </div>
       </div>
 

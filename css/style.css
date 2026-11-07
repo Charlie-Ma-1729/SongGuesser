@@ -106,6 +106,22 @@ kbd {
 .toast { min-height: 24px; color: var(--ok); margin: 10px 0 0; }
 .toast.warn { color: #ffb347; }
 
+/* 播放長度跑條（在遮罩底部）與自動模式的倒數 */
+.timebar { position: absolute; left: 0; right: 0; bottom: 0; height: 10px; background: rgba(255, 255, 255, 0.18); }
+.timebar.off { visibility: hidden; }
+.timebar i { display: block; height: 100%; width: 0; background: #ffd166; transition: width 0.18s linear; }
+.timebar i.reset { transition: none; }
+.countdown {
+  position: absolute; inset: 0; z-index: 3; display: none; align-items: center; justify-content: center;
+  font-size: clamp(120px, 28vw, 260px); font-weight: 900; color: #fff; line-height: 1; pointer-events: none;
+  text-shadow: 0 6px 40px rgba(0, 0, 0, 0.55), 0 0 60px rgba(255, 79, 139, 0.8);
+  background: rgba(15, 16, 32, 0.45);
+}
+.countdown.on { display: flex; }
+.countdown.on b { display: block; font-weight: 900; animation: pop 1s ease-out; }
+@keyframes pop { 0% { transform: scale(1.8); opacity: 0; } 15% { transform: scale(1.05); opacity: 1; } 100% { transform: scale(0.9); opacity: 1; } }
+.countdown.on { background: rgba(15, 16, 32, 0.78); }
+
 /* 音量 */
 .vol { display: inline-flex; align-items: center; gap: 8px; font-size: 16px; color: var(--muted); }
 .vol input[type=range] { width: 140px; accent-color: #7c5cff; padding: 0; background: none; border: 0; }

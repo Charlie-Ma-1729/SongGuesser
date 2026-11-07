@@ -85,7 +85,7 @@ async function startGame() {
   }
   ui.showScreen('game');
   if (!game) game = new Game(volume);
-  await game.start(queue, count, Number($('opt-duration').value));
+  await game.start(queue, count, Number($('opt-duration').value), $('opt-auto').value === '1');
 }
 
 $('btn-start').addEventListener('click', startGame);
