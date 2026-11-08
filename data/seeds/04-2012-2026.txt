@@ -95,7 +95,6 @@ OP | Lovers | 7!! d=2
 OP | ホタルノヒカリ | いきものがかり | t=Hotaru no Hikari d=2
 OP | Closer | Joe Inoue d=2
 ED | Wind | akeboshi
-OST | Girei | 増田順一 | q=Girei Naruto OST Toshio Masuda d=2
 
 # 海賊王（ONE PIECE） | 1999
 OP | Wake up! | AAA d=2
@@ -110,7 +109,6 @@ OP | メモリーズ | 大槻マキ | t=Memories d=2
 OP | 超絶☆ダイナミック! | 吉井和哉 | t=Chozetsu Dynamic d=2
 
 # 死神（BLEACH） | 2004
-OST | Number One | 鷺巣詩郎 | q=BLEACH OST Number One 鷺巣詩郎 d=2
 
 # 魔法少女小圓（魔法少女まどか☆マギカ） | 2011
 ED | Sis puella magica! | Kalafina d=2

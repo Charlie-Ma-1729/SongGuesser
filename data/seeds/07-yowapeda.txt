@@ -11,7 +11,7 @@ OP | ダンシング | 佐伯ユウスケ | t=Dancing d=2 q=弱虫ペダル GLOR
 OP | Keep going | 04 Limited Sazabys | d=2 q=弱虫ペダル LIMIT BREAK OP Keep going 04 Limited Sazabys
 OP | ラストシーン | Novelbright | t=Last Scene d=2
 ED | 風を呼べ | UNDER GRAPH | t=Kaze wo Yobe d=2
-ED | I am ready | AUTRIBE feat. Dirty Old Men | d=2
+ED | I'm Ready | AUTRIBE feat. Dirty Old Men | t=I am ready d=2
 ED | リアライズ | ROOKiEZ is PUNK'D | t=Realize d=2
 ED | 栄光への一秒 | MAGIC OF LiFE | t=Eikou no Ichibyou d=2
 ED | ナウオアネバー | 佐伯ユウスケ | t=Now or Never d=2
@@ -24,4 +24,5 @@ ED | ツヨサヨワサ | 佐伯ユウスケ | t=Tsuyosa Yowasa d=2
 ED | Believer | LASTGASP | d=2 q=弱虫ペダル Re:ROAD Believer LASTGASP
 ED | Days | LASTGASP | d=2 q=弱虫ペダル Re:RIDE Days LASTGASP
 ED | Link | LASTGASP | d=2 q=弱虫ペダル 劇場版 Link LASTGASP
-
+ED | Top of Tops! | 寒咲幹（諏訪彩花） | l=三浦誠司 c=中村久志 d=2 q=弱虫ペダル OAD Top of Tops! 寒咲幹
+ED | はじまりの日々 | MAGIC OF LiFE | t=Hajimari no Hibi d=2 q=弱虫ペダル はじまりの日々 MAGIC OF LiFE

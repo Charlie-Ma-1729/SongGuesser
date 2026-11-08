@@ -1,0 +1,79 @@
+# 經典動畫配樂（OST）追加歌單：純音樂／BGM 為主，難度以 1～2 為限
+# 同名作品標題會自動合併到前面檔案裡的同一部作品。
+# 演唱欄位寫的是「作曲者／樂團」；? 代表不確定（揭曉時不顯示）。
+
+# 新世紀福音戰士（新世紀エヴァンゲリオン） | 1995
+INSERT | Thanatos -If I Can't Be Yours- | 鷺巣詩郎 | c=鷺巣詩郎 q=Evangelion Thanatos If I Can't Be Yours d=2
+
+# 死神（BLEACH） | 2004
+OST | Treachery | 鷺巣詩郎 | c=鷺巣詩郎 q=BLEACH Treachery 鷺巣詩郎 d=2
+
+# 鋼之鍊金術師（鋼の錬金術師） | 2003
+OST | Bratja | 大島ミチル | c=大島ミチル q=鋼の錬金術師 Bratja 大島ミチル d=2
+
+# 星際牛仔（カウボーイビバップ） | 1998
+OST | Rush | The Seatbelts | c=菅野よう子 q=Cowboy Bebop Rush Seatbelts d=2
+INSERT | Call Me Call Me | 山根麻衣 | c=菅野よう子 q=Cowboy Bebop Call Me Call Me 山根麻衣 d=2
+
+# 攻殼機動隊（攻殻機動隊） | 1995
+OST | Making of Cyborg | 川井憲次 | c=川井憲次 q=攻殻機動隊 Making of Cyborg 川井憲次 d=2
+
+# 約定的夢幻島（約束のネバーランド） | 2019
+OST | Isabella's Lullaby | Evan Call | c=Evan Call q=約束のネバーランド Isabella's Lullaby Evan Call d=1
+
+# 葬送的芙莉蓮（葬送のフリーレン） | 2023
+OST | Zoltraak | Evan Call | c=Evan Call q=葬送のフリーレン Zoltraak Evan Call d=2
+
+# 反叛的魯路修（コードギアス 反逆のルルーシュ） | 2006
+OST | Continued Story | 中川幸太郎・黒石ひとみ | q=Code Geass Continued Story 中川幸太郎 d=2
+
+# 天元突破 紅蓮螺巖（天元突破グレンラガン） | 2007
+OST | Libera Me From Hell | 岩崎琢 | c=岩崎琢 q=グレンラガン Libera me from hell 岩崎琢 d=2
+
+# 神的記事本（Steins;Gate） | 2011
+OST | Gate of Steiner | 阿保剛 | c=阿保剛 q=Steins;Gate Gate of Steiner 阿保剛 d=2
+
+# 東京喰種（東京喰種トーキョーグール） | 2014
+OST | Glassy Sky | ? | q=Tokyo Ghoul Glassy Sky 山田豊 d=2
+
+# 龍貓（となりのトトロ） | 1988
+OST | 風のとおり道 | 久石譲 | c=久石譲 t=Path of the Wind q=となりのトトロ 風のとおり道 久石譲 d=2
+
+# 魔法公主（もののけ姫） | 1997
+OST | アシタカせっ記 | 久石譲 | c=久石譲 t=The Legend of Ashitaka q=もののけ姫 アシタカせっ記 久石譲
+
+# 阿基拉（AKIRA） | 1988
+OST | Kaneda | 芸能山城組 | q=AKIRA Kaneda 芸能山城組 d=2
+
+# Berserk（剣風伝奇ベルセルク） | 1997
+OST | Forces | 平沢進 | l=平沢進 c=平沢進 q=ベルセルク Forces 平沢進 d=2
+
+# 少女與戰車（ガールズ&パンツァー） | 2012
+OST | Panzer Vor! | 浜口史郎 | c=浜口史郎 q=ガールズ&パンツァー Panzer Vor! 浜口史郎 d=1
+
+# 聲之形（聲の形） | 2016
+OST | lit | 牛尾憲輔 | c=牛尾憲輔 q=聲の形 lit 牛尾憲輔 サウンドトラック d=2
+
+# 風之谷（風の谷のナウシカ） | 1984
+OST | 風の伝説 | 久石譲 | c=久石譲 t=Legend of the Wind q=風の谷のナウシカ 風の伝説 久石譲 d=2
+
+# 來自深淵（メイドインアビス） | 2017
+OST | Hanezeve Caradhina | Kevin Penkin | c=Kevin Penkin q=Made in Abyss Hanezeve Caradhina Kevin Penkin d=2
+
+# 武士道Champloo（サムライチャンプルー） | 2004
+OST | Aruarian Dance | Nujabes | c=Nujabes q=Samurai Champloo Aruarian Dance Nujabes d=2
+
+# CLANNAD（CLANNAD -クラナド-） | 2007
+OST | 小さな手のひら | ? | t=Chiisana Tenohira q=CLANNAD 小さな手のひら OST d=2
+
+# AIR（AIR） | 2005
+OST | 夏影 | ? | t=Natsukage q=AIR 夏影 OST d=2
+
+# KILL la KILL（キルラキル） | 2013
+OST | Blumenkranz | 澤野弘之 | c=澤野弘之 q=キルラキル Blumenkranz 澤野弘之 d=2
+
+# NOIR（NOIR） | 2001
+OST | salva nos | 梶浦由記 | c=梶浦由記 q=NOIR salva nos 梶浦由記 d=2
+
+# 天空のエスカフローネ（天空のエスカフローネ） | 1996
+OST | Dance of Curse | 菅野よう子 | c=菅野よう子 q=エスカフローネ Dance of Curse 菅野よう子 d=2

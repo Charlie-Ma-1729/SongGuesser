@@ -2,6 +2,7 @@
 
 # 進擊的巨人（進撃の巨人） | 2013
 ED | great escape | Cinema Staff | d=1
+ED | Call your name <Gv> | Gemie | d=1
 ED | 暁の鎮魂歌 | Linked Horizon | t=Akatsuki no Chinkonka d=1
 ED | T-KT | Hiroyuki Sawano | d=1
 ED | 衝撃 | Yuuko Andou (安藤裕子) | t=Shougeki d=1
@@ -11,11 +12,20 @@ OP | 最後の巨人 | Linked Horizon (Single episodes version: eps 1-7) | t=Sai
 ED | 二千年... 若しくは... 二万年後の君へ・・・ | Linked Horizon | t=Nisennen... Moshiku wa... Nimannengo no Kimi e... d=1
 
 # 死亡筆記本（デスノート） | 2006
+OP | What's up, people?! | Maximum the Hormone | d=1
+OP | the WORLD | Nightmare | d=1
 ED | Alumina | Nightmare | d=1
 ED | Zetsubō Billy | Maximum the Hormone | d=1
 ED | Coda ~ Death Note | Yoshihisa Hirano | d=1
 
 # 鋼之鍊金術師（鋼の錬金術師） | 2003
+OP | メリッサ | Porno Graffitti | t=Melissa d=1
+OP | UNDO | Cool Joke | d=1
+OP | リライト | Asian Kung-fu Generation | t=Rewrite d=1
+ED | 消せない罪 | Nana Kitade | t=Kesenai Tsumi d=1
+ED | 扉の向こうへ | YeLLOW Generation | t=Tobira no Mukou e d=1
+ED | Motherland | Crystal Kay | d=1
+ED | I Will | Sowelu | d=1
 OP | ゴールデンタイムラバー | Sukima Switch | t=Golden Time Lover d=1
 OP | レイン | SID | t=Rain d=1
 ED | 嘘 | SID | t=Uso d=1
@@ -48,6 +58,19 @@ OP | スターマーカー | KANA-BOON | t=Star Marker d=1
 ED | 航海の唄 | Sayuri | t=Koukai no Uta d=1
 ED | Shout Baby | Ryokuoushoku Shakai (緑黄色社会) | d=1
 ED | ハイヤーグラウンド | sumika | t=Higher Ground d=1
+OP | No.1 | DISH// | d=1
+OP | Merry-Go-Round | MAN WITH A MISSION | d=1
+ED | 足跡 | the peggies | t=Ashiato d=1
+ED | 嘘じゃない | Soushi Sakiyama | t=Uso ja Nai d=1
+OP | ひたむき | SUPER BEAVER | t=2: "Bokurano (ぼくらの)" by Eve (eps 14-25) "Hitamuki d=1
+ED | SKETCH | Kiiro Akiyama | d=1
+ED | キタカゼ | SIX LOUNGE | t=Kitakaze d=1
+OP | 誰我為 | TK from Ling tosite sigure (TK from 凛として時雨) | t=Ta ga Tame d=1
+OP | カーテンコール | Yuuri (優里) | t=Curtain Call d=1
+ED | 蕾 | Omoinotake | t=Tsubomi d=1
+ED | 六等星 | ZARAME (ざらめ) | t=Roku Tousei d=1
+OP | THE REVO | Porno Grafitti | d=1
+ED | I | BUMP OF CHICKEN | d=1
 
 # 刀劍神域（ソードアート・オンライン） | 2012
 ED | ユメセカイ | Haruka Tomatsu | t=Yume Sekai d=1
@@ -62,8 +85,16 @@ ED | forget-me-not | ReoNa | d=1
 ED | 虹の彼方に | ReoNa | t=Niji no Kanata ni d=1
 OP | 流星 | Eir Aoi | t=Ryuusei d=1
 ED | To see the future | Karen Kohiruimaki (Tomori Kusunoki) | d=1
+ED | unlasting | LiSA | d=1
+OP | ANIMA | ReoNa | d=1
+ED | I will... | Eir Aoi | d=1
 
 # 獵人（HUNTER×HUNTER） | 2011
+OP | おはよう | Keno | t=Ohayou d=1
+OP | 太陽は夜も輝く | Wino | t=Taiyou wa Yoru mo Kagayaku d=1
+ED | Kaze no Uta; Song of the Wind | Minako Honda | d=1
+ED | E-Jan - Do You Feel Like I Feel | Masato Nagai | d=1
+ED | Hotaru | Masato Nagai | d=1
 OP | departure! -second version- | Ono Masatoshi | d=1
 OP | departure! -Opening Tokubetsu-hen- | Ono Masatoshi | d=1
 ED | HUNTING FOR YOUR DREAM | Galneryus | d=1
@@ -72,6 +103,92 @@ ED | REASON | YUZU (ゆず) | d=1
 ED | Nagareboshi Kirari (YUZU Version) (流れ星キラリ (ゆずバージョン)) | YUZU (ゆず) | d=1
 ED | 表裏一体 | YUZU (ゆず) | t=Hyouriittai d=1
 ED | Understanding | Yoshihisa Hirano | d=1
+
+# 火影忍者（ナルト） | 2002
+OP | R★O★C★K★S | Hound Dog | d=1
+OP | 遥か彼方 | Asian Kung-fu Generation | t=Haruka Kanata d=1
+OP | 悲しみをやさしさに | little by little | t=Kanashimi wo Yasashisa ni d=1
+OP | GO!!! | FLOW | d=1
+OP | 青春狂騒曲 | Sambomaster | t=Seishun Kyosokyoku d=1
+OP | ノーボーイ・ノークライ | Stance Punks | t=No Boy, No Cry d=1
+OP | 波風サテライト | Snowkel | t=Namikaze Satellite d=1
+OP | Re:member | FLOW | d=1
+OP | ユラユラ | Hearts Grow | t=YURA YURA d=1
+ED | Wind | Akeboshi | d=1
+ED | Harmonia | Rythem | d=1
+ED | Viva Rock ~Japanese Side~ | Orange Range | d=1
+ED | ALIVE | Raiko | d=1
+ED | Ima made Nando mo | the Mass Missile | d=1
+ED | Ryusei | Tia | d=1
+ED | Mountain A Go Go Too | Captain Straydum | d=1
+ED | Hajimete Kimi to Shabetta | GagagaSP | d=1
+ED | Nakushita Kotoba | No Regret Life | d=1
+ED | Speed | Analogfish | d=1
+ED | Soba ni Iru Kara | Amadori | d=1
+ED | Parade | CHABA | d=1
+ED | Yellow Moon | Akeboshi | d=1
+ED | Pinocchio | Ore Ska Band | d=1
+ED | Scenario | SABOTEN | d=1
+OP | Hero's Come Back | Nobodyknows+ | d=1
+OP | distance | LONG SHOT PARTY | d=1
+OP | ブルーバード | Ikimonogakari | t=Blue Bird d=1
+OP | CLOSER | Inoue Joe | d=1
+OP | ホタルノヒカリ | Ikimonogakari | t=Hotaru no Hikari d=1
+OP | Sign | FLOW | d=1
+OP | 透明だった世界 | Motohiro Hata | t=Toumei Datta Sekai d=1
+OP | Diver | NICO Touches the Walls | d=1
+OP | ラヴァーズ | 7!! | t=Lovers d=1
+OP | newsong | tacica | d=1
+OP | 突撃ロック | THE CRO-MAGNONS | t=Totsugeki Rock d=1
+OP | Moshimo | Daisuke | d=1
+OP | ニワカ雨ニモ負ケズ | NICO Touches the Walls | t=Niwaka Ame Nimo Makezu d=1
+OP | 月の大きさ | Nogizaka46 | t=Tsuki no Ookisa d=1
+OP | Guren | DOES | d=1
+OP | シルエット | KANA-BOON | t=Silhouette d=1
+OP | 風 | Yamazaru | t=Kaze d=1
+OP | LINE | Sukima Switch | d=1
+OP | ブラッドサーキュレーター | Asian Kung-Fu Generation | t=Blood Circulator d=1
+OP | カラノココロ | Anly | t=Kara no Kokoro d=1
+ED | 流れ星〜Shooting Star〜 | HOME MADE Kazoku | t=Nagare Boshi ~Shooting Star~ d=1
+ED | 道 〜to you all | aluto | t=Michi ~to you all d=1
+ED | キミモノガタリ | little by little | t=KIMI MONOGATARI d=1
+ED | 目覚めろ!野性 | MATCHY with QUESTION? | t=Mezamero! Yasei d=1
+ED | 素直な虹 | surface | t=Sunao na Niji d=1
+ED | BROKEN YOUTH | NICO Touches the Walls | d=1
+ED | Long Kiss Goodbye | HALCALI | d=1
+ED | バッチコイ!!! | DEV PARADE | t=BACCHIKOI!!! d=1
+ED | 深呼吸 | SUPER BEAVER | t=Shinkokyuu d=1
+ED | My ANSWER | SEAMO | d=1
+ED | おまえだったんだ | Kishidan | t=Omae Dattanda d=1
+ED | For You | AZU | d=1
+ED | 自転車 | OreSkaBand | t=Jitensha d=1
+ED | うたかた花火 | supercell | t=Utakata Hanabi d=1
+ED | U can do it! | DOMINO | d=1
+ED | 真夜中のオーケストラ | Aqua Timez | t=Mayonaka no Orchestra d=1
+ED | FREEDOM | HOME MADE Kazoku | d=1
+ED | 欲望を叫べ!!!! | OKAMOTO'S | t=Yokubou o Sakebe!!!! d=1
+ED | Place to Try | TOTALFAT | d=1
+ED | バイマイサイド | Hemenway | t=By My Side d=1
+ED | カスケード | UNLIMITS | t=Cascade d=1
+ED | この声枯らしてfeat. CHEHON | AISHA feat. CHEHON | t=Kono Koe Karashite d=1
+ED | MOTHER | MUCC | d=1
+ED | さよならメモリー | 7!! | t=Sayonara Memory d=1
+ED | I Can Hear | DISH// | d=1
+ED | 夢を抱いて〜はじまりのクリスロード〜 | Rake | t=Yume wo Daite ~Hajimari no Crissroad~ d=1
+ED | ブラックナイトタウン | Akihisa Kondou | t=Black Night Town d=1
+ED | 虹 | Shinkuu Horou (真空ホロウ) | t=Niji d=1
+ED | FLAME | DISH// | d=1
+ED | Never Change feat.Lyu:Lyu | SHUN | d=1
+ED | だめだめだ | Shiori Tomita | t=Dame Dame da d=1
+ED | Spinning World | Diana Garnet | d=1
+ED | 言葉のいらない約束 | sana | t=Kotoba no Iranai Yakusoku d=1
+ED | 虹の空 | FLOW | t=Niji no Sora d=1
+ED | トラブルメイカー | KANIKAPILA | t=Trouble Maker d=1
+ED | そんな君、こんな僕 | Thinking Dogs | t=Sonna Kimi, Konna Boku d=1
+ED | 青のララバイ | Kuroneko Chelsea | t=Ao no Lullaby d=1
+ED | ピノとアメリ | Huwie Ishizaki | t=Pino to Amélie d=1
+ED | 旅立ちの唄 | Ayumikurikamaki | t=Tabidachi no Uta d=1
+ED | 『絶絶（ぜつぜつ） | Swimy | t=Zetsu Zetsu d=1
 
 # 東京喰種（東京喰種トーキョーグール） | 2014
 ED | 聖者たち | People In The Box | t=Seijatachi d=1
@@ -84,19 +201,52 @@ ED | Fake Verthandi | Takeshi Abo | d=1
 ED | スカイクラッドの観測者 | Kanako Itou | t=Sky Clad no Kansokusha d=1
 ED | Another Heaven | Kanako Itou | d=1
 
-# 火影忍者疾風傳（-ナルト- 疾風伝） | 2007
-OP | Hero's Come Back | Nobodyknows+ | d=1
-OP | distance | LONG SHOT PARTY | d=1
-OP | ブルーバード | Ikimonogakari | t=Blue Bird d=1
-OP | 透明だった世界 | Motohiro Hata | t=Toumei Datta Sekai d=1
-OP | ラヴァーズ | 7!! | t=Lovers d=1
-OP | 突撃ロック | THE CRO-MAGNONS | t=Totsugeki Rock d=1
-OP | Moshimo | Daisuke | d=1
-OP | ニワカ雨ニモ負ケズ | NICO Touches the Walls | t=Niwaka Ame Nimo Makezu d=1
-OP | 月の大きさ | Nogizaka46 | t=Tsuki no Ookisa d=1
-OP | Guren | DOES | d=1
-OP | 風 | Yamazaru | t=Kaze d=1
-OP | LINE | Sukima Switch | d=1
+# 海賊王（ONE PIECE） | 1999
+OP | ヒカリヘ | The Babystars (ザ・ベイビースターズ) | t=Hikari e d=1
+OP | ココロのちず | BOYSTYLE | t=Kokoro no Chizu d=1
+OP | ウィーアー! 〜7人の麦わら海賊団篇〜 | the 7-nin no Mugiwara Kaizokudan (7人の麦わら海賊団) | t=We Are! d=1
+OP | Crazy Rainbow | Tackey & Tsubasa (タッキー&翼) | d=1
+OP | Jungle P | 5050 | d=1
+OP | ウィーアー! 〜10周年Ver.〜 | TVXQ | t=We Are d=1
+OP | 風をさがして | Mari Yaguchi to Straw Hat (矢口真里とストローハット) | t=Kaze wo Sagashite d=1
+OP | One day | The ROOTLESS | d=1
+OP | ウィーゴー! | Hiroshi Kitadani (きただにひろし) | t=We Go! d=1
+OP | HANDS UP! | Kouta Shinzato (新里宏太) | d=1
+OP | ウィーキャン! | Kishidan to Hiroshi Kitadani (氣志團ときただにひろし) | t=We Can! d=1
+OP | Super Powers | V6 | d=1
+OP | DREAMIN' ON | Da-iCE | d=1
+OP | PAINT | I Don't Like Mondays. | d=1
+OP | 新時代 | Ado | t=Shinjidai d=1
+OP | 最高到達点 | SEKAI NO OWARI | t=Saikou Toutatsuten d=1
+OP | あーーっす！ | Hiroshi Kitadani (きただにひろし) | t=Uuus! d=1
+OP | 天使と悪魔 | GRe4N BOYZ | t=Tenshi to Akuma d=1
+OP | カーマイン | ELLEGARDEN | t=Carmine d=1
+OP | ルミナス - Luminous | AiNA THE END | t=Luminous d=1
+ED | memories | Maki Otsuki (大槻真希) | d=1
+ED | RUN! RUN! RUN! | Maki Otsuki (大槻真希) | d=1
+ED | 私がいるよ | TOMATO CUBE | t=Watashi ga iru Yo d=1
+ED | しょうちのすけ | Suitei Shoujo (推定少女) | t=Shouchi no Suke d=1
+ED | BEFORE DAWN | AI-SACHI | d=1
+ED | fish | The Kaleidoscope | d=1
+ED | GLORY-君がいるから- | Takako Uehara (上原多香子) | t=GLORY -Kimi ga Iru kara- d=1
+ED | Shining ray | Janne Da Arc | d=1
+ED | Family | Mugiwara Kaizokudan (麦わら海賊団) | d=1
+ED | Free Will | Ruppina | d=1
+ED | FAITH | Ruppina | d=1
+ED | A to Z〜ONE PIECE Edition〜 | ZZ | d=1
+ED | 月と太陽 | shela | t=Tsuki to Taiyou d=1
+ED | DREAMSHIP | Aiko Ikuta (イクタ☆アイコ) | d=1
+ED | 未来航海 | Tackey & Tsubasa (タッキー&翼) | t=Mirai Koukai d=1
+ED | エターナルポーズ | Asia Engineer (エイジアエンジニア) | t=Eternal Pose d=1
+ED | Dear friends | TRIPLANE | d=1
+ED | 明日は来るから | TVXQ | t=Asu wa Kuru kara d=1
+ED | ADVENTURE WORLD | Delicatessen (デリカテッセン) | d=1
+ED | Raise | Chilli Beans. | d=1
+ED | Dear sunrise | Maki Otsuki (大槻マキ) | d=1
+ED | The 1 | muque | d=1
+ED | Punks | Chameleon Lime Whoopiepie | d=1
+ED | その未来 | Jisoku 36km (時速36km) | t=Sono Mirai d=1
+ED | 世界はひとりじゃなかった | Maki Otsuki (大槻マキ) | t=Never Was Alone in This World d=1
 
 # 聲之形（聲の形） | 2016
 OP | マイ・ジェネレーション | The Who | t=My Generation d=1
@@ -109,6 +259,8 @@ ED | THERE IS A REASON | Konomi Suzuki | d=1
 # 從零開始的異世界生活（Re:ゼロから始める異世界生活） | 2016
 ED | STRAIGHT BET | MYTH & ROID | d=1
 ED | theater D | MYTH & ROID | d=1
+ED | White White Snow | nonoc | d=1
+ED | 雪の果てに君の名を | nonoc | t=Yuki no Hate ni Kimi no Na wo d=1
 ED | Memento | nonoc | d=1
 OP | Long shot | Mayu Maeshima (前島麻由) | d=1
 ED | Door | Emilia (Rie Takahashi) | d=1
@@ -118,6 +270,9 @@ OP | Reweave | Konomi Suzuki (鈴木このみ) | d=1
 ED | NOX LUX | MYTH & ROID | d=1
 ED | I Trust You | Emilia (CV: Rie Takahashi) | d=1
 ED | プリステラの君よ | Liliana (CV: Aya Yamane) | t=Priestella no Kimi yo d=1
+OP | Recollect | Konomi Suzuki (鈴木このみ) feat. Ashnikko | d=1
+ED | Ender Ember | MYTH & ROID feat. TK (Ling tosite sigure) (凛として時雨) | d=1
+ED | Stay Alive 〜Regain〜 | Emilia (CV: Rie Takahashi) | d=1
 
 # 反叛的魯路修（コードギアス 反逆のルルーシュ） | 2006
 OP | 解読不能 | Jinn (ジン) | t=Kaidoku Funou d=1
@@ -136,6 +291,7 @@ ED | Acoustic Ver. | 7!! | t=Orange (オレンジ) d=1
 
 # 龍與虎（とらドラ!） | 2008
 ED | バニラソルト | Yui Horie | t=Vanilla Salt d=1
+ED | オレンジ | Rie Kugimiya, Yui Horie, and Eri Kitamura | t=Orange d=1
 ED | ホーリーナイト | Rie Kugimiya and Eri Kitamura | t=Holy Night d=1
 
 # 路人超能100（モブサイコ100） | 2016
@@ -162,6 +318,18 @@ OP | LIAR MASK | Rika Mayama | d=1
 ED | こんな世界、知りたくなかった。 | Miku Sawai | t=Konna Sekai, Shiritakunakatta. d=1
 ED | 月灯り | Sora Amamiya | t=Tsuki Akari d=1
 
+# 死神（BLEACH） | 2004
+ED | Life | YUI | d=1
+ED | オレンジ | Lil'B a.k.a MIE&AILA | t=Orange d=1
+OP | スカー | Tatsuya Kitani (キタニタツヤ) | t=Scar d=1
+ED | Rapport | Tatsuya Kitani (キタニタツヤ) | d=1
+ED | 最果て | SennaRin | t=Saihate d=1
+ED | Number One - Bankai | Hazel Fernandes | d=1
+OP | STARS | w.o.d. | d=1
+ED | Endroll | Yoh Kamiyama | d=1
+OP | 言葉にせずとも | SIX LOUNGE | t=Kotoba ni sezu tomo d=1
+ED | MONOCHROME | suisoh (水槽) | d=1
+
 # 暗殺教室（暗殺教室） | 2015
 OP | 自力本願レボリューション | 3-nen E-gumi Utatan (3年E組うた担) [Mai Fuchigami, Aya Suzaki, Nobuhiko Okamoto, Ryota Osaka, Shintaro Asanuma] | t=Jiriki Hongan Revolution d=1
 ED | Hello, shooting-star | moumoon | d=1
@@ -183,6 +351,11 @@ ED | 誓い | Sora Amamiya | t=Chikai d=1
 OP | ROB THE FRONTIER | UVERworld | d=1
 OP | delete | SID | d=1
 ED | Regeneration | Sora Amamiya | d=1
+ED | Good day | Kana Adachi | d=1
+OP | 光あれ | Akihito Okano (岡野昭仁) (from Porno Graffiti) | t=Hikari Are d=1
+OP | 永遠のAria | Sora Amamiya | t=Eien no Aria d=1
+ED | time | SawanoHiroyuki[nZk]:ReoNa | d=1
+ED | NAMELY | UVERworld | d=1
 
 # Angel Beats!（Angel Beats!） | 2010
 ED | 一番の宝物 ~Yui final ver.~ | Girls Dead Monster feat. LiSA | t=Ichiban no Takaramono ~Yui final ver.~ d=1
@@ -215,6 +388,31 @@ OP | Dead END | Faylan | d=1
 ED | Happy End | Faylan | d=1
 ED | Blood Teller | Faylan | d=1
 ED | filament | Yousei Teikoku | d=1
+OP | Kyouki Chinden | Yousei Teikoku | d=1
+
+# 星際牛仔（カウボーイビバップ） | 1998
+ED | Space Lion | The Seatbelts | d=1
+ED | Blue | The Seatbelts feat. Mai Yamane | d=1
+OP | Ask DNA | The Seatbelts featuring Raju Ramayya | d=1
+ED | Gotta Knock a Little Harder | The Seatbelts featuring Mai Yamane | d=1
+
+# 新世紀福音戰士（新世紀エヴァンゲリオン） | 1995
+OP | 残酷な天使のテーゼ, A Cruel Angel's Thesis | Yoko Takahashi | t=Zankoku na Tenshi no Thesis d=1
+ED | Fly Me to the Moon | Claire | d=1
+ED | Rei #5 Version | Megumi Hayashibara | t=Fly Me to the Moon d=1
+ED | Rei #6 Version | Megumi Hayashibara | t=Fly Me to the Moon d=1
+ED | Fly Me to the Moon -4 Beat Version- | Yoko Takahashi | d=1
+ED | Aya Bossa Techno Version | Aya | t=Fly Me to the Moon d=1
+ED | Yoko Takahashi Acid Bossa Version | Yoko Takahashi | t=Fly Me to the Moon d=1
+ED | Yoko Takahashi Version | Yoko Takahashi | t=Fly Me to the Moon d=1
+ED | Fly Me to the Moon -4 Beat Version (Off-Vocal)- | [Instrumental] | d=1
+ED | Off-Vocal Version | [Instrumental] | t=Fly Me to the Moon d=1
+ED | Aki Jungle Version | Aki | t=Fly Me to the Moon d=1
+ED | Fly Me to the Moon -B22 (A-Type)- | [Instrumental] | d=1
+ED | Rei #23 Version | Megumi Hayashibara | t=Fly Me to the Moon d=1
+ED | Rei #25 Version | Megumi Hayashibara | t=Fly Me to the Moon d=1
+ED | Rei #26 Version | Megumi Hayashibara | t=Fly Me to the Moon d=1
+ED | Thanatos -If I Can't Be Yours- | Loren & Mash | d=1
 
 # 青之驅魔師（青の祓魔師） | 2011
 OP | CORE PRIDE | UVERworld | d=1
@@ -228,6 +426,10 @@ ED | コノ手デ | Rin Akatsuki | t=Kono Te de d=1
 
 # 寄生獸（寄生獣 セイの格率） | 2014
 ED | IT'S THE RIGHT TIME | Daichi Miura (三浦 大知) | d=1
+
+# 神隱少女（千と千尋の神隠し） | 2001
+OP | Day of the River/Ano hi no kawa | Joe Hisaishi | d=1
+ED | Always with Me | Yumi Kimura | t=Itsumo Nando demo d=1
 
 # 鏈鋸人（チェンソーマン） | 2022
 ED | CHAINSAW BLOOD | Vaundy | d=1
@@ -247,6 +449,7 @@ ED | Believe in... | Aira Yuuki | d=1
 ED | Amy | Minori Chihara | d=1
 
 # Dr.STONE 新石紀（ドクターストーン） | 2019
+OP | Good Morning World! | BURNOUT SYNDROMES | d=1
 OP | 三原色 | PELICAN FANCLUB | t=Sangenshoku d=1
 ED | LIFE | Rude-α | d=1
 ED | 夢のような | YouthK Saeki | t=Yume no You na d=1
@@ -260,6 +463,7 @@ ED | 風に吹かれて | Haruka Fukuhara | t=Kaze ni Fukarete d=1
 OP | GIRI GIRI feat. すぅ | Masayuki Suzuki | t=GIRI GIRI feat Suu d=1
 ED | ハートはお手上げ | Airi Suzuki | t=Heart wa Oteage d=1
 ED | My Nonfiction | Miyuki Shirogane (Makoto Furukawa) & Chika Fujiwara (Konomi Kohara) | d=1
+OP | Love is Show | Masayuki Suzuki feat. Reni Takagi (高城れに) | d=1
 
 # 黑色五葉草（ブラッククローバー） | 2017
 OP | PAiNT it BLACK | BiSH | d=1
@@ -274,11 +478,16 @@ ED | 蒼い炎 | Itowokashi (イトヲカシ) | t=Aoi Honoo d=1
 ED | Amazing Dreams | Swanky Dank | d=1
 ED | Black to the Dreamlight | EMPiRE | d=1
 ED | four | Faky | d=1
+ED | against the gods | m-flo | d=1
+ED | アンサー | Kaf (花譜) | t=Answer d=1
+ED | BEAUTIFUL | TREASURE | d=1
 
 # 間諜家家酒（SPY×FAMILY） | 2022
 ED | 色彩 | yama | t=Shikisai d=1
 OP | クラクラ | Ado | t=Kura Kura d=1
 ED | トドメの一撃 | Vaundy feat. Cory Wong | t=Todome no Ichigeki d=1
+OP | 灯を護る | Spitz (スピッツ) | t=Hi wo Mamoru d=1
+ED | Actor | Lilas Ikuta (幾田りら) | d=1
 
 # 死亡遊行（デス・パレード） | 2015
 ED | Last Theater | NoisyCell | d=1
@@ -300,6 +509,8 @@ OP | chase | batta | d=1
 ED | I WANT YOU | Savage Garden | d=1
 ED | Great Days -Units Ver.- | JO☆UNITED | d=1
 OP | 裏切り者のレクイエム Diavolo Ver. | Daisuke Hasegawa & Yugo Kanno | t=Uragirimono no Requiem (裏切り者のレクイエム)" (eps 22-33) 3: "Uragirimono no Requiem Diavolo Ver. d=1
+OP | 裏切り者のレクイエム Giorno Ver. | Daisuke Hasegawa & Yugo Kanno | t=Uragirimono no Requiem Giorno Ver. d=1
+OP | Heaven’s falling down | sana (sajou no hana) | d=1
 
 # 冰海戰記（ヴィンランド・サガ） | 2019
 OP | Dark Crow | MAN WITH A MISSION | d=1
@@ -327,13 +538,55 @@ OP | I Wish | Milky Bunny | d=1
 OP | はじまりの空 | +Plus | t=Hajimari no Sora d=1
 OP | テノヒラ | HERO | t=Tenohira d=1
 OP | Breakthrough | GOING UNDER GROUND | d=1
+OP | フェアリーテイル 〜約束の日〜 | Chihiro Yonekura | t=Fairy Tail: Yakusoku no Hi d=1
+ED | 完璧ぐ〜のね | Watarirouka Hashiri Tai | t=Kanpeki gu~no ne d=1
+ED | 追憶メリーゴーランド | onelifecrew | t=Tsuioku Merry-Go-Round d=1
+ED | ごめんね、私。 | Shiho Nanba | t=Gomen ne, Watashi. d=1
+ED | 君がいるから | Mikuni Shimokawa | t=Kimi ga Iru Kara d=1
+ED | HOLY SHINE | Daisy X Daisy | d=1
+ED | -Be As One- | w-inds. | d=1
+ED | ひとりさみしく | ShaNa | t=Hitori Samishiku d=1
+ED | Don't think. Feel !!! | Idoling!!! | d=1
+ED | この手伸ばして | Hi-Fi Camp | t=Kono Te Nobashite d=1
+ED | Boys Be Ambitious!! | Hi-Fi Camp | d=1
+ED | Starving Trancer Remix | Another Infinity feat. Mayumi Morinaga | t=Glitter d=1
+ED | YELL〜輝くためのもの〜 | Sata Andagi | t=YELL〜Kagayaku Tame no Mono〜 d=1
+ED | キミがくれたもの | Shizuka Kudou | t=Kimi ga Kureta Mono d=1
+ED | We're the stars | Aimi | d=1
+OP | STRIKE BACK | BACK-ON | d=1
+OP | Mysterious Magic | Do As Infinity | d=1
+OP | BREAK OUT | V6 | d=1
+OP | ユメイログラフィティ | Tackey & Tsubasa | t=Yume-iro Graffiti d=1
+OP | NEVER-END TALE | Tatsuyuki Kobayashi and Konomi Suzuki | d=1
+OP | Believe In Myself | EDGE of LIFE | d=1
+OP | 明日を鳴らせ | Kavka Shishido | t=Ashita wo Narase d=1
+ED | 君と彼と僕と彼女と | BREATHE | t=Kimi to Kare to Boku to Kanojo to d=1
+ED | 心の鍵 | May J. | t=Kokoro no Kagi d=1
+ED | キミノミライ | ROOT FIVE | t=Kimi no Mirai d=1
+ED | Don't let me down | Mariya Nishiuchi | d=1
+ED | Never ever | TOKYO GIRLS' STYLE (東京女子流) | d=1
+ED | FOREVER HERE | Yoko Ishida | d=1
+ED | 鮮やかな旅路 | Megumi Mori | t=Azayaka na Tabiji d=1
+ED | Landscape | SOLIDEMO | d=1
+OP | power of the dream | lol | d=1
+OP | DOWN BY LAW | THE RAMPAGE from EXILE TRIBE | d=1
+OP | NO-LIMIT | Osaka Shunka Shuutou | d=1
+OP | MORE THAN LiKE | BiSH | d=1
+ED | Endless Harmony | Beverly | d=1
+ED | Pierce | EMPiRE | d=1
+ED | 僕と君のララバイ | Miyuna (みゆな) | t=Boku to Kimi no Lullaby d=1
+ED | Exceed | Miyuu | d=1
 
 # DARLING in the FRANXX（ダーリン・イン・ザ・フランキス） | 2018
 ED | トリカゴ | XX:me (Kiss Me; キス・ミー) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] | t=Torikago d=1
 ED | 真夏のセツナ | XX:me (Kiss Me; キス・ミー) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] | t=Manatsu no Setsuna d=1
+ED | Beautiful World | XX:me (Kiss Me; キス・ミー) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] | d=1
 ED | ひとり | XX:me (Kiss Me; キス・ミー) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] | t=Hitori d=1
 ED | Escape | XX:me (Kiss Me; キス・ミー) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] | d=1
 ED | Darling | XX:me (Kiss Me; キス・ミー) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] | d=1
+
+# 鬼滅之刃劇場版 無限列車篇（劇場版 鬼滅の刃 無限列車編） | 2020
+ED | 炎 | LiSA | t=Homura d=1
 
 # Another（アナザー） | 2012
 OP | 凶夢伝染 | ALI PROJECT | t=Kyoumu Densen d=1
@@ -373,6 +626,12 @@ ED | 君の文字 | Anri Kumaki | t=Kimi no Moji d=1
 # 奧伯龍（オーバーロード） | 2015
 ED | No Man's Dawn | Mayu Maeshima | d=1
 
+# PSYCHO-PASS（サイコパス） | 2012
+OP | abnormalize | Ling Tosite Sigure (凛として時雨) | d=1
+OP | Out of Control | Nothing's Carved in Stone | d=1
+ED | 名前のない怪物 | EGOIST | t=Namae no nai Kaibutsu d=1
+ED | All Alone With You | EGOIST | d=1
+
 # Food Wars! Shokugeki no Soma（食戟のソーマ） | 2015
 OP | 希望の唄 | ULTRA TOWER | t=Kibou no Uta d=1
 OP | ライジングレインボウ | Misokkasu | t=Rising Rainbow d=1
@@ -386,6 +645,8 @@ OP | シンボル | Luck Life | t=Symbol d=1
 ED | アトリア | Fo'xTails | t=Atria d=1
 OP | Chronos | STEREO DIVE FOUNDATION | d=1
 ED | エンブレム | nano.RIPE | t=Emblem d=1
+OP | Last Chapter | nano.RIPE | d=1
+ED | Crossing Road | Mai Fuchigami | d=1
 
 # 我們仍未知道那天所看見的花的名字（あの日見た花の名前を僕達はまだ知らない。） | 2011
 OP | サークルゲーム | Galileo Galilei | t=Circle Game d=1
@@ -430,6 +691,9 @@ OP | 遠くの子守の唄 | Yuiko Ohara (大原ゆい子) | t=Tooku no Komori n
 OP | 旅人の唄~帰郷~ | Yuiko Ohara (大原ゆい子) | t=Tabibito no Uta: Kikyou d=1
 ED | 風と行く道 | Yuiko Oohara | t=Kaze to Iku Michi d=1
 
+# 精靈蟲（エルフェンリート） | 2004
+ED | Be Your Girl | Chieko Kawabe | d=1
+
 # Highschool of the Dead（学園黙示録 HIGHSCHOOL OF THE DEAD） | 2010
 OP | HIGHSCHOOL OF THE DEAD | Kishida Kyoudan & The Akeboshi Rockets | d=1
 ED | Kimi to Taiyou ga Shinda hi | Maon Kurosaki | d=1
@@ -443,8 +707,13 @@ ED | The place of hope | Maon Kurosaki | d=1
 ED | Houseki no Spy | Maon Kurosaki | d=1
 ED | THE last pain | Maon Kurosaki | d=1
 ED | Hollow Men | Maon Kurosaki | d=1
+ED | The Eternal Song | Maon Kurosaki | d=1
+ED | Best friends | Maon Kurosaki | d=1
 
 # Fate/Zero（フェイト/ゼロ） | 2011
+OP | oath sign | LiSA | d=1
+ED | MEMORIA | Eir Aoi | d=1
+OP | to the beginning | Kalafina | d=1
 ED | 空は高く風は歌う | Luna Haruna | t=Sora wa Takaku Kaze wa Utau d=1
 ED | 満天 | Kalafina | t=Manten d=1
 
@@ -471,8 +740,12 @@ ED | Endless Embrace | MYTH & ROID | d=1
 ED | 名前を呼ぶよ | Luck Life | t=Namae wo Yobu yo d=1
 OP | Reason Living | SCREEN mode | d=1
 ED | 風が吹く街 | Luck Life | t=Kaze ga Fuku Machi d=1
+OP | Deadly Drive | GRANRODEO | d=1
+ED | 僕ら | Luck Life | t=Bokura d=1
 OP | セツナの愛 | GRANRODEO | t=Setsuna no Ai d=1
 ED | Lily | Luck Life | d=1
+OP | TRUE STORY | SCREEN mode | d=1
+ED | しるし | Luck Life | t=Shirushi d=1
 
 # 炎炎消防隊（炎炎ノ消防隊） | 2019
 OP | インフェルノ | Mrs.GREEN APPLE | t=Inferno d=1
@@ -505,20 +778,25 @@ OP | Sugar Sweet Nightmare | Yui Horie | d=1
 OP | 裏切りの夕焼け | Theatre Brook | t=Uragiri no Yuuyake d=1
 OP | コンプリケイション | ROOKiEZ is PUNK'D | t=Complication d=1
 ED | Trust Me | Yuya Matsushita | d=1
+ED | Butterfly | ON/OFF | d=1
 OP | HEADHUNT | OKAMOTO'S | d=1
 ED | NEVER SAY NEVER | THREE LIGHTS DOWN KINGS | d=1
 OP | Day you laugh | Toshiyuki Toyonaga | d=1
 ED | EXIT | REVALCY | d=1
+OP | Steppin' out | FLOW | d=1
+ED | ジョーカーに宜しく | PENGUIN RESEARCH | t=Joker ni Yoroshiku d=1
 
 # Classroom of the Elite（ようこそ実力至上主義の教室へ） | 2017
 OP | カーストルーム | ZAQ | t=Caste Room d=1
 ED | Beautiful Soldier | Minami | d=1
+OP | Dance In The Game | ZAQ | d=1
 ED | 人芝居 | Mai Fuchigami | t=Hito Shibai d=1
 OP | マイナーピース | ZAQ | t=Minor Piece d=1
 ED | 今世大革命 | Yui Ninomiya (ニノミヤユイ) | t=Konse Daikakumei d=1
 ED | Fixer | Yui Ninomiya (ニノミヤユイ) | d=1
 
 # 冰菓（氷菓） | 2012
+OP | 優しさの理由 | ChouCho | t=Yasashisa no Riyuu d=1
 OP | 未完成ストライド | Saori Kodama | t=Mikansei Stride d=1
 ED | まどろみの約束 | Satomi Satou & Ai Kayano | t=Madoromi no Yakusoku d=1
 ED | 君にまつわるミステリー | Satomi Satou & Ai Kayano | t=Kimi ni Matsuwaru Mystery d=1
@@ -550,11 +828,27 @@ OP | Dororo | ASIAN KUNG-FU GENERATION | d=1
 ED | さよならごっこ | amazarashi | t=Sayonara Gokko d=1
 ED | 闇夜 | Eve | t=Yamiyo d=1
 
+# 魔法公主（もののけ姫） | 1997
+OP | アシタカせっき | Joe Hisaishi | t=Ashitaka Sekki d=1
+ED | Mononoke Hime | Joe Hisaishi | d=1
+
 # My Dress-Up Darling（その着せ替え人形は恋をする） | 2022
 OP | 燦々デイズ | Spira Spica | t=San San Days d=1
 ED | 恋ノ行方 | Akari Akase (あかせあかり) | t=Koi no Yukue d=1
 OP | アオとキラメキ | Spira Spica (スピラ・スピカ) | t=Ao to Kirameki d=1
 ED | Kawaii Kaiwai | PiKi | d=1
+
+# 武士道Champloo（サムライチャンプルー） | 2004
+ED | 四季ノ唄 | MINMI | t=Shiki no Uta d=1
+ED | Who's Theme | MINMI | d=1
+ED | YOU | kazami | d=1
+ED | FLY [SMALL CIRCLE OF FRIENDS] | Tsutchie & fat jon | d=1
+ED | San Francisco | MIDICRONICA | d=1
+
+# 魔剎（モンスター） | 2004
+OP | Grain | Kuniaki Haishima | d=1
+ED | For The Love of Life | David Sylvian | d=1
+ED | Make It Home | Fujiko Heming | d=1
 
 # Maid Sama!（会長はメイド様!） | 2010
 OP | My Secret | Saaya Mizuno (水野佐彩) | d=1
@@ -582,6 +876,7 @@ ED | WALK | OLDCODEX | d=1
 ED | FANTASTIC TUNE | Kensho Ono | d=1
 OP | Punky Funky Love | GRANRODEO | d=1
 OP | ZERO | Kensho Ono | d=1
+OP | メモリーズ | GRANRODEO | t=Memories d=1
 ED | GLITTER DAYS | Fo'xTails | d=1
 ED | アンビバレンス | SCREEN mode | t=Ambivalence d=1
 ED | Lantana | OLDCODEX | d=1
@@ -591,12 +886,17 @@ OP | One Reason | DWB feat.fade | d=1
 ED | SHINY SHINY | NIRGILIS | d=1
 
 # 劇場版 咒術迴戰 0（劇場版 呪術廻戦 0） | 2021
+OP | 一途 | King Gnu | t=Ichizu d=1
 ED | 逆夢 | King Gnu | t=Sakayume d=1
 
 # 恐怖残响（残響のテロル） | 2014
 OP | Trigger | Yuuki Ozaki (from Galileo Galilei) | d=1
 ED | 誰か、海を。 | Aimer | t=Dare ka, Umi wo. d=1
 ED | Von | Arnor Dan | d=1
+
+# 惡魔人 Crybaby（DEVILMAN crybaby） | 2018
+OP | DEVILMAN crybaby Ver. | Denki Groove | t=MAN HUMAN d=1
+ED | 今夜だけ | Takkyuu to Tabibito (卓球と旅人) | t=Konya dake d=1
 
 # 罪惡王冠（ギルティクラウン） | 2011
 OP | The Everlasting Guilty Crown | EGOIST; produced by supercell; performed by Chelly | d=1
@@ -605,6 +905,7 @@ ED | 告白 | supercell; performed by Koeda | t=Kokuhaku d=1
 
 # 黑執事（黒執事） | 2008
 ED | Lacrimosa | Kalafina | d=1
+OP | SHIVER | the GazettE | d=1
 ED | Bird | Matsushita Yuuya | d=1
 ED | 輝く空の静寂には | Kalafina | t=Kagayaku Sora no Shijima ni wa d=1
 
@@ -631,6 +932,10 @@ OP | マジカル☆スタイリング | Magical Pâtissière Kosaki-chan (Kana 
 ED | 曖昧ヘルツ | Chitoge Kirisaki (Nao Touyama), Kosaki Onodera (Kana Hanazawa), Seishirou Tsugumi (Mikako Komatsu), Marika Tachibana (Kana Asumi) | t=Aimai Hertz d=1
 ED | TrIGgER | Seishirou Tsugumi (Mikako Komatsu) | d=1
 ED | Sleep zzz... | Chitoge Kirisaki (Nao Touyama) | d=1
+ED | またど～らぶ | Marika Tachibana (Kana Asumi) | t=Matado-rabu d=1
+ED | marchen ticktack | Haru Onodera (Ayane Sakura) | d=1
+ED | 通り雨drop | Ruri Miyamoto (Yumi Uchiyama) | t=Tooriame drop d=1
+ED | クレヨンカバー | Kosaki Onodera (Kana Hanazawa) | t=Crayon Cover d=1
 
 # 境界的彼方（境界の彼方） | 2013
 ED | Daisy | STEREO DIVE FOUNDATION | d=1
@@ -639,6 +944,7 @@ ED | Daisy | STEREO DIVE FOUNDATION | d=1
 ED | 銀の祈誓 | Soraru | t=Gin no Kisei d=1
 ED | Though Our Paths May Diverge | Mili | d=1
 ED | Within | Mili | d=1
+ED | Static | Mili | d=1
 
 # Ouran High School Host Club（桜蘭高校ホスト部） | 2006
 OP | Sakura Kiss | Chieko Kawabe | d=1
@@ -658,6 +964,11 @@ OP | きらめく涙は星に | Tainaka Sachi | t=Kirameku Namida wa Hoshi ni d=
 ED | あなたがいた森 | Jyukai | t=Anata ga Ita Mori d=1
 ED | ヒカリ | Jyukai | t=Hikari d=1
 ED | 君との明日 | Tainaka Sachi | t=Kimi to no Ashita d=1
+OP | ideal white | Mashiro Ayano | d=1
+ED | believe | Kalafina | d=1
+ED | THIS ILLUSION | LiSA | d=1
+ED | Unlimited Blade Works | Hideyuki Fukasawa | d=1
+OP | Brave Shine | Aimer | d=1
 ED | ring your bell | Kalafina | d=1
 ED | in the silence | Kalafina | t=ring your bell d=1
 ED | Fukaki Nemuri (深き眠り) UBW Extended" composed | Hideyuki Fukasawa | d=1
@@ -679,69 +990,89 @@ ED | R1: "Bokutachi no Kisetsu" by DOES (eps 1-9) R2: "Wave" by Vijandeux (eps 1
 ED | MR.RAINDROP | amplified | d=1
 ED | Yuki no Tsubasa | redballoon | d=1
 ED | Candy Line | Hitomi Takahashi | d=1
+ED | Shura | DOES | d=1
+ED | Kiseki | Snowkel | d=1
+ED | SIGNAL | KELUN | d=1
+ED | Speed of Flow | The Rodeo Carburettor | d=1
+ED | Sanagi | POSSIBILITY | d=1
+ED | This World is yours | plingmin | d=1
+ED | Ai, Ai, Ai | GHOSTNOTE | d=1
+ED | Kagayaita | SHIGI | d=1
+ED | Asa Answer | PENGIN | d=1
+ED | Wo Ai Ni | Hitomi Takahashi feat. Beat Crusaders | d=1
+ED | Wonderful Days | ONE☆DRAFT | d=1
+ED | SAYONARA no Sora | Qwai | d=1
 
 # 魔法科高中的劣等生（魔法科高校の劣等生） | 2014
 OP | grilletto | GARNiDELiA | d=1
 ED | ミレナリオ | ELISA | t=Millenario d=1
 ED | Mirror | Rei Yasuda | d=1
+OP | Howling | ASCA | d=1
+ED | 名もない花 | Miki Satou (佐藤ミキ) | t=Na mo Nai Hana d=1
 
 # ReLIFE（ReLIFE） | 2016
-OP | Button | PENGUIN RESEARCH | d=1
-ED | イ―ジュ－★ライダー | Tamio Okuda | t=Iijuu★Rider d=1
-ED | タイミング | BLACK BISCUITS | t=Timing d=1
-ED | HONEY | L'Arc~en~Ciel | d=1
-ED | これが私の生きる道 | PUFFY | t=Kore ga Watashi no Ikiru Michi d=1
-ED | Sunny Day Sunday | Sentimental Bus | d=1
-ED | サウダージ | Porno Graffitti | t=Saudade d=1
-ED | 雪の華 | Mika Nakashima | t=Yuki no Hana d=1
-ED | There will be love there -愛のある場所- | The Brilliant Green | t=There will be love there -Ai no Aru Basho- d=1
-ED | 明日への扉 | I WiSH | t=Asu e no Tobira d=1
-ED | PIECES OF A DREAM | CHEMISTRY | d=1
-ED | 夏祭り | Whiteberry | t=Natsumatsuri d=1
+OP | Button | PENGUIN RESEARCH | d=2
+ED | イ―ジュ－★ライダー | Tamio Okuda | t=Iijuu★Rider d=2
+ED | HOT LIMIT | T.M.Revolution | d=2
+ED | タイミング | BLACK BISCUITS | t=Timing d=2
+ED | HONEY | L'Arc~en~Ciel | d=2
+ED | これが私の生きる道 | PUFFY | t=Kore ga Watashi no Ikiru Michi d=2
+ED | Sunny Day Sunday | Sentimental Bus | d=2
+ED | サウダージ | Porno Graffitti | t=Saudade d=2
+ED | 雪の華 | Mika Nakashima | t=Yuki no Hana d=2
+ED | There will be love there -愛のある場所- | The Brilliant Green | t=There will be love there -Ai no Aru Basho- d=2
+ED | 明日への扉 | I WiSH | t=Asu e no Tobira d=2
+ED | PIECES OF A DREAM | CHEMISTRY | d=2
+ED | 夏祭り | Whiteberry | t=Natsumatsuri d=2
+ED | ボタン | PENGUIN RESEARCH | t=Button d=2
 
 # Golden Time（ゴールデンタイム） | 2013
-OP | Golden Time | Yui Horie | d=1
-OP | The♡World's♡End | Yui Horie | d=1
-ED | Sweet & Sweet CHERRY | Yui Horie | d=1
-ED | 半永久的に愛してよ♡ | Yui Horie | t=Hanneikyuuteki ni Aishite yo♡ d=1
+OP | Golden Time | Yui Horie | d=2
+OP | The♡World's♡End | Yui Horie | d=2
+ED | Sweet & Sweet CHERRY | Yui Horie | d=2
+ED | 半永久的に愛してよ♡ | Yui Horie | t=Hanneikyuuteki ni Aishite yo♡ d=2
 
 # 天氣之子（天気の子） | 2019
-ED | 大丈夫 | RADWIMPS | t=Daijoubu (Movie Edit) d=1
+ED | 大丈夫 | RADWIMPS | t=Daijoubu (Movie Edit) d=2
 
 # 我想吃掉你的胰臟（君の膵臓をたべたい） | 2018
-OP | ファンファーレ | sumika | t=Fanfare d=1
-ED | 春夏秋冬 | sumika | t=Shunkashuutou d=1
+OP | ファンファーレ | sumika | t=Fanfare d=2
+ED | 春夏秋冬 | sumika | t=Shunkashuutou d=2
 
 # 輕音少女（けいおん!） | 2009
-OP | Utauyo!! MIRACLE | HTT (Houkago Tea Time) | d=1
-ED | Listen!! | HTT (Houkago Tea Time) | d=1
-ED | NO,Thank You! | HTT (Houkago Tea Time) | d=1
+OP | Utauyo!! MIRACLE | HTT (Houkago Tea Time) | d=2
+ED | Listen!! | HTT (Houkago Tea Time) | d=2
+ED | NO,Thank You! | HTT (Houkago Tea Time) | d=2
 
 # Magi: The Labyrinth of Magic（マギ The labyrinth of magic） | 2012
-OP | V.I.P | SID | d=1
-OP | 瞬く星の下で | Porno Graffitti | t=Matataku Hoshi no Shita de d=1
-ED | 指望遠鏡 | Nogizaka 46 | t=Yubi Bouenkyou d=1
-ED | The Bravery | supercell | d=1
+OP | V.I.P | SID | d=2
+OP | 瞬く星の下で | Porno Graffitti | t=Matataku Hoshi no Shita de d=2
+ED | 指望遠鏡 | Nogizaka 46 | t=Yubi Bouenkyou d=2
+ED | The Bravery | supercell | d=2
 
 # 約會大作戰（デート・ア・ライブ） | 2013
-ED | Hatsukoi Winding Road | Kayoko Tsumita, Risako Murai, Midori Tsukimiya | d=1
-ED | SAVE THE WORLD | Iori Nomizu | d=1
-ED | SAVE MY HEART | Iori Nomizu | d=1
-ED | ストロベリーレイン | Iori Nomizu | t=Strawberry Rain d=1
-OP | Trust in you | sweet ARMS | d=1
-ED | Day to Story | Kaori Sadohara | d=1
-ED | My Treasure | Miku Izayoi (CV: Minori Chihara) | d=1
-OP | I swear | sweet ARMS | d=1
-ED | Last Promise | Erii Yamazaki | d=1
+ED | Hatsukoi Winding Road | Kayoko Tsumita, Risako Murai, Midori Tsukimiya | d=2
+ED | SAVE THE WORLD | Iori Nomizu | d=2
+ED | SAVE MY HEART | Iori Nomizu | d=2
+ED | ストロベリーレイン | Iori Nomizu | t=Strawberry Rain d=2
+OP | Trust in you | sweet ARMS | d=2
+ED | Day to Story | Kaori Sadohara | d=2
+ED | My Treasure | Miku Izayoi (CV: Minori Chihara) | d=2
+OP | I swear | sweet ARMS | d=2
+ED | Last Promise | Erii Yamazaki | d=2
 
 # Black Lagoon（BLACK LAGOON） | 2006
-ED | Don't Look Behind | EDISON | d=1
-ED | The World of Midnight | Minako Obata | d=1
-ED | Peach Headz Addiction | Breath Frequency | d=1
+OP | Red Fraction | MELL | d=2
+ED | Don't Look Behind | EDISON | d=2
+ED | The World of Midnight | Minako Obata | d=2
+ED | Peach Headz Addiction | Breath Frequency | d=2
+OP | Red Fraction IO Drive mix | MELL | d=2
+ED | When Johnny Comes Marching Home | EDISON | d=2
+ED | This Moment: Prayer in the Light | Minako "mooki" Obata | d=2
 
 # 阿宅的戀愛太難（ヲタクに恋は難しい） | 2018
-ED | キミの隣 | halca | t=Kimi no Tonari d=1
-ED | 明日もまた | halca | t=Ashita mo Mata d=1
+ED | キミの隣 | halca | t=Kimi no Tonari d=2
+ED | 明日もまた | halca | t=Ashita mo Mata d=2
 
 # Prison School（監獄学園〈プリズンスクール〉） | 2015
 OP | 愛のプリズン | Kangoku Danshi (監獄男子) (Hiroshi Kamiya, Katsuyuki Konishi, Kenichi Suzumura, Daisuke Namikawa, Kazuyuki Okitsu) | t=Ai no Prison d=2
@@ -753,6 +1084,7 @@ ED | 告白バンジージャンプ | halca | t=Kokuhaku Bungee Jump d=2
 ED | First Drop | halca | d=2
 
 # 五等分的新娘（五等分の花嫁） | 2019
+ED | Sign | Aya Uchida | d=2
 ED | ごぶんのいち | Nakanoke no Itsuzugo (中野家の五つ子) (Kana Hanazawa, Ayana Taketatsu, Miku Itou, Ayane Sakura, Inori Minase) | t=Gobun no Ichi d=2
 
 # 只想告訴你（君に届け） | 2009
@@ -773,6 +1105,17 @@ ED | 波羅蜜恋華 | ALI PROJECT | t=Haramitsu Renka d=2
 OP | Ring of Fortune | Eri Sasaki (佐々木恵梨) | d=2
 ED | again & again | Melody Chubak | d=2
 ED | 朝焼けのスターマイン | Asami Imai | t=Asayake no Starmine d=2
+
+# 厄夜怪客（HELLSING OVA） | 2006
+ED | Gradus Vita | Hayato Matsuo, performed by the Warsaw Philharmonic Orchestra | d=2
+ED | Merche Funebre | Hayato Matsuo, performed by the Warsaw Philharmonic Orchestra | d=2
+ED | Letze Bataillon | Hayato Matsuo | d=2
+ED | Das Engellandlied | Hermann Lons. | d=2
+ED | A Patriot with No Name | Hayato Matsuo and the Warsaw Philharmonic Orchestra | d=2
+ED | Magnolia | Suilen | d=2
+ED | Shintoushite | Suilen | d=2
+ED | P.S. Lord Amitabha Have Mercy on Me" & "When You Start the War, Fight With Arrows, Spears and Swords! | Yasushi Ishii | d=2
+ED | SCARS | Maon Kurosaki | d=2
 
 # Komi Can't Communicate（古見さんは、コミュ症です。） | 2021
 ED | シンパシー | Kitri | t=Sympathy d=2
@@ -841,6 +1184,12 @@ ED | 怪獣のバラード | Yuuko, Mio & Mai (Mariko Honda, Mai Aizawa & Misuzu
 ED | グリーングリーン | Sayaka Sasaki | t=Green Green d=2
 ED | 野生の馬 | Takasaki-sensei, Sakurai-sensei, Nakamura-sensei, Makoto Sakurai, Yuria Sekiguchi, Haruna Annaka & Ogi (Tetsu Inada, Mami Kosuge, Kaoru Mizuhara, Takahiro Hikami, Ai Hirosaka, Kaori Sadohara, Ryouta Takeuchi) | t=Yasei no Uma d=2
 ED | あの素晴らしい愛をもう一度 | Sayaka Sasaki | t=Ano Subarashii Ai o Mou Ichido d=2
+ED | 巣立ちの歌 | Sasahara, Misato, Nakanojou, Weboshi & Fecchan (Yoshihisa Kawahara, Chika Horikawa, Kazutomi Yamamoto, Youko Tamaoki & Yumi Higuchi) | t=Sudachi no Uta d=2
+ED | 仰げば尊し | Sayaka Sasaki | t=Aogeba Toutoshi d=2
+ED | 空がこんなに青いとは | Hakase & Mai (Hiromi Konno & Misuzu Togashi) | t=Sora ga Konna ni Aoi to wa d=2
+ED | 勇気一つを友にして | Sayaka Sasaki | t=Yuuki Hitotsu wo Tomo ni Shite d=2
+ED | Let's search for Tomorrow | Yuuko, Mio & Mai (Mariko Honda, Mai Aizawa & Misuzu Togashi) | d=2
+ED | 旅立ちの日に | Yuuko, Mio, Mai, Nano, Hakase & Sakamoto-san (Mariko Honda, Mai Aizawa, Misuzu Togashi, Shizuka Furuya, Hiromi Konno & Minoru Shiraishi) | t=Tabidachi no hi ni d=2
 
 # 涼宮春日的憂鬱（涼宮ハルヒの憂鬱） | 2006
 OP | 恋のミクル伝説 | Yuko Goto as Mikuru Asahina | t=Koi no Mikuru Densetsu d=2
@@ -876,6 +1225,9 @@ ED | Marble | YURiKA | d=2
 ED | 月に浮かぶ物語 | YURiKA | t=Tsuki ni Ukabu Monogatari d=2
 
 # 水果籃子（フルーツバスケット） | 2019
+OP | For フルーツバスケット | Ritsuko Okazaki | t=For Fruits Basket d=2
+ED | 小さな祈り | Ritsuko Okazaki | t=Chiisana Inori d=2
+ED | Serenade (セレナーデ) Pf Solo Ver. | Ritsuko Okazaki | d=2
 OP | Chime | Ai Otsuka | d=2
 ED | Lucky Ending | Vickeblanka | d=2
 ED | One Step Closer | INTERSECTION | d=2
@@ -913,9 +1265,39 @@ OP | ティーンエイジドリーム | miwa | t=Teenage Dream d=2
 OP | はじまっていく たかまっていく | Sambomaster | t=Hajimatteiku Takamatteiku d=2
 OP | BAKU | ikimonogakari (いきものがかり) | d=2
 OP | 我武者羅 | CHiCO with HoneyWorks | t=Gamushara d=2
+OP | GOLD | FLOW | d=2
 OP | きらりらり | KANA-BOON | t=Kirarirari d=2
 OP | 宿縁 | ASIAN KUNG-FU GENERATION | t=Shukuen d=2
 ED | ドリーミージャーニー | the peggies | t=Dreamy Journey d=2
+ED | サヨナラムーンタウン | Scenarioart | t=Sayonara Moon Town d=2
+ED | 僕は走り続ける | Melofloat (メロフロート) | t=Boku wa Hashiritsuzukeru d=2
+ED | デンシンタマシイ | Game Jikkyousha Wakuwaku Band (ゲーム実況者わくわくバンド) | t=Denshin Tamashii d=2
+ED | 花鳥風月 | Coala Mode. | t=Kachou Fuugetsu d=2
+ED | ライカ | Bird Bear Hare and Fish | t=Laika d=2
+ED | ポラリス | hitorie | t=Polaris d=2
+ED | 強がりLOSER | ЯeaL | t=Tsuyogari LOSER d=2
+ED | Ride or Die | Sky Peace | d=2
+ED | 未完成な光たち | Haruka Fukuhara (福原遥) | t=Mikansei na Hikari-tachi d=2
+ED | Wish on | LONGMAN | d=2
+ED | Fireworks | FlowBack | d=2
+ED | Maybe I | Seven Billion Dots | d=2
+ED | セントラル | Ami Sakaguchi (坂口有望) | t=Central d=2
+ED | Answers | mol-74 | d=2
+ED | キミがいたしるし | halca | t=Kimi ga Ita Shirushi d=2
+ED | Who are you? | PELICAN FANCLUB | d=2
+ED | Prologue | JO1 | d=2
+ED | VOLTAGE | Anly | d=2
+ED | Twilight Fuzz | This Is Japan | d=2
+ED | ビボウロク | Lenny code fiction | t=Bibouroku d=2
+ED | Ladder | Anonymouz | d=2
+ED | またね | Humbreaders (ハンブレッダーズ) | t=Mata ne d=2
+
+# Great Teacher Onizuka（グレート・ティーチャー・オニヅカ） | 1999
+OP | Driver's High | L'Arc~en~Ciel | d=2
+OP | Hitori no Yoru | Porno Graffitti | d=2
+ED | Last Piece | Kirari | d=2
+ED | しずく | Okuda Miwaku | t=Shizuku d=2
+ED | CHERISHED MEMORIES | Hong Kong Knife | d=2
 
 # Blue Lock（ブルーロック） | 2022
 OP | カオスが極まる | UNISON SQUARE GARDEN | t=Chaos ga Kiwamaru d=2
@@ -926,6 +1308,7 @@ ED | 紺碧のアル・フィーネ ～二軒目にカラオケに入った俺�
 ED | Konpeki no Alpine ~Kaya Mizuki ver.~ | Kaya Mizuki | d=2
 
 # 龍珠超（ドラゴンボール超） | 2015
+OP | 超絶☆ダイナミック! | Kazuya Yoshii (吉井和哉) | t=Chouzetsu☆Dynamic! d=2
 ED | ハローハローハロー | Good Morning America | t=Hello Hello Hello d=2
 ED | スターリングスター | KEYTALK | t=Starring Star d=2
 ED | 薄紅 | LACCO TOWER | t=Usubeni d=2
@@ -938,6 +1321,10 @@ ED | 遥 | LACCO TOWER | t=Haruka d=2
 ED | 70cm四方の窓辺 | ROTTENGRAFFTY | t=70cm Shiho no Madobe d=2
 ED | LAGRIMA | ONEPIXCEL | d=2
 ED | Blizzard | Daichi Miura | d=2
+
+# 玲音（serial experiments lain） | 1998
+OP | Duvet | Bôa | d=2
+ED | 遠い叫び | Reichi "CHABO" Nakaido (仲井戸"CHABO"麗市) | t=Tooi Sakebi d=2
 
 # 藥師少女的獨語（薬屋のひとりごと） | 2023
 OP | 花になって | Ryokuoushoku Shakai (緑黄色社会) | t=Hana ni Natte d=2
@@ -955,6 +1342,7 @@ OP | 正解不正解 feat.アノス・ヴォルディゴード | Anos Voldigoad 
 ED | ハミダシモノ | Tomori Kusunoki | t=Hamidashimono d=2
 
 # Mushi-Shi（蟲師） | 2005
+OP | The Sore Feet Song | Ally Kerr | d=2
 ED | 緑の座 | Masuda Toshio | t=Midori no Za d=2
 ED | 瞼の光 | Masuda Toshio | t=Mabuta no Hikari d=2
 ED | 柔らかい角 | Masuda Toshio | t=Yawarakai Kaku d=2
@@ -967,6 +1355,20 @@ ED | 重い実 | Masuda Toshio | t=Omoi Mi d=2
 ED | 硯に棲む白 | Masuda Toshio | t=Suzuri ni Sumu Shiro d=2
 ED | やまねむる | Masuda Toshio | t=Yama Nemuru d=2
 ED | 眇の魚 | Masuda Toshio | t=Sugame no Sakana d=2
+ED | 一夜橋 | Masuda Toshio | t=Hitoyobashi d=2
+ED | 籠のなか | Masuda Toshio | t=Kago no Naka d=2
+ED | 春と嘯く | Masuda Toshio | t=Haru to Usobuko d=2
+ED | 暁の蛇 | Masuda Toshio | t=Akatsuki no Hebi d=2
+ED | 虚繭取り | Masuda Toshio | t=Uromayutori d=2
+ED | 山抱く衣 | Masuda Toshio | t=Yama Daku Koromo d=2
+ED | 天辺の糸 | Masuda Toshio | t=Tenpen no Ito d=2
+ED | 筆の海 | Masuda Toshio | t=Fude no Umi d=2
+ED | 綿胞子 | Masuda Toshio | t=Wataboshi d=2
+ED | 沖つ宮 | Masuda Toshio | t=Okitsu Miya d=2
+ED | 錆の鳴く聲 | Masuda Toshio | t=Sabi no Naku Koe d=2
+ED | 篝野行 | Masuda Toshio | t=Kagarinokou d=2
+ED | 眼福眼禍 | Masuda Toshio | t=Ganpuku Ganka d=2
+ED | 草を踏む音 | Masuda Toshio | t=Kusa wo Fumu Oto d=2
 
 # Btooom!（BTOOOM!） | 2012
 OP | No pain, No game | Nano | d=2
@@ -983,6 +1385,14 @@ ED | BEAUTIFUL≒SENTENCE | Magus Two (メイガス・トゥー) [Lilith Asami (
 ED | SHaVaDaVa in AMAZING♪ | Yui Levi♡ (ユイレヴィ♡) [Levi Kazama (Ayane Sakura) & Yui Kurata (Rie Murakawa)] | d=2
 ED | ReSTART "THE WORLD | TWINKle MAGIC [Liselotte Sherlock (Nao Touyama) & Serina Sherlock (Aya Suzaki)] | d=2
 ED | TRINITY×SEVENTH＋HEAVEN | Security Politti [Mira Yamana (Yoko Hikasa) & Akio Fudou (Ryoka Yuzuki)] | d=2
+
+# FLCL（フリクリ） | 2000
+OP | One Life | The Pillows | d=2
+OP | Instant Music | The Pillows | d=2
+OP | Happy Bivouac | The Pillows | d=2
+OP | Runners High | The Pillows | d=2
+OP | Carnival | The Pillows | d=2
+ED | Ride On Shooting Star | The Pillows | d=2
 
 # Magi: The Kingdom of Magic（マギ The kingdom of magic） | 2013
 OP | ANNIVERSARY | SID | d=2
@@ -1003,6 +1413,8 @@ ED | Darling in the Night | Shichikage (CV: Asami Seto, Inori Minase, Suzuko Mim
 # Don't Toy with Me, Miss Nagatoro（イジらないで、長瀞さん） | 2021
 OP | EASY LOVE | Sumire Uesaka (上坂 すみれ) | d=2
 ED | カラフル・キャンバス | Nagatoro-san (Sumire Uesaka), Gamo-chan (Mikako Komatsu), Yosshi (Aina Suzuki), Sakura (Shiori Izawa) | t=Colorful Canvas d=2
+OP | LOVE CRAZY | Sumire Uesaka | d=2
+ED | MY SADISTIC ADOLESCENCE♡ | Nagatoro-san (CV: Sumire Uesaka), Gamo-chan (CV: Mikako Komatsu), Yosshi (CV: Aina Suzuki), Sakura (CV: Shiori Izawa) | d=2
 
 # GATE（GATE（ゲート）自衛隊 彼の地にて、斯く戦えり） | 2015
 OP | GATE～それは暁のように～ | Kishida Kyoudan & The Akeboshi Rockets | t=GATE: Sore wa Akatsuki no you ni d=2
@@ -1036,6 +1448,7 @@ ED | Inner Urge | Sumire Uesaka | d=2
 ED | 夏を見ていた | Shizuru Ootaka | t=Natsu wo Miteita d=2
 
 # 狼與辛香料（狼と香辛料） | 2008
+OP | 旅の途中 | Kiyoura Natsumi | t=Tabi no Tochuu d=2
 ED | リンゴ日和 ～The Wolf Whistling Song | ROCKY CHACK | t=Ringo Biyori d=2
 OP | 蜜の夜明け - Honey Dawn | Akino Arai | t=Mitsu no Yoake d=2
 
@@ -1057,6 +1470,21 @@ OP | No buts! | Mami Kawada | d=2
 OP | See visionS | Mami Kawada | d=2
 ED | Magic∞world | Maon Kurosaki | d=2
 ED | メモリーズ・ラスト | Maon Kurosaki | t=Memories Last d=2
+
+# 犬夜叉（犬夜叉） | 2000
+OP | I Am | Hitomi | d=2
+OP | Owarinai Yume | Nanase Aikawa | d=2
+OP | Grip! | Every Little Thing | d=2
+OP | One Day, One Dream | Tackey & Tsubasa | d=2
+OP | Angelus | Hitomi Shimatani | d=2
+ED | My Will | Dream | d=2
+ED | Fukai Mori | Do As Infinity | d=2
+ED | Dearest | Ayumi Hamasaki | d=2
+ED | Every Heart - Minna no Kimochi | BoA | d=2
+ED | Shinjitsu no Uta | Do As Infinity | d=2
+ED | Itazurana Kiss | day after tomorrow | d=2
+ED | Come | Namie Amuro | d=2
+ED | Brand-New World | V6 | d=2
 
 # 寒蟬鳴泣之時（ひぐらしのなく頃に） | 2006
 OP | Higurashi no Naku Koro ni | Eiko Shimamiya | d=2
@@ -1097,6 +1525,14 @@ OP | Summer Sky ~ Opening Theme~ | Kiyoshi Yoshida | t=夏空～オープニン�
 # WONDER EGG PRIORITY（ワンダーエッグ・プライオリティ） | 2021
 OP | 巣立ちの歌 | Anemoneria (アネモネリア) | t=Sudachi no Uta d=2
 ED | Life is サイダー | Anemoneria (アネモネリア) | t=Life is Cider d=2
+
+# Trigun（トライガン） | 1998
+OP | H.T. | Tsuneo Imahori | d=2
+ED | The Wind Blows to the Future | AKIMA & NEOS | t=Kaze wa Mirai ni Fuku d=2
+
+# 藍色恐懼（パーフェクトブルー） | 1998
+OP | Ai no Tenshi | Misa, Emiko Furakawa and Mie Shimizu | d=2
+ED | Season | M-Voice | d=2
 
 # 青春豬頭少年不會夢到懷夢美少女（青春ブタ野郎はゆめみる少女の夢を見ない） | 2019
 ED | 不可思議のカルテ movie ver. | Mai Sakurajima (Asami Seto), Tomoe Koga (Nao Touyama), Rio Futaba (Atsumi Tanezaki), Nodoka Toyohama (Maaya Uchida), Kaede Azusawara (Yurika Kubo), Shouko Makinohara (Inori Minase) | t=Fukashigi no Carte movie ver. d=2
@@ -1164,6 +1600,9 @@ ED | かげくらべの唄 | Yuiko Ohara | t=Kagerurabe no Uta d=2
 OP | Signal | TK from Ling Tosite Sigure | d=2
 ED | Rain or Shine | ELISA | d=2
 
+# Hellsing（Hellsing [ヘルシング]） | 2001
+ED | Shine | Mr. Big | d=2
+
 # NANA（NANA） | 2006
 OP | Wish | Olivia inspi' Reira ~Trapnest~ | d=2
 OP | Lucy | Tsuchiya, Anna inspi' Nana ~Black Stones~ | d=2
@@ -1175,6 +1614,13 @@ ED | Stand By Me | Tsuchiya, Anna inspi' Nana ~Black Stones~ | d=2
 # 徒然喜歡你（徒然チルドレン） | 2017
 OP | アイマイモコ | Inori Minase | t=Aimai Moko d=2
 ED | Dear | Yui Ogura | d=2
+
+# 刀劍神域劇場版: 序列爭戰（劇場版 ソードアート・オンライン -オーディナル・スケール-） | 2017
+ED | Catch the Moment | LiSA | d=2
+
+# Berserk（剣風伝奇ベルセルク） | 1997
+OP | Tell Me Why | PENPALS | d=2
+ED | Waiting So Long | Silver Fins | d=2
 
 # 偽物語（偽物語） | 2012
 OP | 二言目 | Hitagi Senjougahara (Chiwa Saito) | t=Futakotome d=2
@@ -1190,6 +1636,17 @@ OP | ヒトリゴト | ClariS | t=Hitorigoto d=2
 ED | adrenaline!!! | TrySail | d=2
 ED | 夏色恋花火 | Fujita Akane | t=Natsu-iro Koi Hanabi d=2
 
+# 怪獸8號（怪獣8号） | 2024
+OP | You Can't Run From Yourself | AURORA | d=2
+
+# 幽遊白書（幽☆遊☆白書） | 1992
+OP | Hohoemi no Bakudan | Matsuko Mawatari | d=2
+ED | Homework ga Owaranai | Matsuko Mawatari | d=2
+ED | Sayonara bye bye | Matsuko Mawatari | d=2
+ED | Unbalance na Kiss wo Shite | Hiro Takahashi | d=2
+ED | Taiyou ga Mata Kagayaku Toki | Hiro Takahashi | d=2
+ED | Daydream Generation | Matsuko Mawatari | d=2
+
 # 詐騙之王（GREAT PRETENDER） | 2020
 OP | G.P. | Yutaka Yamada | d=2
 ED | The Great Pretender | Freddie Mercury | d=2
@@ -1197,6 +1654,8 @@ ED | The Great Pretender | Freddie Mercury | d=2
 # Snow White with the Red Hair（赤髪の白雪姫） | 2015
 OP | やさしい希望 | Saori Hayami | t=Yasashii Kibou d=2
 ED | 絆にのせて | eyelis | t=Kizuna ni Nosete d=2
+OP | その声が地図になる | Saori Hayami | t=Sono Koe ga Chizu ni Naru d=2
+ED | ページ～君と綴る物語～ | eyelis | t=Page ~Kimi to Tsuzuru Monogatari~ d=2
 
 # 加速世界（アクセル・ワールド） | 2012
 OP | Burst The Gravity | ALTIMA | d=2
@@ -1241,14 +1700,6 @@ ED | 「神様お願い」堕天使☆Mix | KURAMA (Daisuke Kishio) featuring Ha
 OP | 神様の神様 | Hanae | t=Kamisama no Kamisama d=2
 ED | おとといおいで | Hanae | t=Ototoi Oide d=2
 ED | 翼☆バサ☆ハザード | Kurama (CV: Daisuke Kishio) | t=Tsubasa☆Bassa☆Hazard d=2
-
-# 死神（BLEACH） | 2004
-OP | スカー | Tatsuya Kitani (キタニタツヤ) | t=Scar d=2
-ED | Rapport | Tatsuya Kitani (キタニタツヤ) | d=2
-ED | 最果て | SennaRin | t=Saihate d=2
-ED | Number One - Bankai | Hazel Fernandes | d=2
-OP | STARS | w.o.d. | d=2
-ED | Endroll | Yoh Kamiyama | d=2
 
 # The Testament of Sister New Devil（新妹魔王の契約者） | 2015
 OP | Blade of Hope | sweet ARMS | d=2
@@ -1300,12 +1751,16 @@ OP | white lies | Hiroaki Miyakoshi and Shigeru Yamada | d=2
 OP | fast love | Hitagi Senjougahara (Chiwa Saito) | d=2
 OP | 木枯らしセンティメント | Hitagi Senjougahara (Chiwa Saito) and Deishu Kaiki (Shinichiro Miki) | t=Kogarashi Sentiment d=2
 ED | アイヲウタエ | Luna Haruna | t=Ai wo Utae d=2
+ED | 君の知らない物語 | supercell | t=Kimi no Shiranai Monogatari d=2
 ED | その声を覚えてる | Marina Kawano | t=Sono Koe wo Oboeteru d=2
 ED | snowdrop | Luna Haruna × Marina Kawano | d=2
 
 # Saekano: How to Raise a Boring Girlfriend（冴えない彼女〈ヒロイン〉の育てかた） | 2015
 OP | 君色シグナル | Luna Haruna | t=Kimiiro Signal d=2
 ED | カラフル。 | Miku Sawai | t=Colorful. d=2
+OP | ステラブリーズ | Luna Haruna | t=Stella Breeze d=2
+ED | 桜色ダイアリー | Moso Calibration (妄想キャリブレーション) | t=Sakura-iro Diary d=2
+ED | 青春プロローグ | Moso Calibration (妄想キャリブレーション | t=Seishun prologue d=2
 
 # 我的妹妹哪有這麼可愛（俺の妹がこんなに可愛いわけがない） | 2010
 OP | irony | ClariS | d=2
@@ -1313,6 +1768,7 @@ ED | 妹プリ～ズ！ | Ayana Taketatsu | t=Imouto Please! d=2
 ED | Shine! | Ayana Taketatsu | d=2
 ED | ほらいずむ | Ayana Taketatsu | t=Horaizumu d=2
 ED | 白いココロ | Saori Hayami | t=Shiroi Kokoro d=2
+ED | オレンジ | Ayana Taketatsu | t=Orange d=2
 ED | マエガミ☆ | Satomi Satou | t=MAEGAMI d=2
 ED | Masquerade! | Kana Hanazawa | d=2
 ED | カメレオンドーター | Hitomi Nabatame | t=KAMEREON DAUGHTER d=2
@@ -1320,9 +1776,27 @@ ED | 好きなんだもん！！ | Ayana Taketatsu | t=Suki nanda mon!! d=2
 ED | いいえ、トムは妹に対して性的な興奮をおぼえています | Yukari Tamura | t=Iie, Tomu wa Imouto ni Taishite Seiteki na Koufun wo Oboete imasu d=2
 ED | アキハバラ☆だんす☆なう!! | Ayana Taketatsu, Kana Hanazawa, and Hitomi Nabatame | t=AKIHABARA Dance Now!! d=2
 ED | ただいま。 | Ayana Taketatsu | t=Tadaima d=2
+OP | reunion | ClariS | d=2
+OP | 星くずこすぷれ☆うぃっち！です！ | Bridget Evans (CV: Misaki Kuno) | t=Hoshikuzu Cosplay☆Witch! Desu! Omega! d=2
+ED | 感情線loop | Kirino Kousaka (CV: Ayana Taketatsu) | t=Kanjou-sen loop d=2
+ED | フィルター | Ayase Aragaki (CV: Saori Hayami) | t=Filter d=2
+ED | ずっと... | Kirino Kousaka, Kuroneko, and Saori Bajeena (CV: Ayana Taketatsu, Kana Hanazawa, and Hitomi Nabatame) | t=Zutto... d=2
+ED | ほねすと☆ラプソディー | Kirino Kousaka (CV: Ayana Taketatsu) | t=Honest☆Rhapsody d=2
+ED | Keep | Kirino Kousaka (CV: Ayana Taketatsu) | d=2
+ED | モノクロ☆HAPPY DAY | Kuroneko (CV: Kana Hanazawa) | t=Monochrome☆HAPPY DAY d=2
+ED | きょうもしあわせ | Tamaki Gokou (CV: Yui Ogura) | t=Kyou mo Shiawase d=2
+ED | 刹那のDestiny | Kuroneko (CV: Kana Hanazawa) | t=Setsuna no Destiny d=2
+ED | answer | Kirino Kousaka (CV: Ayana Taketatsu) | d=2
+ED | ありふれた未来へ | Manami Tamura (CV: Satomi Satou) | t=Arifureta Mirai he d=2
+ED | Things that i think | Ayase Aragaki (CV: Saori Hayami) | t=Omou Koto (想うコト) d=2
+ED | ホントの気持ち | Kirino Kousaka and Manami Tamura (CV: Ayana Taketatsu and Satomi Satou) | t=Honto no Kimochi d=2
+
+# 攻殼機動隊（GHOST IN THE SHELL（攻殻機動隊）） | 1995
+ED | Reincarnation | Kenji Kawai | d=2
 
 # Barakamon（ばらかもん） | 2014
 OP | らしさ | SUPER BEAVER | t=Rashisa d=2
+ED | Innocence | NoisyCell | d=2
 
 # School Days（スクールデイズ） | 2007
 OP | イノセント・ブルー | DeviceHigh | t=Innocent Blue d=2
@@ -1335,7 +1809,7 @@ ED | 涙の理由 | Minami Kuribayashi | t=Namida no Riyuu d=2
 ED | Anata ga... Inai (あなたが...いない) -Remix Ver.- | Minami Kuribayashi | d=2
 ED | ～みつめるよりは幸せ～ | Kiriko – | t=Still I Love You ~Mitsumeru Yori wa Shiawase~ d=2
 
-# Little Witch Academia（リトルウィッチアカデミア） | 2017
+# Little Witch Academia（リトルウィッチアカデミア） | 2013
 OP | Shiny Ray | YURiKA | d=2
 OP | MIND CONDUCTOR | YURiKA | d=2
 ED | 星を辿れば | Yuiko Ohara (大原ゆい子) | t=Hoshi wo Todoreba d=2
@@ -1345,7 +1819,16 @@ ED | 透明な翼 | Yuiko Ohara (大原ゆい子) | t=Toumei na Tsubasa d=2
 OP | My Hero | MAN WITH A MISSION | d=2
 ED | 愛を教えてくれた君へ | Qaijff (クアイフ) | t=Ai wo Oshiete Kureta Kimi e d=2
 
+# Fighting Spirit（はじめの一歩 THE FIGHTING!） | 2000
+OP | Under Star | Shocking Lemons | d=2
+OP | Inner Light | Shocking Lemons | d=2
+OP | Tumbling Dice | Tsuneo Imahori | d=2
+ED | Yuuzora no Kamihikouki | Naoya Mori | d=2
+ED | 360° | Naoya Mori | d=2
+ED | Eternal Loop | Saber Tiger | d=2
+
 # The Asterisk War（学戦都市アスタリスク） | 2015
+OP | Brand-new World | Shiena Nishizawa | d=2
 ED | Waiting for the rain | Maaya Sakamoto | d=2
 OP | The Asterisk War | Shiena Nishizawa | d=2
 ED | 愛の詩-words of love- | Haruka Chisuga | t=Ai no Uta -words of love- d=2
@@ -1383,13 +1866,27 @@ ED | 宇宙鉄人キョーダイン | Aya Hirano | t=Uchuu Tetsujin Kyoodain d=2
 ED | 勝利だ!アクマイザー3 | Aya Hirano | t=Shouri da! Akumaizer 3 d=2
 ED | それが, 愛でしょう | Aya Hirano | t=Sore ga, Ai Deshou d=2
 ED | セーラー服と機関銃 | Emiri Kato | t=Sailor Fuku to Kikanjuu d=2
+ED | Cha-La Head-Cha-La | Aya Hirano | d=2
 ED | バレンタイン・キッス | Kaori Fukuhara | t=Valentine Kiss d=2
 ED | 地上の星 | Aya Endo | t=Chijou no Hoshi d=2
 ED | Monkey Magic | Aya Hirano | d=2
 ED | 木枯しに抱かれて | Aya Hirano | t=Kogarashi ni Dakarete d=2
 ED | I'm Proud | Emiri Kato | d=2
+ED | ドラえもんのうた | Kaori Fukuhara, Aya Endo, Aya Hirano, Emiri Kato | t=Doraemon no Uta d=2
 ED | 行け!ゴッドマン | Aya Hirano | t=Ike! Godman d=2
 ED | 負けないで | Kaori Fukuhara, Aya Endo, Aya Hirano, Emiri Kato | t=Makenaide d=2
+ED | 俺の忘れ物 | Minoru Shiraishi | t=Ore no Wasuremono d=2
+ED | ハレ晴レユカイ | Minoru Shiraishi | t=Hare Hare Yukai d=2
+ED | 恋のミノル伝説 | Minoru Shiraishi | t=Koi no Minoru Densetsu d=2
+ED | 三十路岬 | Hiromi Konno | t=Misoji Misaki d=2
+ED | Motteke! Sailor Fuku (Aimai Sunshine Ver.) (もってけ!セーラーふく(曖昧サンシャインver.)) | Minoru Shiraishi | d=2
+ED | かおりんのテーマ | Minoru Shiraishi | t=Kaorin no Theme d=2
+ED | 男の生き様 | Minoru Shiraishi | t=Otoko no Iki-sama d=2
+ED | お婿ルンバ | Minoru Shiraishi | t=Omuko Rumba d=2
+ED | シカイダーの唄 | Minoru Shiraishi | t=Shikaidaa no Uta d=2
+ED | 白石メドレー | Minoru Shiraishi | t=Shiraishi Medley d=2
+ED | ミクル変身!そして戦闘! | Minoru Shiraishi | t=Mikuru Henshin! Soshite Sentou! d=2
+ED | 愛はブーメラン | Minoru Shiraishi | t=Ai wa Boomerang d=2
 
 # 殭屍100～在成為殭屍前要做的100件事～（ゾン100～ゾンビになるまでにしたい100のこと～） | 2023
 OP | ソングオブザデッド | KANA-BOON | t=Song of the Dead d=2
@@ -1422,11 +1919,41 @@ ED | グロリアスデイズ | THREE LIGHTS DOWN KINGS | t=Glorious Days d=2
 
 # 心理測量者（PSYCHO-PASS サイコパス） | 2012
 OP | Enigmatic Feeling | Ling Tosite Sigure | d=2
+ED | Fallen | EGOIST | d=2
+
+# 神奇寶貝（ポケットモンスター） | 1997
+OP | ライバル！ | Rica Matsumoto | t=Rival! d=2
+OP | OK! | Rica Matsumoto | d=2
+OP | Ready, Go! | Naomi Tamura | d=2
+ED | ひゃくごじゅういち | Ookido-hakase (CV: Unshou Ishizuka) and Pokemon Kids | t=Hyaku Gojuu Ichi d=2
+ED | ニャースのうた | Nyarth (CV: Inuko Inuyama) | t=Nyarth no Uta d=2
+ED | ポケットにファンタジー | Sachi & Juri | t=Pocket ni Fantasy d=2
+ED | ポケモン音頭 | Garura Kobayashi, Dogars, and Arbo | t=Pokemon Ondo d=2
+ED | タイプ：ワイルド | Rica Matsumoto | t=Type: Wild d=2
+ED | ラプラスにのって | Iizuka Mayumi and Aikawa Rikako | t=Laplace ni Notte d=2
+ED | ニャースのパーティ | Nyarth (CV:Inuko Inuyama) | t=Nyarth no Party d=2
+ED | ポケモンはらはらリレー | Rikako Aikawa And Korasu | t=Pokemon Hara Hara Relay d=2
+ED | ポケモンはらはら²リレー（むずかし版） | Rikako Aikawa And Korasu | t=Pokemon Hara Hara² Relay (Muzukashi Ban) d=2
+ED | タケシのパラダイス | Takeshi (CV: Yuuji Ueda) | t=Takeshi no Paradise d=2
+ED | ぼくのベストフレンドへ | Iawasaki Hiromi | t=Boku no Best Friend e d=2
+ED | 前向きロケット団！ | Rocket-dan (Musashi (CV: Megumi Hayashibara), Kojirou (Shin-ichiro Miki), and Nyarth (CV: Inuko Inuyama)) | t=Maemuki Rocket-dan! d=2
+ED | ポケッターリ モンスターリ | KANA | t=Pocketaari Monstaari d=2
 
 # To Love Ru（To LOVEる -とらぶる-） | 2008
 OP | forever we can make it! | THYME | d=2
 ED | ラッキーチューン | Anna (BON-BON BLANCO) | t=Lucky Tune d=2
 ED | kissの行方 | Anna | t=kiss no Yukue d=2
+OP | 楽園PROJECT | Ray | t=RAKUEN PROJECT d=2
+ED | ファールプレーにくらり | Kanon Wakeshima | t=Foul Play ni Kurari d=2
+
+# 七龍珠（ドラゴンボール） | 1986
+OP | DAN DAN Kokoro Hikarete ku | Field of View | d=2
+ED | Hitori Ja Nai | Deen | d=2
+ED | Don't you see! | Zard | d=2
+ED | Blue Velvet | Shizuka Kudou | d=2
+ED | Sabitsuita Machine Gun de Ima wo Uchinukou | Wands | d=2
+ED | Yeah! Break! Care! Break! | Tanimoto Takeyoshi | d=2
+ED | 心の羽根 | AKB48 | t=Kokoro no Hane d=2
 
 # 刮掉鬍子的我與撿到的女高中生（ひげを剃る。そして女子高生を拾う。） | 2021
 ED | Plastic Smile | Kaori Ishihara | d=2
@@ -1461,8 +1988,13 @@ ED | 圧倒的 Vivid Days | Nanami Yoshi. (吉七味。) | t=Attouteki Vivid Day
 OP | Perfect-area complete! | Natsuko Asou | d=2
 ED | Baka Go Home | milktub | d=2
 ED | Hare Tokidoki Egao | Hitomi Harada, Kaori Mizuhashi, Emiri Katou, and Tomomi Isomura | d=2
+OP | 君＋謎＋私でJUMP!! | Larval Stage Planning | t=Kimi + Nazo + Watashi de JUMP!! d=2
+ED | エウレカベイビー | Natsuko Asou | t=Eureka Baby d=2
+ED | バカと個室と孤独飯 | milktub | t=Baka to Koshitsu to Kodokumeshi d=2
+ED | Hi-Ho!! | milktub | d=2
 
 # Sankarea: Undying Love（さんかれあ） | 2012
+OP | 絵空事 | nano.RIPE | t=Esoragoto d=2
 ED | Above your hand | Annabel | d=2
 
 # Lovely Complex（ラブ★コン） | 2007
@@ -1481,6 +2013,20 @@ ED | コイノシルシ from Elsie | Kanae Itou | t=Koi no Shirushi from Elsie d
 ED | Koi no Shirushi (コイノシルシ) feat. Kanon Nakagawa | Kami no Mizo Shiri-tai featuring Nao Toyama | d=2
 ED | Koi no Shirushi (コイノシルシ) feat. Shiori Shiomiya | Kami no Mizo Shiri-tai featuring Kana Hanazawa | d=2
 ED | 集積回路の夢旅人 | Hiro Shimono with Oratorio The World God Only Knows | t=Shuuseki Kairo no Yume Tabibito d=2
+OP | A Whole New World God Only Knows | Oratorio The World God Only Knows | d=2
+ED | アイノヨカン | Kami no Mizo Shiri-tai | t=Ai no Yokan d=2
+OP | God only knows -Secrets of the Goddess- | Oratorio The World God Only Knows | d=2
+ED | キズナノユクエ feat. 中川かのん | Kanon Nakagawa starring Nao Touyama | t=Kizuna no Yukue feat. Kanon Nakagawa d=2
+ED | キズナノユクエ feat. 鮎川天理 | Tenri Ayukawa starring Kaori Nazuka | t=Kizuna no Yukue feat. Tenri Ayukawa d=2
+ED | キズナノユクエ feat. 九条月夜 | Tsukiyo Kujou starring Yuka Iguchi | t=Kizuna no Yukue feat. Tsukiyo Kujou d=2
+ED | キズナノユクエ feat. 五位堂 結 | Yui Goidou starring Ayahi Takagaki | t=Kizuna no Yukue feat. Yui Goidou d=2
+ED | キズナノユクエ feat. 汐宮 栞 | Shiori Shinomiya starring Kana Hanazawa | t=Kizuna no Yukue feat. Shiori Shinomiya d=2
+ED | 初めて恋をした記憶 〜ピアノ伴奏〜 | Chihiro Kosaka starring Kana Asumi | t=Hajimete Koi wo Shita Kioku ~Piano Bansou~ d=2
+ED | 瞳からスノー | Kanon Nakagawa starring Nao Touyama | t=Hitomi kara Snow d=2
+ED | キズナノユクエ feat. 高原歩美 | Ayumi Takahara starring Ayana Taketatsu | t=Kizuna no Yukue feat. Ayumi Takahara d=2
+ED | With...you... | Haqua du Lot Herminium starring Saori Hayami | d=2
+ED | キズナノユクエ | Jupiter Sisters | t=Kizuna no Yukue d=2
+ED | 初めて恋をした記憶 | 2B PENCILS & Kanon Nakagawa (2B PENCILS & 中川かのん); Vocal by Chihiro Kosaka starring Kana Asumi; Back Ground Vocal by Kanon Nakagawa starring Nao Touyama | t=Hajimete Koi wo Shita Kioku d=2
 
 # 異獸魔都（ドロヘドロ） | 2020
 OP | Welcome トゥ 混沌（カオス） | (K) NoW_NAME | t=Welcome to Chaos d=2
@@ -1500,12 +2046,22 @@ ED | Rainy veil | Nagi Yanagi | d=2
 ED | 創世のタナトス | Faylan | t=Sousei no Thanatos d=2
 
 # 爆漫王。（バクマン。） | 2010
+OP | Blue Bird | Kobukuro | d=2
 OP | 現実という名の怪物と戦う者たち | Yuu Takahashi (高橋優) | t=Genjitsu to iu Na no Kaibutsu to Tatakau Mono Tachi d=2
 ED | BAKUROCK 〜未来の輪郭線〜 | YA-KYIM | t=BAKUROCK ~Mirai no Rinkakusen~ d=2
+OP | Dream of Life | Shohei Itou (伊藤祥平) | d=2
+ED | monochrome rainbow | Tommy heavenly6 | d=2
+ED | パラレル＝ | Fumiya Sashida (指田郁也) | t=Parallel= d=2
+OP | もしもの話 | nano.RIPE | t=Moshimo no Hanashi d=2
+OP | 23:40 (23時40分) feat. Base Ball Bear | Hyadain | d=2
+ED | Pride on Everyday | Sphere | d=2
+ED | 夢スケッチ | JAM Project | t=Yume Sketch d=2
 
 # Is This a Zombie?（これはゾンビですか?） | 2011
 OP | 魔・カ・セ・テ Tonight | Iori Nomizu | t=Ma・Ka・Se・Te Tonight d=2
 ED | 気づいてゾンビさま、私はクラスメイトです | Rie Yamaguchi with manzo | t=Kizuite Zombie-sama, Watashi wa Classmate desu d=2
+OP | ***パショナート | Iori Nomizu | t=*** Passionate d=2
+ED | 恋のビギナーなんです（T_T） | Rie Yamaguchi | t=Koi no Beginner Nan Desu (T_T) d=2
 
 # Shiki（屍鬼） | 2010
 OP | くちづけ | Buck-Tick | t="Kuchizuke" d=2
@@ -1514,6 +2070,7 @@ ED | walkの約束 | nangi | t=Walk no Yakusoku d=2
 ED | 月下麗人 | Buck-Tick | t=Gekka Reijin d=2
 
 # 涼宮春日的消失（涼宮ハルヒの消失） | 2010
+OP | 冒険でしょでしょ? | Aya Hirano | t=Bouken Desho Desho? d=2
 ED | 優しい忘却 | Minori Chihara | t=Yasashii Boukyaku d=2
 
 # The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat（世界最高の暗殺者、異世界貴族に転生する） | 2021
@@ -1524,6 +2081,11 @@ ED | A Promise | Aira Yuuki (結城アイラ) | d=2
 ED | Dear My Friend -Mada Minu Mirai he- | ELISA | d=2
 ED | Smile -You and Me- | ELISA | d=2
 ED | Real Force | ELISA | d=2
+OP | eternal reality | fripSide | d=2
+ED | Grow Slowly | Yuka Iguchi | d=2
+ED | stand still | Yuka Iguchi | d=2
+ED | リンクス | Sachika Misawa | t=Links d=2
+ED | インフィニア | Sachika Misawa | t=Infinia d=2
 
 # 回復術士的重啟人生（回復術士のやり直し） | 2021
 OP | 残酷な夢と眠れ | Minami Kuribayashi | t=Zankoku na Yume to Nemure d=2
@@ -1546,6 +2108,9 @@ ED | まるつけ | Given [Mafuyu Satou (Shougo Yano) | t=Marutsuke d=2
 OP | ハニージェットコースター | Nasuo☆ (なすお☆) | t=Honey Jet Coaster d=2
 ED | Route BLUE | Yuki Nakashima | d=2
 
+# 擅長捉弄人的高木同學（からかい上手の高木さん） | 2018
+OP | Zero Centimeter | Yuiko Oohara | d=2
+
 # The Case Study of Vanitas（ヴァニタスの手記） | 2021
 OP | 空と虚 | sasanomaly | t=Sora to Utsuro d=2
 ED | zero | LMYK | t=0 d=2
@@ -1557,6 +2122,8 @@ ED | インフィニティ | Yuuri (優里) | t=Infinity d=2
 # Vampire Knight（ヴァンパイア騎士〈ナイト〉） | 2008
 OP | Futatsu no Kodou to Akai Tsumi | ON/OFF | d=2
 ED | still doll | Wakeshima Kanon | d=2
+OP | Rondo | ON/OFF | d=2
+ED | Suna no Oshiro | Kanon Wakeshima | d=2
 
 # 來自風平浪靜的明日（凪のあすから） | 2013
 OP | lull ～そして僕らは～ | Ray | t=lull ~Soshite Bokura wa~ d=2
@@ -1574,16 +2141,20 @@ OP | Hajimaru no wa, Sayonara | ON/OFF | d=2
 OP | Hey!!! | FLOW | d=2
 OP | Baby U! | MBLAQ | d=2
 OP | Only you- Kimi tono Kizuna - | Lc5 | d=2
+ED | Answer | NO3B | d=2
 ED | Tsuyogari | Shoko Nakagawa | d=2
 ED | Nanairo Namida | Tomato n' Pine | d=2
 ED | Papepipu♪ Papipepu♪ Papepipupo♪ | Sasaki Nozomi | d=2
 ED | Shojo Traveler | 9nine | d=2
 
 # Dr.STONE 新石紀（Dr.STONE） | 2019
+OP | Good Morning [New] World! | BURNOUT SYNDROMES | d=2
 OP | ワスレガタキ | Huwie Ishizaki | d=2
 ED | Where Do We Go? | OKAMOTO'S | d=2
 OP | 遥か | Ryujin Kiyoshi | t=Haruka d=2
 ED | 好きにしなよ | Anly | t=Suki ni Shina yo d=2
+OP | CASANOVA POSSE | ALI | d=2
+ED | Rolling Stone | BREIMEN | d=2
 
 # Gangsta.（GANGSTA. ギャングスタ） | 2015
 OP | Renegade | STEREO DIVE FOUNDATION | d=2
@@ -1600,6 +2171,9 @@ OP | 大好きなのに | Kylee | t=Daisuki nano ni d=2
 ED | happy endings | Kana Hanazawa | d=2
 ED | 僕たちの歌 | Tomohisa Sako | t=Boku-tachi no Uta d=2
 
+# 福音戰士新劇場版：序（ヱヴァンゲリヲン新劇場版:序） | 2007
+ED | Beautiful World | Utada Hikaru | d=2
+
 # 盜夢偵探（パプリカ） | 2006
 OP | Mediational Field | Susumu Hirasawa | d=2
 ED | 白虎野 | Susumu Hirasawa | t=白虎野の娘 (Byakkoya no Musume) by Hirasawa Susumu "Byakkoya d=2
@@ -1611,6 +2185,7 @@ ED | Rurou no Zakuro | Yasushi Ishii | d=2
 
 # Darwin's Game（ダーウィンズゲーム） | 2020
 OP | CHAIN | ASCA | d=2
+ED | Alive | Mashiro Ayano | d=2
 
 # Gintama Season 2（銀魂'） | 2011
 OP | 桃源郷エイリアン | serial TV drama | t=Tougenkyou Alien d=2
@@ -1680,6 +2255,10 @@ ED | 愛と誠 | Tamura Yukari | t=Ai to Makoto d=2
 ED | 雪ノ女 | ALI PROJECT | t=Yuki no Onna d=2
 ED | 迷い子さがし | Nakahara Mai | t=Mayoigo Sagashi d=2
 ED | からくり眠り談 | Nomiko | t=Karakuri Nemuri Dan d=2
+ED | 証 | Annabel | t=Akashi d=2
+ED | 否、と姫は全てを語らず | Tomatsu Haruka | t=Ina, to Hime wa Subete wo Katarazu d=2
+ED | 亡霊達よ野望の果てに眠れ | Faylan | t=Bourei-tachi yo Yabou no Hate ni Nemure d=2
+ED | 時すでに始まりを刻む | Kuribayashi Minami | t=Toki Sude ni Hajimari wo Kizamu d=2
 
 # Oreshura（俺の彼女と幼なじみが修羅場すぎる） | 2013
 ED | W:Wonder tale | Yukari Tamura | d=2
@@ -1700,6 +2279,7 @@ ED | 44229 | Miyabi Hotaka (Ayaka Imamura) × Tomoe Tachibana (Ayaka Suwa) | d=2
 
 # Reborn!（家庭教師ヒットマンREBORN!） | 2006
 OP | Drawing Days | SPLAY | d=2
+OP | BOYS & GIRLS | LM.C | d=2
 OP | Dive To World | CHERRYBLOSSOM | d=2
 OP | 88 | LM.C | d=2
 OP | Last Cross | Masami Mitsuoka | d=2
@@ -1711,6 +2291,17 @@ ED | ONE NIGHT STAR | the ARROW | d=2
 ED | Echo again | SPLAY | d=2
 ED | Friend | Idoling!!! | d=2
 ED | Sakura Addiction | Takashi Kondo & Toshinobu Iida | d=2
+ED | STAND UP! | Lead | d=2
+ED | AMEato | w-inds. | d=2
+ED | CYCLE | CHERRYBLOSSOM | d=2
+ED | Suberidai / Slide | Mori Tsubasa | d=2
+ED | Sakura Rock | CHERRYBLOSSOM | d=2
+ED | Smile | Aya Ueto | d=2
+ED | Aoi Yume | Mori Tsubasa | d=2
+ED | Yume no Manual | CHERRYBLOSSOM | d=2
+ED | Gr8 Story | SuG | d=2
+ED | Famiglia | D-51 | d=2
+ED | Canvas | +Plus | d=2
 
 # Myriad Colors Phantom World（無彩限のファントム・ワールド） | 2016
 OP | Naked Dive | SCREEN mode | d=2
@@ -1722,6 +2313,8 @@ ED | Part Tekketsu - End Roll | Satoru Koosaki | d=2
 # Welcome to Demon School! Iruma-kun（魔入りました！入間くん） | 2019
 OP | Magical Babyrinth | DA PUMP | d=2
 ED | デビきゅー | Yuu Serizawa | t=Devi-Cue d=2
+OP | No! No! Satisfaction! | DA PUMP | d=2
+ED | ココロショータイム | Amatsuki | t=Kokoro Showtime d=2
 
 # 和山田談場Lv999的戀愛（山田くんとLv999の恋をする） | 2023
 OP | ぐらでーしょん | KANA-BOON feat. Yuuho Kitazawa | d=2
@@ -1756,6 +2349,7 @@ ED | スキノスキル | Wake Up, Girls! | t=Suki no Skill d=2
 ED | 美少女天使マジカルロス | Pochi (Kouno Hiyori), Tama (Okuno Kaya), Arisa (Yuuki Aoi) | t=Bishoujo Tenshi Magical Rose d=2
 
 # High School DxD Hero（ハイスクールDxD HERO） | 2018
+OP | SWITCH | Minami | d=2
 ED | Motenai Kuse ni (モテないくせに(`;ω;´)) | Tapimiru | d=2
 
 # Citrus（シトラス） | 2018
@@ -1776,6 +2370,11 @@ OP | 緋色の空 | Mami Kawada | t=Hishoku no Sora d=2
 OP | being | Kotoko | d=2
 ED | 夜明け生まれ来る少女 | Yoko Takahashi | t=Yoake Umare Kuru Shoujo d=2
 ED | 紅の静寂 | Yoko Ishida | t=Aka no Seijaku d=2
+OP | JOINT | Mami Kawada | d=2
+OP | BLAZE | KOTOKO | d=2
+ED | Triangle | Kawada Mami | d=2
+ED | Sociometry | KOTOKO | d=2
+ED | sense | Kawada Mami | d=2
 
 # Hinamatsuri（ヒナまつり） | 2018
 OP | Distance | Rie Murakawa | d=2
@@ -1841,6 +2440,7 @@ OP | 1番輝く星 | Alya (CV: Sumire Uesaka) | t=1-Ban Kagayaku Hoshi d=2
 ED | 学園天国 | Alya (CV: Sumire Uesaka) | t=Gakuen Tengoku d=2
 ED | 可愛くてごめん | Alya (CV: Sumire Uesaka) | t=Kawaikute Gomen d=2
 ED | 想い出がいっぱい | Alya (CV: Sumire Uesaka) | t=Omoide ga Ippai d=2
+ED | ハレ晴レユカイ | Alya (CV: Sumire Uesaka) | t=Hare Hare Yukai d=2
 ED | 小さな恋のうた | Alya (CV: Sumire Uesaka) | t=Chiisana Koi no Uta d=2
 ED | 秘密の言葉 | Alya (CV: Sumire Uesaka)×KAF (花譜) | t=Himitsu no Kotoba d=2
 ED | ラブ・ストーリーは突然に | Alya (CV: Sumire Uesaka) | t=Love Story wa Totsuzen ni d=2
@@ -1852,6 +2452,9 @@ ED | ハナモヨイ | Alya (CV: Sumire Uesaka) | t=Hanamoyoi d=2
 
 # Aldnoah.Zero（アルドノア・ゼロ） | 2014
 ED | A/Z | SawanoHiroyuki[nZk]:mizuki | d=2
+OP | &Z | SawanoHiroyuki[nZk]:mizuki | d=2
+ED | GENESIS | Eir Aoi | d=2
+ED | Harmonious | Asseylum Vers Allusia starring Sora Amamiya | d=2
 
 # Zombieland Saga（ゾンビランドサガ） | 2018
 OP | 徒花ネクロマンシー | Fran Chou Chou (フランシュシュ) [Sakura Minamoto (Kaede Hondo), Saki Nikaidou (Asami Tano), Ai Mizuno (Risa Taneda), Junko Konno (Maki Kawase), Yuugiri (Rika Kinugawa), Lily Hoshikawa (Minami Ta | t=Adabana Necromancy d=2
@@ -1864,6 +2467,12 @@ ED | Replica | mol-74 | d=2
 # 宇崎學妹想要玩！（宇崎ちゃんは遊びたい！） | 2020
 OP | なだめスかし Negotiation | Kano and Uzaki-chan (Naomi Oozora) | t=Nadame Sukashi Negotiation d=2
 ED | ココロノック | YuNi | t=Kokoro Knock d=2
+
+# Full Metal Panic!（フルメタル・パニック！） | 2002
+OP | tomorrow | Mikuni Shimokawa (下川みくに) | d=2
+ED | 枯れない花 | Mikuni Shimokawa (下川みくに) | t=Karenai Hana d=2
+OP | それが、愛でしょう | Shimokawa Mikuni | t=Sore ga Ai Deshou d=2
+ED | 君に吹く風 | Shimokawa Mikuni | t=Kimi ni Fuku Kaze d=2
 
 # 單蠢女孩（アホガール） | 2017
 OP | 全力☆Summer! | angela | t=Zenryoku☆Summer! d=2
@@ -1896,9 +2505,21 @@ ED | Kyoumen no Nami (Orchestra Ver.) (鏡面の波(Orchestra Ver.)) | YURiKA | 
 OP | Sweet Drops | Puffy | d=2
 ED | High High High | Kasarinchu | d=2
 
+# 浪客劍心（るろうに剣心） | 1996
+OP | ½ | Makoto Kawamoto | d=2
+OP | 君に触れるだけで | CURIO | t=Kimi ni Fureru Dake de d=2
+ED | Tactics | THE YELLOW MONKEY | d=2
+ED | Namida wa Shitteiru | Mayo Suzukaze | d=2
+ED | the Fourth Avenue Café | L'Arc~en~Ciel | d=2
+ED | It's gonna rain! | BONNIE PINK | d=2
+ED | ダメ！ | You Izumi | t=Dame! d=2
+
 # Mayo Chiki!（まよチキ!） | 2011
 OP | Be Starters! | Eri Kitamura | d=2
 ED | 君にご奉仕 | Yuka Iguchi, Mariya Ise and Eri Kitamura | t=Kimi ni Gohoushi d=2
+
+# Fate/stay night [Heaven's Feel] I. 預示之花（劇場版「Fate/stay night [Heaven's Feel] Ⅰ.presage flower」） | 2017
+ED | 花の唄 | Aimer | t=Hana no Uta d=2
 
 # 奇巧計程車（オッドタクシー） | 2021
 ED | シュガーレス・キッス | Suzuko Mimori (三森すずこ) | t=Sugarless Kiss d=2
@@ -1912,9 +2533,18 @@ ED | 蒼い春 | angela | t=Aoi Haru d=2
 OP | スポットライト | PENGUIN RESEARCH | t=Spotlight d=2
 ED | ポラリス | Fujifabric | t=Polaris d=2
 
+# 傷物語 III 冷血篇（傷物語〈Ⅲ冷血篇〉） | 2017
+ED | étoile et toi [édition le blanc] | Clémentine & Ainhoa | d=2
+
 # 轉生成蜘蛛又怎樣！（蜘蛛ですが、なにか？） | 2021
 OP | Keep weaving your spider way | Riko Azuna | d=2
 OP | Bursty Greedy Spider | Konomi Suzuki | d=2
+
+# 人形電腦天使心（ちょびっツ） | 2002
+OP | Let Me Be With You | ROUND TABLE feat. Nino | d=2
+ED | Raison d'Être | Rie Tanaka | d=2
+ED | Ningyohime | Rie Tanaka | d=2
+ED | duet ver. | Rie Tanaka and Tomokazu Sugita | t=Katakoto no Koi d=2
 
 # Tanaka-kun is Always Listless（田中くんはいつもけだるげ） | 2016
 OP | うたたねサンシャイン | Unlimited tone | t=Utatane Sunshine d=2
@@ -1978,6 +2608,8 @@ ED | ふり向くな君は美しい | Hayami Saori, Nomizu Iori, Mina, Takagaki 
 ED | ワイルドセブン | Hoshi Souichirou and Suzuki Tatsuhisa | t=Wild Seven d=2
 ED | 初恋 | Hayami Saori and Takagaki Ayahi | t=Hatsukoi d=2
 ED | 僕等のダイアリー | Takagaki Ayahi and Suzuki Tatsuhisa | t=Bokura no Diary d=2
+ED | チャンピオン | Hoshi Souichirou and Fujita Saki | t=Champion d=2
+ED | 赤い花白い花 | Hayami Saori | t=Akai Hana Shiroi Hana d=2
 
 # Interspecies Reviewers（異種族レビュアーズ） | 2020
 OP | イこうぜ☆パラダイス | Yuusuke Kobayashi, Junji Majima, Miyu Tomita | t=Ikouze☆Paradise d=2
@@ -1986,6 +2618,10 @@ ED | ハナビラ音頭 | Yuusuke Kobayashi, Junji Majima, Miyu Tomita | t=Hanab
 # Tomodachi Game（トモダチゲーム） | 2022
 OP | ダブルシャッフル | Nana Mizuki | t=Double Shuffle d=2
 ED | 灯日 | saji | t=Tomoshibi d=2
+
+# 想哭的我戴上了貓的面具（泣きたい私は猫をかぶる） | 2020
+OP | 花に亡霊 | Yorushika (ヨルシカ) | t=Hana ni Bourei d=2
+ED | 嘘月 | Yorushika (ヨルシカ) | t=Usotsuki d=2
 
 # 道別的早晨就用約定之花點綴吧（さよならの朝に約束の花をかざろう） | 2018
 ED | ウィアートル | rionos | t=Viator d=2
@@ -2012,6 +2648,10 @@ OP | YOUTHFUL | 99RadioService | d=2
 ED | そしていま | Asami Seto | t=Soshite Ima d=2
 ED | YOUTHFUL ~from Studio Yamato~ | 99RadioService | d=2
 
+# 时光代理人（时光代理人） | 2021
+OP | Dive Back In Time | Bai Sha JAWS (白鲨JAWS) | d=2
+ED | OverThink | Fan Ka (饭卡) | d=2
+
 # 全員惡玉（アクダマドライブ） | 2020
 OP | STEAL!! | SPARK!!SOUND!!SHOW!! | d=2
 ED | Ready | Urashimasakatasen | d=2
@@ -2029,9 +2669,25 @@ OP | Danger Danger | FZMZ feat. icy (CV: Reol) | d=2
 ED | エース | CHiCO | t=Ace d=2
 ED | Gajumaru ~Heaven in the Rain~ | ReoNa | t=ガジュマル ～Heaven in the Rain～ d=2
 
+# 傷物語 II 熱血篇（傷物語〈Ⅱ熱血篇〉） | 2016
+ED | étoile et toi | Clémentine | d=2
+
 # Dagashi Kashi（だがしかし） | 2016
 OP | Checkmate!? | MICHI | d=2
 ED | Hey! カロリーQueen | Ayana Taketatsu | t=Hey! Calorie Queen d=2
+
+# 庫洛魔法使（カードキャプターさくら） | 1998
+OP | Tobira wo Akete | ANZA | d=2
+OP | Platinum | Maaya Sakamoto | d=2
+ED | Groovy! | Koumi Hirose | d=2
+ED | Honey | Chihiro | d=2
+ED | Fruits Candy | Megumi Kojima | d=2
+
+# 刃牙（バキ） | 2018
+OP | BEASTFUL | GRANRODEO | d=2
+OP | The Gong of Knockout | Fear, and Loathing in Las Vegas | d=2
+ED | RESOLVE | Azusa Tadokoro | d=2
+ED | BEAUTIFUL BEAST | DEVIL NO ID | d=2
 
 # Wind Breaker（WIND BREAKER） | 2024
 OP | 絶対零度 | natori (なとり) | t=Zettai Reido d=2
@@ -2048,9 +2704,17 @@ OP | ガヴリールドロップキック | Gabriel (CV: Miyu Tomita), Vignette 
 ED | ハレルヤ☆エッサイム | Gabriel (CV: Miyu Tomita), Vignette (CV: Saori Oonishi), Satanichia (CV: Naomi Oozora), Raphiel (CV: Kana Hanazawa) | t=Hallelujah☆Essaim d=2
 ED | ガヴリールの数え歌 | Vignette (CV: Saori Oonishi) | t=Gabriel no kazoeuta d=2
 
+# 妄想代理人（妄想代理人） | 2004
+OP | 夢の島思念公園 | Susumu Hirasawa | t=Yume no Shima Shinen Kouen/Dream Island Obsessional Park d=2
+ED | Shiroi Oka - Maromi no Theme | Susumu Hirasawa | d=2
+
 # We Never Learn: BOKUBEN（ぼくたちは勉強ができない） | 2019
 OP | セイシュンゼミナール | Study | t=Seishun Seminar d=2
 ED | Never Give It Up!! | Study | d=2
+
+# The Way of the Househusband（極主夫道） | 2021
+OP | シュフノミチ | Uchikubi Gokumon Doukoukai (打首獄門同好会) | t=Shufu no Michi d=2
+ED | 極・夫婦街道 | Uchikubi Gokumon Doukoukai (打首獄門同好会) | t=Goku・Fufukaidou d=2
 
 # 富豪刑事 Balance:UNLIMITED（富豪刑事 Balance:UNLIMITED） | 2020
 OP | NAVIGATOR | SixTONES | d=2
@@ -2095,6 +2759,10 @@ ED | カザニア | Aimi | t=Kazanear d=2
 # Golden Kamuy（ゴールデンカムイ） | 2018
 OP | Winding Road | MAN WITH A MISSION | d=2
 ED | Hibana | THE SIXTH LIE | d=2
+
+# Golden Boy（ゴールデンボーイ） | 1995
+OP | Opening | Joyo Katayanagi | d=2
+ED | Study A Go! Go! | Golden Girls, Hiroyuki Kitakubo, Saito Kanji, and Tadamisu Hiro. | d=2
 
 # Witch Hat Atelier（とんがり帽子のアトリエ） | 2026
 OP | ヨルシカ | Eve | t=Kaze no Anthem (風のアンセム) feat. suis from Yorushika d=2
@@ -2209,6 +2877,12 @@ ED | あやふわアスタリスク for 泉優鈴 | Izumi Yuzu (Nene Hieda) | t=
 ED | あやふわアスタリスク for 七海みなみ | Minami Nanami (Hasegawa Ikumi) | t=Ayafuwa Asterisk for Nanami Minami d=2
 ED | あやふわアスタリスク for 菊池風香 | Fuuka Kikuchi (Ai Kayano) | t=Ayafuwa Asterisk for Kikuchi Fuuka d=2
 
+# 头文字D First Stage（頭文字〈イニシャル〉D） | 1998
+OP | Around the World | m.o.v.e | d=2
+OP | Break in 2 the Nite | m.o.v.e | d=2
+ED | Rage Your Dream | m.o.v.e | d=2
+ED | Flower of Miracles | Galla | t=Kiseki no Hana d=2
+
 # So, I Can't Play H!（だから僕は、Hができない。） | 2012
 OP | Reason why XXX | Sayaka Sasaki | d=2
 ED | Platinum 17 | yozuca* | d=2
@@ -2226,6 +2900,9 @@ ED | Ano Yoake Mae no' Bokura ni Tsuite ("あの夜明け前の" 僕らについ
 OP | ピラミッド大逆転 | Spira Spica (スピラ・スピカ) | t=Pyramid Dai Gyakuten d=2
 ED | ネモフィラ | Coala Mode. | t=Nemophila d=2
 
+# Fate/stay night [Heaven's Feel] II.迷途之蝶（劇場版「Fate/stay night [Heaven's Feel] II.lost butterfly」） | 2019
+ED | I beg you | Aimer | d=2
+
 # Interviews With Monster Girls（亜人ちゃんは語りたい） | 2017
 OP | オリジナル。 | TrySail | t=Original. d=2
 ED | フェアリーテイル | Sangatsu no Phantasia | t=Fairy Tale d=2
@@ -2235,11 +2912,8 @@ OP | 太陽が昇らない世界 | Aimer | t=Taiyou ga Noboranai Sekai d=2
 ED | 残酷な夜に輝け | LiSA | t=Zankoku na Yoru ni Kagayake d=2
 
 # 異世界歸來的舅舅（異世界おじさん） | 2022
+OP | story | Mayu Maeshima | d=2
 ED | 一番星ソノリティ | Yuka Iguchi | t=Ichibanboshi Sonority d=2
-
-# 七龍珠（ドラゴンボール） | 1986
-ED | Yeah! Break! Care! Break! | Tanimoto Takeyoshi | d=2
-ED | 心の羽根 | AKB48 | t=Kokoro no Hane d=2
 
 # Rage of Bahamut: Genesis（神撃のバハムート GENESIS） | 2014
 OP | EXiSTENCE | SiM | d=2
@@ -2251,6 +2925,10 @@ OP | 刹那の果実 | Maon Kurosaki | t=Setsuna no Kajitsu d=2
 ED | 黄昏のスタアライト | Yoshino Nanjo | t=Tasogare no Starlight d=2
 ED | Instrumental | Hitoshi Fujima | t=FISSION d=2
 ED | きみを探しに | Yoshino Nanjo | t=Kimi wo Sagashi ni d=2
+
+# 笑園漫畫大王（あずまんが大王 THE ANIMATION） | 2002
+OP | Soramimi Cake | Oranges & Lemons | d=2
+ED | Raspberry Heaven | Oranges & Lemons | d=2
 
 # Sekirei（セキレイ） | 2008
 OP | セキレイ | Saori Hayami, Marina Inoue, Kana Hanazawa, and Aya Endo | t=Sekirei d=2
@@ -2265,6 +2943,17 @@ ED | Snow Globe | tea | d=2
 OP | 飛竜の騎士 | TRUE | t=Hiryuu no Kishi d=2
 ED | ライムツリー | nano.RIPE | t=Lime Tree d=2
 
+# 遊戲王（遊☆戯☆王デュエルモンスターズ） | 2000
+OP | Voice | CLOUD | d=2
+OP | Shuffle | Masami Okui | d=2
+OP | WILD DRIVE | Masato Nagai | d=2
+OP | Warriors | Yuuichi Ikusawa | d=2
+ED | Genki no Shower | Aki Maeda | d=2
+ED | Ano hi no Gogo | Masami Okui | d=2
+ED | Rakuen | CAVE | d=2
+ED | Afureru Kanjou ga Tomaranai | Yuuichi Ikusawa | d=2
+ED | EYES | Yuuichi Ikusawa | d=2
+
 # 玉子爱情故事（たまこラブストーリー） | 2014
 OP | 恋の歌 | Mamedai Kitashirakawa (Keiji Fujiwara) | t=Koi no Uta d=2
 ED | プリンシプル | Aya Suzaki | t=Principle d=2
@@ -2278,6 +2967,7 @@ ED | Other Side | MIYAVI | d=2
 ED | UP | MIYAVI | d=2
 
 # 新·福音戰士劇場版：終（シン・エヴァンゲリオン劇場版𝄇） | 2021
+ED | One Last Kiss | Hikaru Utada | d=2
 ED | Da Capo Version | Hikaru Utada | t=Beautiful World d=2
 
 # Girlfriend, Girlfriend（カノジョも彼女） | 2021
@@ -2304,6 +2994,15 @@ ED | Fantas/HIP Girlfriends! | Nozomi Kaminashi (CV: Lynn), Sayaka Miyata (CV: M
 OP | Fire and Fear | PENGUIN RESEARCH | d=2
 ED | Vocal ver. | Jun Futamata | t=Wistoria: Wand and Sword d=2
 ED | フローズン | TRUE | t=Frozen d=2
+
+# 攻殼機動隊（攻殻機動隊） | 1995
+OP | GET9 | Jillmax (Japanese Terrestrial Broadcast) | d=2
+ED | Lithium Flower | Scott Matthew | d=2
+ED | I Do | Ilaria Graziano (Japanese Terrestrial Broadcast) | d=2
+
+# 數碼寶貝（デジモンアドベンチャー） | 1999
+ED | I Wish | AiM | d=2
+ED | Keep On | AiM | d=2
 
 # Rainbow（RAINBOW 二舎六房の七人） | 2010
 OP | We're not alone | coldrain | d=2
@@ -2344,6 +3043,11 @@ OP | 異世界かるてっと | Ainz (Satoshi Hino), Kazuma (Jun Fukushima), Sub
 ED | 異世界ガールズ♡トーク | Albedo (Yumi Hara), Aqua (Sora Amamiya), Emilia (Rie Takahashi), Tanya (Aoi Yuuki) | t=Isekai Girls♡Talk d=2
 ED | Hollow Veil | nonoc | d=2
 
+# 美少女戰士（美少女戦士セーラームーン） | 1992
+OP | Moonlight Densetsu | DALI | d=2
+ED | Heart Moving | Misae Takamatsu | d=2
+ED | Princess Moon | Ushio Hashimoto | d=2
+
 # Kids on the Slope（坂道のアポロン） | 2012
 OP | 坂道のメロディ | YUKI | t=Sakamichi no Melody d=2
 ED | アルタイル | Motohiro Hata meets Sakamichi no Apollon | t=Altair d=2
@@ -2356,13 +3060,1031 @@ ED | Afro Outro | RZA | d=2
 OP | すているめいと! | IOSYS jk Girls | t=Stalemate! d=2
 ED | ミンナノナマエヲイレテクダサイ | Roka Shibasaki (CV: Kana Hanazawa), Takao (CV: Shizuka Itou) & Funabori (CV: Aki Toyosaki) | t=Minna no Namae wo Irete Kudasai d=2
 
+# Fate/stay night [Heaven's Feel] Ⅲ.春櫻之歌（劇場版「Fate/stay night [Heaven's Feel] III.spring song」） | 2020
+OP | In Early Spring | Shaylee Mary | d=2
+ED | 春はゆく | Aimer | t=Haru wa Yuku d=2
+
+# The Misfit of Demon King Academy Ⅱ（魔王学院の不適合者 II～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～） | 2023
+OP | SEIEN | Lenny code fiction | d=2
+ED | エソア | Momosu Momosu (ももすももす) | t=Esoa d=2
+ED | Ballad Ver. | Momosu Momosu (ももすももす) | t=Esoa d=2
+ED | 魔王讃美歌第五番≪平和≫ | Keiji Inai | t=Maou Sanbika Daigo-ban ≪Heiwa≫ d=2
+
+# Campione!（カンピオーネ！ ～まつろわぬ神々と神殺しの魔王～） | 2012
+OP | BRAVE BLADE! | Megu Sakuragawa | d=2
+ED | Raise | Yui Ogura | d=2
+
+# 少女終末旅行（少女終末旅行） | 2017
+OP | 動く、動く | Chito (Inori Minase) & Yuuri (Yurika Kubo) | t=Ugoku, Ugoku d=2
+ED | Seijaku no Tabiji | Kenichiro Suehiro | d=2
+ED | More One Night | Chito (Inori Minase) & Yuuri (Yurika Kubo) | d=2
+ED | Amadare no Uta | Chito (Inori Minase) & Yuuri (Yurika Kubo) | d=2
+ED | Hitomi ni Utsuru Keshiki ~alternative version~ | Kenichiro Suehiro | d=2
+
+# BLOOD-C（ブラッドシー） | 2011
+OP | spiral | DUSTZ | d=2
+ED | 純潔パラドックス | Nana Mizuki | t=Junketsu Paradox d=2
+
+# 心之谷（耳をすませば） | 1995
+OP | Take Me Home, Country Roads | Olivia Newton-John | d=2
+
+# Amagami SS（アマガミSS） | 2010
+OP | i Love | azusa | d=2
+OP | 君のままで | azusa | t=Kimi no Mama de d=2
+ED | キミの瞳に恋してる | Shizuka Itou | t=Kimi no Hitomi ni Koishiteru d=2
+ED | きっと明日は… | Rina Satou | t=Kitto Ashita wa d=2
+ED | あなたしか見えない | Hiromi Konno | t=Anata Shika Mienai d=2
+ED | 恋はみずいろ | Yukana | t=Koi wa Mizu-iro d=2
+ED | 恋はあせらず | Ryouko Shintani | t=Koi wa Aserazu d=2
+ED | 嘆きの天使 | Kaori Nazuka | t=Nageki no Tenshi d=2
+ED | 恋のゆくえ | Mai Kadowaki | t=Koi no Yukue d=2
+
+# 在那個夏天等待（あの夏で待ってる） | 2012
+OP | sign | Ray | d=2
+ED | ビードロ模様 | Nagi Yanagi | t=Vidro Moyou d=2
+
+# Yamada's First Time: B Gata H Kei（B型H系） | 2010
+OP | おしえて A to Z | Yukari Tamura | t=Oshiete A to Z d=2
+ED | 裸足のプリンセス | Yukari Tamura | t=Hadashi no Princess d=2
+
+# Corpse Party: Tortured Souls（コープスパーティー Tortured Souls -暴虐された魂の呪叫-） | 2013
+OP | 星屑のリング | Asami Imai | t=Hoshikuzu no Ring d=2
+ED | 蛍火 | Yumi Hara | t=Hotaru-bi d=2
+
+# Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs（乙女ゲー世界はモブに厳しい世界です） | 2022
+OP | Silent Minority | Kashitarou Itou (伊東歌詞太郎) | d=2
+ED | selfish | Riko Azuna | d=2
+
+# 棺姬嘉依卡（棺姫のチャイカ） | 2014
+OP | DARAKENA | Iori Nomizu | d=2
+ED | 快楽原理 | coffin princess (CV: Chika Anzai, Saeko Zougou, Yui Makino) | t=Kairaku Genri d=2
+
+# I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too（異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～） | 2023
+OP | 逆転劇 | Tsukuyomi | d=2
+ED | ハチミツ | Shikao Suga | d=2
+
+# 动物新世代 BNA（BNA ビー・エヌ・エー） | 2020
+OP | Ready to | Michiru Kagemori (Sumire Morohoshi) | d=2
+ED | NIGHT RUNNING | AAAMYYY | d=2
+
+# The Kawai Complex Guide to Manors and Hostel Behavior（僕らはみんな河合荘） | 2014
+OP | いつかの、いくつかのきみとのせかい | fhána | t=Itsuka no, Ikutsuka no Kimi to no Sekai d=2
+ED | My Sweet Shelter | Ritsu Kawai (CV: Kana Hanazawa), Mayumi Nishikino (CV: Rina Satou), Sayaka Watanabe (CV: Hisako Kanemoto) | d=2
+
+# 仙王的日常生活（仙王的日常生活） | 2020
+OP | 仙 | Wei Bo En (韦伯恩) | t=Xian d=2
+ED | 恍然那时 | Ziqi Zhou (周梓琦) | t=Die Ran Na Shi d=2
+
+# Record of Ragnarok（終末のワルキューレ） | 2021
+OP | KAMIGAMI-神噛- | Maximum the Hormone | t=Kamigami d=2
+ED | 不可避 | SymaG | t=Fukahi d=2
+
+# 不會拿捏距離的阿波連同學（阿波連さんははかれない） | 2022
+OP | はなれない距離 | TrySail | t=Hanarenai Kyori d=2
+ED | キョリ感 | HaKoniwalily (ハコニワリリィ) | t=Kyori-kan d=2
+ED | AHAREN HEART | Reina Aharen (CV: Inori Minase) | d=2
+
+# Jormungand（ヨルムンガンド） | 2012
+OP | Borderland | Mami Kawada | d=2
+ED | Ambivalentidea | Nagi Yanagi | d=2
+ED | 白くやわらかな花 | Nagi Yanagi | t=Shiroku Yawaraka na Hana d=2
+
+# Science Fell in Love, So I Tried to Prove It（理系が恋に落ちたので証明してみた。） | 2020
+OP | PARADOX | Sora Amamiya | d=2
+ED | チューリングラブ feat.Sou | Akari Nanawo | t=Turing Love feat.Sou d=2
+
+# 為美好的世界獻上爆焰！（この素晴らしい世界に爆焔を！） | 2023
+OP | STAY FREE | Machico | d=2
+ED | JUMP IN | Megumin (CV: Rie Takahashi), Yunyun (CV: Aki Toyosaki) | d=2
+
+# Hundred（ハンドレッド） | 2016
+OP | BLOODRED | D-selections | d=2
+ED | EYES ON ME | Emilia (Rumi Ookubo) & Sakura (Mayu Yoshioka) | d=2
+ED | TABOOLESS | Claire (M.A.O) & Liddy (Rika Kinugawa) & Erica (Yui Makino) | d=2
+ED | Hardy Buddy | Reitia (Yuka Ootsubo) & Fritz (Wataru Hatano) | d=2
+ED | Jewels Of Love | Sakura (Mayu Yoshioka) & Karen (Kaya Okuno)( | d=2
+
+# Berserk (2016)（ベルセルク） | 2016
+OP | Inferno | 9mm Parabellum Bullet | d=2
+ED | 瞑目の彼方 | Nagi Yanagi | t=Meimoku no Kanata d=2
+
+# 血戰（ブラッドプラス） | 2005
+OP | 青空のナミダ | Hitomi Takahashi | t=Aozora no Namida d=2
+OP | SEASON’S CALL | HYDE | d=2
+OP | Colors of the Heart | UVERworld | d=2
+OP | 雷音 | Jinn | t=Raion d=2
+ED | Kataritsugu koto | Chitose Hajime | d=2
+ED | CRY NO MORE | Mika Nakashima | d=2
+ED | This Love | Angela Aki | d=2
+ED | Brand New Map | K | d=2
+
+# 借物少女艾莉緹（借りぐらしのアリエッティ） | 2010
+OP | The Neglected Garden | Cécile Corbel | d=2
+
+# Love Tyrant（恋愛暴君） | 2017
+OP | 恋？で愛？で暴君です！ | Wake Up, Girls! | t=Koi? de Ai? de Boukun desu! d=2
+ED | 「スキ」を教えて | smileY inc. | t=Suki' wo Oshiete d=2
+ED | 「スキ」を教えてください | Guri (Yoshino Aoyama) | t=Suki' wo Oshiete Kudasai d=2
+
+# 亚尔斯兰战记（アルスラーン戦記） | 2015
+OP | 僕の言葉ではない これは僕達の言葉 | UVERworld | t=Boku no Kotoba de wa Nai, Kore wa Bokutachi no Kotoba" d=2
+OP | 渦と渦 | NICO Touches the Walls | t=Uzu to Uzu d=2
+ED | ラピスラズリ | Eir Aoi | t=Lapis Lazuli d=2
+ED | One Light | Kalafina | d=2
+
+# 因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生（真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました） | 2021
+OP | 息を吸うここで吸う生きて | Yui Nishio (ゆいにしお) | t=Iki wo Suu Koko de Suu Ikite d=2
+ED | みんなおなじ | JYOCHO | t=Minna Onaji d=2
+
+# 我的幸福婚約（わたしの幸せな結婚） | 2023
+OP | 貴方の側に。 | Riria. (りりあ。) | t=Anata no Soba ni. d=2
+
+# Lord Marksman and Vanadis（魔弾の王と戦姫 (ヴァナディース)） | 2014
+OP | 銀閃の風 | Konomi Suzuki | t=Ginsen no Kaze d=2
+ED | Schwarzer Bogen | Hitomi Harada | d=2
+ED | 竜星鎮魂歌 | Konomi Suzuki | t=Ryuusei Chinkonka d=2
+
+# Kaiji: Ultimate Survivor（逆境無頼カイジ Ultimate Survivor） | 2007
+OP | Mirai wa Bokura no Te no Naka | Kaiji with Redbourn Cherries | d=2
+ED | 負け犬達のレクイエム | Hakuryuu | t="Makeinu-tachi no Requiem d=2
+
+# 全職高手（全职高手） | 2017
+OP | 信仰 | Zhang Jie (张杰) | t=Xin Yang d=2
+ED | 荣耀再临 | Da Dan Yin Zu (大胆音组) | t=Rong Yao Zai Lin d=2
+
+# 漂流少年（Sonny Boy (サニーボーイ)） | 2021
+ED | 少年少女 | GING NANG BOYZ (銀杏BOYZ) | t=Shounen Shoujo d=2
+
+# Aria the Scarlet Ammo（緋弾のアリア） | 2011
+OP | Scarlet Ballet | May'n | d=2
+ED | カメリアの瞳 | Aiko Nakano | t=Camellia no Hitomi d=2
+
+# Space Dandy（スペース☆ダンディ） | 2014
+OP | ビバナミダ | Yasuyuki Okamura | t=Viva Namida d=2
+ED | X次元へようこそ | Etsuko Yakushimaru | t=X Jigen e Youkoso d=2
+
+# Skeleton Knight in Another World（骸骨騎士様、只今異世界へお出掛け中） | 2022
+OP | 嗚呼、我が浪漫の道よ | PelleK | t=Aah, Waga Rouman no Michi yo d=2
+ED | 僕らが愚かだなんて誰が言った | DIALOGUE＋ | t=Bokura ga Orokadanante Dare ga Itta d=2
+
+# Why the Hell are You Here, Teacher!?（なんでここに先生が!?） | 2019
+OP | ボン♡キュッ♡ボンは彼のモノ♡ | Sumire Uesaka | t=Bon♡Kyu♡Bon wa Kare no Mono♡ d=2
+ED | りんご色メモリーズ | Kana Kojima (Sumire Uesaka) | t=Ringo-iro Memories d=2
+
+# 關於我轉生變成史萊姆這檔事 轉生史萊姆日記（転スラ日記 転生したらスライムだった件） | 2021
+OP | Brand new diary | Akane Kumada | d=2
+ED | カモナ・テンペスト！ | Rimuru (Miho Okasaki), Great Sage (Megumi Toyoguchi), Veldora (Maeno Tomoaki), Shuna (Sayaka Senbongi), Shion (M.A.O), Ranga (Chikahiro Kobayashi), Gobuta (Asuna Tomari) | t=Kamona Tempest! d=2
+ED | おやすみオレンジ | Rimuru (Miho Okasaki) | t=Oyasumi Orange d=2
+
+# 終將成為妳（やがて君になる） | 2018
+OP | 君にふれて | Riko Azuna | t=Kimi ni Furete d=2
+ED | hectopascal | Yuu Koito (CV: Yuuki Takada), Touko Nanami (CV: Minako Kotobuki) | d=2
+ED | 好き, 以外の言葉で | Yuu Koito (CV: Yuuki Takada), Touko Nanami (CV: Minako Kotobuki) | t=Suki, Igai no Kotoba de d=2
+
+# High-Rise Invasion（天空侵犯） | 2021
+OP | HON-NO | EMPiRE | d=2
+ED | わたしの名はブルー | Have a Nice Day! | t=Watashi no na wa Blue d=2
+
+# 我們的重製人生（ぼくたちのリメイク） | 2021
+OP | ここから先は歌にならない | Poppin'Party | t=Koko kara Saki wa Uta ni Naranai d=2
+ED | 可能性 | Argonavis | t=Kanousei d=2
+
+# Hell Girl（地獄少女） | 2005
+OP | 逆さまの蝶 | SNoW | t=Sakasama no Chou d=2
+ED | かりぬい | Mamiko Noto | t=Karinui d=2
+
+# 殺戮都市（ガンツ） | 2004
+OP | Super Shooter | Rip Slyme | d=2
+ED | Last Kiss | Bonnie Pink | d=2
+
+# The Helpful Fox Senko-san（世話やきキツネの仙狐さん） | 2019
+OP | 今宵mofumofu!! | Senko (Azumi Waki), Shiro (Maaya Uchida) | t=Koyoi mofumofu!! d=2
+ED | もっふもっふ DE よいのじゃよ | Senko (Azumi Waki), Shiro (Maaya Uchida) | t=Moffumoffu DE Yoi no Ja yo d=2
+
+# Outbreak Company（アウトブレイク・カンパニー） | 2013
+OP | ユニバーページ | Suzuko Mimori | t=Univer Page d=2
+ED | 私の宝石箱 | Petrarca Ann Erudanto III (CV: Fuchigami Mai) | t=Watashi no Houseibako d=2
+
+# Blade Dance of the Elementalers（精霊使いの剣舞〈ブレイドダンス〉） | 2014
+OP | 共鳴のTrue Force | Hitomi Harada | t=Kyoumei no True Force d=2
+ED | 精霊剣舞祭＜ブレイドダンス＞ | Ni-Sokkususu [Claire Rouge (Ibuki Kido), Rinslet Laurenfrost (Kana Yuuki), Ellis Fahrengart (Shizuka Ishigami), Fianna Ray Ordesia (Saori Oonishi), Terminus Est (Ai Kakuma)] | t=Blade Dance d=2
+
+# Special A (S.A)（スペシャル・エー） | 2008
+OP | Special Days | Hitomi Nabatame, Yuuko Gotou, Ayahi Takagaki | d=2
+OP | Gorgeous 4U | Jun Fukuyama, Hiro Shimono, Tsubasa Yonaga, Kazuma Horie | d=2
+ED | 陽だまりのゲート | Jun Fukuyama, Hiro Shimono, Tsubasa Yonaga, Kazuma Horie | t=Hidamari no Gate d=2
+ED | スペシャル☆ギュッとGood luck! | Yuuko Gotou, Hitomi Nabatame, Ayahi Takagaki | t=Special☆Gyutto Good Luck! d=2
+
+# 通靈王（シャーマンキング） | 2001
+OP | Northern Lights | Megumi Hayashibara | d=2
+ED | Trust You | Megumi Hayashibara | d=2
+ED | おもかげ | Megumi Hayashibara | t=Omokage d=2
+ED | 魂魄重ねて | Yuuko Satou | t=Tamashii Kasanete d=2
+
+# Talentless Nana（無能なナナ） | 2020
+OP | Broken Sky | Miyu Tomita | d=2
+ED | バケモノと呼ばれて | Chiai Fujikawa | t=Bakemono to Yobarete d=2
+
+# 前輩有夠煩（先輩がうざい後輩の話） | 2021
+OP | アノーイング！さんさんウィーク！ | Futaba Igarashi (CV: Tomori Kusunoki), Touko Sakurai (CV: Saori Hayami), Natsumi Kurobe (CV: Reina Aoyama), Mona Tsukishiro (CV: Aoi Koga) | t=Annoying! San San Week! d=2
+ED | 虹が架かるまでの話 | Yui Horie | t=Niji ga Kakaru Made no Hanashi d=2
+
+# Ascendance of a Bookworm（本好きの下剋上 ～司書になるためには手段を選んでいられません～） | 2019
+OP | 真っ白 | Sumire Morohoshi (諸星すみれ) | t=Masshiro d=2
+ED | 髪飾りの天使 | Megumi Nakajima | t=Kamikazari no Tenshi d=2
+
+# 槍彈辯駁3 －The End of 希望峰學園－（ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編） | 2016
+OP | DEAD OR LIE | Maon Kurosaki and feat.TRUSTRICK | d=2
+ED | Recall THE END | TRUSTRICK | d=2
+
+# 火影忍者劇場版 忍者之路（ROAD TO NINJA NARUTO THE MOVIE） | 2012
+ED | それでは、また明日 | ASIAN KUNG-FU GENERATION | t=Soredewa Mata Ashita d=2
+
+# 湊B同學仔（学園ベビーシッターズ） | 2018
+OP | Endless happy world | Daisuke Ono | d=2
+ED | おしえてョ | Hyorotto Danshi (ひょろっと男子) (Koutarou Nishiyama & Yuuichirou Umehara) | t=Oshiete yo d=2
+
+# Beck: Mongolian Chop Squad（ベック） | 2004
+OP | Hit in the USA | Beat Crusaders | d=2
+ED | My World Down | Meister | d=2
+ED | Moon on the Water | Sowelu | d=2
+ED | Slip Out | Beck/Mongolian Chop Squad | d=2
+
+# 名偵探柯南（名探偵コナン） | 1996
+OP | 胸がドキドキ | the High-Lows | t=Mune ga Dokidoki d=2
+OP | Feel Your Heart | Velvet Garden | d=2
+OP | 謎 | Miho Komatsu (小松未歩) | t=Nazo d=2
+OP | 運命のルーレット廻して | ZARD | t=Unmei no Roulette Mawashite d=2
+OP | Truth | Two-Mix | d=2
+OP | ギリギリchop | B'z | t=Girigiri Chop d=2
+OP | Mysterious Eyes | Garnet Crow | d=2
+OP | 恋はスリル、ショック、サスペンス | Rina Aiuchi | t=Koi wa Thrill, Shock, Suspense d=2
+OP | Destiny | Miki Matsuhashi (松橋未樹) | d=2
+OP | Winter Bells | Mai Kuraki | d=2
+OP | I can't stop my love for you♥ | Rina Aiuchi | d=2
+OP | 風のららら | Mai Kuraki | t=Kaze no Lalala d=2
+OP | 君と約束した優しいあの場所まで | U-ka saegusa IN db | t=Kimi to Yakusoku Shita Yasashii Ano Basho Made d=2
+OP | Start | Rina Aiuchi | d=2
+OP | 星のかがやきよ | ZARD | t=Hoshi no Kagayakiyo d=2
+OP | Growing of My heart | Mai Kuraki | d=2
+OP | 衝動 | B'z | t=Shoudou d=2
+OP | 100もの扉 | Rina Aiuchi & U-ka Saegusa | t=100 Mono Tobira d=2
+OP | 雲に乗って | U-ka saegusa IN db | t=Kumo ni Notte d=2
+OP | 涙のイエスタデー | Garnet Crow | t=Namida no Yesterday d=2
+OP | Glorious Mind | ZARD | d=2
+OP | 愛は暗闇の中で | ZARD | t=Ai wa Kurayami no Naka de d=2
+OP | 一秒ごとに Love for you | Mai Kuraki | t=Ichibyou goto ni Love for you d=2
+OP | MYSTERIOUS | Naifu | d=2
+OP | Revive | Mai Kuraki | d=2
+OP | Everlasting Luv | BREAKERZ | d=2
+OP | MAGIC | Rina Aiuchi | d=2
+OP | As the Dew | GARNET CREW | d=2
+OP | SUMMER TIME GONE | Mai Kuraki | d=2
+OP | tear drops | Caos Caos Caos | d=2
+OP | Don’t Wanna Lie | B'z | d=2
+OP | Misty Mystery | GARNET CROW | d=2
+OP | Miss Mystery | BREAKERZ | d=2
+OP | 君の涙にこんなに恋してる | Natsu Iro | t=Kimi no Namida ni Konna ni Koi Shiteru d=2
+OP | TRY AGAIN | Mai Kuraki | d=2
+OP | Q&A | B'z | d=2
+OP | Butterfly Core | VALSHE | d=2
+OP | Greed | KNOCK OUT MONKEY | d=2
+OP | DYNAMITE | Mai Kuraki | d=2
+OP | WE GO | BREAKERZ | d=2
+OP | 羽 | Koushi Inaba | t=Hane d=2
+OP | 世界はあなたの色になる | B'z | t=Sekai wa Anata no Iro ni Naru d=2
+OP | 幾千の迷宮で 幾千の謎を解いて | BREAKERZ | t=Ikusen no Meikyuu de Ikusen no Nazo wo Doite d=2
+OP | Lie, Lie, Lie, | Maki Ohguro | d=2
+OP | Everything OK!! | Cellchrome | d=2
+OP | カウントダウン | NormCore | t=Countdown d=2
+OP | タイムライン | dps | t=Timeline d=2
+OP | 薔薇色の人生 | Mai Kuraki | t=Barairo no Jinsei d=2
+OP | ANSWER | Only this time (Takuto x Miyakawa-kun) | d=2
+OP | 真っ赤なLip | WANDS | t=Makka na Lip d=2
+OP | JUST BELIEVE YOU | all at once | d=2
+OP | ZEROからハジメテ | Mai Kuraki | t=ZERO kara Hajimete d=2
+OP | YURA YURA | WANDS | d=2
+OP | SLEEPLESS | B'z | d=2
+OP | SPARKLE | Maki Ohguro | d=2
+OP | RAISE INSIGHT | WANDS | d=2
+OP | Unraveling Love 〜少しの勇気〜 | Mai Kuraki | t=Unraveling Love ~Sukoshi no Yuuki~ d=2
+OP | But ノーラヴ | Rainy. | t=But No Love d=2
+OP | Poker Face | Amyuri (あみゅり) | d=2
+OP | Heaven Knows | B'z | d=2
+OP | 愛のFIRE | Leon Niihama | t=Ai no Fire d=2
+ED | Step by Step | Ziggy | d=2
+ED | 迷宮のラヴァーズ | heath | t=Meikyuu no Lovers d=2
+ED | 光と影のロマン | Keiko Utoko (宇徳敬子) | t=Hikari to Kage no Roman d=2
+ED | 君がいない夏 | DEEN | t=Kimi ga Inai Natsu d=2
+ED | 願い事ひとつだけ | Miho Komatsu | t=Negai goto Hitotsu Dake d=2
+ED | 氷の上に立つように | Miho Komatsu | t=Koori no Ue ni Tatsu You ni d=2
+ED | Still for Your Love | Rumania Montevideo | d=2
+ED | Free Magic | WAG | d=2
+ED | 夏の幻 | Garnet Crow | t=Natsu no Maboroshi d=2
+ED | Start in my life | Mai Kuraki | d=2
+ED | always | Mai Kuraki | d=2
+ED | 青い青いこの地球に | Azumi Uehara (上原あずみ) | t=Aoi Aoi Kono Hoshi ni d=2
+ED | 夢みたあとで | Garnet Crow | t=Yumemita Ato de d=2
+ED | 無色 | Azumi Uehara | t=Mushoku d=2
+ED | Overture | Koshi Inaba (稲葉浩志) | d=2
+ED | 明日を夢見て | ZARD | t=Ashita wo Yumemite d=2
+ED | 君という光 | Garnet Crow | t=Kimi to iu Hikari d=2
+ED | 眠る君の横顔に微笑みを | U-ka saegusa IN db | t=Nemuru Kimi no Yokogao ni Hohoemi wo d=2
+ED | 忘れ咲き | GARNET CROW | t=Wasurezaki d=2
+ED | ジューンブライド～あなたしか見えない～ | U-ka saegusa IN db | t=June Bride ~Anata shika Mienai~ d=2
+ED | 世界止めて | Shiori Takei (竹井詩織里) | t=Sekai Tomete d=2
+ED | Thank You For Everything | Iwata Sayuri (岩田さゆり) | d=2
+ED | 悲しいほど貴方が好き | ZARD | t=Kanashii hodo Anata ga Suki d=2
+ED | もう君だけを離したりはしない | Aya Kamiki (上木彩矢) | t=Mou Kimi dake wo Hanashitari Shinai d=2
+ED | Shiroi Yuki | Mai Kuraki | d=2
+ED | I still believe～ため息～ | Yumi Shizukusa (滴草由実) | t=I still believe ~Tameiki~ d=2
+ED | 世界はまわると言うけれど | Garnet Crow | t=Sekai wa mawaru to iu Keredo d=2
+ED | 雪どけのあの川の流れのように | U-ka saegusa IN db | t=Yukidoke no Ano Kawa no Nagare no You ni d=2
+ED | Summer Memories | Aya Kamiki | d=2
+ED | Go Your Own Way | Yumi Shizukusa | d=2
+ED | 恋心輝きながら | Naifu | t=Koigokoro Kagayaki nagara d=2
+ED | Doing All Right | Garnet Crow | d=2
+ED | 光 | BREAKERZ | t=Hikari d=2
+ED | Hello Mr. My Yesterday | Hundred Percent Free | d=2
+ED | Tomorrow is the last Time | Mai Kuraki | d=2
+ED | 十五夜クライシス 君に逢いたい | Hundred Percent Free | t=Juugoya Crisis ~Kimi ni Aitai~ d=2
+ED | 月夜の悪戯の魔法 | BREAKERZ | t=Tsukiyo no Itazura no Mahou d=2
+ED | 39: "Pilgrim (ピルグリム") by B'z (eps 627-628, w. Kaito Specials) "Your Best Friend | Mai Kuraki | d=2
+ED | 悲しいほど 今日の夕陽 きれいだね | grram | t=Kanashii hodo Kyou no Yuuhi Kirei dane d=2
+ED | オーバーライト | BREAKERZ | t=Overwrite d=2
+ED | 恋に恋して | Mai Kuraki | t=Koi ni Koishite d=2
+ED | 瞳のメロディ | BOYFRIEND | t=Hitomi no Melody d=2
+ED | 君の笑顔がなによりも好きだった | Chikago Poodle | t=Kimi no Egao ga Naniyori mo Sukidatta d=2
+ED | いま逢いたくて… | DAIGO | t=Ima Aitakute... d=2
+ED | Rain Man | AKIHIDE | d=2
+ED | 無敵なハート | Mai Kuraki | t=Muteki na Heart d=2
+ED | 君への嘘 | VALSHE | t=Kimi e no Uso d=2
+ED | ふたりの秒針 | Takuto (焚吐) | t=Futari no Byoushou d=2
+ED | SAWAGE☆LIFE | Mai Kuraki | d=2
+ED | YESTERDAY LOVE | Mai Kuraki | d=2
+ED | 夢物語 | BREAKERZ | t=Yume Monogatari d=2
+ED | 渡月橋 〜君 想ふ〜 | Mai Kuraki | t=Togetsugyou ~Kimi Omou~ d=2
+ED | 神風エクスプレス | Takuto x Miyakawa-kun (焚吐×みやかわくん) | t=Kamikaze Express d=2
+ED | さだめ | First place | t=Sadame d=2
+ED | Aozolighter | Cellchrome | d=2
+ED | きみと恋のままで終われない いつも夢のままじゃいられない | Mai Kuraki | t=Kimi to Koi no mama de Owarenai Itsumo Yume no mama ja Irarenai d=2
+ED | Sissy Sky | Airi Miyakawa (宮川愛李) | d=2
+ED | 少しづつ 少しづつ | SARD UNDERGROUND | t=Sukoshizutsu Shikushizutsu d=2
+ED | 星合 | all at once | t=Hoshiai d=2
+ED | Reboot | Airi Miyakawa (宮川愛李) | d=2
+ED | ベロニカ | Mai Kuraki | t=Veronika d=2
+ED | SWEET MOONLIGHT | BREAKERZ | d=2
+ED | 空っぽの心 | SARD UNDERGROUND | t=Karappo no Kokoro d=2
+ED | プレイメーカー | all at once feat. Yudai Ohno (大野雄大) from Da-iCE | t=Playmaker d=2
+ED | Kuufuku (starring VALSHE) (クウフク (starring VALSHE)) | Konya, Anomachikara (今夜、あの街から) | d=2
+ED | ...and Rescue Me | Rainy. | d=2
+ED | You & I | Mai Kuraki | d=2
+ED | 夢で逢いましょう | SARD UNDERGROUND | t=Yume de Aimashou d=2
+ED | Shooting star | WAND | d=2
+ED | Fun! Fun! Fun! | Leon Niihama | d=2
+ED | TOWA: Towa ni Kaze ni Noru [TOWA ~永遠（とわ）に風に乗る] | Mai Kuraki | d=2
+ED | 7DAYS | Rainy. | d=2
+
+# O Maidens in Your Savage Season（荒ぶる季節の乙女どもよ。） | 2019
+OP | ⼄⼥どもよ。 | CHiCO with HoneyWorks | t=Otome-domo yo. d=2
+ED | ユメシンデレラ | Momo Asakura | t=Yume Cinderella d=2
+
+# Mushoku Tensei: Jobless Reincarnation Season 3（無職転生 III ～異世界行ったら本気だす～） | 2026
+OP | 決意の唄 | Yuiko Ohara (大原ゆい子) | t=Ketsui no Uta d=2
+OP | 芽吹の唄 | Yuiko Ohara (大原ゆい子) | t=Mebuki no Uta d=2
+OP | 光の唄 | Yuiko Ohara (大原ゆい子) | t=Hikari no Uta d=2
+ED | 祈り、終われば | Mika Nakashima (中島美嘉) | t=Inori, Owareba d=2
+ED | 一縷 | Yuiko Ohara (大原ゆい子) | t=Ichiru d=2
+
+# Real Girl（3D彼女 リアルガール） | 2018
+OP | だいじなこと | Quruli | t=Daiji na Koto d=2
+ED | HiDE the BLUE | BiSH | d=2
+
+# Nyaruko: Crawling With Love!（這いよれ！ニャル子さん） | 2012
+OP | 太陽曰く燃えよカオス | Ushirokara Haiyoritai G | t=Taiyou Iwaku Moeyo Chaos d=2
+ED | ずっと Be with you | RAMM ni Haiyoru Nyaruko-san | t=Zutto Be with you d=2
+ED | 禍々しくも聖なるかな | Ushirokara Haiyoritai | t=Magamagashiku mo Sei Naru kana d=2
+
+# Diabolik Lovers（DIABOLIK LOVERS） | 2013
+OP | Mr.SADISTIC NIGHT | Ayato Sakamaki (Hikaru Midorikawa) & Shuu Sakamaki (Kousuke Toriumi) | d=2
+ED | nightmare | Yuuki Hayashi | d=2
+
+# Arakawa Under the Bridge（荒川アンダー ザ ブリッジ） | 2010
+OP | ヴィーナスとジーザス | Etsuko Yakushimaru | t=Venus to Jesus d=2
+OP | Title nante Jibun de Kangaenasaina （タイトルなんて自分で考えなさいな) | Maria (Miyuki Sawashiro) | d=2
+ED | 逆様ブリッジ | Suneohair | t=Sakasama Bridge d=2
+
+# Air Gear（エア・ギア） | 2006
+OP | Chain | Back-on | d=2
+ED | Sky-2-High | skankfunk | d=2
+
+# I Can't Understand What My Husband Is Saying（旦那が何を言っているかわからない件） | 2014
+ED | いいかげんにして、あなた | Kaoru & Hajime (Yukari Tamura & Kenichi Suzumura) | t=Iikagen ni Shite, Anata d=2
+ED | 奥様のブルース | Kaoru, Rino Juse, Tanaka-san (Yukari Tamura, Rie Kugimiya, Ryouko Shintani) | t=Okusama no Blues d=2
+
+# 物怪（モノノ怪） | 2007
+OP | Kagen no Tsuki | Ryouta Komatsu and Charlie Kosei | d=2
+ED | Natsu no Hana | JUJU | d=2
+
+# Keep Your Hands Off Eizouken!（映像研には手を出すな!） | 2020
+OP | Easy Breezy | chelmico | d=2
+ED | 名前のない青 | Kamisama, Boku wa Kizuite shimatta (神様、僕は気づいてしまった) | t=Namae no Nai Ao d=2
+
+# Witch Craft Works（ウィッチクラフトワークス） | 2014
+OP | divine intervention | fhána | d=2
+ED | ウィッチ☆アクティビティ | KMM Dan (KMM団) Tanpopo Kuraishi (CV: Shiori Izawa), Tsurupeta (CV: Momo Asakura), Twintail (CV: Shiina Natsukawa), Gantai (CV: Yuuko Iida), and Deko (CV: Natsumi Hioka) | t=Witch☆Activity d=2
+
+# Assassins Pride（アサシンズプライド） | 2019
+OP | Share the light | Run Girls, Run! | d=2
+ED | 異人たちの時間 | Melida Angel (Tomori Kusunoki) | t=Ijin-tachi no Jikan d=2
+
+# Isekai Cheat Magician（異世界チート魔術師〈マジシャン〉） | 2019
+OP | PANTA RHEI | MYTH & ROID | d=2
+ED | 小さな想い | Rin Azuma (CV: Rie Takahashi) | t=Chiisana Omoi d=2
+
+# B：彼之初（B: The Beginning） | 2018
+ED | The Perfect World | Marty Friedman feat. Jean-Ken Johnny, KenKen | d=2
+
+# A Sister's All You Need（妹さえいればいい。） | 2017
+OP | 明日の君さえいればいい。 | ChouCho | t=Ashita no Kimi sae Ireba Ii. d=2
+ED | どんな星空よりも、どんな思い出よりも | Aira Yuuki | t=Donna Hoshizora yori mo, Donna Omoide yori mo d=2
+ED | 第六感のミストレス | Manami Numakura | t=Dairokkan no Mistress d=2
+ED | イノセント・ラブリー | Akane Fujita | t=Innocent Lovely d=2
+
+# Black Rock Shooter（ブラック★ロックシューター） | 2012
+OP | ブラック★ロックシューター | supercell feat. Hatsune Miku | t=Black★Rock Shooter d=2
+ED | 僕らのあしあと | supercell | t=Bokura no Ashiato d=2
+
+# The Troubled Life of Miss Kotoura（琴浦さん） | 2013
+OP | そんなこと裏のまた裏話でしょ? | Megumi Nakajima | t=Sonna Koto Ura no Mata Urabanashi Desho? d=2
+ED | 希望の花 | Haruka Chisuga (千菅春香) | t=Kibou no Hana d=2
+ED | ESP研のテーマ | ESP Kenkyuukai (ESP研究会) | t=ESP Ken no Theme d=2
+ED | つるぺた | Hisako Kanemoto | t=Tsurupeta d=2
+
+# Sayonara, Zetsubou-Sensei（さよなら絶望先生） | 2007
+OP | 人として軸がぶれている | Kenji Ohtsuki feat. Ai Nonaka, Marina Inoue, Yu Kobayashi, Miyuki Sawashiro & Ryoko Shintani | t=Hito toshite Jiku ga Bureteiru d=2
+OP | Gouin ni Mai Yeah~ | Ai Nonaka, Marina Inoue, Yu Kobayashi, Miyuki Sawashiro & Ryoko Shintani | d=2
+ED | 絶世美人 | Ai Nonaka, Marina Inoue, Yu Kobayashi & Ryoko Shintani | t=Zessei Bijin d=2
+
+# Buddy Daddies 殺手奶爸（Buddy Daddies） | 2023
+OP | SHOCK! | Ayase | d=2
+ED | My Plan | DURDN | d=2
+
+# 來自繽紛世界的明日（色づく世界の明日から） | 2018
+OP | 17 Sai | Haruka to Miyuki (ハルカトミユキ) | d=2
+ED | 未明の君と薄明の魔法 | Nagi Yanagi | t=Mimei no Kimi to Hakumei no Mahou d=2
+
+# Welcome to the Ballroom（ボールルームへようこそ） | 2017
+OP | 10% roll, 10% romance | UNISON SQUARE GARDEN | d=2
+OP | Invisible Sensation | UNISON SQUARE GARDEN | d=2
+ED | Maybe the next waltz | Mikako Komatsu | d=2
+ED | Swing heart direction | Mikako Komatsu | d=2
+
+# 指尖相觸，戀戀不捨（ゆびさきと恋々） | 2024
+OP | 雪の音 | Novelbright | t=Yuki no Ne d=2
+ED | snowspring | ChoQMay (チョーキューメイ) | d=2
+
+# Blue Box（アオのハコ） | 2024
+OP | Same Blue | Official HIGE DANdism (Official髭男dism) | d=2
+OP | 然らば | Macaroni Empitsu (マカロニえんぴつ) | t=Saraba d=2
+ED | ティーンエイジブルー | Eve | t=Teenage Blue d=2
+ED | コントラスト | TOMOO | t=Contrast d=2
+
+# Nanbaka（ナンバカ） | 2016
+OP | Rin! Rin! Hi! Hi! | Hashiguchikanaderiya (ハシグチカナデリヤ) hugs The Super Ball | d=2
+ED | ナンバカ脱獄理論♪！ | Juugo (Yuto Uemura), Uno (Tetsuya Kakihara), Rock (Ire Shiozaki), Nico (Daiki Kobayashi), Hajime Sugoroku (Tomokazu Seki) | t=Nanbaka Datsugoku Riron♪! d=2
+
+# Hensuki: Are you willing to Fall in Love with a Pervert, as long as she's a Cutie?（可愛ければ変態でも好きになってくれますか？） | 2019
+OP | ダイスキ。 | Ayaka Ohashi | t=Daisuki. d=2
+ED | 無謬の花 | Mia REGINA | t=Mubyuu no Hana d=2
+ED | ステラ | TRUE | t=Stella d=2
+
+# 翠星上的加爾岡緹亞（翠星のガルガンティア） | 2013
+OP | この世界は僕らを待っていた | Minori Chihara | t=Kono Sekai wa Bokura wo Matteita d=2
+ED | 空とキミのメッセージ | ChouCho | t=Sora to Kimi no Message d=2
+
+# 勇者、辭職不幹了（勇者、辞めます） | 2022
+OP | BROKEN IDENTITY | Minori Suzuki | d=2
+ED | Growing | Nao Touyama | d=2
+ED | de messiah | Nao Touyama | d=2
+
+# Mysterious Girlfriend X（謎の彼女X） | 2012
+OP | 恋のオーケストラ | Ayako Yoshitani | t=Koi no Orchestra d=2
+ED | 放課後の約束 | Ayako Yoshitani | t=Houkago no Yakusoku d=2
+
+# Sentenced to Be a Hero（勇者刑に処す 懲罰勇者9004隊刑務記録） | 2026
+OP | Kill the Noise | SPYAIR | d=2
+
+# The Faraway Paladin（最果てのパラディン） | 2021
+OP | The Sacred Torch | H-el-ical// | d=2
+ED | 標火 | Nagi Yanagi | t=Shirushibi d=2
+
+# 章魚嗶的原罪（タコピーの原罪） | 2025
+OP | ハッピーラッキーチャッピー | ano | t=Happy Lucky Chappy d=2
+ED | がらすの線 | Tele | t=Glass no Sen d=2
+ED | 硝子の線 | Tele | t=Glass no Sen d=2
+
+# Kino's Journey（キノの旅 -the Beautiful World-） | 2003
+OP | All the Way | Mikuni Shimokawa | d=2
+ED | The Beautiful World | Ai Maeda | d=2
+
+# Gintama: Enchousen（銀魂' 延長戦） | 2012
+OP | LET'S GO OUT | Amoyamo | d=2
+OP | まんたま | Tsu Terakado ♀ with Houkago Happy Hour (寺門通♀ with 放課後ハッピーアワー) | t=Mantama d=2
+OP | サクラミツツキ | Spyair | t=Sakura Mitsutsuki d=2
+OP | エクスペクト | Page | t=Expect d=2
+ED | ムーンウォーク | Monobright | t=Moonwalk d=2
+
+# Undead Unluck（アンデッドアンラック） | 2023
+OP | 01 | Ziyoou-vachi | d=2
+OP | ラブコール | Shiyui | t=Love Call d=2
+ED | know me... | Kairi Yagi | d=2
+ED | この愛に敵うもんはない | OKAMOTO'S | t=Kono Ai ni Kanau Mon wa Nai d=2
+
+# Our Last Crusade or the Rise of a New World（キミと僕の最後の戦場、あるいは世界が始まる聖戦） | 2020
+OP | Against. | Kaori Ishihara | d=2
+ED | 氷の鳥籠 | Aliceliese Lou Nebulis IX (Sora Amamiya) | t=Koori no Torikago d=2
+
+# K-ON!（映画 けいおん！） | 2011
+OP | いちばんいっぱい | HTT (Houkago Tea Time) | t=Ichiban Ippai d=2
+ED | Singing! | HTT (Houkago Tea Time) | d=2
+
+# Phantom ～幻靈鎮魂曲～（Phantom 〜Requiem for the Phantom〜） | 2009
+OP | Karma | KOKIA | d=2
+OP | 戦慄の子供たち | ALI PROJECT | t=Senritsu no Kodomotachi d=2
+ED | 地獄の門 | ALI PROJECT | t=Jigoku no Mon d=2
+ED | Transparent | KOKIA | d=2
+
+# 極黑的布倫希爾特（極黒のブリュンヒルデ） | 2014
+OP | BRYNHILDR IN THE DARKNESS -Ver. EJECTED- | Nao Tokisawa (鴇沢 直) | d=2
+OP | Virtue and Vice | Fear, and loathing in Las Vegas | d=2
+ED | いちばん星 | Neko Kuroha (CV: Risa Taneda), Kana Tachibana (CV: Aya Suzaki), Kazumi Schlierenzauer (CV: Mao Ichimichi), Kotori Takatori (CV: Azusa Tadokoro) | t=Ichibanboshi d=2
+
+# 好想大聲說出心底的話。（心が叫びたがってるんだ。） | 2015
+ED | 今、話したい誰かがいる | Nogizaka46 | t=Ima, Hanashitai Dareka ga Iru d=2
+
+# Kono Oto Tomare!: Sounds of Life（この音とまれ！） | 2019
+OP | Tone | Shouta Aoi | d=2
+ED | Speechless | Yuuma Uchida | d=2
+
+# Skip and Loafer（スキップとローファー） | 2023
+OP | メロウ | Keina Suda | d=2
+ED | ハナウタとまわり道 | Rikako Aida | d=2
+
+# Kakushigoto（かくしごと） | 2020
+OP | ちいさな日々 | flumpool | t=Chiisana Hibi d=2
+ED | 君は天然色 | Eiichi Ootaki (大滝詠一) | t=Kimi wa Tennenshoku d=2
+
+# 狼雨（ウルフズレイン） | 2003
+OP | Stray | Steve Conte | d=2
+ED | gravity | Maaya Sakamoto (坂本真綾) | d=2
+ED | Tell Me What the Rain Knows | Maaya Sakamoto (坂本真綾) | d=2
+
+# Code:Breaker（CØDE:BREAKER） | 2012
+OP | DARK SHAME | GRANRODEO | d=2
+ED | シロイカラス | Kenichi Suzumura | t=Shiroi Karasu d=2
+
+# Motto To LOVE Ru（もっと To LOVEる -とらぶる-） | 2010
+OP | Loop-the-Loop | KOTOKO | d=2
+ED | Baby Baby Love | Haruka Tomatsu | d=2
+
+# 擁有超常技能的異世界流浪美食家（とんでもスキルで異世界放浪メシ） | 2023
+OP | 贅沢な匙 | Van de Shop | t=Zeitaku na Saji d=2
+ED | Happy-go-Journey | Yuuma Uchida | d=2
+
+# 輕鬆百合（ゆるゆり） | 2011
+OP | ゆりゆららららゆるゆり大事件 | Nanamori Chu☆Goraku Bu (七森中☆ごらく部) | t=Yuriyurarararayuruyuri Daijiken d=2
+ED | マイぺースでいきましょう | Nanamori Chu☆Goraku Bu (七森中☆ごらく部) | t=My Pace de Ikimashou d=2
+
+# 電影版 幻影籃球王 LAST GAME最後一役（劇場版 黒子のバスケ LAST GAME） | 2017
+ED | Glorious days | GRANRODEO | d=2
+
+# Reincarnated as a Sword（転生したら剣でした） | 2022
+OP | 転生したら剣でした | Kishida Kyoudan & The Akeboshi Rockets | t=Tensei Shitara Ken deshita d=2
+ED | more＜STRONGLY | Maon Kurosaki (黒崎真音) | d=2
+
+# Danganronpa 3: The End of Hope's Peak High School - Despair Arc（ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編） | 2016
+OP | カミイロアワセ | Binaria | t=Kami-iro Awase d=2
+ED | 絶対希望バースデー | Nagito Komaeda (Megumi Ogata) | t=Zettai Kibou Birthday d=2
+
+# 敗北女角太多了！（負けヒロインが多すぎる！） | 2024
+OP | つよがるガール | Botchi Boromaru feat. Mossa (Necry Talkie) | t=Tsuyogaru Girl d=2
+ED | LOVE 2000 | Anna Yanami (CV: Hikaru Tono) | d=2
+ED | CRAZY FOR YOU | Lemon Yakishio (CV: Shion Wakayama) | d=2
+ED | feel my soul | Chika Komari (CV: Momoka Terasawa) | d=2
+
+# 凱洛與塔斯黛（キャロル&チューズデイ） | 2019
+OP | Kiss Me | Carole & Tuesday (Nai Br.XX & Celeina Ann) | d=2
+OP | Polly Jean | Carole & Tuesday (Nai Br.XX & Celeina Ann) | d=2
+ED | Hold Me Now | Carole & Tuesday (Nai Br.XX & Celeina Ann) | d=2
+ED | Not Afraid | Angela (Alisa) | d=2
+ED | Endless | Angela (Alisa) | d=2
+ED | The Tower | Angela (Alisa) | d=2
+ED | Mother | Voices from Mars | d=2
+
 # 超超超超超喜歡你的100個女朋友（君のことが大大大大大好きな100人の彼女） | 2023
 OP | 大大大大大好きな君へ♡ | Hakari Hanazono (CV: Kaede Hondo), Karane Inda (CV: Miyu Tomita), Shizuka Yoshimoto (CV: Maria Naganawa), Nano Eiai (CV: Asami Seto), Kusuri Yakuzen (CV: Ayaka Asai) | t=Daidaidaidai Daisuki na Kimi e♡ d=2
 ED | スイートサイン | Nako Misaki (岬なこ) | t=Sweet Sign d=2
 ED | 今日のエンディングは私が買い取ったから好きにしていいわよね♡ | Hahari Hanazono (CV: Sumire Uesaka) | t=Kyou no Ending wa Watashi ga Kaitotta kara Suki ni Shite Ii wa yo ne ♡ d=2
 
+# The Qwaser of Stigmata（聖痕のクェイサー） | 2010
+OP | Errand | faylan | d=2
+OP | Baptize | Yousei Teikoku | d=2
+ED | Passionate squall | Ayumi Fujimura, Aki Toyosaki, Minori Chihara, Aya Hirano and Yoko Hikasa | d=2
+ED | Mimei no Inori | Minori Chihara | d=2
+ED | Wishes Hypocrites | Ayumi Fujimura, Aki Toyosaki, Minori Chihara, Aya Hirano and Yoko Hikasa | d=2
+
+# Record of Grancrest War（グランクレスト戦記） | 2018
+OP | starry | Mashiro Ayano | d=2
+OP | 凛 | ASCA | t=Rin d=2
+ED | PLEDGE | ASCA | d=2
+ED | 衝動 | Mashiro Ayano | t=Shoudou d=2
+
+# xxxHOLiC（×××HOLiC（ホリック）） | 2006
+OP | 19sai | Shikao Suga | d=2
+ED | Reason | Fonogenico | d=2
+ED | Kagerou | BUCK-TICK | d=2
+
+# Gintama Season 5（銀魂。） | 2017
+OP | 今日もサクラ舞う暁に | CHiCO with HoneyWorks | t=Kyou mo Sakura Mau Akatsuki ni d=2
+OP | カゲロウ | ЯeaL | t=Kagerou d=2
+OP | SILVER | RIZE | d=2
+ED | We Gotta Fight | XY | d=2
+
+# Kiss x Sis（キス×シス） | 2008
+OP | Futari no Honey Boy (ふたりのハニーボーイ） | Ayana Taketatsu and Yuiko Tatsumi | d=2
+ED | 星空物語 | Nana Takahashi | t=Hoshizora Monogatari d=2
+
+# 鬼泣：動畫系列（デビル メイ クライ） | 2007
+OP | D.M.C. | Rungran | d=2
+ED | I'll be your home | Rin Oikawa | d=2
+
+# 彼方的阿斯特拉（彼方のアストラ） | 2019
+OP | Star*frost | nonoc | d=2
+ED | Glow at the Velocity of Light | Riko Azuna | d=2
+
+# Alderamin on the Sky（ねじ巻き精霊戦記 天鏡のアルデラミン） | 2016
+OP | 天鏡のアルデラミン | Kishida Kyoudan & The Akeboshi Rockets | t=Tenkyou no Alderamin d=2
+ED | nameless | Kano | d=2
+
+# Saga of Tanya the Evil: The Movie（劇場版 幼女戦記） | 2019
+ED | Remembrance | MYTH & ROID | d=2
+
+# K: Return of Kings（K RETURN OF KINGS） | 2015
+OP | アシンメトリー | Yui Horie | t=Asymmetry d=2
+ED | 解 | Customi Z | t=Kai d=2
+ED | KIZUNA | angela | d=2
+
+# The Greatest Demon Lord Is Reborn as a Typical Nobody（史上最強の大魔王、村人Aに転生する） | 2022
+OP | Be My Friend!!! | Ayaka Ohashi | d=2
+ED | reincarnation | ChouCho | d=2
+
+# 杜鵑婚約（カッコウの許嫁） | 2022
+OP | 凸凹 | Kiyoe Yoshioka | t=Dekoboko d=2
+OP | Glitter | sumika | d=2
+ED | 四角運命 | Sangatsu no Phantasia | t=Shikaku Unmei d=2
+ED | HELLO HELLO HELLO | Eir Aoi | d=2
+
+# 劇場版 鋼之鍊金術師 香巴拉的征服者（劇場版 鋼の錬金術師 シャンバラを征く者） | 2005
+OP | Link | L'Arc~en~Ciel | d=2
+ED | Lost Heaven | L'Arc~en~Ciel | d=2
+
+# Code Geass 復活的魯路修（コードギアス 復活のルルーシュ） | 2019
+OP | この世界で | Leo Ieiri | t=Kono Sekai de d=2
+ED | リバイブ | UNIONE | t=Revive d=2
+
+# 瀨戶的花嫁（瀬戸の花嫁） | 2007
+OP | Romantic summer | SUN&LUNAR | d=2
+ED | 明日への光 | Asuka Hinoi | t=Ashita e no Hikari d=2
+ED | Dan Dan Dan | SUN&LUNAR | d=2
+
+# 繼母的拖油瓶是我的前女友（継母の連れ子が元カノだった） | 2022
+OP | デネブとスピカ | DIALOGUE+ | t=Deneb to Spica d=2
+ED | ふたりピノキオ | harmoe | t=Futari Pinocchio d=2
+
+# 花開物語（花咲くいろは） | 2011
+OP | ハナノイロ | nano.RIPE | t=Hana no Iro d=2
+OP | 面影ワープ | nano.RIPE | t=Omokage Warp d=2
+ED | Hazy | Sphere | d=2
+ED | 月影とブランコ | nano.RIPE | t=Tsukikage to Buranko d=2
+ED | 夢路 | nano.RIPE | t=Yumeji d=2
+ED | 細胞キオク | nano.RIPE | t=Saibou Kioku d=2
+ED | はなさくいろは | Clammbon (クラムボン) | t=Hanasaku Iroha d=2
+ED | ハイリープ | nano.RIPE | t=Hi Leap d=2
+
+# 灰羽聯盟（灰羽連盟） | 2002
+OP | Free Bird | Kow Otani (大谷幸) | d=2
+ED | Blue Flow | Heart of Air | d=2
+
+# 金裝的維爾梅～瀕臨留級的學生與最強災害掉入魔法世界～（金装のヴェルメイユ ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～） | 2022
+OP | Abracada-Boo | Kaori Ishihara | d=2
+ED | Mortal With You | Mili | d=2
+
+# 便·当（ベン・トー） | 2011
+OP | LIVE for LIFE ～狼たちの夜～ | Aimi | t=LIVE for LIFE ~Ookamitachi no Yoru~ d=2
+OP | Treasure | Emiri Kato | d=2
+OP | 笑顔の法則 | Mariya Ise | t=Egao no Housoku d=2
+
+# 校园迷糊大王（スクールランブル） | 2004
+OP | Scramble | Yui Horie with UNSCANDAL | d=2
+OP | 海の男はよ | Kikoukumaru's Man Chorus Group | t=Umi no Otoko wa yo d=2
+ED | Onna no Ko Otoko no Ko | Yuko Ogura | d=2
+ED | Hatenkou Robo Dojibiron no Teema | Hiroki Takahashi | d=2
+ED | Hatenkou Robo Dojibiron no Tema | Nanba Juuzou & Dojibiron V | d=2
+ED | School Rumble 4 Ever | Ami Koshimizu, Hitomi Nabatame, Yui Horie & Kaori Shimizu | d=2
+
+# The Wrong Way to Use Healing Magic（治癒魔法の間違った使い方） | 2024
+OP | Cure | waterweed | d=2
+ED | Green jade | ChouCho | d=2
+
+# 天真與閃電（甘々と稲妻） | 2016
+OP | 晴レ晴レファンファーレ | MimimemeMIMI | t=Harebare Fanfare d=2
+ED | Maybe | Brian the Sun | d=2
+
+# 情热传说 the X（テイルズ オブ ゼスティリア ザ クロス） | 2016
+OP | 風ノ唄 | FLOW | t=Kaze no Uta d=2
+ED | calling | fhána | d=2
+ED | White Light | Superfly | d=2
+ED | BURN | FLOW | d=2
+
+# Unbreakable Machine-Doll（機巧少女〈マシンドール〉は傷つかない） | 2013
+OP | Anicca | Hitomi Harada | d=2
+ED | 回レ！雪月花 | Hitomi Harada, Ai Kayano, and Yui Ogura | t=Maware! Setsugetsuka d=2
+
+# 尼爾：自動人形 Ver1.1a（NieR:Automata Ver1.1a） | 2023
+OP | escalate | Aimer | d=2
+ED | アンチノミー | amazarashi | t=Antinomy d=2
+
+# Just Because!（Just Because!） | 2017
+OP | over and over | Nagi Yanagi | d=2
+ED | behind | Mio Natsume (Karin Isobe), Hatsuki Morikawa (Yuna Yoshino), Ena Komiya (Lynn) | d=2
+
+# 結界女王（フリージング） | 2011
+OP | Color | MARiA | d=2
+ED | 君を守りたい | Aika Kobayashi | t=Kimi wo Mamoritai d=2
+
+# 即使如此世界依然美麗（それでも世界は美しい） | 2014
+OP | BEAUTIFUL WORLD | Joanna Koike (小池ジョアンナ) | d=2
+ED | PROMISE | Rena Maeda (前田玲奈) | d=2
+
+# C（「C」 THE MONEY OF SOUL AND POSSIBILITY CONTROL） | 2011
+OP | マトリョーシカ | NICO Touches the Walls | t=Matryoshka d=2
+ED | RPG | school food punishment | d=2
+
+# 灌籃高手（スラムダンク） | 1993
+OP | Kimi ga Suki da to Sakebitai | BAAD | d=2
+OP | Zettai ni Daremo | ZYYG | d=2
+ED | あなただけ見つめてる | Ooguro Maki | t=Anata Dake Mitsumete'ru d=2
+ED | 世界が終るまでは... | WANDS | t=Sekai ga Owaru Made Wa d=2
+ED | 煌めく瞬間に捕らわれて | MANISH | t=Kirameku Toki ni Torawarete d=2
+ED | マイフレンド | Zard | t=My Friend d=2
+
+# 愛在雨過天晴時（恋は雨上がりのように） | 2018
+OP | ノスタルジックレインフォール | CHiCO with HoneyWorks | t=Nostalgic Rainfall d=2
+ED | Ref:rain | Aimer | d=2
+
+# Place to Place（あっちこっち） | 2012
+OP | あっちでこっちで | Acchi⇔Kocchi (あっち⇔こっち) | t=Acchi de Kocchi de d=2
+ED | 手をギュしてね | Tsumiki Miniwa (CV: Rumi Ookubo) | t=Te wo Gyu Shite ne d=2
+
+# The Genius Prince's Guide to Raising a Nation Out of Debt（天才王子の赤字国家再生術） | 2022
+OP | LEVEL | Nagi Yanagi and THE SIXTH LIE | d=2
+ED | ヒトリとキミと | Yoshino Nanjou | t=Hitori to Kimi to d=2
+
+# I'm Standing on a Million Lives（100万の命の上に俺は立っている） | 2020
+OP | Anti world | Kanako Takatsuki | d=2
+ED | カルペ・ディエム | Liyuu | t=Carpe・Diem d=2
+
+# Happy Sugar Life（ハッピーシュガーライフ） | 2018
+OP | ワンルームシュガーライフ | Akari Nanawo (ナナヲアカリ) | t=One Room Sugar Life d=2
+ED | SWEET HURT | ReoNa | d=2
+ED | カナリア | ReoNa | t=Canaria d=2
+
+# Run with the Wind（風が強く吹いている） | 2018
+OP | Catch up, latency | UNISON SQUARE GARDEN | d=2
+OP | 風強く、君熱く。 | Q-MHz feat. Mitsuhiro Hidaka a.k.a SKY-HI (Q-MHz feat.日高光啓 a.k.a.SKY-HI) | t=Kaze Tsuyoku, Kimi Atsuku. d=2
+ED | リセット | Taichi Mukai (向井太一) | t=Reset d=2
+ED | 道 | Taichi Mukai | t=Michi d=2
+
+# 回憶中的瑪妮（思い出のマーニー） | 2014
+ED | Fine on the Outside | Priscilla Ahn | d=2
+
+# 劇場版 五等分的新娘（映画 五等分の花嫁） | 2022
+OP | 五等分の軌跡 | Nakanoke no Itsuzugo (中野家の五つ子) (Kana Hanazawa, Ayana Taketatsu, Miku Itou, Ayane Sakura, Inori Minase) | t=Gotoubun no Kiseki d=2
+ED | 五等分の花嫁～ありがとうの花～ | Nakanoke no Itsuzugo (中野家の五つ子) (Kana Hanazawa, Ayana Taketatsu, Miku Itou, Ayane Sakura, Inori Minase) | t=5-toubun no Hanayome: Arigato no Hana d=2
+
+# World Break: Aria of Curse for a Holy Swordsman（聖剣使いの禁呪詠唱〈ワールドブレイク〉） | 2015
+OP | 緋ノ糸輪廻ノGEMINI | petit milady | t=Hi no Ito Rinne no Gemini d=2
+ED | マグナ・イデア | fortuna (フォルトゥーナ) [Satsuki Ranjou (Ayana Taketatsu), Shizuno Urushibara (Aoi Yuuki), Haruka Momochi (Maaya Uchida), and Maya Shimon (Yui Ogura)] | t=Magna Idea d=2
+
+# Sing "Yesterday" for Me（イエスタデイをうたって） | 2020
+ED | 籠の中に鳥 | yourness | t=Kago no Naka ni Tori d=2
+ED | 葵橋 | Sayuri | t=Aoibashi d=2
+ED | イエスタディをうたって | agehasprings feat. TaNaBaTa | t=Yesterday wo Utatte d=2
+
+# Handa-kun（はんだくん） | 2016
+OP | The LiBERTY | Fo'xTails | d=2
+ED | HIDE-AND-SEEK | Kenichi Suzumura | d=2
+
+# 東京教父（東京ゴッドファーザーズ） | 2003
+ED | Ode to Joy | Moonriders | d=2
+
+# One Week Friends（一週間フレンズ。） | 2014
+OP | 虹のかけら | Natsumi Kon | t=Niji no Kakera d=2
+ED | Kanade (奏 (かなで)) | Kaori Fujimiya (CV: Sora Amamiya) | d=2
+
+# The Summer Hikaru Died（光が死んだ夏） | 2025
+OP | 再会 | Vaundy | t=Saikai d=2
+ED | あなたはかいぶつ | TOOBOE | t=Anata wa Kaibutsu d=2
+ED | 日々の影 | Yoshiki Tsujinaka (CV: Chiaki Kobayashi), Hikaru (CV: Shuuichirou Umeda) | t=Hibi no Kage d=2
+
+# 派對咖孔明（パリピ孔明） | 2022
+OP | チキチキバンバン | QUEENDOM (hibiki and moka from lol, Akina and Taki from FAKY, and Maria Kaneya from GENIC) | t=Ciki Ciki Bam Bam d=2
+ED | 気分上々￪￪ | 96Neko, Ryoutarou Okiayu, Shouya Chiba, and Lezel | t=Kibun Joujou ￪￪ d=2
+
+# Nodame Cantabile（のだめカンタービレ） | 2007
+OP | Allegro Cantabile Sound | SUEMITSU & THE SUEMITH | d=2
+ED | Konna ni Chikaku de... | Crystal Kay | d=2
+ED | Sagittarius | SUEMITSU & THE NODAME ORCHESTRA | d=2
+
+# Fighting Spirit: New Challenger（はじめの一歩 新シリーズ） | 2009
+OP | Hekireki | Last Alliance | d=2
+ED | 8 AM | coldrain | d=2
+
+# 大貴族（NOBLESSE -ノブレス-） | 2020
+OP | BREAKING DAWN | Jae Joong | d=2
+ED | Etoile | OH MY GIRL | d=2
+
+# DECA-DENCE（デカダンス） | 2020
+OP | Theater of Life | Konomi Suzuki (鈴木このみ) | d=2
+ED | 記憶の箱舟 | Kashitarou Itou (伊東歌詞太郎) | t=Kioku no Hakobune d=2
+
+# Yuuna and the Haunted Hot Springs（ゆらぎ荘の幽奈さん） | 2018
+OP | 桃色タイフーン | Luna Haruna | t=Momoiro Typhoon d=2
+ED | Happen?木枯らしに吹かれて? | Yuuna Yunohana (Miyuri Shimabukuro), Chisaki Miyazaki (Eri Suzuki), and Sagiri Ameno (Rie Takahashi) | t=Happen ~Kogarashi ni Fukarete~ d=2
+
+# 蟲師 續章（蟲師 続章） | 2014
+OP | Shiver | Lucy Rose | d=2
+ED | 野末の宴 | Toshio Masuda | t=Nozue no Utage d=2
+ED | 囀る貝 | Toshio Masuda | t=Saezuru Kai d=2
+ED | 雪の下 | Toshio Masuda | t=Yuki no Shita d=2
+ED | 夜を撫でる手 | Toshio Masuda | t=Yoru wo Naderu Te d=2
+ED | 鏡が淵 | Toshio Masuda | t=Kagami ga Fuchi d=2
+ED | 花惑い | Toshio Masuda | t=Hana Madoi d=2
+ED | 日照る雨 | Toshio Masuda | t=Hi Teru Ame d=2
+ED | 風巻立つ | Toshio Masuda | t=Shimaki Tatsu d=2
+ED | 潮わく谷 | Toshio Masuda | t=Ushio Waku Tani d=2
+ED | 冬の底 | Toshio Masuda | t=Fuyu no Soko d=2
+
+# Anti-Magic Academy: The 35th Test Platoon（対魔導学園35試験小隊） | 2015
+OP | Embrace Blade | Afilia Saga | d=2
+ED | Calling my Twilight | Kanako Itou | d=2
+
+# 多田君不戀愛（多田くんは恋をしない） | 2018
+OP | オトモダチフィルム | Masayoshi Ooishi | t=Otomodachi Film d=2
+ED | ラブソング | Teresa Wagner (CV: Manaka Iwami) | t=Love Song d=2
+
+# OniAi（お兄ちゃんだけど愛さえあれば関係ないよねっ） | 2012
+OP | SELF PRODUCER | Minori Chihara | d=2
+ED | Lifeる is LOVEる!! | Liliana Sisters (Ibuki Kido, Minori Chihara, Eri Kitamura and Asami Shimoda) | t=Life-Ru is LOVE-Ru!! d=2
+
+# 這個美術社大有問題！（この美術部には問題がある！） | 2016
+OP | STARTING NOW! | Nana Mizuki | d=2
+ED | cubic futurismo | Sumire Uesaka | t=Koisuru Zukei d=2
+ED | Chorus ver. | Mizuki Usami (CV: Ari Ozawa), Colette (CV: Sumire Uesaka), Maria Imari (CV: Nao Touyama), Yumeko Tachibana (CV: Nana Mizuki) | t=Kokoro＊Palette d=2
+
+# I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job（勇者になれなかった俺はしぶしぶ就職を決意しました。） | 2013
+OP | エキストラレボリューション | ZAQ | t=Extra Revolution d=2
+ED | Sticking Places | Sphere | d=2
+
+# KenIchi: The Mightiest Disciple（史上最強の弟子 ケンイチ） | 2006
+OP | Be Strong | Kana Yazumi | d=2
+OP | Yahoo~ | Miho Morikawa, Akira Asakura | d=2
+ED | Kimi ga iru kara | Issei Eguchi | d=2
+ED | Catch Your Dream | Koike Joanna | d=2
+ED | RunOver | Koike Joanna | d=2
+ED | Kokoro Kara no Message | Sakura | d=2
+
+# Majikoi: Oh! Samurai Girls（真剣で私に恋しなさい！） | 2011
+OP | U-n-d-e-r--STANDING! | Endoh Masaaki, Kitadani Hiroshi, Misato Aki | d=2
+ED | 君の真剣をちょうだい | Asakawa Yuu, Gotou Yuuko, Hyousei, Itou Shizuka, Tomonaga Akane | t=Kimi no Shinken o Choudai d=2
+
+# Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?（たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語） | 2021
+OP | たとえばそれは勇気の魔法 | Haruka Yamazaki | t=Tatoeba Sore wa Yuuki no Mahou d=2
+ED | I'mpossible? | Luce Twinkle Wink☆ | d=2
+
+# 地。-關於地球的運動-（チ。―地球の運動について―） | 2024
+OP | 怪獣 | Sakanaction (サカナクション) | t=Kaijuu d=2
+
+# 顛倒的帕特瑪（サカサマのパテマ） | 2013
+ED | Patema Inverse | Estelle Michaeu | d=2
+
+# The Legend of the Legendary Heroes（伝説の勇者の伝説） | 2010
+OP | LAMENT~やがて喜びを~ | Aira Yuki | t=LAMENT: Yagate Yorokobi wo d=2
+OP | Last Inferno | Ceui | d=2
+ED | Truth Of My Destiny | Ceui | d=2
+ED | 光のフィルメント | Ayahi Takagaki | t=Hikari no Filament d=2
+
+# Ground Control to Psychoelectric Girl（電波女と青春男） | 2011
+OP | Os-宇宙人 | Erio wo Kamatte-chan (エリオをかまってちゃん) (Asuka Oogame) | t=Os-Uchuujin d=2
+ED | ルル | Etsuko Yakushimaru | t=Ruru d=2
+
+# 火影忍者劇場版：大活劇！雪姬忍法帖！！（劇場版 NARUTO 大活劇！雪姫忍法帖だってばよ!!） | 2004
+ED | Home Sweet Home | Yuki | d=2
+ED | Never Give Up | Jeremy Sweet (English version) | d=2
+
+# 回转企鹅罐（輪るピングドラム） | 2011
+OP | ノルニル | Etsuko Yakushimaru Metro Orchestra | t=Nornir d=2
+OP | 少年よ我に帰れ | Etsuko Yakushimaru Metro Orchestra | t=Shounen yo Ware ni Kaere d=2
+ED | DEAR FUTURE | coaltar of the deepers | d=2
+ED | DEAR FUTURE feat. Yui Horie | coaltar of the deepers | d=2
+ED | 灰色の水曜日 | Triple H | t=Haiiro no Suiyoubi d=2
+ED | Bad News 黒い予感 | Triple H | t=Bad News Kuroi Yokan d=2
+ED | イカレちまったぜ!! | Triple H | t=Ikarechimattaze!! d=2
+ED | HIDE and SEEK | Triple H | d=2
+ED | Private Girl | Triple H | d=2
+ED | 魂こがして | Triple H | t=Tamashii Kogashite d=2
+ED | 朝のかげりの中で | Triple H | t=Asa no Kageri no Naka de d=2
+ED | HEROES ～英雄たち | Triple H | t=HEROES ~Eiyuutachi d=2
+
+# Maken-Ki!（マケン姫っ！） | 2011
+OP | Fly Away | Misuzu Togashi | d=2
+ED | Baby! Baby! | Noriko Shitaya & Iori Nomizu | d=2
+
+# My Wife is the Student Council President!（おくさまが生徒会長！） | 2015
+OP | 恋する☆ひよこ | Rekka Katakiri | t=Koisuru☆Hiyoko d=2
+ED | 恋×愛＝イクエイション | Ui Wakana (Ayana Taketatsu) | t=Ren×Ai＝Equation d=2
+ED | リアライズ | Rin Misumi (Minami Tsuda) | t=Realize d=2
+
+# Somali and the Forest Spirit（ソマリと森の神様） | 2020
+OP | ありがとうはこっちの言葉 | Naotarou Moriyama (森山直太朗) | t=Arigatou wa Kocchi no Kotoba d=2
+ED | ココロソマリ | Inori Minase | t=Kokoro Somali d=2
+
+# Princess Connect! Re:Dive（プリンセスコネクト！Re:Dive） | 2020
+OP | Lost Princess | Pecorine (CV: M・A・O), Kokkoro (CV: Miku Itou), Karyl (CV: Rika Tachibana) | d=2
+ED | それでもともに歩いていく | Pecorine (CV: M・A・O), Kokkoro (CV: Miku Itou), Karyl (CV: Rika Tachibana) | t=Sore demo Tomo ni Aruiteiku d=2
+ED | Connecting Happy!! | Pecorine (CV: M・A・O), Kokkoro (CV: Miku Itou), Karyl (CV: Rika Tachibana) | d=2
+
+# 火影忍者疾風傳劇場版（劇場版NARUTO -ナルト- 疾風伝） | 2007
+ED | Lie-Lie-Lie | DJ OZMA | d=2
+
+# Hybrid x Heart Magias Academy Ataraxia（魔装学園H×H） | 2016
+OP | miele paradiso | Iori Nomizu | d=2
+ED | ちッ | Iori Nomizu | t=Chi d=2
+
+# The Seven Deadly Sins the Movie: Prisoners of the Sky（劇場版 七つの大罪 天空の囚われ人） | 2018
+ED | 空扉 | Nogizaka46 | t=Sora Tobira d=2
+
+# ONE PIECE FILM Z（ワンピース フィルム Ｚ） | 2012
+ED | How You Remind Me | Avril Lavigne | d=2
+ED | Bad Reputation | Avril Lavigne | d=2
+
+# 風夏（風夏） | 2017
+OP | Climber's High! | Manami Numakura | d=2
+ED | ワタシノセカイ | Megumi Nakajima | t=Watashi no Sekai d=2
+ED | 雪花火 | Koyuki Hinashi (Saori Hayami) | t=Yukihanabi d=2
+
+# Fate/Grand Order -絕對魔獸戰線巴比倫尼亞-（Fate/Grand Order -絶対魔獣戦線バビロニア-） | 2019
+OP | Phantom Joke | UNISON SQUARE GARDEN | d=2
+ED | 星が降るユメ | Eir Aoi | t=Hoshi ga Furu Yume d=2
+ED | Prover | milet | d=2
+ED | Tell me | milet | d=2
+
+# Showa Genroku Rakugo Shinju（昭和元禄落語心中） | 2016
+OP | 薄ら氷心中 | Megumi Hayashibara | t=Usurahi Shinjuu d=2
+ED | かは、たれどき | Kana Shibue | t=Kawa, Taredoki d=2
+
+# Hamatora The Animation（ハマトラ THE ANIMATION） | 2014
+OP | FLAT | livetune adding Yuuki Ozaki (from Galileo Galilei) | d=2
+ED | Hikari | Wataru Hatano | d=2
+
+# Silver Spoon（銀の匙） | 2013
+OP | kiss you | miwa | d=2
+ED | Hello Especially | Sukima Switch | d=2
+
+# Anohana: The Flower We Saw That Day The Movie（劇場版 あの日見た花の名前を僕達はまだ知らない。） | 2013
+ED | サークルゲーム | Galileo Galilei | t=Circle Game d=2
+
+# 東京地震8.0（東京マグニチュード8.0） | 2009
+OP | キミノウタ | abingdon boys school | t=Kimi no Uta d=2
+ED | M/elody | Shion Tsuji | d=2
+
+# AIR（AIR） | 2005
+ED | Farewell Song | Lia | d=2
+
+# Ajin: Demi-Human Season 2（亜人 第2クール） | 2016
+OP | 僕は僕であって | angela x fripSide | t=Boku wa Boku de Atte d=2
+OP | The end of escape | fripSide x angela | d=2
+ED | 校庭の隅に二人、風が吹いて今なら言えるかな | CreepHyp | t=Koutei no Sumi ni Futari, Kaze ga Fuite Ima Nara Ieru ka na d=2
+
+# Dimension W（Dimension W） | 2016
+OP | Genesis | STEREO DIVE FOUNDATION | d=2
+ED | Contrast | Fo'xTails | d=2
+
 # 機動戰士鋼彈SEED（機動戦士ガンダムSEED） | 2002
 OP | moment | Vivian or Kazuma | d=2
+OP | Believe | Nami Tamaki | d=2
+OP | Realize | Nami Tamaki | d=2
 ED | River | Tatuya Ishii | d=2
 ED | Find The Way | Mika Nakashima | d=2
 OP | Ignited | T.M.Revolution | d=2
@@ -2374,6 +4096,9 @@ ED | Reason | Nami Tamaki | d=2
 ED | Life Goes On | Mika Arisaka | d=2
 ED | Result | Nami Tamaki (HD Remaster eps 12-13) | d=2
 ED | I Wanna Go To A Place... | Rie Fu | d=2
+ED | Shinkai no Kodoku | Houko Kuwashima (HD Remaster ep 32) | d=2
+ED | Tooku ni Aru Akari | HIGH AND MIGHTY COLOR (HD Remaster ep 40) | t=Enrai d=2
+ED | You are Similar to Me | See-Saw | t=Kimi wa Boku ni Niteiru d=2
 
 # Tying the Knot with an Amagami Sister（甘神さんちの縁結び） | 2024
 OP | やわく恋して ～ずっと僕らでいられますように～ | Momoiro Clover Z | t=Yawaku Koishite ~Zutto Bokura de Iraremasu You ni ~ d=2

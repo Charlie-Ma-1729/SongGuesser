@@ -26,6 +26,7 @@ export function parseSeeds({ exclude = [] } = {}) {
   const works = [];
   const seenWork = new Map();
   let cur = null;
+  let curHdr = null;
   for (const f of files) {
     const lines = readFileSync(path.join(SEED_DIR, f), 'utf8').split(/\r?\n/);
     lines.forEach((raw, i) => {
@@ -34,8 +35,11 @@ export function parseSeeds({ exclude = [] } = {}) {
       const h = line.match(/^#\s+(.+?)\s*\|\s*(\d{4})\s*$/);
       if (h) {
         const work = h[1].trim();
-        if (seenWork.has(work)) {
-          cur = seenWork.get(work);
+        curHdr = work; // 歌曲 key 一律用「檔案裡寫的標題」，快取才不會失效
+        // 中文名相同（只差日文原名寫法、季數）視為同一部作品
+        const zhKey = work.split('（')[0].trim().toLowerCase();
+        if (seenWork.has(zhKey)) {
+          cur = seenWork.get(zhKey);
         } else {
           const m = work.match(/^(.*?)（(.*)）$/);
           cur = {
@@ -47,7 +51,7 @@ export function parseSeeds({ exclude = [] } = {}) {
             songs: [],
           };
           works.push(cur);
-          seenWork.set(work, cur);
+          seenWork.set(zhKey, cur);
         }
         return;
       }
@@ -72,7 +76,7 @@ export function parseSeeds({ exclude = [] } = {}) {
         kv[mk.key] = rest.slice(mk.end, k + 1 < marks.length ? marks[k + 1].idx : undefined).trim();
       });
       const artist = artistRaw && artistRaw !== '?' ? artistRaw : null;
-      const key = `${cur.work}|${kind}|${title}`;
+      const key = `${curHdr}|${kind}|${title}`;
       cur.songs.push({
         key,
         id: hash(key),

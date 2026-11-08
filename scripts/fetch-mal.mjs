@@ -72,7 +72,7 @@ async function loadPopularity() {
 
 // ---------- 2. 單部作品頁 ----------
 async function loadPage(id) {
-  if (cache.pages[id]?.v === 3) return cache.pages[id];
+  if (cache.pages[id]?.v === 4) return cache.pages[id];
   const html = await get(`https://myanimelist.net/anime/${id}`);
   const english = dec(html.match(/title-english[^>]*>([^<]*)/)?.[1] || '');
   const romaji = dec(html.match(/<h1 class="title-name[^>]*><strong>([^<]*)/)?.[1] || '');
@@ -85,6 +85,12 @@ async function loadPage(id) {
   let prequel = null;
   const rel = html.match(/Prequel:<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/);
   if (rel) prequel = Number(rel[1].match(/anime\/(\d+)\//)?.[1]) || null;
+  // 續集／番外篇（用來把同系列各季、劇場版都收進來）
+  const sequels = [];
+  for (const lab of ['Sequel', 'Side story']) {
+    const r2 = html.match(new RegExp(lab + ':</td>\\s*<td[^>]*>([\\s\\S]*?)</td>'));
+    if (r2) for (const m of r2[1].matchAll(/anime\/(\d+)\//g)) sequels.push(Number(m[1]));
+  }
 
   const themes = { OP: [], ED: [] };
   for (const [kind, cls] of [['OP', 'opnening'], ['ED', 'ending']]) {
@@ -100,7 +106,7 @@ async function loadPage(id) {
       if (title) themes[kind].push({ title, artist });
     }
   }
-  const page = { v: 3, id, english, romaji, japanese, year, type, members, prequel, themes };
+  const page = { v: 4, id, english, romaji, japanese, year, type, members, prequel, sequels: [...new Set(sequels)], themes };
   cache.pages[id] = page;
   if (Object.keys(cache.pages).length % 10 === 0) save();
   await sleep(1300);
@@ -178,7 +184,7 @@ const popular = await loadPopularity();
 const MAX_CANDS = Number(opt('--max-cands', 420)); // 只處理人氣最高的前 N 個條目（各季算一個）
 const extraIds = await loadExtras();
 let cands = popular
-  .filter((a) => a.year >= Y0 && a.year <= Y1 && (a.type === 'TV' || a.type === 'Movie'))
+  .filter((a) => a.year >= Y0 && a.year <= Y1 && ['TV', 'Movie', 'OVA', 'ONA'].includes(a.type))
   .sort((a, b) => b.members - a.members)
   .slice(0, MAX_CANDS);
 for (const id of extraIds) {
@@ -208,6 +214,23 @@ for (const a of cands) {
   g.members += a.members;
   if (++n % 25 === 0) console.log(`已處理 ${n} / ${cands.length} 部，合併成 ${groups.size} 個作品`);
 }
+// 沿著 Sequel／Side story 把同系列其他季、劇場版、OVA 全部收進來
+for (const g of groups.values()) {
+  const seenIds = new Set(g.entries.map((e) => e.id));
+  const queue = g.entries.slice();
+  while (queue.length && seenIds.size < 40) {
+    const cur = queue.shift();
+    for (const sid of cur.sequels || []) {
+      if (seenIds.has(sid)) continue;
+      seenIds.add(sid);
+      let pg;
+      try { pg = await loadPage(sid); } catch { continue; }
+      if (!['TV', 'Movie', 'OVA', 'ONA'].includes(pg.type)) continue;
+      g.entries.push(pg);
+      queue.push(pg);
+    }
+  }
+}
 save();
 
 // 其他季度（排行榜較後面的）也要併進來：對每個已知 root，補上同系列後續季
@@ -220,7 +243,6 @@ await loadZh(ordered.map((g) => String(g.root.id)));
 const existing = parseSeeds({ exclude: ['10-mal.txt'] });
 const workByJa = new Map(existing.map((w) => [norm(w.ja), w]));
 const workByZh = new Map(existing.map((w) => [norm(w.zh), w]));
-const songSeen = new Set(existing.flatMap((w) => w.songs.map((s) => norm(s.title))));
 
 
 const HEADER = '# 由 scripts/fetch-mal.mjs 自動產生（資料來源：MyAnimeList 人氣排行）。請勿手動編輯，要改請改其他歌單或 overrides。';
@@ -230,7 +252,7 @@ const romajiTitle = (t) => {
 };
 
 // 以「日文標題前綴」合併各季／劇場版：例如「進撃の巨人 Season3」併入「進撃の巨人」
-const canon = existing.map((w) => ({ key: norm(w.ja), header: w.work, year: w.year, rank: Infinity, songs: [], used: new Set(), isNew: false }));
+const canon = existing.map((w) => ({ key: norm(w.ja), header: w.work, year: w.year, rank: Infinity, songs: [], used: new Set(w.songs.map((s) => norm(s.title))), isNew: false }));
 const items = ordered.map((g, rank) => {
   const root = g.root;
   const ja = root.japanese || root.romaji;
@@ -251,7 +273,7 @@ for (const it of items) {
       for (const t of e.themes[kind]) {
         const { ja: tj, ro } = romajiTitle(t.title);
         const key = norm(tj);
-        if (!key || c.used.has(key) || songSeen.has(key)) continue;
+        if (!key || c.used.has(key)) continue;
         c.used.add(key);
         const artist = (t.artist || '?').replace(/\|/g, ' ');
         const alt = ro && norm(ro) !== key ? ` t=${ro.replace(/\|/g, ' ')}` : '';

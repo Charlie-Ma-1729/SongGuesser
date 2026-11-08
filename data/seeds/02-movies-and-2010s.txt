@@ -17,7 +17,6 @@ ED | 風の谷のナウシカ | 安田成美 d=2
 # 神隱少女（千と千尋の神隠し） | 2001
 ED | いつも何度でも | 木村弓 | l=覚和歌子 c=木村弓
 OST | One Summer's Day | 久石譲 | c=久石譲
-OST | 竜の少年 | 久石譲 | c=久石譲 t=Dragon Boy/The Dragon Boy d=2
 
 # 哈爾的移動城（ハウルの動く城） | 2004
 ED | 世界の約束 | 倍賞千恵子 | c=木村弓
@@ -73,7 +72,6 @@ OP | 美しき残酷な世界 | Linked Horizon | l=Revo c=Revo
 OP | Red Swan | Yoshiki feat. HYDE
 OP | 僕の戦争 | 神様、僕は気づいてしまった d=2
 OP | The Rumbling | SiM | d=2
-OST | ətˈæk 0N tάɪtn | 澤野弘之 | q=ətˈæk 0N tάɪtn Hiroyuki Sawano c=澤野弘之 d=2
 OST | Vogel im Käfig | 澤野弘之 | q=Vogel im Käfig Hiroyuki Sawano c=澤野弘之 d=2
 
 # 一拳超人（ワンパンマン） | 2015

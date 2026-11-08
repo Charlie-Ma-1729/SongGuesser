@@ -69,15 +69,38 @@ function parseSongs(text) {
   const out = [];
   const lines = text.split('\n').map((l) => l.trim()).filter(Boolean);
   let inSection = false;
+  let curKind = null;
   for (let i = 0; i < lines.length; i++) {
     const l = lines[i];
     if (/^=+\s*/.test(l)) {
+      curKind = null;
       inSection = /主題歌|音楽|楽曲|挿入歌|劇中歌/.test(l) ||
         (inSection && /^=== /.test(l) && !/^== /.test(l)); // 子標題（第1期等）沿用上層
       if (/^== /.test(l) && !/主題歌|音楽|楽曲|挿入歌|劇中歌/.test(l)) inSection = false;
       continue;
     }
     if (!inSection) continue;
+    // 格式 B：「分類標題」下面列「歌名」（話數）＋「作詞 - … / 作曲 - … / 歌 - …」
+    const hk = l.match(/^(オープニング|エンディング)テーマ\s*$/) || l.match(/^(挿入歌|挿入曲|劇中歌|イメージソング)\s*$/);
+    if (hk) { curKind = /オープニング/.test(hk[1]) ? 'OP' : /エンディング/.test(hk[1]) ? 'ED' : 'INSERT'; continue; }
+    const inl = l.match(/^(挿入歌|挿入曲|劇中歌|イメージソング)「(.{1,60}?)」/);
+    const bm = inl || l.match(/^「(.{1,60}?)」(?:（[^）]*）)?\s*$/);
+    if (bm) {
+      const title = inl ? inl[2] : bm[1];
+      const kindB = inl ? 'INSERT' : curKind;
+      const credit2 = (lines[i + 1] || '').match(/歌\s*[-－－]\s*([^/／]+)/) ? lines[i + 1] : (lines[i + 2] || '');
+      const sing = credit2.match(/歌\s*[-－]\s*([^/／]+)/);
+      if (kindB && sing) {
+        const who = sing[1].replace(/[［\[（(].*$/, '').trim();
+        const g = (re) => credit2.match(re)?.[1]?.replace(/[［\[（(].*$/, '').trim();
+        const lyr = g(/作詞(?:・作曲)?(?:・編曲)?\s*[-－]\s*([^/／]+)/);
+        const cmp = g(/作詞・作曲(?:・編曲)?\s*[-－]\s*([^/／]+)/) || g(/作曲(?:・編曲)?\s*[-－]\s*([^/／]+)/);
+        const tmB = title.trim().match(/^(.+?)[（(]([^）)]+)[）)]$/);
+        if (!out.some((o) => o.title === (tmB ? tmB[1] : title.trim()))) {
+          out.push({ kind: kindB, title: tmB ? tmB[1].trim() : title.trim(), alt: tmB ? tmB[2].trim() : '', artist: who && who.length <= 40 ? who : '?', l: lyr, c: cmp });
+        }
+      }
+    }
     const m = l.match(/^「(.{1,60}?)」\s*$/);
     if (!m) continue;
     const desc = lines[i + 1] || '';
@@ -107,10 +130,10 @@ const lines = ['# 由 scripts/fetch-wiki.mjs 自動產生（資料來源：日�
 let added = 0;
 for (const w of todo) {
   n++;
-  if (!(w.ja in cache)) {
+  if (!(w.ja in cache) || (cache[w.ja] && cache[w.ja].v !== 2)) {
     try {
       const r = await pageText(w.ja);
-      cache[w.ja] = r ? { title: r.title, songs: parseSongs(r.text) } : null;
+      cache[w.ja] = r ? { v: 2, title: r.title, songs: parseSongs(r.text) } : null;
     } catch (e) {
       console.warn('失敗：', w.ja, e.message);
       continue;

@@ -63,7 +63,6 @@ OP | GO!!! | FLOW
 OP | Blue Bird | いきものがかり
 OP | シルエット | KANA-BOON
 OST | Sadness and Sorrow | 高梨康治 | q=Naruto Sadness and Sorrow Toshio Masuda
-OST | NARUTO メインテーマ | 高梨康治 | q=NARUTO Main Theme 高梨康治 d=2
 
 # 死神（BLEACH） | 2004
 OP | ASTERISK | ORANGE RANGE
