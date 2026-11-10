@@ -5,7 +5,10 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-export const SEED_DIR = path.join(ROOT, 'data', 'seeds');
+// --cat movie：改讀 data/seeds-movie（電影／影集），輸出 data/movie.json；預設 anime
+const _ci = process.argv.indexOf('--cat');
+export const CAT = _ci >= 0 ? process.argv[_ci + 1] : 'anime';
+export const SEED_DIR = path.join(ROOT, 'data', CAT === 'movie' ? 'seeds-movie' : 'seeds');
 export const CACHE_DIR = path.join(ROOT, 'data', 'cache');
 
 export const hash = (s, n = 8) => createHash('sha1').update(s).digest('hex').slice(0, n);

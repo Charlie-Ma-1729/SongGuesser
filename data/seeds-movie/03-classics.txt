@@ -1,0 +1,317 @@
+# 由精簡清單轉出：03-classics.txt
+
+# ===== 2004 年以前的好萊塢經典 =====
+
+# 星際大戰四部曲：新希望（Star Wars: A New Hope） | 1977
+OST | Main Title | John Williams | q=John Williams Star Wars (Main Title) A New Hope 1977 Topic d=1
+
+# 星際大戰五部曲：帝國大反擊（Star Wars: The Empire Strikes Back） | 1980
+OST | The Imperial March | John Williams | q=The Imperial March John Williams Star Wars: The Empire Strikes Back d=1
+
+# 星際大戰一部曲：威脅潛伏（Star Wars: The Phantom Menace） | 1999
+OST | Duel of the Fates | John Williams | q=Duel of the Fates John Williams Star Wars: The Phantom Menace d=1
+
+# 星際大戰二部曲：複製人全面進攻（Star Wars: Attack of the Clones） | 2002
+OST | Across the Stars | John Williams | q=Across the Stars John Williams Star Wars: Attack of the Clones d=2
+
+# 侏儸紀公園（Jurassic Park） | 1993
+OST | Theme from Jurassic Park | John Williams | q=Theme from Jurassic Park John Williams Jurassic Park d=1
+
+# 印第安納瓊斯：法櫃奇兵（Raiders of the Lost Ark） | 1981
+OST | Raiders March | John Williams | q=Raiders March John Williams Raiders of the Lost Ark d=1
+
+# 大白鯊（Jaws） | 1975
+OST | Main Title (Theme from Jaws) | John Williams | q=Main Title (Theme from Jaws) John Williams Jaws d=1
+
+# E.T. 外星人（E.T. the Extra-Terrestrial） | 1982
+OST | Flying Theme | John Williams | q=Flying Theme John Williams E.T. the Extra-Terrestrial d=1
+
+# 哈利波特：神秘的魔法石（Harry Potter and the Sorcerer's Stone） | 2001
+OST | Hedwig's Theme | John Williams | q=Hedwig's Theme John Williams Harry Potter and the Sorcerer's Stone d=1
+
+# 辛德勒的名單（Schindler's List） | 1993
+OST | Theme from Schindler's List | John Williams | q=Theme from Schindler's List John Williams Schindler's List d=2
+
+# 小鬼當家（Home Alone） | 1990
+OST | Somewhere in My Memory | John Williams | q=Somewhere in My Memory John Williams Home Alone d=1
+
+# 搶救雷恩大兵（Saving Private Ryan） | 1998
+OST | Hymn to the Fallen | John Williams | q=Hymn to the Fallen John Williams Saving Private Ryan d=2
+
+# 神鬼交鋒（Catch Me If You Can） | 2002
+OST | Catch Me If You Can | John Williams | q=Catch Me If You Can John Williams Catch Me If You Can d=2
+
+# 魔戒首部曲：魔戒現身（The Lord of the Rings: The Fellowship of the Ring） | 2001
+OST | Concerning Hobbits | Howard Shore | q=Concerning Hobbits Howard Shore The Lord of the Rings: The Fellowship of the Ring d=1
+
+# 魔戒二部曲：雙塔奇謀（The Lord of the Rings: The Two Towers） | 2002
+OST | Gollum's Song | Emiliana Torrini | q=Gollum's Song Emiliana Torrini The Lord of the Rings: The Two Towers d=2
+
+# 魔戒三部曲：王者再臨（The Lord of the Rings: The Return of the King） | 2003
+OST | Into the West | Annie Lennox | q=Into the West Annie Lennox The Lord of the Rings: The Return of the King d=1
+
+# 神鬼奇航：鬼盜船魔咒（Pirates of the Caribbean: The Curse of the Black Pearl） | 2003
+OST | He's a Pirate | Klaus Badelt | q=He's a Pirate Klaus Badelt Pirates of the Caribbean: The Curse of the Black Pearl d=1
+
+# 鐵達尼號（Titanic） | 1997
+OST | My Heart Will Go On | Celine Dion | q=My Heart Will Go On Celine Dion Titanic d=1
+
+# 神鬼戰士（Gladiator） | 2000
+OST | Now We Are Free | Lisa Gerrard & Hans Zimmer | q=Now We Are Free Lisa Gerrard & Hans Zimmer Gladiator d=1
+
+# 駭客任務（The Matrix） | 1999
+OST | Clubbed to Death | Rob Dougan | q=Clubbed to Death Rob Dougan The Matrix d=1
+
+# 捍衛戰士（Top Gun） | 1986
+OST | Danger Zone | Kenny Loggins | q=Danger Zone Kenny Loggins Top Gun d=1
+
+# 魔鬼終結者（The Terminator） | 1984
+OST | The Terminator Theme | Brad Fiedel | q=The Terminator Theme Brad Fiedel The Terminator d=1
+
+# 魔鬼終結者2：審判日（Terminator 2: Judgment Day） | 1991
+OST | You Could Be Mine | Guns N' Roses | q=You Could Be Mine Guns N' Roses Terminator 2: Judgment Day d=1
+
+# 回到未來（Back to the Future） | 1985
+OST | The Power of Love | Huey Lewis and the News | q=The Power of Love Huey Lewis and the News Back to the Future d=1
+
+# 魔鬼剋星（Ghostbusters） | 1984
+OST | Ghostbusters | Ray Parker Jr. | q=Ghostbusters Ray Parker Jr. Ghostbusters d=1
+
+# 教父（The Godfather） | 1972
+OST | Speak Softly Love (Love Theme from The Godfather) | Andy Williams | q=Speak Softly Love (Love Theme from The Godfather) Andy Williams The Godfather d=1
+
+# 阿甘正傳（Forrest Gump） | 1994
+OST | Forrest Gump Suite (Feather Theme) | Alan Silvestri | q=Forrest Gump Suite (Feather Theme) Alan Silvestri Forrest Gump d=1
+
+# 刺激1995（The Shawshank Redemption） | 1994
+OST | So Was Red | Thomas Newman | q=So Was Red Thomas Newman The Shawshank Redemption d=2
+
+# 洛基1976（Rocky） | 1976
+OST | Gonna Fly Now | Bill Conti | q=Gonna Fly Now Bill Conti Rocky d=1
+
+# 火戰車（Chariots of Fire） | 1981
+OST | Chariots of Fire | Vangelis | q=Chariots of Fire Vangelis Chariots of Fire d=1
+
+# 銀翼殺手（Blade Runner） | 1982
+OST | Blade Runner Blues | Vangelis | q=Blade Runner Blues Vangelis Blade Runner d=2
+
+# 黑色追緝令（Pulp Fiction） | 1994
+OST | Misirlou | Dick Dale | q=Misirlou Dick Dale Pulp Fiction d=1
+
+# 標殺比爾（Kill Bill: Vol. 1） | 2003
+OST | Bang Bang (My Baby Shot Me Down) | Nancy Sinatra | q=Bang Bang (My Baby Shot Me Down) Nancy Sinatra Kill Bill: Vol. 1 d=1
+
+# 2001太空漫遊（2001: A Space Odyssey） | 1968
+OST | Also sprach Zarathustra | Richard Strauss | q=Also sprach Zarathustra Richard Strauss 2001: A Space Odyssey d=1
+
+# 比佛利山超級警探（Beverly Hills Cop） | 1984
+OST | Axel F | Harold Faltermeyer | q=Axel F Harold Faltermeyer Beverly Hills Cop d=1
+
+# 絕地任務（Armageddon） | 1998
+OST | I Don't Want to Miss a Thing | Aerosmith | q=I Don't Want to Miss a Thing Aerosmith Armageddon d=1
+
+# MIB星際戰警（Men in Black） | 1997
+OST | Men in Black | Will Smith | q=Men in Black Will Smith Men in Black d=1
+
+# 絕地戰警（Bad Boys） | 1995
+OST | Bad Boys | Inner Circle | q=Bad Boys Inner Circle Bad Boys d=1
+
+# 魔鬼戰將（Highlander） | 1986
+OST | Princes of the Universe | Queen | q=Princes of the Universe Queen Highlander d=2
+
+# 閃電舞（Footloose） | 1984
+OST | Footloose | Kenny Loggins | q=Footloose Kenny Loggins Footloose d=1
+
+# 勇敢的心（Braveheart） | 1995
+OST | For the Love of a Princess | James Horner | q=For the Love of a Princess James Horner Braveheart d=2
+
+# 最後的摩根戰士（The Last of the Mohicans） | 1992
+OST | The Gael | Dougie MacLean | q=The Gael Dougie MacLean The Last of the Mohicans d=2
+
+# 與狼共舞（Dances with Wolves） | 1990
+OST | The John Dunbar Theme | John Barry | q=The John Dunbar Theme John Barry Dances with Wolves d=2
+
+# 007：第七號情報員（Dr. No） | 1962
+OST | James Bond Theme | Monty Norman | q=James Bond Theme Monty Norman Dr. No d=1
+
+# 007：金手指（Goldfinger） | 1964
+OST | Goldfinger | Shirley Bassey | q=Goldfinger Shirley Bassey Goldfinger d=1
+
+# 007：黃金眼（GoldenEye） | 1995
+OST | GoldenEye | Tina Turner | q=GoldenEye Tina Turner GoldenEye d=1
+
+# 007：誰與爭鋒（Die Another Day） | 2002
+OST | Die Another Day | Madonna | q=Die Another Day Madonna Die Another Day d=2
+
+# 不可能的任務（Mission: Impossible） | 1996
+OST | Mission: Impossible Theme | Lalo Schifrin | q=Mission: Impossible Theme Lalo Schifrin Mission: Impossible d=1
+
+# 粉紅豹（The Pink Panther） | 1963
+OST | The Pink Panther Theme | Henry Mancini | q=The Pink Panther Theme Henry Mancini The Pink Panther d=1
+
+# ===== 經典愛情與歌舞片 =====
+
+# 第六感生死戀（Ghost） | 1990
+OST | Unchained Melody | The Righteous Brothers | q=Unchained Melody The Righteous Brothers Ghost d=1
+
+# 終極保鑣（The Bodyguard） | 1992
+OST | I Will Always Love You | Whitney Houston | q=I Will Always Love You Whitney Houston The Bodyguard d=1
+
+# 麻雀變鳳凰（Pretty Woman） | 1990
+OST | Oh, Pretty Woman | Roy Orbison | q=Oh, Pretty Woman Roy Orbison Pretty Woman d=1
+
+# 第凡內早餐（Breakfast at Tiffany's） | 1961
+OST | Moon River | Audrey Hepburn | q=Moon River Audrey Hepburn Breakfast at Tiffany's d=1
+
+# 真善美（The Sound of Music） | 1965
+OST | Do-Re-Mi | Julie Andrews | q=Do-Re-Mi Julie Andrews The Sound of Music d=1
+
+# 歡樂滿人間（Mary Poppins） | 1964
+OST | Supercalifragilisticexpialidocious | Julie Andrews & Dick Van Dyke | q=Supercalifragilisticexpialidocious Julie Andrews & Dick Van Dyke Mary Poppins d=1
+
+# 綠野仙蹤（The Wizard of Oz） | 1939
+OST | Over the Rainbow | Judy Garland | q=Over the Rainbow Judy Garland The Wizard of Oz d=1
+
+# 北非諜影（Casablanca） | 1942
+OST | As Time Goes By | Dooley Wilson | q=As Time Goes By Dooley Wilson Casablanca d=1
+
+# 週末夜狂熱（Saturday Night Fever） | 1977
+OST | Stayin' Alive | Bee Gees | q=Stayin' Alive Bee Gees Saturday Night Fever d=1
+
+# 火爆浪子（Grease） | 1978
+OST | You're the One That I Want | John Travolta & Olivia Newton-John | q=You're the One That I Want John Travolta & Olivia Newton-John Grease d=1
+
+# 熱舞十七（Dirty Dancing） | 1987
+OST | (I've Had) The Time of My Life | Bill Medley & Jennifer Warnes | q=(I've Had) The Time of My Life Bill Medley & Jennifer Warnes Dirty Dancing d=1
+
+# 閃舞（Flashdance） | 1983
+OST | Flashdance... What a Feeling | Irene Cara | q=Flashdance... What a Feeling Irene Cara Flashdance d=1
+
+# 紅磨坊（Moulin Rouge!） | 2001
+OST | Come What May | Ewan McGregor & Nicole Kidman | q=Come What May Ewan McGregor & Nicole Kidman Moulin Rouge! d=2
+
+# 芝加哥（Chicago） | 2002
+OST | All That Jazz | Catherine Zeta-Jones | q=All That Jazz Catherine Zeta-Jones Chicago d=2
+
+# 當哈利碰上莎莉（When Harry Met Sally...） | 1989
+OST | It Had to Be You | Harry Connick Jr. | q=It Had to Be You Harry Connick Jr. When Harry Met Sally... d=2
+
+# 新娘不是我（My Best Friend's Wedding） | 1997
+OST | I Say a Little Prayer | Diana King | q=I Say a Little Prayer Diana King My Best Friend's Wedding d=2
+
+# 我的野蠻女友（My Sassy Girl） | 2001
+OST | I Believe | Shin Seung-hun | q=I Believe Shin Seung-hun My Sassy Girl d=2
+
+# 新娘百分百（Notting Hill） | 1999
+OST | She | Elvis Costello | q=She Elvis Costello Notting Hill d=1
+
+# 愛的小確幸（Love Actually） | 2003
+OST | Christmas Is All Around | Bill Nighy | q=Bill Nighy Christmas Is All Around Love Actually d=2
+
+# 貓王（Elvis） | 2022
+OST | Suspicious Minds | Elvis Presley | q=Suspicious Minds Elvis Presley Elvis d=2
+
+# ===== 迪士尼與動畫經典 =====
+
+# 獅子王1994（The Lion King） | 1994
+OST | Can You Feel the Love Tonight | Elton John | q=Can You Feel the Love Tonight Elton John The Lion King d=1
+
+# 阿拉丁1992（Aladdin） | 1992
+OST | A Whole New World | Peabo Bryson & Regina Belle | q=A Whole New World Peabo Bryson & Regina Belle Aladdin d=1
+
+# 美女與野獸1991（Beauty and the Beast） | 1991
+OST | Tale as Old as Time | Angela Lansbury | q=Tale as Old as Time Angela Lansbury Beauty and the Beast d=1
+
+# 小美人魚1989（The Little Mermaid） | 1989
+OST | Under the Sea | Samuel E. Wright | q=Under the Sea Samuel E. Wright The Little Mermaid d=1
+
+# 風中奇緣（Pocahontas） | 1995
+OST | Colors of the Wind | Judy Kuhn | q=Colors of the Wind Judy Kuhn Pocahontas d=1
+
+# 玩具總動員（Toy Story） | 1995
+OST | You've Got a Friend in Me | Randy Newman | q=You've Got a Friend in Me Randy Newman Toy Story d=1
+
+# 玩具總動員2（Toy Story 2） | 1999
+OST | When She Loved Me | Sarah McLachlan | q=When She Loved Me Sarah McLachlan Toy Story 2 d=2
+
+# 怪獸電力公司（Monsters, Inc.） | 2001
+OST | If I Didn't Have You | Billy Crystal & John Goodman | q=If I Didn't Have You Billy Crystal & John Goodman Monsters, Inc. d=2
+
+# 海底總動員（Finding Nemo） | 2003
+OST | Beyond the Sea | Robbie Williams | q=Beyond the Sea Robbie Williams Finding Nemo d=1
+
+# 史瑞克（Shrek） | 2001
+OST | All Star | Smash Mouth | q=All Star Smash Mouth Shrek d=1
+
+# 泰山（Tarzan） | 1999
+OST | You'll Be in My Heart | Phil Collins | q=You'll Be in My Heart Phil Collins Tarzan d=1
+
+# 花木蘭（Mulan） | 1998
+OST | I'll Make a Man Out of You | Donny Osmond | q=I'll Make a Man Out of You Donny Osmond Mulan d=1
+
+# 大力士（Hercules） | 1997
+OST | Go the Distance | Michael Bolton | q=Go the Distance Michael Bolton Hercules d=2
+
+# 小鹿斑比（Bambi） | 1942
+OST | Little April Shower | Walt Disney Studio Chorus | q=Little April Shower Walt Disney Studio Chorus Bambi d=2
+
+# 小飛象（Dumbo） | 1941
+OST | Baby Mine | Betty Noyes | q=Baby Mine Betty Noyes Dumbo d=2
+
+# 仙履奇緣（Cinderella） | 1950
+OST | A Dream Is a Wish Your Heart Makes | Ilene Woods | q=A Dream Is a Wish Your Heart Makes Ilene Woods Cinderella d=1
+
+# 白雪公主（Snow White and the Seven Dwarfs） | 1937
+OST | Heigh-Ho | The Dwarfs | q=Heigh-Ho The Dwarfs Snow White and the Seven Dwarfs d=2
+
+# 森林王子（The Jungle Book） | 1967
+OST | The Bare Necessities | Phil Harris | q=The Bare Necessities Phil Harris The Jungle Book d=1
+
+# 101忠狗（One Hundred and One Dalmatians） | 1961
+OST | Cruella de Vil | Bill Lee | q=Cruella de Vil Bill Lee One Hundred and One Dalmatians d=2
+
+# 貓兒歷險記（The Aristocats） | 1970
+OST | Everybody Wants to Be a Cat | Phil Harris | q=Everybody Wants to Be a Cat Phil Harris The Aristocats d=2
+
+# ===== 歐洲電影 =====
+
+# 新天堂樂園（Cinema Paradiso） | 1988
+OST | Love Theme | Ennio Morricone | q=Love Theme Ennio Morricone Cinema Paradiso d=1
+
+# 海上鋼琴師（The Legend of 1900） | 1998
+OST | Playing Love | Ennio Morricone | q=Playing Love Ennio Morricone The Legend of 1900 d=1
+
+# 黃昏三鏢客（The Good, the Bad and the Ugly） | 1966
+OST | The Ecstasy of Gold | Ennio Morricone | q=The Ecstasy of Gold Ennio Morricone The Good, the Bad and the Ugly d=1
+
+# 美麗人生（Life Is Beautiful） | 1997
+OST | La vita è bella | Nicola Piovani | q=La vita è bella Nicola Piovani Life Is Beautiful d=2
+
+# 郵差（Il Postino） | 1994
+OST | Il Postino | Luis Bacalov | q=Il Postino Luis Bacalov Il Postino d=2
+
+# 西西里的美麗傳說（Malèna） | 2000
+OST | Malèna | Ennio Morricone | q=Malèna Ennio Morricone Malèna d=2
+
+# 艾蜜莉的異想世界（Amélie） | 2001
+OST | Comptine d'un autre été | Yann Tiersen | q=Comptine d'un autre été Yann Tiersen Amélie d=1
+
+# 這個殺手不太冷（Léon: The Professional） | 1994
+OST | Shape of My Heart | Sting | q=Shape of My Heart Sting Léon: The Professional d=1
+
+# 放牛班的春天（Les Choristes） | 2004
+OST | Vois sur ton chemin | Les Choristes | q=Vois sur ton chemin Les Choristes Les Choristes d=2
+
+# ===== 經典恐怖與懸疑 =====
+
+# 月光光心慌慌（Halloween） | 1978
+OST | Halloween Theme | John Carpenter | q=Halloween Theme John Carpenter Halloween d=1
+
+# 大法師（The Exorcist） | 1973
+OST | Tubular Bells | Mike Oldfield | q=Tubular Bells Mike Oldfield The Exorcist d=2
+
+# 驚魂記（Psycho） | 1960
+OST | Psycho Prelude | Bernard Herrmann | q=Psycho Prelude Bernard Herrmann Psycho d=2
+
+# 陰間大法師（Beetlejuice） | 1988
+OST | Day-O (The Banana Boat Song) | Harry Belafonte | q=Day-O (The Banana Boat Song) Harry Belafonte Beetlejuice d=2

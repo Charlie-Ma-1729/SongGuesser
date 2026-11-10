@@ -1,0 +1,412 @@
+# 電影／影集主題曲（一部作品只挑一首；系列作每一集各放一首）
+# 範圍：2018 年以後為主、2004～2017 年為輔；好萊塢優先（以台灣票房／討論度為準），也收日本動畫電影、少數華語與韓劇。
+# 格式同動漫歌單：「# 中文（原文） | 年份」開始一部作品，下面只放一行 OST。
+# 演唱欄位：純音樂寫作曲者，主題曲寫演唱者；d=1 全民熟知、d=2 一般影迷。
+
+# ===== 漫威宇宙 =====
+
+# 復仇者聯盟（The Avengers） | 2012
+OST | The Avengers | Alan Silvestri | c=Alan Silvestri q=The Avengers Theme Alan Silvestri d=1
+
+# 雷神索爾3：諸神黃昏（Thor: Ragnarok） | 2017
+OST | Immigrant Song | Led Zeppelin | q=Thor Ragnarok Immigrant Song Led Zeppelin d=1
+
+# 黑豹（Black Panther） | 2018
+OST | All the Stars | Kendrick Lamar & SZA | q=All the Stars Kendrick Lamar SZA d=1
+
+# 復仇者聯盟3：無限之戰（Avengers: Infinity War） | 2018
+OST | Infinity War | Alan Silvestri | c=Alan Silvestri q=Avengers Infinity War Main Theme Alan Silvestri d=2
+
+# 復仇者聯盟4：終局之戰（Avengers: Endgame） | 2019
+OST | Portals | Alan Silvestri | c=Alan Silvestri q=Avengers Endgame Portals Alan Silvestri d=1
+
+# 黑豹2：瓦干達萬歲（Black Panther: Wakanda Forever） | 2022
+OST | Lift Me Up | Rihanna | q=Lift Me Up Rihanna Wakanda Forever d=1
+
+# 星際異攻隊（Guardians of the Galaxy） | 2014
+OST | Hooked on a Feeling | Blue Swede | q=Hooked on a Feeling Blue Swede d=1
+
+# 星際異攻隊2（Guardians of the Galaxy Vol. 2） | 2017
+OST | Mr. Blue Sky | Electric Light Orchestra | q=Electric Light Orchestra Mr. Blue Sky Guardians of the Galaxy Vol. 2 Topic d=1
+
+# 星際異攻隊3（Guardians of the Galaxy Vol. 3） | 2023
+OST | Creep | Radiohead | q=Radiohead Creep d=2
+
+# 死侍（Deadpool） | 2016
+OST | Angel of the Morning | Juice Newton | q=Angel of the Morning Juice Newton d=2
+
+# 死侍與金鋼狼（Deadpool & Wolverine） | 2024
+OST | Bye Bye Bye | *NSYNC | q=NSYNC Bye Bye Bye d=1
+
+# 蜘蛛人：新宇宙（Spider-Man: Into the Spider-Verse） | 2018
+OST | Sunflower | Post Malone & Swae Lee | q=Post Malone Swae Lee Sunflower d=1
+
+# 蜘蛛人：穿越新宇宙（Spider-Man: Across the Spider-Verse） | 2023
+OST | Am I Dreaming | Metro Boomin, A$AP Rocky & Roisee | q=Metro Boomin A$AP Rocky Roisee Am I Dreaming d=2
+
+# 洛基（Loki） | 2021
+OST | Glorious Purpose | Natalie Holt | c=Natalie Holt q=Loki Glorious Purpose Natalie Holt d=2
+
+# ===== DC 與超級英雄 =====
+
+# 黑暗騎士：開戰時刻（Batman Begins） | 2005
+OST | Molossus | Hans Zimmer & James Newton Howard | c=Hans Zimmer q=Batman Begins Molossus Hans Zimmer d=2
+
+# 黑暗騎士（The Dark Knight） | 2008
+OST | Why So Serious? | Hans Zimmer & James Newton Howard | c=Hans Zimmer q=The Dark Knight Why So Serious Hans Zimmer d=1
+
+# 黑暗騎士：黎明昇起（The Dark Knight Rises） | 2012
+OST | Rise | Hans Zimmer | c=Hans Zimmer q=Hans Zimmer Rise The Dark Knight Rises Official d=2
+
+# 蝙蝠俠（The Batman） | 2022
+OST | Something in the Way | Nirvana | q=Nirvana Something in the Way d=2
+
+# 小丑（Joker） | 2019
+OST | Bathroom Dance | Hildur Guðnadóttir | c=Hildur Guðnadóttir q=Joker Bathroom Dance Hildur Guðnadóttir d=1
+
+# 神力女超人（Wonder Woman） | 2017
+OST | Wonder Woman's Wrath | Rupert Gregson-Williams | c=Rupert Gregson-Williams q=Wonder Woman's Wrath Rupert Gregson-Williams Topic d=2
+
+# 水行俠（Aquaman） | 2018
+OST | Everything I Need | Skylar Grey | q=Aquaman Everything I Need Skylar Grey d=2
+
+# 自殺突擊隊（Suicide Squad） | 2016
+OST | Heathens | Twenty One Pilots | q=Twenty One Pilots Heathens d=1
+
+# ===== 科幻、奇幻與大製作 =====
+
+# 星際大戰：原力覺醒（Star Wars: The Force Awakens） | 2015
+OST | Rey's Theme | John Williams | c=John Williams q=Star Wars Force Awakens Rey's Theme John Williams d=1
+
+# 星際大戰外傳：俠盜一號（Rogue One） | 2016
+OST | Jyn Erso & Hope Suite | Michael Giacchino | c=Michael Giacchino q=Rogue One Jyn Erso Hope Suite Giacchino d=2
+
+# 星際大戰：最後的絕地武士（Star Wars: The Last Jedi） | 2017
+OST | The Rebellion Is Reborn | John Williams | c=John Williams q=Star Wars The Last Jedi The Rebellion Is Reborn d=2
+
+# 星際大戰：天行者的崛起（Star Wars: The Rise of Skywalker） | 2019
+OST | Finale | John Williams | c=John Williams q=Star Wars The Rise of Skywalker John Williams d=2
+
+# 星際大戰三部曲：西斯的復仇（Star Wars: Revenge of the Sith） | 2005
+OST | Battle of the Heroes | John Williams | c=John Williams q=Revenge of the Sith Battle of the Heroes John Williams d=1
+
+# 曼達洛人（The Mandalorian） | 2019
+OST | The Mandalorian | Ludwig Göransson | c=Ludwig Göransson q=The Mandalorian Main Theme Ludwig Göransson d=1
+
+# 阿凡達（Avatar） | 2009
+OST | I See You | Leona Lewis | q=Avatar I See You Leona Lewis d=1
+
+# 阿凡達：水之道（Avatar: The Way of Water） | 2022
+OST | Nothing Is Lost (You Give Me Strength) | The Weeknd | q=The Weeknd Nothing Is Lost You Give Me Strength Avatar d=2
+
+# 全面啟動（Inception） | 2010
+OST | Time | Hans Zimmer | c=Hans Zimmer q=Inception Time Hans Zimmer d=1
+
+# 星際效應（Interstellar） | 2014
+OST | Cornfield Chase | Hans Zimmer | c=Hans Zimmer q=Interstellar Cornfield Chase Hans Zimmer d=1
+
+# 敦克爾克大行動（Dunkirk） | 2017
+OST | Supermarine | Hans Zimmer | c=Hans Zimmer q=Dunkirk Supermarine Hans Zimmer d=2
+
+# 天能（Tenet） | 2020
+OST | Rainy Night in Tallinn | Ludwig Göransson | c=Ludwig Göransson q=Tenet Rainy Night in Tallinn Ludwig Göransson d=2
+
+# 奧本海默（Oppenheimer） | 2023
+OST | Can You Hear the Music | Ludwig Göransson | c=Ludwig Göransson q=Oppenheimer Can You Hear the Music Ludwig Göransson d=1
+
+# 沙丘（Dune） | 2021
+OST | Paul's Dream | Hans Zimmer | c=Hans Zimmer q=Dune Paul's Dream Hans Zimmer d=2
+
+# 沙丘：第二部（Dune: Part Two） | 2024
+OST | A Time of Quiet Between the Storms | Hans Zimmer | c=Hans Zimmer q=Dune Part Two A Time of Quiet Between the Storms Hans Zimmer d=2
+
+# 侏羅紀世界（Jurassic World） | 2015
+OST | Welcome to Jurassic World | Michael Giacchino | c=Michael Giacchino q=Jurassic World Theme Michael Giacchino d=2
+
+# 侏羅紀世界：殞落國度（Jurassic World: Fallen Kingdom） | 2018
+OST | Jurassic World: Fallen Kingdom | Michael Giacchino | c=Michael Giacchino q=Jurassic World Fallen Kingdom Giacchino main theme d=2
+
+# 侏羅紀世界：統霸天下（Jurassic World Dominion） | 2022
+OST | Jurassic World Dominion | Michael Giacchino | c=Michael Giacchino q=Michael Giacchino Jurassic World Dominion Main Titles d=2
+
+# 變形金剛（Transformers） | 2007
+OST | Arrival to Earth | Steve Jablonsky | c=Steve Jablonsky q=Transformers Arrival to Earth Steve Jablonsky d=1
+
+# 大黃蜂（Bumblebee） | 2018
+OST | Back to Life | Hailee Steinfeld | q=Bumblebee Back to Life Hailee Steinfeld d=2
+
+# 玩命關頭：東京甩尾（The Fast and the Furious: Tokyo Drift） | 2006
+OST | Tokyo Drift (Fast & Furious) | Teriyaki Boyz | q=Teriyaki Boyz Tokyo Drift d=1
+
+# 玩命關頭5（Fast Five） | 2011
+OST | Danza Kuduro | Don Omar & Lucenzo | q=Don Omar Lucenzo Danza Kuduro d=1
+
+# 玩命關頭6（Furious 6） | 2013
+OST | We Own It (Fast & Furious) | 2 Chainz & Wiz Khalifa | q=2 Chainz Wiz Khalifa We Own It d=2
+
+# 玩命關頭7（Furious 7） | 2015
+OST | See You Again | Wiz Khalifa feat. Charlie Puth | q=Wiz Khalifa See You Again Charlie Puth d=1
+
+# 捍衛戰士：獨行俠（Top Gun: Maverick） | 2022
+OST | Hold My Hand | Lady Gaga | q=Lady Gaga Hold My Hand Top Gun Maverick d=1
+
+# 不可能的任務：失控國度（Mission: Impossible – Rogue Nation） | 2015
+OST | Mission: Impossible Theme | Lalo Schifrin | c=Lalo Schifrin q=Mission Impossible Theme Lalo Schifrin d=1
+
+# 不可能的任務：全面瓦解（Mission: Impossible – Fallout） | 2018
+OST | Mission: Impossible – Fallout Theme | Lorne Balfe | c=Lorne Balfe q=Mission Impossible Fallout Lorne Balfe theme d=2
+
+# 不可能的任務：致命清算（Mission: Impossible – Dead Reckoning） | 2023
+OST | Dead Reckoning Opening Titles | Lorne Balfe | c=Lorne Balfe q=Dead Reckoning Opening Titles Mission Impossible Lorne Balfe d=2
+
+# 007：空降危機（Skyfall） | 2012
+OST | Skyfall | Adele | q=Adele Skyfall d=1
+
+# 007：惡魔四伏（Spectre） | 2015
+OST | Writing's on the Wall | Sam Smith | q=Sam Smith Writing's on the Wall d=1
+
+# 007：生死交戰（No Time to Die） | 2021
+OST | No Time to Die | Billie Eilish | q=Billie Eilish No Time to Die d=1
+
+# 007：皇家夜總會（Casino Royale） | 2006
+OST | You Know My Name | Chris Cornell | q=Chris Cornell You Know My Name d=2
+
+# 加勒比海盜：決戰魔盜王（Pirates of the Caribbean: Dead Man's Chest） | 2006
+OST | Davy Jones | Hans Zimmer | c=Hans Zimmer q=Pirates of the Caribbean Dead Man's Chest Davy Jones Hans Zimmer d=2
+
+# 哈利波特：阿茲卡班的逃犯（Harry Potter and the Prisoner of Azkaban） | 2004
+OST | A Window to the Past | John Williams | c=John Williams q=Harry Potter Prisoner of Azkaban A Window to the Past d=2
+
+# 哈利波特：死神的聖物2（Harry Potter and the Deathly Hallows Part 2） | 2011
+OST | Lily's Theme | Alexandre Desplat | c=Alexandre Desplat q=Harry Potter Deathly Hallows Lily's Theme Desplat d=2
+
+# 飢餓遊戲（The Hunger Games） | 2012
+OST | Safe & Sound | Taylor Swift feat. The Civil Wars | q=Taylor Swift Safe and Sound Civil Wars d=1
+
+# 飢餓遊戲：星火燎原（The Hunger Games: Catching Fire） | 2013
+OST | Atlas | Coldplay | q=Coldplay Atlas Catching Fire d=2
+
+# 飢餓遊戲：自由幻夢1（The Hunger Games: Mockingjay Part 1） | 2014
+OST | Yellow Flicker Beat | Lorde | q=Lorde Yellow Flicker Beat d=2
+
+# 暮光之城（Twilight） | 2008
+OST | Bella's Lullaby | Carter Burwell | c=Carter Burwell q=Twilight Bella's Lullaby Carter Burwell d=1
+
+# 愛麗絲夢遊仙境（Alice in Wonderland） | 2010
+OST | Alice | Avril Lavigne | q=Avril Lavigne Alice Underground Official Video d=1
+
+# 星運里的錯（The Fault in Our Stars） | 2014
+OST | All of the Stars | Ed Sheeran | q=Ed Sheeran All of the Stars d=1
+
+# 格雷的五十道陰影（Fifty Shades of Grey） | 2015
+OST | Earned It | The Weeknd | q=The Weeknd Earned It d=2
+
+# 瘋狂亞洲富豪（Crazy Rich Asians） | 2018
+OST | Yellow | Katherine Ho | q=Katherine Ho Yellow Crazy Rich Asians Soundtrack Official Audio d=2
+
+# ===== 歌舞與音樂電影 =====
+
+# 樂來越愛你（La La Land） | 2016
+OST | City of Stars | Ryan Gosling & Emma Stone | q=La La Land City of Stars Ryan Gosling Emma Stone d=1
+
+# 大娛樂家（The Greatest Showman） | 2017
+OST | This Is Me | Keala Settle | q=Greatest Showman This Is Me Keala Settle d=1
+
+# 波希米亞狂想曲（Bohemian Rhapsody） | 2018
+OST | Bohemian Rhapsody | Queen | q=Queen Bohemian Rhapsody official video d=1
+
+# 一個巨星的誕生（A Star Is Born） | 2018
+OST | Shallow | Lady Gaga & Bradley Cooper | q=Lady Gaga Bradley Cooper Shallow d=1
+
+# 媽媽咪呀！（Mamma Mia!） | 2008
+OST | Mamma Mia | Amanda Seyfried | q=Mamma Mia Amanda Seyfried From Mamma Mia The Movie Topic d=1
+
+# 媽媽咪呀2（Mamma Mia! Here We Go Again） | 2018
+OST | Fernando | Cher | q=Cher Fernando Mamma Mia Here We Go Again d=2
+
+# 悲慘世界（Les Misérables） | 2012
+OST | I Dreamed a Dream | Anne Hathaway | q=Les Miserables Anne Hathaway I Dreamed a Dream d=1
+
+# 魔法壞女巫（Wicked） | 2024
+OST | Defying Gravity | Cynthia Erivo & Ariana Grande | q=Wicked Defying Gravity Cynthia Erivo Ariana Grande d=1
+
+# 芭比（Barbie） | 2023
+OST | What Was I Made For? | Billie Eilish | q=Billie Eilish What Was I Made For d=1
+
+# ===== 迪士尼、皮克斯與動畫 =====
+
+# 冰雪奇緣（Frozen） | 2013
+OST | Let It Go | Idina Menzel | q=Frozen Let It Go Idina Menzel d=1
+
+# 冰雪奇緣2（Frozen II） | 2019
+OST | Into the Unknown | Idina Menzel & AURORA | q=Frozen 2 Into the Unknown Idina Menzel d=1
+
+# 魔髮奇緣（Tangled） | 2010
+OST | I See the Light | Mandy Moore & Zachary Levi | q=Tangled I See the Light Mandy Moore Zachary Levi d=1
+
+# 阿拉丁（Aladdin） | 2019
+OST | A Whole New World | Mena Massoud & Naomi Scott | q=Aladdin 2019 A Whole New World Mena Massoud Naomi Scott d=1
+
+# 獅子王（The Lion King） | 2019
+OST | Circle of Life | Lebo M. & Carmen Twillie | q=Lion King 2019 Circle of Life d=1
+
+# 美女與野獸（Beauty and the Beast） | 2017
+OST | Beauty and the Beast | Ariana Grande & John Legend | q=Ariana Grande John Legend Beauty and the Beast d=1
+
+# 小美人魚（The Little Mermaid） | 2023
+OST | Part of Your World | Halle Bailey | q=Little Mermaid 2023 Part of Your World Halle Bailey d=1
+
+# 玩具總動員3（Toy Story 3） | 2010
+OST | We Belong Together | Randy Newman | q=Toy Story 3 We Belong Together Randy Newman d=2
+
+# 玩具總動員4（Toy Story 4） | 2019
+OST | The Ballad of the Lonesome Cowboy | Chris Stapleton | q=Toy Story 4 Ballad of the Lonesome Cowboy Chris Stapleton d=2
+
+# 天外奇蹟（Up） | 2009
+OST | Married Life | Michael Giacchino | c=Michael Giacchino q=Up Married Life Michael Giacchino d=1
+
+# 腦筋急轉彎（Inside Out） | 2015
+OST | Bundle of Joy | Michael Giacchino | c=Michael Giacchino q=Inside Out Bundle of Joy Michael Giacchino d=2
+
+# 可可夜總會（Coco） | 2017
+OST | Remember Me | Miguel & Natalia Lafourcade | q=Coco Remember Me Miguel Natalia Lafourcade d=1
+
+# 超人特攻隊（The Incredibles） | 2004
+OST | The Incredits | Michael Giacchino | c=Michael Giacchino q=The Incredibles The Incredits Michael Giacchino d=2
+
+# 料理鼠王（Ratatouille） | 2007
+OST | Le Festin | Camille | q=Ratatouille Le Festin Camille d=2
+
+# 汽車總動員（Cars） | 2006
+OST | Life Is a Highway | Rascal Flatts | q=Cars Life Is a Highway Rascal Flatts d=1
+
+# 海洋奇緣（Moana） | 2016
+OST | How Far I'll Go | Auli'i Cravalho | q=Moana How Far I'll Go Auliʻi Cravalho d=1
+
+# 動物方城市（Zootopia） | 2016
+OST | Try Everything | Shakira | q=Shakira Try Everything Zootopia d=1
+
+# 魔法滿屋（Encanto） | 2021
+OST | We Don't Talk About Bruno | Encanto Cast | q=Encanto We Don't Talk About Bruno d=1
+
+# 史瑞克2（Shrek 2） | 2004
+OST | Holding Out for a Hero | Jennifer Saunders | q=Shrek 2 Holding Out for a Hero Jennifer Saunders d=2
+
+# 馬達加斯加（Madagascar） | 2005
+OST | I Like to Move It | Sacha Baron Cohen | q=Madagascar I Like to Move It d=1
+
+# 功夫熊貓（Kung Fu Panda） | 2008
+OST | Kung Fu Fighting | CeeLo Green & Jack Black | q=Kung Fu Panda Kung Fu Fighting CeeLo Green Jack Black d=1
+
+# 如何馴龍（How to Train Your Dragon） | 2010
+OST | Test Drive | John Powell | c=John Powell q=How to Train Your Dragon Test Drive John Powell d=2
+
+# 神偷奶爸2（Despicable Me 2） | 2013
+OST | Happy | Pharrell Williams | q=Pharrell Williams Happy d=1
+
+# 超級瑪利歐兄弟電影版（The Super Mario Bros. Movie） | 2023
+OST | Peaches | Jack Black | q=Super Mario Bros Movie Peaches Jack Black d=1
+
+# ===== 影集 =====
+
+# 權力遊戲（Game of Thrones） | 2011
+OST | Main Title | Ramin Djawadi | c=Ramin Djawadi t=Game of Thrones q=Ramin Djawadi Main Title Game of Thrones Topic d=1
+
+
+# 西方極樂園（Westworld） | 2016
+OST | Westworld Main Title Theme | Ramin Djawadi | c=Ramin Djawadi q=Westworld Main Title Theme Ramin Djawadi d=2
+
+# 怪奇物語（Stranger Things） | 2016
+OST | Stranger Things Theme | Kyle Dixon & Michael Stein | c=Kyle Dixon & Michael Stein q=Stranger Things Theme Kyle Dixon Michael Stein d=1
+
+# 魷魚遊戲（Squid Game） | 2021
+OST | Way Back Then | Jung Jae-il | c=Jung Jae-il q=Squid Game Way Back Then Jung Jae-il d=1
+
+# 紙房子（La Casa de Papel） | 2017
+OST | My Life Is Going On | Cecilia Krull | q=Cecilia Krull My Life Is Going On La Casa de Papel d=1
+
+# 巫師（The Witcher） | 2019
+OST | Toss a Coin to Your Witcher | Sonya Belousova & Giona Ostinelli | q=Toss a Coin to Your Witcher Joey Batey d=1
+
+# 絕命毒師（Breaking Bad） | 2008
+OST | Breaking Bad Main Title | Dave Porter | c=Dave Porter q=Breaking Bad Main Title Theme Dave Porter d=2
+
+# 宅男行不行（The Big Bang Theory） | 2007
+OST | Big Bang Theory Theme (History of Everything) | Barenaked Ladies | q=Barenaked Ladies History of Everything Big Bang Theory d=1
+
+# 新世紀福爾摩斯（Sherlock） | 2010
+OST | The Game Is On | David Arnold & Michael Price | c=David Arnold q=David Arnold The Game Is On Sherlock Topic d=2
+
+
+# ===== 韓劇與華語 =====
+
+# 鬼怪（Guardian: The Lonely and Great God） | 2016
+OST | Beautiful | Crush | q=Crush Beautiful Goblin OST Part 4 Official Audio 크러쉬 도깨비 d=1
+
+# 太陽的後裔（Descendants of the Sun） | 2016
+OST | Always | Yoon Mirae | q=Yoon Mirae Always Descendants of the Sun d=1
+
+# 愛的迫降（Crash Landing on You） | 2019
+OST | Give You My Heart | IU | q=IU Give You My Heart Crash Landing on You d=1
+
+# 梨泰院Class（Itaewon Class） | 2020
+OST | Start Over | Gaho | q=Gaho 가호 Start Over 이태원 클라쓰 OST Official Audio d=2
+
+# 不能說的秘密（Secret） | 2007
+OST | 不能說的秘密 | 周杰倫 | l=方文山 c=周杰倫 t=Secret q=周杰倫 不能說的秘密 d=1
+
+# 海角七號（Cape No. 7） | 2008
+OST | 國境之南 | 范逸臣 | q=范逸臣 國境之南 官方 MV 海角七號 d=1
+
+# 那些年，我們一起追的女孩（You Are the Apple of My Eye） | 2011
+OST | 那些年 | 胡夏 | q=胡夏 那些年 官方 MV d=1
+
+# 我的少女時代（Our Times） | 2015
+OST | 小幸運 | 田馥甄 | q=田馥甄 小幸運 d=1
+
+# 想見你（Someday or One Day） | 2019
+OST | 想見你想見你想見你 | 八三夭 | q=八三夭 想見你想見你想見你 d=1
+
+# ===== 日本動畫與電影 =====
+
+# 霍爾的移動城堡（ハウルの動く城） | 2004
+OST | 人生のメリーゴーランド | 久石譲 | c=久石譲 t=Merry-Go-Round of Life q=ハウルの動く城 人生のメリーゴーランド 久石譲 d=1
+
+# 崖上的波妞（崖の上のポニョ） | 2008
+OST | 崖の上のポニョ | 藤岡藤巻と大橋のぞみ | t=Ponyo q=崖の上のポニョ 藤岡藤巻と大橋のぞみ d=1
+
+# 時光少女（時をかける少女） | 2006
+OST | ガーネット | 奥華子 | t=Garnet q=時をかける少女 ガーネット 奥華子 d=2
+
+# 秒速五公分（秒速5センチメートル） | 2007
+OST | One more time, One more chance | 山崎まさよし | q=秒速5センチメートル One more time One more chance 山崎まさよし d=1
+
+# 哆啦A夢：伴我同行（STAND BY ME ドラえもん） | 2014
+OST | ひまわりの約束 | 秦基博 | t=Himawari no Yakusoku q=STAND BY ME ドラえもん ひまわりの約束 秦基博 d=1
+
+# 你的名字。（君の名は。） | 2016
+OST | 前前前世 | RADWIMPS | t=Zenzenzense q=RADWIMPS 前前前世 MUSIC VIDEO 君の名は。 d=1
+
+# 天氣之子（天気の子） | 2019
+OST | グランドエスケープ | RADWIMPS feat. 三浦透子 | t=Grand Escape q=天気の子 グランドエスケープ RADWIMPS 三浦透子 d=1
+
+# 鈴芽之旅（すずめの戸締まり） | 2022
+OST | すずめ | RADWIMPS feat. 十明 | t=Suzume q=すずめの戸締まり すずめ RADWIMPS 十明 d=1
+
+# 鬼滅之刃劇場版 無限列車篇（劇場版 鬼滅の刃 無限列車編） | 2020
+OST | 炎 | LiSA | t=Homura q=鬼滅の刃 無限列車編 炎 LiSA d=1
+
+# 咒術迴戰0（劇場版 呪術廻戦 0） | 2021
+OST | 一途 | King Gnu | t=Ichizu q=呪術廻戦 0 一途 King Gnu d=1
+
+# 航海王 FILM RED（ONE PIECE FILM RED） | 2022
+OST | 新時代 | Ado | t=Shinjidai q=Ado 新時代 ONE PIECE FILM RED Official Music Video d=1
+
+# 灌籃高手 THE FIRST SLAM DUNK（THE FIRST SLAM DUNK） | 2022
+OST | 第ゼロ感 | 10-FEET | t=Dai Zero Kan q=THE FIRST SLAM DUNK 第ゼロ感 10-FEET d=1
+
+# 蒼鷺與少年（君たちはどう生きるか） | 2023
+OST | 地球儀 | 米津玄師 | t=Chikyugi q=君たちはどう生きるか 地球儀 米津玄師 d=1
+
+# 哥吉拉-1.0（ゴジラ-1.0） | 2023
+OST | Godzilla Suite II | 佐藤直紀 | c=佐藤直紀 t=Godzilla Minus One q=Godzilla-1.0 Godzilla Suite II Naoki Sato Milan Records d=2

@@ -1,0 +1,72 @@
+# 由精簡清單轉出：08-extra2.txt
+
+# ===== 漫威補完 =====
+
+# X戰警：天啟（X-Men: Apocalypse） | 2016
+OST | Sweet Dreams (Are Made of This) | Eurythmics | q=Sweet Dreams (Are Made of This) Eurythmics X-Men: Apocalypse d=2
+
+# ===== 影集再補完 =====
+
+# 紙牌屋（House of Cards） | 2013
+OST | House of Cards Theme | Jeff Beal | q=House of Cards Theme Jeff Beal House of Cards d=2
+
+# 王冠（The Crown） | 2016
+OST | The Crown | Hans Zimmer | q=The Crown Hans Zimmer The Crown d=2
+
+# 毒梟（Narcos） | 2015
+OST | Tuyo | Rodrigo Amarante | q=Tuyo Rodrigo Amarante Narcos d=2
+
+# 勞改日記（Orange Is the New Black） | 2013
+OST | You've Got Time | Regina Spektor | q=You've Got Time Regina Spektor Orange Is the New Black d=2
+
+# 探長（True Detective） | 2014
+OST | Far from Any Road | The Handsome Family | q=Far from Any Road The Handsome Family True Detective d=2
+
+# 維京傳奇（Vikings） | 2013
+OST | If I Had a Heart | Fever Ray | q=If I Had a Heart Fever Ray Vikings d=2
+
+# ===== 動畫與家庭片再補完 =====
+
+# 歡樂好聲音（Sing） | 2016
+OST | I'm Still Standing | Taron Egerton | q=I'm Still Standing Taron Egerton Sing d=2
+
+# 幻想曲（Fantasia） | 1940
+OST | The Sorcerer's Apprentice | Leopold Stokowski | q=The Sorcerer's Apprentice Leopold Stokowski Fantasia d=2
+
+# 木偶奇遇記（Pinocchio） | 1940
+OST | When You Wish Upon a Star | Cliff Edwards | q=When You Wish Upon a Star Cliff Edwards Pinocchio d=1
+
+# ===== 90 年代愛情與喜劇 =====
+
+# BJ單身日記（Bridget Jones's Diary） | 2001
+OST | It's Raining Men | Geri Halliwell | q=It's Raining Men Geri Halliwell Bridget Jones's Diary d=2
+
+# 四個婚禮和一個葬禮（Four Weddings and a Funeral） | 1994
+OST | Love Is All Around | Wet Wet Wet | q=Love Is All Around Wet Wet Wet Four Weddings and a Funeral d=1
+
+# 西雅圖夜未眠（Sleepless in Seattle） | 1993
+OST | Make Someone Happy | Jimmy Durante | q=Make Someone Happy Jimmy Durante Sleepless in Seattle d=2
+
+# 威鯨闖天關（Free Willy） | 1993
+OST | Will You Be There | Michael Jackson | q=Will You Be There Michael Jackson Free Willy d=1
+
+# 怪物奇兵（Space Jam） | 1996
+OST | I Believe I Can Fly | R. Kelly | q=I Believe I Can Fly R. Kelly Space Jam d=1
+
+# 羅密歐與茱麗葉1996（Romeo + Juliet） | 1996
+OST | Lovefool | The Cardigans | q=Lovefool The Cardigans Romeo + Juliet d=2
+
+# 酷斯拉（Godzilla） | 1998
+OST | Come with Me | Puff Daddy & Jimmy Page | q=Come with Me Puff Daddy & Jimmy Page Godzilla d=2
+
+# 修女也瘋狂（Sister Act） | 1992
+OST | I Will Follow Him | Little Peggy March | q=I Will Follow Him Little Peggy March Sister Act d=2
+
+# 剪刀手愛德華（Edward Scissorhands） | 1990
+OST | Ice Dance | Danny Elfman | q=Ice Dance Danny Elfman Edward Scissorhands d=1
+
+# 聖誕夜驚魂（The Nightmare Before Christmas） | 1993
+OST | This Is Halloween | Danny Elfman | q=This Is Halloween Danny Elfman The Nightmare Before Christmas d=1
+
+# 地獄新娘（Corpse Bride） | 2005
+OST | Remains of the Day | Danny Elfman | q=Remains of the Day Danny Elfman Corpse Bride d=2

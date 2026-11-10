@@ -1,0 +1,141 @@
+# 由精簡清單轉出：02-marvel.txt
+
+# ===== 漫威電影宇宙 =====
+
+# 鋼鐵人（Iron Man） | 2008
+OST | Driving with the Top Down | Ramin Djawadi | q=Driving with the Top Down Ramin Djawadi Iron Man d=2
+
+# 鋼鐵人2（Iron Man 2） | 2010
+OST | Shoot to Thrill | AC/DC | q=Shoot to Thrill AC/DC Iron Man 2 d=1
+
+# 雷神索爾（Thor） | 2011
+OST | Sons of Odin | Patrick Doyle | q=Sons of Odin Patrick Doyle Thor d=2
+
+# 美國隊長：復仇者先鋒（Captain America: The First Avenger） | 2011
+OST | Star Spangled Man | Alan Menken | q=Star Spangled Man Alan Menken Captain America: The First Avenger d=2
+
+# 鋼鐵人3（Iron Man 3） | 2013
+OST | Can You Dig It? | Brian Tyler | q=Can You Dig It? Brian Tyler Iron Man 3 d=2
+
+# 雷神索爾2：黑暗世界（Thor: The Dark World） | 2013
+OST | Into Eternity | Brian Tyler | q=Into Eternity Brian Tyler Thor: The Dark World d=2
+
+# 美國隊長2：酷寒戰士（Captain America: The Winter Soldier） | 2014
+OST | Winter Soldier | Henry Jackman | q=Winter Soldier Henry Jackman Captain America: The Winter Soldier d=2
+
+# 復仇者聯盟2：奧創紀元（Avengers: Age of Ultron） | 2015
+OST | New Avengers | Danny Elfman | q=New Avengers Danny Elfman Avengers: Age of Ultron d=2
+
+# 美國隊長3：英雄內戰（Captain America: Civil War） | 2016
+OST | Civil War | Henry Jackman | q=Civil War Henry Jackman Captain America: Civil War d=2
+
+# 奇異博士（Doctor Strange） | 2016
+OST | The Master of the Mystic End Credits | Michael Giacchino | q=The Master of the Mystic End Credits Michael Giacchino Doctor Strange d=2
+
+# 蜘蛛人：返校日（Spider-Man: Homecoming） | 2017
+OST | High Tech Heist | Michael Giacchino | q=High Tech Heist Michael Giacchino Spider-Man: Homecoming d=2
+
+# 蟻人與黃蜂女（Ant-Man and the Wasp） | 2018
+OST | Ant-Man and the Wasp | Christophe Beck | q=Ant-Man and the Wasp Christophe Beck Ant-Man and the Wasp d=2
+
+# 驚奇隊長（Captain Marvel） | 2019
+OST | Just a Girl | No Doubt | q=Just a Girl No Doubt Captain Marvel d=2
+
+# 蜘蛛人：離家日（Spider-Man: Far From Home） | 2019
+OST | Swinging Set | Michael Giacchino | q=Swinging Set Michael Giacchino Spider-Man: Far From Home d=2
+
+# 黑寡婦（Black Widow） | 2021
+OST | Smells Like Teen Spirit | Malia Civetz | q=Smells Like Teen Spirit Malia Civetz Black Widow d=2
+
+# 永恆族（Eternals） | 2021
+OST | Eternals | Ramin Djawadi | q=Eternals Ramin Djawadi Eternals d=2
+
+# 蜘蛛人：無家日（Spider-Man: No Way Home） | 2021
+OST | Forget Me Knots | Michael Giacchino | q=Forget Me Knots Michael Giacchino Spider-Man: No Way Home d=2
+
+# 奇異博士2：失控多重宇宙（Doctor Strange in the Multiverse of Madness） | 2022
+OST | Doctor Strange in the Multiverse of Madness | Danny Elfman | q=Doctor Strange in the Multiverse of Madness Danny Elfman Doctor Strange in the Multiverse of Madness d=2
+
+# 雷神索爾4：愛與雷霆（Thor: Love and Thunder） | 2022
+OST | Sweet Child o' Mine | Guns N' Roses | q=Sweet Child o' Mine Guns N' Roses Thor: Love and Thunder d=1
+
+# 蟻人與黃蜂女：量子狂熱（Ant-Man and the Wasp: Quantumania） | 2023
+OST | Quantumania | Christophe Beck | q=Quantumania Christophe Beck Ant-Man and the Wasp: Quantumania d=2
+
+# 驚奇隊長2（The Marvels） | 2023
+OST | The Marvels | Laura Karpman | q=The Marvels Laura Karpman The Marvels d=2
+
+# 美國隊長：無畏新世界（Captain America: Brave New World） | 2025
+OST | Brave New World | Laura Karpman | q=Brave New World Laura Karpman Captain America: Brave New World d=2
+
+# 雷霆特攻隊*（Thunderbolts*） | 2025
+OST | Thunderbolts* | Son Lux | q=Thunderbolts* Son Lux Thunderbolts* d=2
+
+# 驚奇4超人：初啼試聲（The Fantastic Four: First Steps） | 2025
+OST | The Fantastic Four: First Steps | Michael Giacchino | q=The Fantastic Four: First Steps Michael Giacchino The Fantastic Four: First Steps d=2
+
+# ===== 漫威影集（Disney+） =====
+
+# 汪達幻視（WandaVision） | 2021
+OST | Agatha All Along | Kristen Anderson-Lopez & Robert Lopez | q=Agatha All Along Kristen Anderson-Lopez & Robert Lopez WandaVision d=1
+
+# 獵鷹與酷寒戰士（The Falcon and the Winter Soldier） | 2021
+OST | Louisiana Hero | Henry Jackman | q=Louisiana Hero Henry Jackman The Falcon and the Winter Soldier d=2
+
+# 鷹眼（Hawkeye） | 2021
+OST | Save the City | Marc Shaiman & Scott Wittman | q=Save the City Marc Shaiman & Scott Wittman Hawkeye d=2
+
+# 如果…？（What If...?） | 2021
+OST | What If...? | Laura Karpman | q=What If...? Laura Karpman What If...? d=2
+
+# 月光騎士（Moon Knight） | 2022
+OST | Moon Knight | Hesham Nazih | q=Moon Knight Hesham Nazih Moon Knight d=2
+
+# ===== 蜘蛛人與其他漫威角色 =====
+
+# 蜘蛛人（Spider-Man） | 2002
+OST | Hero | Chad Kroeger feat. Josey Scott | q=Hero Chad Kroeger feat. Josey Scott Spider-Man d=1
+
+# 蜘蛛人2（Spider-Man 2） | 2004
+OST | Spider-Man 2 Main Title | Danny Elfman | q=Danny Elfman Spider-Man 2 Main Title Topic d=2
+
+# 蜘蛛人3（Spider-Man 3） | 2007
+OST | Signal Fire | Snow Patrol | q=Snow Patrol Signal Fire Spider-Man 3 official d=2
+
+# 蜘蛛人：驚奇再起（The Amazing Spider-Man） | 2012
+OST | The Amazing Spider-Man | James Horner | q=James Horner The Amazing Spider-Man Soundtrack Topic d=2
+
+# 蜘蛛人：電光之戰（The Amazing Spider-Man 2） | 2014
+OST | It's On Again | Alicia Keys & Kendrick Lamar | q=It's On Again Alicia Keys & Kendrick Lamar The Amazing Spider-Man 2 d=2
+
+# 猛毒（Venom） | 2018
+OST | Venom | Eminem | q=Venom Eminem Venom d=2
+
+# 猛毒2：血蜘蛛（Venom: Let There Be Carnage） | 2021
+OST | Last One Standing | Skylar Grey, Polo G, Mozzy & Eminem | q=Last One Standing Skylar Grey, Polo G, Mozzy & Eminem Venom: Let There Be Carnage d=2
+
+# 死侍2（Deadpool 2） | 2018
+OST | Ashes | Céline Dion | q=Ashes Céline Dion Deadpool 2 d=1
+
+# X戰警（X-Men） | 2000
+OST | You're X-Men | John Ottman | q=You're X-Men John Ottman X-Men d=2
+
+# X戰警：未來昔日（X-Men: Days of Future Past） | 2014
+OST | Time in a Bottle | Jim Croce | q=Time in a Bottle Jim Croce X-Men: Days of Future Past d=2
+
+# 羅根（Logan） | 2017
+OST | Hurt | Johnny Cash | q=Hurt Johnny Cash Logan d=1
+
+# ===== DC 與超人、蝙蝠俠舊作 =====
+
+# 超人（Superman） | 1978
+OST | Superman March | John Williams | q=Superman March John Williams Superman d=1
+
+# 蝙蝠俠1989（Batman） | 1989
+OST | Batman Theme | Danny Elfman | q=Batman Theme Danny Elfman Batman d=1
+
+# 超人：鋼鐵之軀（Man of Steel） | 2013
+OST | What Are You Going to Do When You Are Not Saving the World? | Hans Zimmer | q=What Are You Going to Do When You Are Not Saving the World? Hans Zimmer Man of Steel d=2
+
+# 正義聯盟（Justice League） | 2017
+OST | Everybody Knows | Sigrid | q=Everybody Knows Sigrid Justice League d=2

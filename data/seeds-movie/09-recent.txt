@@ -1,0 +1,39 @@
+# 由精簡清單轉出：09-recent.txt
+
+# ===== 2018 年以後補充 =====
+
+# 白雪公主2025（Snow White） | 2025
+OST | Waiting on a Wish | Rachel Zegler | q=Waiting on a Wish Rachel Zegler Snow White d=2
+
+# 我想與你起舞（I Wanna Dance with Somebody） | 2022
+OST | I Wanna Dance with Somebody (Who Loves Me) | Whitney Houston | q=I Wanna Dance with Somebody (Who Loves Me) Whitney Houston I Wanna Dance with Somebody d=1
+
+# 格雷的五十道陰影：束縛（Fifty Shades Darker） | 2017
+OST | I Don't Wanna Live Forever | ZAYN & Taylor Swift | q=I Don't Wanna Live Forever ZAYN & Taylor Swift Fifty Shades Darker d=1
+
+# 格雷的五十道陰影：自由（Fifty Shades Freed） | 2018
+OST | For You | Rita Ora & Liam Payne | q=For You Rita Ora & Liam Payne Fifty Shades Freed d=2
+
+# 魔戒：力量之戒（The Lord of the Rings: The Rings of Power） | 2022
+OST | The Rings of Power Main Title | Bear McCreary | q=The Rings of Power Main Title Bear McCreary The Lord of the Rings: The Rings of Power d=2
+
+# 機智醫生生活（Hospital Playlist） | 2020
+OST | Aloha | Jo Jung-suk | q=Aloha Jo Jung-suk Hospital Playlist d=2
+
+# 神偷奶爸4（Despicable Me 4） | 2024
+OST | Double Life | Pharrell Williams | q=Double Life Pharrell Williams Despicable Me 4 d=2
+
+# 玩命關頭8（The Fate of the Furious） | 2017
+OST | Good Life | G-Eazy & Kehlani | q=Good Life G-Eazy & Kehlani The Fate of the Furious d=2
+
+# 花木蘭2020（Mulan） | 2020
+OST | Reflection | Christina Aguilera | q=Reflection Christina Aguilera Mulan d=2
+
+# 青春養成記（Turning Red） | 2022
+OST | Nobody Like U | 4*TOWN | q=Nobody Like U 4*TOWN Turning Red d=2
+
+# 元素方城市（Elemental） | 2023
+OST | Steal the Show | Lauv | q=Steal the Show Lauv Elemental d=2
+
+# 馴龍高手3（How to Train Your Dragon: The Hidden World） | 2019
+OST | Together from Afar | Jónsi | q=Together from Afar Jónsi How to Train Your Dragon: The Hidden World d=2

@@ -2,7 +2,7 @@
 // 用法：node scripts/build.mjs
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
-import { parseSeeds, ROOT, CACHE_DIR } from './lib.mjs';
+import { parseSeeds, ROOT, CACHE_DIR, CAT } from './lib.mjs';
 
 const cacheFile = path.join(CACHE_DIR, 'resolved.json');
 const cache = existsSync(cacheFile) ? JSON.parse(readFileSync(cacheFile, 'utf8')) : {};
@@ -34,7 +34,7 @@ for (const w of works) {
     const cr = credits[s.key] || {};
     const pick = (a, b) => a || b || undefined;
     out.push({
-      id: 'a-' + s.id,
+      id: (CAT === 'movie' ? 'm-' : 'a-') + s.id,
       workId: w.workId,
       kind: s.kind,
       ytId: ov.ytId || r.ytId,
@@ -42,7 +42,7 @@ for (const w of works) {
       start: ov.start ?? 0,
       // 揭曉時跳到「最多重播」的位置（通常是副歌）；沒有重播資料的影片就不跳，接著播
       revealStart: ov.revealStart ?? (r.startSource === 'peak' ? r.start : undefined),
-      prompt: s.kind === 'OST' ? '這段配樂來自哪部動畫？' : '這首歌來自哪部動畫？',
+      prompt: CAT === 'movie' ? '這首配樂／主題曲來自哪部電影或影集？' : s.kind === 'OST' ? '這段配樂來自哪部動畫？' : '這首歌來自哪部動畫？',
       answer: {
         title: s.title,
         work: workName,
@@ -63,11 +63,11 @@ for (const w of works) {
   }
 }
 
-writeFileSync(path.join(ROOT, 'data', 'anime.json'), JSON.stringify(out, null, 1));
+writeFileSync(path.join(ROOT, 'data', CAT + '.json'), JSON.stringify(out, null, 1));
 const nWorks = new Set(out.map((q) => q.workId)).size;
 console.log(`seeds 共 ${total} 首 / ${works.length} 部作品`);
 console.log(`入庫 ${out.length} 首（${nWorks} 部作品），缺影片 ${missing.length} 首`);
 if (missing.length) {
-  writeFileSync(path.join(CACHE_DIR, 'missing.txt'), missing.join('\n'));
+  writeFileSync(path.join(CACHE_DIR, CAT === 'movie' ? 'missing-movie.txt' : 'missing.txt'), missing.join('\n'));
   console.log('缺影片清單已寫入 data/cache/missing.txt');
 }
