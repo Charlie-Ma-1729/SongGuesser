@@ -176,6 +176,11 @@ export function showAnswer(q) {
   $('btn-main').textContent = '下一題 (空白鍵)';
 }
 
+/** 自動模式揭曉後：在「下一題」按鈕上顯示剩餘秒數 */
+export function setNextCountdown(n) {
+  $('btn-main').textContent = `下一題 (空白鍵) · ${n} 秒後自動`;
+}
+
 export function showEnd(n) {
   $('end-text').textContent = `一共猜了 ${n} 首，辛苦了！`;
   showScreen('end');

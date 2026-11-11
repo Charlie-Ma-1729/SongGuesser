@@ -70,11 +70,13 @@ export class Game {
   }
 
   quit() {
+    this._clearNextTimer();
     this.player.stop();
     this.state = 'over';
   }
 
   _present() {
+    this._clearNextTimer();
     if (this.shown >= this.total || this.queue.length === 0) return this._end();
     this.player.pause(); // 先停掉上一首
     this.current = this.queue.shift();
@@ -95,9 +97,28 @@ export class Game {
     ui.showAnswer(this.current);
     ui.revealChoices();
     this.player.release(this.current.revealStart);
+    if (this.auto) this._startNextTimer();
+  }
+
+  /** 自動模式：揭曉後 10 秒自動進下一題（按鈕上顯示倒數；手動按空白鍵／跳過仍可提前進） */
+  _startNextTimer(seconds = 10) {
+    this._clearNextTimer();
+    let n = seconds;
+    ui.setNextCountdown(n);
+    this._nextTimer = setInterval(() => {
+      if (this.state !== 'revealed') return this._clearNextTimer();
+      n--;
+      if (n <= 0) { this._clearNextTimer(); this._present(); }
+      else ui.setNextCountdown(n);
+    }, 1000);
+  }
+
+  _clearNextTimer() {
+    if (this._nextTimer) { clearInterval(this._nextTimer); this._nextTimer = null; }
   }
 
   _end() {
+    this._clearNextTimer();
     this.player.stop();
     this.state = 'over';
     ui.showEnd(Math.min(this.shown, this.total));
