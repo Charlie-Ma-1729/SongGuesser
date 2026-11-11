@@ -1857,5 +1857,25 @@
   "video": "Theme of Love (Final Fantasy IV)",
   "channel": "Arnie Roth - Topic",
   "startSource": "peak"
+ },
+ {
+  "id": "g-37779a60",
+  "workId": "w1a947a",
+  "kind": "OST",
+  "ytId": "IHgvavOWzD8",
+  "start": 0,
+  "mid": 40,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Hearts of Iron IV Main Theme",
+   "work": "鋼鐵雄心4（Hearts of Iron IV）",
+   "artist": "Andreas Waldetoft"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "Hearts of Iron IV - Main Theme",
+  "channel": "MasStream",
+  "startSource": "heuristic",
+  "review": true
  }
 ]

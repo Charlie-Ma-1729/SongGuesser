@@ -23,8 +23,9 @@ export class Game {
     this.ready = this.player.init();
   }
 
-  async start(queue, total, duration, auto = false, fromMiddle = false) {
+  async start(queue, total, duration, auto = false, fromMiddle = false, makeChoices = null) {
     await this.ready;
+    this.makeChoices = makeChoices; // (question) => 選項陣列 | null；null/未提供 = 不出選擇題
     this.queue = queue.slice();
     this.total = Math.min(total, queue.length);
     this.duration = duration;
@@ -39,6 +40,11 @@ export class Game {
   press() {
     if (this.state === 'revealed') return this._present();
     if (this.state === 'loading' || this.state === 'playing' || this.state === 'ended') this._reveal();
+  }
+
+  /** 選擇題：標記大家選的選項（0–7），可改選；揭曉後不再接受 */
+  pick(i) {
+    if (this.state === 'loading' || this.state === 'playing' || this.state === 'ended') ui.pickChoice(i);
   }
 
   replay() {
@@ -74,7 +80,8 @@ export class Game {
     this.current = this.queue.shift();
     this.shown++;
     this.state = 'loading';
-    ui.showQuestion(this.current, this.shown, this.total); // 同步蓋住影片、收起答案，之後才載入新影片
+    const choices = this.makeChoices ? this.makeChoices(this.current) : null;
+    ui.showQuestion(this.current, this.shown, this.total, choices); // 同步蓋住影片、收起答案，之後才載入新影片
     ui.resetProgress(this.duration > 0);
     this.player.load({
       ytId: this.current.ytId,
@@ -86,6 +93,7 @@ export class Game {
   _reveal() {
     this.state = 'revealed';
     ui.showAnswer(this.current);
+    ui.revealChoices();
     this.player.release(this.current.revealStart);
   }
 

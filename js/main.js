@@ -1,4 +1,4 @@
-import { CATEGORIES, loadBank, buildQueue } from './questions.js';
+import { CATEGORIES, loadBank, buildQueue, buildChoices } from './questions.js';
 import { Game } from './game.js';
 import * as ui from './ui.js';
 
@@ -85,7 +85,19 @@ async function startGame() {
   }
   ui.showScreen('game');
   if (!game) game = new Game(volume);
-  await game.start(queue, count, Number($('opt-duration').value), $('opt-auto').value === '1', $('opt-start').value === '1');
+
+  // 8 選 1：干擾項取自「同一個題庫」，所以先記下每題屬於哪個題庫
+  let makeChoices = null;
+  if ($('opt-choice').value === '1') {
+    const catOf = new Map();
+    for (const c of cats) for (const q of bank[c] || []) catOf.set(q.id, c);
+    const maxDifficulty = Number($('opt-difficulty').value);
+    makeChoices = (q) => {
+      const cat = catOf.get(q.id);
+      return buildChoices(q, bank[cat] || [], cat, { maxDifficulty });
+    };
+  }
+  await game.start(queue, count, Number($('opt-duration').value), $('opt-auto').value === '1', $('opt-start').value === '1', makeChoices);
 }
 
 $('btn-start').addEventListener('click', startGame);
@@ -95,6 +107,10 @@ $('btn-main').addEventListener('click', () => game && game.press());
 $('btn-replay').addEventListener('click', () => game && game.replay());
 $('btn-skip').addEventListener('click', () => game && game.skip());
 $('btn-flag').addEventListener('click', () => game && game.flagCurrent());
+$('choices').addEventListener('click', (e) => {
+  const d = e.target.closest('.choice');
+  if (d && game) game.pick(Number(d.dataset.i));
+});
 
 // 點擊後讓按鈕失焦，避免空白鍵同時觸發「按鈕點擊」與「鍵盤事件」
 document.addEventListener('click', (e) => {
@@ -116,6 +132,7 @@ document.addEventListener('keydown', (e) => {
   else if (e.code === 'Space') { e.preventDefault(); game.press(); }
   else if (e.code === 'KeyR') game.replay();
   else if (e.code === 'KeyX') game.flagCurrent();
+  else if (/^(Digit|Numpad)[1-8]$/.test(e.code)) game.pick(Number(e.code.slice(-1)) - 1);
   else if (e.code === 'ArrowRight') game.skip();
 });
 

@@ -284,3 +284,6 @@ OST | Vamo' alla Flamenco | Nobuo Uematsu | q=Final Fantasy IX Vamo' alla Flamen
 
 # 太空戰士IV（Final Fantasy IV） | 1991
 OST | Theme of Love | Nobuo Uematsu | q=Final Fantasy IV Theme of Love Nobuo Uematsu d=3
+
+# 鋼鐵雄心4（Hearts of Iron IV） | 2016
+OST | Hearts of Iron IV Main Theme | Andreas Waldetoft | q=Hearts of Iron IV Main Theme Andreas Waldetoft d=1

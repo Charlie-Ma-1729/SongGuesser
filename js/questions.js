@@ -40,6 +40,42 @@ export function shuffle(arr) {
   return a;
 }
 
+/** 選擇題選項的顯示文字：main = 主標（中文作品名／歌名），sub = 副標（原文名／歌手） */
+export function choiceOf(q, cat) {
+  const a = q.answer || {};
+  if (cat === 'song') return { main: a.title || '', sub: a.artist || '' };
+  const w = a.work || '';
+  const i = w.indexOf('（');
+  return i > 0 ? { main: w.slice(0, i).trim(), sub: w.slice(i + 1).replace(/）$/, '').trim() } : { main: w, sub: '' };
+}
+
+/**
+ * 8 選 1：正解 + (n-1) 個干擾項。干擾項取自同一個題庫（candidates），
+ * 不與正解或彼此重複，盡量選年代接近（±10 年）、難度不超過設定的作品，讓選項看起來都合理。
+ */
+export function buildChoices(q, candidates, cat, { n = 8, maxDifficulty = 3 } = {}) {
+  const right = choiceOf(q, cat);
+  const uniq = new Map(); // main → { ch, year, d }
+  for (const c of candidates) {
+    if (c.disabled) continue;
+    const ch = choiceOf(c, cat);
+    if (!ch.main || ch.main === right.main || uniq.has(ch.main)) continue;
+    uniq.set(ch.main, { ch, year: c.year, d: c.difficulty ?? 1 });
+  }
+  let list = [...uniq.values()];
+  const easy = list.filter((x) => x.d <= maxDifficulty);
+  if (easy.length >= n - 1) list = easy;
+  list = shuffle(list);
+  if (q.year) {
+    const near = list.filter((x) => x.year && Math.abs(x.year - q.year) <= 10);
+    const far = list.filter((x) => !(x.year && Math.abs(x.year - q.year) <= 10));
+    list = [...near, ...far];
+  }
+  const picks = list.slice(0, n - 1).map((x) => x.ch);
+  if (picks.length < 1) return null; // 題庫太小湊不出選項 → 這題不出選擇題
+  return shuffle([...picks, { ...right, correct: true }]);
+}
+
 /**
  * 依條件建立出題佇列：
  *  - 難度、類型篩選

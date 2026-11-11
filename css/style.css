@@ -102,6 +102,31 @@ kbd {
   .stage.revealed .answer { grid-column: 2; grid-row: 1; max-width: none; margin: 0; }
   .stage.revealed .controls, .stage.revealed .toast { grid-column: 1 / -1; }
 }
+/* 8 選 1 選擇題 */
+.choices { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; max-width: 1000px; margin: 14px auto 0; }
+.choices.hidden { display: none; }
+.choice {
+  display: flex; align-items: center; gap: 10px; text-align: left; min-height: 64px; padding: 8px 12px;
+  background: #25274a; border: 2px solid #3a3d70; border-radius: 14px; cursor: pointer; user-select: none;
+  transition: background 0.15s, border-color 0.15s, opacity 0.3s;
+}
+.choice:hover { border-color: var(--accent2); }
+.choice .no {
+  flex: none; width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center;
+  background: #3a3d70; font-weight: 800; font-size: 15px;
+}
+.choice .txt { display: flex; flex-direction: column; min-width: 0; line-height: 1.25; }
+.choice b { font-size: clamp(15px, 1.7vw, 20px); }
+.choice small { color: var(--muted); font-size: 12px; margin-top: 2px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.choice.picked { border-color: #ffd166; background: #3a3560; }
+.choices.done .choice { cursor: default; opacity: 0.45; }
+.choices.done .choice:hover { border-color: #3a3d70; }
+.choices.done .choice.correct { opacity: 1; background: rgba(61, 220, 151, 0.22); border-color: var(--ok); }
+.choices.done .choice.correct .no { background: var(--ok); color: #0f1020; }
+.choices.done .choice.wrong { opacity: 1; background: rgba(255, 79, 100, 0.2); border-color: #ff4f64; }
+.stage.mc:not(.revealed) .video-box { width: min(100%, 560px); }
+@media (max-width: 800px) { .choices { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 900px) { .stage.revealed .choices { grid-column: 1 / -1; } }
 .controls { display: flex; gap: 14px; justify-content: center; align-items: center; margin-top: 18px; flex-wrap: wrap; }
 .toast { min-height: 24px; color: var(--ok); margin: 10px 0 0; }
 .toast.warn { color: #ffb347; }

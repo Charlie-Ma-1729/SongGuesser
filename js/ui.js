@@ -79,9 +79,64 @@ export function toast(msg, warn = false) {
   if (msg) toastTimer = setTimeout(() => { el.textContent = ''; }, 5000);
 }
 
-export function showQuestion(q, index, total) {
+// ===== 8 選 1 選擇題 =====
+let curChoices = null;
+let picked = -1;
+
+function renderChoices(choices) {
+  curChoices = choices;
+  picked = -1;
+  const box = $('choices');
+  box.replaceChildren();
+  box.classList.toggle('hidden', !choices);
+  box.classList.remove('done');
+  document.querySelector('.stage').classList.toggle('mc', !!choices);
+  if (!choices) return;
+  choices.forEach((c, i) => {
+    const d = document.createElement('div');
+    d.className = 'choice';
+    d.dataset.i = String(i);
+    const no = document.createElement('span');
+    no.className = 'no';
+    no.textContent = String(i + 1);
+    const txt = document.createElement('span');
+    txt.className = 'txt';
+    const m = document.createElement('b');
+    m.textContent = c.main;
+    txt.append(m);
+    if (c.sub) {
+      const s = document.createElement('small');
+      s.textContent = c.sub;
+      txt.append(s);
+    }
+    d.append(no, txt);
+    box.append(d);
+  });
+}
+
+/** 標記（或取消標記）某個選項，只是視覺上的記號，不計分 */
+export function pickChoice(i) {
+  if (!curChoices || i < 0 || i >= curChoices.length) return;
+  picked = picked === i ? -1 : i;
+  [...$('choices').children].forEach((d, k) => d.classList.toggle('picked', k === picked));
+}
+
+/** 揭曉：正解亮綠色、其他變暗；若有標記且標錯，標記項變紅 */
+export function revealChoices() {
+  if (!curChoices) return;
+  const box = $('choices');
+  box.classList.add('done');
+  [...box.children].forEach((d, k) => {
+    const ok = !!curChoices[k].correct;
+    d.classList.toggle('correct', ok);
+    d.classList.toggle('wrong', !ok && k === picked);
+  });
+}
+
+export function showQuestion(q, index, total, choices = null) {
   $('progress').textContent = `第 ${index} / ${total} 題`;
   hideEverything();
+  renderChoices(choices);
   $('badge').textContent = KIND_LABEL[q.kind] || '配樂';
   flyBadge();
   $('prompt').textContent = q.prompt || '這首歌來自哪部動畫？';

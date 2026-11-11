@@ -52,6 +52,12 @@
           <option value="1">從中間播放（接近高潮處）</option>
         </select>
       </label>
+      <label>選擇題模式
+        <select id="opt-choice">
+          <option value="0" selected>關閉（純猜）</option>
+          <option value="1">開啟（8 選 1）</option>
+        </select>
+      </label>
       <label>難度
         <select id="opt-difficulty">
           <option value="1">簡單（大家都聽過）</option>
@@ -84,7 +90,7 @@
     </section>
 
     <button id="btn-start" class="big primary" disabled>載入題庫中…</button>
-    <p class="tip">操作：<kbd>空白鍵</kbd> 揭曉／下一題　<kbd>R</kbd> 重播　<kbd>→</kbd> 跳過　<kbd>↑</kbd><kbd>↓</kbd> 音量　<kbd>M</kbd> 靜音　<kbd>X</kbd> 回報問題（開頭不是音樂時用）</p>
+    <p class="tip">操作：<kbd>空白鍵</kbd> 揭曉／下一題　<kbd>R</kbd> 重播　<kbd>→</kbd> 跳過　<kbd>1</kbd>–<kbd>8</kbd> 標記選項（選擇題模式）　<kbd>↑</kbd><kbd>↓</kbd> 音量　<kbd>M</kbd> 靜音　<kbd>X</kbd> 回報問題（開頭不是音樂時用）</p>
   </main>
 
   <!-- 遊戲畫面 -->
@@ -108,6 +114,8 @@
       </div>
 
       <h2 id="prompt">這首歌來自哪部動畫？</h2>
+
+      <div id="choices" class="choices hidden"></div>
 
       <div id="answer" class="answer hidden">
         <div id="ans-work" class="work"></div>
