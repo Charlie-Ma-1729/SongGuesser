@@ -3,15 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>動漫猜歌大賽</title>
+  <title>猜歌大賽</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎵</text></svg>">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <!-- 設定畫面 -->
   <main id="screen-setup" class="screen active">
-    <h1>🎵 動漫猜歌大賽</h1>
-    <p class="sub">聽音樂，猜出這首歌是哪一部動畫！</p>
+    <h1>🎵 猜歌大賽</h1>
+    <p class="sub">聽音樂，猜出它來自哪一部作品！</p>
 
     <section class="card">
       <h2>題庫</h2>
@@ -46,10 +46,16 @@
           <option value="1">自動（播完倒數 5 秒後自動揭曉）</option>
         </select>
       </label>
+      <label>起播位置
+        <select id="opt-start">
+          <option value="0" selected>從頭播放</option>
+          <option value="1">從中間播放（接近高潮處）</option>
+        </select>
+      </label>
       <label>難度
         <select id="opt-difficulty">
           <option value="1">簡單（大家都聽過）</option>
-          <option value="2" selected>普通（含一般動漫迷）</option>
+          <option value="2" selected>普通（含一般愛好者）</option>
           <option value="3">困難（含冷門作品）</option>
         </select>
       </label>
@@ -72,7 +78,8 @@
         <label class="chip"><input type="checkbox" value="OP" checked> OP 片頭曲</label>
         <label class="chip"><input type="checkbox" value="ED" checked> ED 片尾曲</label>
         <label class="chip"><input type="checkbox" value="INSERT" checked> 插入曲</label>
-        <label class="chip"><input type="checkbox" value="OST" checked> OST 配樂</label>
+        <label class="chip"><input type="checkbox" value="OST" checked> OST 配樂（純音樂）</label>
+        <label class="chip"><input type="checkbox" value="SONG"> 🎬 電影歌曲（有人聲）</label>
       </div>
     </section>
 

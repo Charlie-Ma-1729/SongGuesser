@@ -1,1 +1,1861 @@
-[]
+[
+ {
+  "id": "g-3b37d2de",
+  "workId": "wdf4819",
+  "kind": "OST",
+  "ytId": "n_2KZntBhRg",
+  "start": 0,
+  "mid": 12,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Ground Theme",
+   "work": "超級瑪利歐兄弟（Super Mario Bros.）",
+   "artist": "Koji Kondo"
+  },
+  "year": 1985,
+  "difficulty": 1,
+  "video": "Koji Kondo - \"Super Mario Bros\" (NES) Ground Theme",
+  "channel": "psc​​",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-2b62f9c3",
+  "workId": "w76a9ab",
+  "kind": "OST",
+  "ytId": "SyN7qOFyG9Q",
+  "start": 0,
+  "mid": 11,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Overworld",
+   "work": "超級瑪利歐世界（Super Mario World）",
+   "artist": "Koji Kondo"
+  },
+  "year": 1990,
+  "difficulty": 1,
+  "video": "Super Mario World Restored - Overworld",
+  "channel": "Church of Kondo",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-945d6984",
+  "workId": "w9b9f48",
+  "kind": "OST",
+  "ytId": "bmP3UHXYi28",
+  "start": 0,
+  "mid": 21,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Bob-omb Battlefield",
+   "work": "超級瑪利歐64（Super Mario 64）",
+   "artist": "Koji Kondo"
+  },
+  "year": 1996,
+  "difficulty": 2,
+  "video": "Super Mario 64 - Main Theme Music - Bob-Omb Battlefield",
+  "channel": "mkWIIfreak27",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-9b5921a2",
+  "workId": "wd6ee71",
+  "kind": "OST",
+  "ytId": "Eoc_r1WeRf8",
+  "start": 0,
+  "mid": 33,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Rainbow Road",
+   "work": "瑪利歐賽車64（Mario Kart 64）",
+   "artist": "Kenta Nagata"
+  },
+  "year": 1996,
+  "difficulty": 1,
+  "video": "Kenta Nagata - Rainbow Road - Mario kart 64 Edition",
+  "channel": "VideoGameMusic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-37e2e4f1",
+  "workId": "wb4a4c2",
+  "kind": "OST",
+  "ytId": "tcBJbhlOQvw",
+  "start": 0,
+  "mid": 9,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Fever",
+   "work": "瑪利歐醫生（Dr. Mario）",
+   "artist": "Hirokazu Tanaka"
+  },
+  "year": 1990,
+  "difficulty": 2,
+  "video": "\"Dr. Mario\" (GameBoy) Music : 2 - Fever",
+  "channel": "All Nintendo Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-0996dd00",
+  "workId": "w9b249f",
+  "kind": "OST",
+  "ytId": "hi4UPRQTatc",
+  "start": 0,
+  "mid": 10,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Overworld Theme",
+   "work": "薩爾達傳說（The Legend of Zelda）",
+   "artist": "Koji Kondo"
+  },
+  "year": 1986,
+  "difficulty": 1,
+  "video": "The Legend of Zelda - 02 - Overworld Theme",
+  "channel": "MusicOfZelda",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-b1c749ab",
+  "workId": "w3ef4cd",
+  "kind": "OST",
+  "ytId": "jxHeRQZCEeA",
+  "start": 0,
+  "mid": 35,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Hyrule Field Main Theme",
+   "work": "薩爾達傳說：時之笛（The Legend of Zelda: Ocarina of Time）",
+   "artist": "Koji Kondo"
+  },
+  "year": 1998,
+  "difficulty": 1,
+  "video": "Hyrule Field Main Theme - The Legend of Zelda: Ocarina of Time",
+  "channel": "Video Game Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-038dc731",
+  "workId": "wadba07",
+  "kind": "OST",
+  "ytId": "Id2ttEkUigo",
+  "start": 0,
+  "mid": 10,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Clock Town Day 1",
+   "work": "薩爾達傳說：穆修拉的假面（The Legend of Zelda: Majora's Mask）",
+   "artist": "Koji Kondo"
+  },
+  "year": 2000,
+  "difficulty": 2,
+  "video": "Clock Town Day 1 - The Legend of Zelda: Majora's Mask OST",
+  "channel": "Video Game Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-0f2125e9",
+  "workId": "wedb064",
+  "kind": "OST",
+  "ytId": "ic8Nk-jLNSc",
+  "start": 0,
+  "mid": 22,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Dragon Roost Island",
+   "work": "薩爾達傳說：風之律動（The Legend of Zelda: The Wind Waker）",
+   "artist": "Kenta Nagata"
+  },
+  "year": 2002,
+  "difficulty": 2,
+  "video": "Kenta Nagata, Hajime Wakai, Tōru Minegishi, Koji Kondo - Dragon Roost Island - TLoZ: The Wind Waker",
+  "channel": "VideoGameMusic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-f56819b2",
+  "workId": "w2cf60d",
+  "kind": "OST",
+  "ytId": "ictTlwVPV6A",
+  "start": 0,
+  "mid": 14,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Main Theme",
+   "work": "薩爾達傳說：曠野之息（The Legend of Zelda: Breath of the Wild）",
+   "artist": "Manaka Tataki"
+  },
+  "year": 2017,
+  "difficulty": 1,
+  "video": "Main Theme (From \"The Legend of Zelda: Breath of the Wild\")",
+  "channel": "Backlog - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-57a71506",
+  "workId": "wc0b064",
+  "kind": "OST",
+  "ytId": "Ru1X3Uu40Bc",
+  "start": 0,
+  "mid": 12,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Main Theme",
+   "work": "薩爾達傳說：王國之淚（The Legend of Zelda: Tears of the Kingdom）",
+   "artist": "Manaka Tataki"
+  },
+  "year": 2023,
+  "difficulty": 2,
+  "video": "THE LEGEND OF ZELDA: TEARS OF THE KINGDOM - Main Theme By Manaka Kataoka | Nintendo",
+  "channel": "Geek Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-81268158",
+  "workId": "w8a12d5",
+  "kind": "OST",
+  "ytId": "e68gqoSnYek",
+  "start": 0,
+  "mid": 18,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Brinstar",
+   "work": "銀河戰士（Metroid）",
+   "artist": "Hirokazu Tanaka"
+  },
+  "year": 1986,
+  "difficulty": 2,
+  "video": "Metroid: Brinstar",
+  "channel": "Aaron Walz - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-3c5b341c",
+  "workId": "w04905b",
+  "kind": "OST",
+  "ytId": "gkCcvoJ09gU",
+  "start": 0,
+  "mid": 25,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Aquatic Ambience",
+   "work": "超級大金剛（Donkey Kong Country）",
+   "artist": "David Wise"
+  },
+  "year": 1994,
+  "difficulty": 2,
+  "video": "Aquatic Ambience - Donkey Kong Country (David Wise) OST",
+  "channel": "Games Classic Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-2b2c1638",
+  "workId": "w5b41f6",
+  "kind": "OST",
+  "ytId": "QxU0eHnQjo8",
+  "start": 0,
+  "mid": 22,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Mute City",
+   "work": "F-ZERO（F-Zero）",
+   "artist": "Yumiko Kanki"
+  },
+  "year": 1990,
+  "difficulty": 2,
+  "video": "F-Zero - Mute City (Super Nintendo)",
+  "channel": "MidiMusicMaker",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-2d037beb",
+  "workId": "w8c3108",
+  "kind": "OST",
+  "ytId": "yQwg_pQfZDA",
+  "start": 0,
+  "mid": 8,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Title Theme",
+   "work": "動物森友會（Animal Crossing: New Horizons）",
+   "artist": "Kazumi Totaka"
+  },
+  "year": 2020,
+  "difficulty": 1,
+  "video": "Animal Crossing: New Horizons - Welcome Horizons (Title Theme)",
+  "channel": "YTMusic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-520f6a12",
+  "workId": "w99d716",
+  "kind": "OST",
+  "ytId": "QnmQFlIDY3c",
+  "start": 0,
+  "mid": 80,
+  "revealStart": 80,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Main Theme",
+   "work": "任天堂明星大亂鬥（Super Smash Bros. Brawl）",
+   "artist": "Hirokazu Ando"
+  },
+  "year": 2008,
+  "difficulty": 2,
+  "video": "Super Smash Bros. Brawl Main Theme",
+  "channel": "JacobPierce Music - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-64840e54",
+  "workId": "w0e92a0",
+  "kind": "OST",
+  "ytId": "X0SpFeY2FqU",
+  "start": 0,
+  "mid": 14,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Fire Emblem Theme",
+   "work": "火焰之紋章（Fire Emblem）",
+   "artist": "Yuka Tsujiyoko"
+  },
+  "year": 1990,
+  "difficulty": 2,
+  "video": "Fire Emblem Theme (SoV ver.) - Fire Emblem Echoes: Shadows of Valentia OST",
+  "channel": "Music Not Found 404",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-7e3370c5",
+  "workId": "w643b26",
+  "kind": "OST",
+  "ytId": "UDJtsfR51To",
+  "start": 0,
+  "mid": 31,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Gaur Plain",
+   "work": "異度神劍（Xenoblade Chronicles）",
+   "artist": "Yasunori Mitsuda"
+  },
+  "year": 2010,
+  "difficulty": 2,
+  "video": "Xenoblade Chronicles OST - Gaur Plain",
+  "channel": "Xenoblade Chronicles OST",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-b9014ccf",
+  "workId": "w62f3e4",
+  "kind": "OST",
+  "ytId": "ZsrK4ZSrke8",
+  "start": 0,
+  "mid": 40,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Smiles and Tears",
+   "work": "地球冒險（EarthBound）",
+   "artist": "Keiichi Suzuki"
+  },
+  "year": 1994,
+  "difficulty": 2,
+  "video": "Smiles and Tears 2010 by Keiichi Suzuki with Lyrics Subtitled/Legendado",
+  "channel": "Pedro Boh",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-6637fdbf",
+  "workId": "w09079b",
+  "kind": "OST",
+  "ytId": "JKque0N2bww",
+  "start": 0,
+  "mid": 85,
+  "revealStart": 85,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Pac-Man Theme",
+   "work": "小精靈（Pac-Man）",
+   "artist": "Namco"
+  },
+  "year": 1980,
+  "difficulty": 1,
+  "video": "PAC-MAN Theme Song - Music Video",
+  "channel": "Bandai Namco Entertainment",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-f1c93999",
+  "workId": "we9d2a8",
+  "kind": "OST",
+  "ytId": "dSpx4HEZRLc",
+  "start": 0,
+  "mid": 12,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Pallet Town Theme",
+   "work": "寶可夢 紅／綠（Pokémon Red and Green）",
+   "artist": "Junichi Masuda"
+  },
+  "year": 1996,
+  "difficulty": 1,
+  "video": "Pallet Town Theme (From \"Pokémon Red/Blue/Green\")",
+  "channel": "Slumbermon - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-096f0cf2",
+  "workId": "w07411f",
+  "kind": "OST",
+  "ytId": "NaAb1s0MCQQ",
+  "start": 0,
+  "mid": 19,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Green Hill Zone",
+   "work": "音速小子（Sonic the Hedgehog）",
+   "artist": "Masato Nakamura"
+  },
+  "year": 1991,
+  "difficulty": 1,
+  "video": "Sth1 Green Hill Zone Mega Drive Version",
+  "channel": "Masato Nakamura - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-8ae8b995",
+  "workId": "wd39527",
+  "kind": "OST",
+  "ytId": "jeQV4GVsmf0",
+  "start": 0,
+  "mid": 18,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Dr. Wily Stage 1",
+   "work": "洛克人2（Mega Man 2）",
+   "artist": "Takashi Tateishi"
+  },
+  "year": 1988,
+  "difficulty": 1,
+  "video": "Mega Man 2 - Dr Wily Stage 1",
+  "channel": "Arcadia - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-4e9f0aa4",
+  "workId": "wd1b2b6",
+  "kind": "OST",
+  "ytId": "DsgTHJxBPfE",
+  "start": 0,
+  "mid": 12,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Intro Stage",
+   "work": "洛克人X（Mega Man X）",
+   "artist": "Setsuo Yamamoto"
+  },
+  "year": 1993,
+  "difficulty": 2,
+  "video": "Megaman X - Intro Stage",
+  "channel": "NeoSigma18",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-067e4acf",
+  "workId": "w24f73d",
+  "kind": "OST",
+  "ytId": "Qn8awTgYoi4",
+  "start": 0,
+  "mid": 17,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Vampire Killer",
+   "work": "惡魔城（Castlevania）",
+   "artist": "Kinuyo Yamashita"
+  },
+  "year": 1986,
+  "difficulty": 1,
+  "video": "Kinuyo Yamashita - Castlevania Vampire Killer Sequence",
+  "channel": "WillBakerMusic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-e682a6b8",
+  "workId": "wfac36b",
+  "kind": "OST",
+  "ytId": "o_CEXj45-Lk",
+  "start": 0,
+  "mid": 22,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Jungle",
+   "work": "魂斗羅（Contra）",
+   "artist": "Kazuki Muraoka"
+  },
+  "year": 1987,
+  "difficulty": 2,
+  "video": "Contra (Arcade) OST - 1987 /// 02 - Area 1 Jungle ~ Area 7 Hangar",
+  "channel": "Best Game Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-a5b4facb",
+  "workId": "w237c80",
+  "kind": "OST",
+  "ytId": "m8kpd02fRss",
+  "start": 0,
+  "mid": 17,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Guile's Theme",
+   "work": "快打旋風II（Street Fighter II）",
+   "artist": "Yoko Shimomura"
+  },
+  "year": 1991,
+  "difficulty": 1,
+  "video": "STREET FIGHTER II - Guile's Theme By Yoko Shimomura | Capcom",
+  "channel": "Geek Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-7ee16dd2",
+  "workId": "w00671a",
+  "kind": "OST",
+  "ytId": "UxnvGDK0WGM",
+  "start": 0,
+  "mid": 12,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Cornered",
+   "work": "逆轉裁判（Phoenix Wright: Ace Attorney）",
+   "artist": "Masakazu Sugimori"
+  },
+  "year": 2001,
+  "difficulty": 2,
+  "video": "Phoenix Wright Ace Attorney OST - Pressing Pursuit ~ Cornered",
+  "channel": "Gyakuten Saiban Sound Box",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-7572092e",
+  "workId": "wf5093a",
+  "kind": "OST",
+  "ytId": "waH3uNlwMo4",
+  "start": 0,
+  "mid": 14,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Overture",
+   "work": "勇者鬥惡龍（Dragon Quest）",
+   "artist": "Koichi Sugiyama"
+  },
+  "year": 1986,
+  "difficulty": 1,
+  "video": "\"OVERTURE XI\" (Main Theme) | Dragon Quest XI: Echoes of an Elusive Age / ドラゴンクエストXI 過ぎ去りし時を求めて",
+  "channel": "Vil Kite",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-d667de5c",
+  "workId": "w3b8295",
+  "kind": "OST",
+  "ytId": "NjZjeYuxGOY",
+  "start": 0,
+  "mid": 50,
+  "revealStart": 50,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Prelude",
+   "work": "太空戰士（Final Fantasy）",
+   "artist": "Nobuo Uematsu"
+  },
+  "year": 1987,
+  "difficulty": 1,
+  "video": "Prelude (final Fantasy Series)",
+  "channel": "Nobuo Uematsu - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-6468a720",
+  "workId": "w60b849",
+  "kind": "OST",
+  "ytId": "9BSFG4w6aBI",
+  "start": 0,
+  "mid": 39,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Terra's Theme",
+   "work": "太空戰士VI（Final Fantasy VI）",
+   "artist": "Nobuo Uematsu"
+  },
+  "year": 1994,
+  "difficulty": 2,
+  "video": "Terra's Theme - FFVI Pixel Remastered",
+  "channel": "DB Gamer Music Video",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-23a0e207",
+  "workId": "wbf12fd",
+  "kind": "OST",
+  "ytId": "WVJdv-s9QWg",
+  "start": 0,
+  "mid": 271,
+  "revealStart": 271,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Aerith's Theme",
+   "work": "太空戰士VII（Final Fantasy VII）",
+   "artist": "Nobuo Uematsu"
+  },
+  "year": 1997,
+  "difficulty": 1,
+  "video": "Aerith's Theme (Final Fantasy VII)",
+  "channel": "Arnie Roth - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-7565682a",
+  "workId": "w1ede16",
+  "kind": "OST",
+  "ytId": "gcJ_yFSw3-k",
+  "start": 0,
+  "mid": 107,
+  "revealStart": 107,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Liberi Fatali",
+   "work": "太空戰士VIII（Final Fantasy VIII）",
+   "artist": "Nobuo Uematsu"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "Liberi Fatali (Final Fantasy VIII)",
+  "channel": "Arnie Roth - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-17e9bf86",
+  "workId": "w9d3dba",
+  "kind": "OST",
+  "ytId": "w2ypIuFnwh0",
+  "start": 0,
+  "mid": 21,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "To Zanarkand",
+   "work": "太空戰士X（Final Fantasy X）",
+   "artist": "Nobuo Uematsu"
+  },
+  "year": 2001,
+  "difficulty": 2,
+  "video": "Uematsu: To Zanarkand (From \"Final Fantasy X\")",
+  "channel": "Lang Lang - Topic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-12862a74",
+  "workId": "wb6650c",
+  "kind": "OST",
+  "ytId": "BH0E76oozIc",
+  "start": 0,
+  "mid": 212,
+  "revealStart": 212,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Corridors of Time",
+   "work": "時空之輪（Chrono Trigger）",
+   "artist": "Yasunori Mitsuda"
+  },
+  "year": 1995,
+  "difficulty": 2,
+  "video": "Corridors of Time",
+  "channel": "Malcolm Robinson - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-92e3aab2",
+  "workId": "wd174fd",
+  "kind": "OST",
+  "ytId": "sihC5l_gIak",
+  "start": 0,
+  "mid": 92,
+  "revealStart": 92,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Dearly Beloved",
+   "work": "王國之心（Kingdom Hearts）",
+   "artist": "Yoko Shimomura"
+  },
+  "year": 2002,
+  "difficulty": 1,
+  "video": "Dearly Beloved (KINGDOM HEARTS II Version)",
+  "channel": "Yoko Shimomura - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-f6d01e7a",
+  "workId": "w92ae4b",
+  "kind": "OST",
+  "ytId": "3OG3Bid1UaU",
+  "start": 0,
+  "mid": 28,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Last Surprise",
+   "work": "女神異聞錄5（Persona 5）",
+   "artist": "Shoji Meguro"
+  },
+  "year": 2016,
+  "difficulty": 2,
+  "video": "PERSONA 5 - Last Surprise By Shoji Meguro | Atlus",
+  "channel": "Geek Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-cbf34dbb",
+  "workId": "w3bf23c",
+  "kind": "OST",
+  "ytId": "GFv_HZ2ia7o",
+  "start": 0,
+  "mid": 152,
+  "revealStart": 152,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Reach Out to the Truth",
+   "work": "女神異聞錄4（Persona 4）",
+   "artist": "Shoji Meguro"
+  },
+  "year": 2008,
+  "difficulty": 2,
+  "video": "Reach Out To The Truth -Revival- | Persona 4 Revival 【Official Lyric Video】",
+  "channel": "ATLUS GAME MUSIC",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-80eb4fbf",
+  "workId": "w4ee278",
+  "kind": "OST",
+  "ytId": "VlKbNuiyMJQ",
+  "start": 0,
+  "mid": 20,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Metal Gear Solid Main Theme",
+   "work": "潛龍諜影（Metal Gear Solid）",
+   "artist": "Tappi Iwase"
+  },
+  "year": 1998,
+  "difficulty": 2,
+  "video": "Metal Gear Solid: Main Theme (1998) - Tappi Iwase",
+  "channel": "Empty Fridge G's",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-cb7407ff",
+  "workId": "w1d2766",
+  "kind": "OST",
+  "ytId": "gH6TQGKiefE",
+  "start": 0,
+  "mid": 27,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Save Room",
+   "work": "惡靈古堡（Resident Evil）",
+   "artist": "Masami Ueda"
+  },
+  "year": 1996,
+  "difficulty": 2,
+  "video": "Resident Evil 2 - Secure Place (Save Room Theme) -- Masami Ueda",
+  "channel": "HIGHSCORE MUSIC",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-833b77d1",
+  "workId": "wdab2e6",
+  "kind": "OST",
+  "ytId": "td3P1-cfZ4E",
+  "start": 0,
+  "mid": 18,
+  "revealStart": 18,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Theme of Laura",
+   "work": "沉默之丘2（Silent Hill 2）",
+   "artist": "Akira Yamaoka"
+  },
+  "year": 2001,
+  "difficulty": 2,
+  "video": "Theme of Laura",
+  "channel": "Akira Yamaoka - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-8ec0a467",
+  "workId": "w684b03",
+  "kind": "OST",
+  "ytId": "zcQUQF_HMzQ",
+  "start": 0,
+  "mid": 12,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Proof of a Hero",
+   "work": "魔物獵人：世界（Monster Hunter: World）",
+   "artist": "Capcom"
+  },
+  "year": 2018,
+  "difficulty": 1,
+  "video": "[PL]Monster Hunter Wilds - zwiastun \"Proof of a Hero\"",
+  "channel": "Official Capcom Europe",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-50180584",
+  "workId": "wf533f1",
+  "kind": "OST",
+  "ytId": "_E4zfq6Dozc",
+  "start": 0,
+  "mid": 16,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "City Ruins (Rays of Light)",
+   "work": "尼爾：自動人形（NieR: Automata）",
+   "artist": "Keiichi Okabe"
+  },
+  "year": 2017,
+  "difficulty": 2,
+  "video": "City Ruins (Rays of Light) (From \"NieR: Automata\")",
+  "channel": "PurpleSchala - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-6b830c17",
+  "workId": "wa91b94",
+  "kind": "OST",
+  "ytId": "Gjht7acg9d4",
+  "start": 0,
+  "mid": 147,
+  "revealStart": 147,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Firelink Shrine",
+   "work": "黑暗靈魂（Dark Souls）",
+   "artist": "Motoi Sakuraba"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "Firelink Shrine",
+  "channel": "Motoi Sakuraba - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-6a629510",
+  "workId": "w9cf3a8",
+  "kind": "OST",
+  "ytId": "8LOR9JXK1Og",
+  "start": 0,
+  "mid": 108,
+  "revealStart": 108,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Cleric Beast",
+   "work": "血源詛咒（Bloodborne）",
+   "artist": "Tsukasa Saitoh"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "Cleric Beast",
+  "channel": "SIE Sound Team - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-2726a093",
+  "workId": "wa2c3d6",
+  "kind": "OST",
+  "ytId": "C6gGBXkpm78",
+  "start": 0,
+  "mid": 27,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Elden Ring Main Theme",
+   "work": "艾爾登法環（Elden Ring）",
+   "artist": "Tsukasa Saitoh"
+  },
+  "year": 2022,
+  "difficulty": 2,
+  "video": "Elden Ring Main Theme (From \"Elden Ring\")",
+  "channel": "Pontus Hultgren - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-f2e0974c",
+  "workId": "wcefffd",
+  "kind": "OST",
+  "ytId": "vdYjCfCq-ck",
+  "start": 0,
+  "mid": 30,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Katamari on the Rocks",
+   "work": "塊魂（Katamari Damacy）",
+   "artist": "Yuu Miyake"
+  },
+  "year": 2004,
+  "difficulty": 2,
+  "video": "Katamari on the Rocks (From \"Katamari Damacy\")",
+  "channel": "Billy Qvarnström - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-c30b4c9c",
+  "workId": "w39da0a",
+  "kind": "OST",
+  "ytId": "813-3iL5OsE",
+  "start": 0,
+  "mid": 128,
+  "revealStart": 128,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Dragonborn",
+   "work": "上古卷軸5：天際（The Elder Scrolls V: Skyrim）",
+   "artist": "Jeremy Soule"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "Dragonborn",
+  "channel": "Jeremy Soule - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-8079e7c4",
+  "workId": "wbd0a73",
+  "kind": "OST",
+  "ytId": "y-jNCOn4-SA",
+  "start": 0,
+  "mid": 13,
+  "revealStart": 13,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Reign of the Septims",
+   "work": "上古卷軸4：遺忘（The Elder Scrolls IV: Oblivion）",
+   "artist": "Jeremy Soule"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "Reign of the Septims",
+  "channel": "Jeremy Soule - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-0897ef99",
+  "workId": "w289026",
+  "kind": "OST",
+  "ytId": "bwikj_lQLT0",
+  "start": 0,
+  "mid": 31,
+  "revealStart": 31,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Halo Theme",
+   "work": "最後一戰（Halo）",
+   "artist": "Martin O'Donnell"
+  },
+  "year": 2001,
+  "difficulty": 1,
+  "video": "Halo Theme Mjolnir Mix",
+  "channel": "Martin O'Donnell - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-95dc1959",
+  "workId": "w970d52",
+  "kind": "OST",
+  "ytId": "C3fF_TGqqyM",
+  "start": 0,
+  "mid": 17,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Silver for Monsters",
+   "work": "巫師3：狂獵（The Witcher 3: Wild Hunt）",
+   "artist": "Marcin Przybylowicz"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "Silver for Monsters (from \"The Witcher 3: Wild Hunt\")",
+  "channel": "London Music Works - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-0d8c8bca",
+  "workId": "wdd91ad",
+  "kind": "OST",
+  "ytId": "PEm7uWjXw_Q",
+  "start": 0,
+  "mid": 12,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "At Doom's Gate",
+   "work": "毀滅戰士（Doom）",
+   "artist": "Bobby Prince"
+  },
+  "year": 1993,
+  "difficulty": 1,
+  "video": "At Doom's Gate",
+  "channel": "Bobby Prince - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-1305d9f0",
+  "workId": "w5e48db",
+  "kind": "OST",
+  "ytId": "mdghG1xnxig",
+  "start": 0,
+  "mid": 20,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Fallout 3 Main Theme",
+   "work": "異塵餘生3（Fallout 3）",
+   "artist": "Inon Zur"
+  },
+  "year": 2008,
+  "difficulty": 2,
+  "video": "Fallout 3 - Main Theme - Inon Zur (CInematic Version)",
+  "channel": "Rich Douglas",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-e7be9920",
+  "workId": "wded64b",
+  "kind": "OST",
+  "ytId": "TGReRiUSJ4Q",
+  "start": 0,
+  "mid": 49,
+  "revealStart": 49,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Mass Effect Theme",
+   "work": "質量效應（Mass Effect）",
+   "artist": "Jack Wall"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Mass Effect Theme",
+  "channel": "Jack Wall - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-e3095e0a",
+  "workId": "w4185dc",
+  "kind": "OST",
+  "ytId": "t97btsQ8FNc",
+  "start": 0,
+  "mid": 64,
+  "revealStart": 64,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Ezio's Family",
+   "work": "刺客教條2（Assassin's Creed II）",
+   "artist": "Jesper Kyd"
+  },
+  "year": 2009,
+  "difficulty": 2,
+  "video": "Ezio's Family - Ascending to Valhalla (feat. Einar Selvik)",
+  "channel": "Jesper Kyd - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-6aaa5636",
+  "workId": "w0f1acd",
+  "kind": "OST",
+  "ytId": "ZxZKB0kwuEM",
+  "start": 0,
+  "mid": 77,
+  "revealStart": 77,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Nate's Theme",
+   "work": "秘境探險（Uncharted: Drake's Fortune）",
+   "artist": "Greg Edmonson"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Uncharted, Drake's Fortune: Nate's Theme",
+  "channel": "Andrew Skeet - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-4ae659d7",
+  "workId": "w4ff123",
+  "kind": "OST",
+  "ytId": "f9V8sDa04Mc",
+  "start": 0,
+  "mid": 162,
+  "revealStart": 162,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Ashes",
+   "work": "戰神（God of War）",
+   "artist": "Bear McCreary"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "Ashes (From \"God of War\" Soundtrack)",
+  "channel": "Bear McCreary - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-dac30e93",
+  "workId": "w77cdb2",
+  "kind": "OST",
+  "ytId": "ChXUiSwW4-4",
+  "start": 0,
+  "mid": 503,
+  "revealStart": 503,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Aloy's Theme",
+   "work": "地平線：零之曙光（Horizon Zero Dawn）",
+   "artist": "Joris de Man"
+  },
+  "year": 2017,
+  "difficulty": 2,
+  "video": "(Louder) Aloy's Theme - Horizon Zero Dawn - (Extended) Main Menu Theme",
+  "channel": "Hrag Farra",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-be35bafa",
+  "workId": "w6fb483",
+  "kind": "OST",
+  "ytId": "_e0ubtxtB6U",
+  "start": 0,
+  "mid": 102,
+  "revealStart": 102,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Apotheosis",
+   "work": "風之旅人（Journey）",
+   "artist": "Austin Wintory"
+  },
+  "year": 2012,
+  "difficulty": 2,
+  "video": "JOURNEY - Apotheosis - As Noted",
+  "channel": "Austin Wintory",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-584b39f3",
+  "workId": "wd2847a",
+  "kind": "OST",
+  "ytId": "bXQLPZ8nHfI",
+  "start": 0,
+  "mid": 122,
+  "revealStart": 122,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Main Title",
+   "work": "魔獸世界（World of Warcraft）",
+   "artist": "Jason Hayes"
+  },
+  "year": 2004,
+  "difficulty": 1,
+  "video": "Legends of Azeroth (Main Title)",
+  "channel": "Release - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-c5e5fa0e",
+  "workId": "w379040",
+  "kind": "OST",
+  "ytId": "18_hi9kugDs",
+  "start": 0,
+  "mid": 148,
+  "revealStart": 148,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Tristram",
+   "work": "暗黑破壞神（Diablo）",
+   "artist": "Matt Uelmen"
+  },
+  "year": 1997,
+  "difficulty": 1,
+  "video": "Tristram",
+  "channel": "Matt Uelmen - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-8b3cbbe3",
+  "workId": "w9b68e3",
+  "kind": "OST",
+  "ytId": "Y2o8h0LUgU0",
+  "start": 0,
+  "mid": 68,
+  "revealStart": 68,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Main Theme",
+   "work": "世紀帝國2（Age of Empires II）",
+   "artist": "Stephen Rippy"
+  },
+  "year": 1999,
+  "difficulty": 2,
+  "video": "Age of Empires II Main Theme",
+  "channel": "Todd Masten - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-16e733f3",
+  "workId": "w2d3031",
+  "kind": "OST",
+  "ytId": "e3YzmjmAGoI",
+  "start": 0,
+  "mid": 26,
+  "revealStart": 26,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Hell March",
+   "work": "終極動員令：紅色警戒（Command & Conquer: Red Alert）",
+   "artist": "Frank Klepacki"
+  },
+  "year": 1996,
+  "difficulty": 2,
+  "video": "Hell March",
+  "channel": "Frank Klepacki - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-17fa196c",
+  "workId": "w4a8c45",
+  "kind": "OST",
+  "ytId": "IJiHDmyhE1A",
+  "start": 0,
+  "mid": 101,
+  "revealStart": 101,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Baba Yetu",
+   "work": "文明帝國4（Civilization IV）",
+   "artist": "Christopher Tin"
+  },
+  "year": 2005,
+  "difficulty": 2,
+  "video": "Christopher Tin - Baba Yetu (Official Video) feat. Soweto Gospel Choir",
+  "channel": "Christopher Tin",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-fef47f99",
+  "workId": "w8fe78f",
+  "kind": "OST",
+  "ytId": "RSsstXfcRWw",
+  "start": 0,
+  "mid": 152,
+  "revealStart": 152,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Still Alive",
+   "work": "傳送門（Portal）",
+   "artist": "Jonathan Coulton"
+  },
+  "year": 2007,
+  "difficulty": 1,
+  "video": "Jonathan Coulton w/ Sara Quin and Dorit Chrysler (theremin) - Still Alive (Official Video)",
+  "channel": "Jonathan Coulton",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-cb8445e9",
+  "workId": "w580574",
+  "kind": "OST",
+  "ytId": "xIQrC4CerB8",
+  "start": 0,
+  "mid": 186,
+  "revealStart": 186,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Sweden",
+   "work": "當個創世神（Minecraft）",
+   "artist": "C418"
+  },
+  "year": 2011,
+  "difficulty": 1,
+  "video": "Minecraft Volume Alpha - 18 - Sweden",
+  "channel": "C418",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-9154a1aa",
+  "workId": "w81422f",
+  "kind": "OST",
+  "ytId": "KK3KXAECte4",
+  "start": 0,
+  "mid": 107,
+  "revealStart": 107,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Megalovania",
+   "work": "傳說之下（Undertale）",
+   "artist": "Toby Fox"
+  },
+  "year": 2015,
+  "difficulty": 1,
+  "video": "100. MEGALOVANIA (UNDERTALE Soundtrack) - Toby Fox",
+  "channel": "Toby Fox",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-4b9103d6",
+  "workId": "wba3af3",
+  "kind": "OST",
+  "ytId": "ukz9Cvyv2UI",
+  "start": 0,
+  "mid": 14,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Dirtmouth",
+   "work": "空洞騎士（Hollow Knight）",
+   "artist": "Christopher Larkin"
+  },
+  "year": 2017,
+  "difficulty": 2,
+  "video": "Dirtmouth (From \"Hollow Knight\")",
+  "channel": "Man on the Internet - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-192ff28e",
+  "workId": "w79926c",
+  "kind": "OST",
+  "ytId": "1rwAvUvvQzQ",
+  "start": 0,
+  "mid": 349,
+  "revealStart": 349,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Resurrections",
+   "work": "蔚藍（Celeste）",
+   "artist": "Lena Raine"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "[Official] Celeste Original Soundtrack - 03 - Resurrections",
+  "channel": "Lena Raine",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-47e5a4f8",
+  "workId": "wbc52c6",
+  "kind": "OST",
+  "ytId": "2clUY-OsCpY",
+  "start": 0,
+  "mid": 86,
+  "revealStart": 86,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Floral Fury",
+   "work": "茶杯頭（Cuphead）",
+   "artist": "Kristofer Maddigan"
+  },
+  "year": 2017,
+  "difficulty": 2,
+  "video": "Floral Fury",
+  "channel": "Kristofer Maddigan - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-2b43f658",
+  "workId": "w0bae81",
+  "kind": "OST",
+  "ytId": "arZ5g5x9Vjc",
+  "start": 0,
+  "mid": 40,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "God of the Dead",
+   "work": "黑帝斯（Hades）",
+   "artist": "Darren Korb"
+  },
+  "year": 2020,
+  "difficulty": 3,
+  "video": "[Hades Original Soundtrack] 25 God of the Dead",
+  "channel": "GAME MUSIC PLATFORM",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-3710bc99",
+  "workId": "wcb8eef",
+  "kind": "OST",
+  "ytId": "t6vWDz5NzOY",
+  "start": 0,
+  "mid": 71,
+  "revealStart": 71,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Light of Nibel",
+   "work": "聖靈之光（Ori and the Blind Forest）",
+   "artist": "Gareth Coker"
+  },
+  "year": 2015,
+  "difficulty": 2,
+  "video": "Light of Nibel (feat. Aeralie Brighton)",
+  "channel": "Gareth Coker - Topic",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-3b3148b9",
+  "workId": "w87b866",
+  "kind": "OST",
+  "ytId": "1I7vAflFKS4",
+  "start": 0,
+  "mid": 157,
+  "revealStart": 157,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Stardew Valley Overture",
+   "work": "星露谷物語（Stardew Valley）",
+   "artist": "ConcernedApe"
+  },
+  "year": 2016,
+  "difficulty": 1,
+  "video": "Stardew Valley Overture",
+  "channel": "ConcernedApe - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-4712bfe6",
+  "workId": "w7dee79",
+  "kind": "OST",
+  "ytId": "sCD5x-MldI4",
+  "start": 0,
+  "mid": 16,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Overworld Day",
+   "work": "泰拉瑞亞（Terraria）",
+   "artist": "Scott Lloyd Shelly"
+  },
+  "year": 2011,
+  "difficulty": 2,
+  "video": "Full Score - Terraria - Overworld Day",
+  "channel": "Dexander Tower",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-293f7fdc",
+  "workId": "w1523da",
+  "kind": "OST",
+  "ytId": "oa4hISocuFk",
+  "start": 0,
+  "mid": 27,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Strike the Earth!",
+   "work": "鏟子騎士（Shovel Knight）",
+   "artist": "Jake Kaufman"
+  },
+  "year": 2014,
+  "difficulty": 2,
+  "video": "Strike the Earth (From \"Shovel Knight\")",
+  "channel": "Man on the Internet - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-1eaceb31",
+  "workId": "w3e1052",
+  "kind": "OST",
+  "ytId": "4E6ofgjJsDI",
+  "start": 0,
+  "mid": 34,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Theme of Prontera",
+   "work": "仙境傳說（Ragnarok Online）",
+   "artist": "Soon-Ki Lee"
+  },
+  "year": 2002,
+  "difficulty": 1,
+  "video": "Theme of Prontera (Prontera village BGM)",
+  "channel": "Release - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-2f45d81c",
+  "workId": "wbef6f8",
+  "kind": "OST",
+  "ytId": "805YbZzqH5E",
+  "start": 0,
+  "mid": 77,
+  "revealStart": 77,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "The Dark World",
+   "work": "薩爾達傳說：眾神的三角力量（The Legend of Zelda: A Link to the Past）",
+   "artist": "Koji Kondo"
+  },
+  "year": 1991,
+  "difficulty": 2,
+  "video": "The Dark World (Nintendo Switch Online Version) - The Legend of Zelda: A Link to the Past",
+  "channel": "SiIvaGunner",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-6c271c69",
+  "workId": "w93edad",
+  "kind": "OST",
+  "ytId": "jAwarJmauN4",
+  "start": 0,
+  "mid": 21,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Ballad of the Wind Fish",
+   "work": "薩爾達傳說：織夢島（The Legend of Zelda: Link's Awakening）",
+   "artist": "Kazumi Totaka"
+  },
+  "year": 1993,
+  "difficulty": 2,
+  "video": "The Legend of Zelda: Link's Awakening (Switch) - Dream Shrine - Ocarina & Ballad of the Wind Fish",
+  "channel": "King-X",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-422665fb",
+  "workId": "w5df76e",
+  "kind": "OST",
+  "ytId": "ZbbUv1hz6mE",
+  "start": 0,
+  "mid": 155,
+  "revealStart": 155,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Phendrana Drifts",
+   "work": "密特羅德Prime（Metroid Prime）",
+   "artist": "Kenji Yamamoto"
+  },
+  "year": 2002,
+  "difficulty": 3,
+  "video": "Metroid Prime Music- Phendrana Drifts",
+  "channel": "L",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-09761ff0",
+  "workId": "w8dc9b5",
+  "kind": "OST",
+  "ytId": "sb-Aq5RZhK4",
+  "start": 0,
+  "mid": 16,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Gourmet Race",
+   "work": "星之卡比 超級豪華版（Kirby Super Star）",
+   "artist": "Jun Ishikawa"
+  },
+  "year": 1996,
+  "difficulty": 1,
+  "video": "Gourmet Race - Kirby Super Star lofi",
+  "channel": "ng+ - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-6bab687a",
+  "workId": "wb0b0a5",
+  "kind": "OST",
+  "ytId": "-JeWUZS-TkQ",
+  "start": 0,
+  "mid": 27,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Gusty Garden Galaxy",
+   "work": "超級瑪利歐銀河（Super Mario Galaxy）",
+   "artist": "Mahito Yokota"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Mahito Yokota - Gusty Garden Galaxy - Super Mario Galaxy",
+  "channel": "VideoGameMusic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-db6c9676",
+  "workId": "w2ef408",
+  "kind": "OST",
+  "ytId": "1ZrWUKWCWSc",
+  "start": 0,
+  "mid": 20,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Flower Garden",
+   "work": "耀西島（Yoshi's Island）",
+   "artist": "Koji Kondo"
+  },
+  "year": 1995,
+  "difficulty": 3,
+  "video": "Koji Kondo - Flower Garden - Super Mario World 2: Yoshi's Island",
+  "channel": "VideoGameMusic",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-717c3f9b",
+  "workId": "wc226f4",
+  "kind": "OST",
+  "ytId": "I_pRfIE6PgQ",
+  "start": 0,
+  "mid": 7,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Pokémon Center",
+   "work": "寶可夢中心（Pokémon Red and Blue: Pokémon Center）",
+   "artist": "Junichi Masuda"
+  },
+  "year": 1996,
+  "difficulty": 2,
+  "video": "Pokémon Center - Pokémon Red/Blue/Yellow Soundtrack",
+  "channel": "Daintii Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-44cb48db",
+  "workId": "w910ff7",
+  "kind": "OST",
+  "ytId": "uKDH3tT4ssA",
+  "start": 0,
+  "mid": 11,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Fear of the Heavens",
+   "work": "聖劍傳說2（Secret of Mana）",
+   "artist": "Hiroki Kikuta"
+  },
+  "year": 1993,
+  "difficulty": 3,
+  "video": "Secret of Mana - 101 - Fear of the Heavens by Hiroki Kikuta",
+  "channel": "Nostagia Music Game",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-071060a6",
+  "workId": "wd5e564",
+  "kind": "OST",
+  "ytId": "Q6q6pDC6Mas",
+  "start": 0,
+  "mid": 48,
+  "revealStart": 48,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Mass Destruction",
+   "work": "女神異聞錄3（Persona 3）",
+   "artist": "Shoji Meguro"
+  },
+  "year": 2006,
+  "difficulty": 2,
+  "video": "Mass Destruction -Reload-",
+  "channel": "Lotus Juice - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-3b1b59af",
+  "workId": "w57d29d",
+  "kind": "OST",
+  "ytId": "rkCqQBJ8hT4",
+  "start": 0,
+  "mid": 37,
+  "revealStart": 37,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Chemical Plant Zone",
+   "work": "音速小子2（Sonic the Hedgehog 2）",
+   "artist": "Masato Nakamura"
+  },
+  "year": 1992,
+  "difficulty": 2,
+  "video": "Sth2 Chemical Plant Zone Mega Drive Version",
+  "channel": "Masato Nakamura - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-36f45bd9",
+  "workId": "wbe99a4",
+  "kind": "OST",
+  "ytId": "NcMjajiBSR0",
+  "start": 0,
+  "mid": 23,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Never Forget",
+   "work": "最後一戰3（Halo 3）",
+   "artist": "Martin O'Donnell"
+  },
+  "year": 2007,
+  "difficulty": 2,
+  "video": "Never Forget - Martin O' Donnell & Michael Salvatori (Halo 3)",
+  "channel": "Essential Video Game Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-030d72cf",
+  "workId": "w179947",
+  "kind": "OST",
+  "ytId": "vFskEkejQg8",
+  "start": 0,
+  "mid": 21,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Main Theme",
+   "work": "歧路旅人（Octopath Traveler）",
+   "artist": "Yasunori Nishiki"
+  },
+  "year": 2018,
+  "difficulty": 2,
+  "video": "OCTOPATH TRAVELER: Champions of the Continent –Main Theme–",
+  "channel": "Yasunori Nishiki - Topic",
+  "startSource": "heuristic"
+ },
+ {
+  "id": "g-8fb37d9a",
+  "workId": "wde5e15",
+  "kind": "OST",
+  "ytId": "kpnW68Q8ltc",
+  "start": 0,
+  "mid": 40,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "The Only Thing They Fear Is You",
+   "work": "毀滅戰士：永恆（Doom Eternal）",
+   "artist": "Mick Gordon"
+  },
+  "year": 2020,
+  "difficulty": 2,
+  "video": "Doom Eternal OST - The Only Thing They Fear Is You (Mick Gordon) [Doom Eternal Theme]",
+  "channel": "Revive Music",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-f1dc96cf",
+  "workId": "wbd53c7",
+  "kind": "OST",
+  "ytId": "rnWi6S1vK-s",
+  "start": 0,
+  "mid": 11,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Korobeiniki (Type A)",
+   "work": "俄羅斯方塊 Game Boy（Tetris (Game Boy)）",
+   "artist": "Hirokazu Tanaka"
+  },
+  "year": 1989,
+  "difficulty": 1,
+  "video": "Type A - Tetris (Game Boy)",
+  "channel": "The Videogames Epic Bits 2",
+  "startSource": "heuristic",
+  "review": true
+ },
+ {
+  "id": "g-366da87b",
+  "workId": "wa8d67f",
+  "kind": "OST",
+  "ytId": "rzAMgBtpn8c",
+  "start": 0,
+  "mid": 105,
+  "revealStart": 105,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Main Theme",
+   "work": "皮克敏（Pikmin）",
+   "artist": "Hajime Wakai"
+  },
+  "year": 2001,
+  "difficulty": 3,
+  "video": "Pikmin: Main Theme",
+  "channel": "Pikipedia",
+  "startSource": "peak",
+  "review": true
+ },
+ {
+  "id": "g-b89e1d56",
+  "workId": "w9ceb54",
+  "kind": "OST",
+  "ytId": "hySiB28eS5o",
+  "start": 0,
+  "mid": 82,
+  "revealStart": 82,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Vamo' alla Flamenco",
+   "work": "太空戰士IX（Final Fantasy IX）",
+   "artist": "Nobuo Uematsu"
+  },
+  "year": 2000,
+  "difficulty": 3,
+  "video": "Vamo' alla Flamenco (Final Fantasy IX)",
+  "channel": "Arnie Roth - Topic",
+  "startSource": "peak"
+ },
+ {
+  "id": "g-3caa9aed",
+  "workId": "wb2cd7a",
+  "kind": "OST",
+  "ytId": "AeXLKUDwesY",
+  "start": 0,
+  "mid": 70,
+  "revealStart": 70,
+  "prompt": "這段配樂來自哪款遊戲？",
+  "answer": {
+   "title": "Theme of Love",
+   "work": "太空戰士IV（Final Fantasy IV）",
+   "artist": "Nobuo Uematsu"
+  },
+  "year": 1991,
+  "difficulty": 3,
+  "video": "Theme of Love (Final Fantasy IV)",
+  "channel": "Arnie Roth - Topic",
+  "startSource": "peak"
+ }
+]

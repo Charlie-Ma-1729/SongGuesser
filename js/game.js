@@ -23,12 +23,13 @@ export class Game {
     this.ready = this.player.init();
   }
 
-  async start(queue, total, duration, auto = false) {
+  async start(queue, total, duration, auto = false, fromMiddle = false) {
     await this.ready;
     this.queue = queue.slice();
     this.total = Math.min(total, queue.length);
     this.duration = duration;
     this.auto = !!auto && duration > 0; // 「不限長度」時沒有時間可倒數，自動模式不適用
+    this.fromMiddle = !!fromMiddle; // true = 從「中間（接近高潮）」開始播，沒有資料的題目仍從頭
     this.shown = 0;
     this.state = 'idle';
     this._present();
@@ -77,7 +78,7 @@ export class Game {
     ui.resetProgress(this.duration > 0);
     this.player.load({
       ytId: this.current.ytId,
-      start: this.current.start || 0,
+      start: (this.fromMiddle && this.current.mid != null ? this.current.mid : this.current.start) || 0,
       duration: this.duration,
     });
   }

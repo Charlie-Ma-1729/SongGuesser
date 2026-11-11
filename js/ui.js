@@ -1,7 +1,7 @@
 // DOM 呈現層（不含遊戲邏輯）
 const $ = (id) => document.getElementById(id);
 
-const KIND_LABEL = { OP: 'OP 片頭曲', ED: 'ED 片尾曲', INSERT: '插入曲', OST: 'OST 配樂' };
+const KIND_LABEL = { OP: 'OP 片頭曲', ED: 'ED 片尾曲', INSERT: '插入曲', OST: 'OST 配樂', SONG: '電影歌曲' };
 
 export function showScreen(name) {
   document.querySelectorAll('.screen').forEach((s) => s.classList.remove('active'));
@@ -82,7 +82,7 @@ export function toast(msg, warn = false) {
 export function showQuestion(q, index, total) {
   $('progress').textContent = `第 ${index} / ${total} 題`;
   hideEverything();
-  $('badge').textContent = KIND_LABEL[q.kind] || '動漫';
+  $('badge').textContent = KIND_LABEL[q.kind] || '配樂';
   flyBadge();
   $('prompt').textContent = q.prompt || '這首歌來自哪部動畫？';
   $('cover-text').textContent = '載入中…';
@@ -106,7 +106,7 @@ export function showAnswer(q) {
   $('ans-title').textContent = a.title ? `♪ ${a.title}` : '';
   const dl = $('ans-credits');
   dl.innerHTML = '';
-  [['演唱', a.artist], ['作詞', a.lyricist], ['作曲', a.composer], ['編曲', a.arranger]].forEach(([k, v]) => {
+  [[q.kind === 'OST' ? '作曲／演出' : '演唱', a.artist], ['作詞', a.lyricist], ['作曲', a.composer], ['編曲', a.arranger]].forEach(([k, v]) => {
     if (!v) return;
     const dt = document.createElement('dt');
     dt.textContent = k;

@@ -1,0 +1,286 @@
+# 由精簡清單轉出：games.txt
+
+# ===== 任天堂與經典日系遊戲 =====
+
+# 超級瑪利歐兄弟（Super Mario Bros.） | 1985
+OST | Ground Theme | Koji Kondo | q=Ground Theme Koji Kondo Super Mario Bros. d=1
+
+# 超級瑪利歐世界（Super Mario World） | 1990
+OST | Overworld | Koji Kondo | q=Overworld Koji Kondo Super Mario World d=1
+
+# 超級瑪利歐64（Super Mario 64） | 1996
+OST | Bob-omb Battlefield | Koji Kondo | q=Bob-omb Battlefield Koji Kondo Super Mario 64 d=2
+
+# 瑪利歐賽車64（Mario Kart 64） | 1996
+OST | Rainbow Road | Kenta Nagata | q=Rainbow Road Kenta Nagata Mario Kart 64 d=1
+
+# 瑪利歐醫生（Dr. Mario） | 1990
+OST | Fever | Hirokazu Tanaka | q=Fever Hirokazu Tanaka Dr. Mario d=2
+
+# 薩爾達傳說（The Legend of Zelda） | 1986
+OST | Overworld Theme | Koji Kondo | q=Overworld Theme Koji Kondo The Legend of Zelda d=1
+
+# 薩爾達傳說：時之笛（The Legend of Zelda: Ocarina of Time） | 1998
+OST | Hyrule Field Main Theme | Koji Kondo | q=Hyrule Field Main Theme Koji Kondo The Legend of Zelda: Ocarina of Time d=1
+
+# 薩爾達傳說：穆修拉的假面（The Legend of Zelda: Majora's Mask） | 2000
+OST | Clock Town Day 1 | Koji Kondo | q=Clock Town Day 1 Koji Kondo The Legend of Zelda: Majora's Mask d=2
+
+# 薩爾達傳說：風之律動（The Legend of Zelda: The Wind Waker） | 2002
+OST | Dragon Roost Island | Kenta Nagata | q=Dragon Roost Island Kenta Nagata The Legend of Zelda: The Wind Waker d=2
+
+# 薩爾達傳說：曠野之息（The Legend of Zelda: Breath of the Wild） | 2017
+OST | Main Theme | Manaka Tataki | q=Main Theme Manaka Tataki The Legend of Zelda: Breath of the Wild d=1
+
+# 薩爾達傳說：王國之淚（The Legend of Zelda: Tears of the Kingdom） | 2023
+OST | Main Theme | Manaka Tataki | q=Main Theme Manaka Tataki The Legend of Zelda: Tears of the Kingdom d=2
+
+# 銀河戰士（Metroid） | 1986
+OST | Brinstar | Hirokazu Tanaka | q=Brinstar Hirokazu Tanaka Metroid d=2
+
+# 超級大金剛（Donkey Kong Country） | 1994
+OST | Aquatic Ambience | David Wise | q=Aquatic Ambience David Wise Donkey Kong Country d=2
+
+# F-ZERO（F-Zero） | 1990
+OST | Mute City | Yumiko Kanki | q=Mute City Yumiko Kanki F-Zero d=2
+
+# 動物森友會（Animal Crossing: New Horizons） | 2020
+OST | Title Theme | Kazumi Totaka | q=Title Theme Kazumi Totaka Animal Crossing: New Horizons d=1
+
+# 任天堂明星大亂鬥（Super Smash Bros. Brawl） | 2008
+OST | Main Theme | Hirokazu Ando | q=Main Theme Hirokazu Ando Super Smash Bros. Brawl d=2
+
+# 火焰之紋章（Fire Emblem） | 1990
+OST | Fire Emblem Theme | Yuka Tsujiyoko | q=Fire Emblem Theme Yuka Tsujiyoko Fire Emblem d=2
+
+# 異度神劍（Xenoblade Chronicles） | 2010
+OST | Gaur Plain | Yasunori Mitsuda | q=Gaur Plain Yasunori Mitsuda Xenoblade Chronicles d=2
+
+# 地球冒險（EarthBound） | 1994
+OST | Smiles and Tears | Keiichi Suzuki | q=Smiles and Tears Keiichi Suzuki EarthBound d=2
+
+# 小精靈（Pac-Man） | 1980
+OST | Pac-Man Theme | Namco | q=Pac-Man Theme Namco Pac-Man d=1
+
+# 寶可夢 紅／綠（Pokémon Red and Green） | 1996
+OST | Pallet Town Theme | Junichi Masuda | q=Pallet Town Theme Junichi Masuda Pokémon Red and Green d=1
+
+# 音速小子（Sonic the Hedgehog） | 1991
+OST | Green Hill Zone | Masato Nakamura | q=Green Hill Zone Masato Nakamura Sonic the Hedgehog d=1
+
+# 洛克人2（Mega Man 2） | 1988
+OST | Dr. Wily Stage 1 | Takashi Tateishi | q=Dr. Wily Stage 1 Takashi Tateishi Mega Man 2 d=1
+
+# 洛克人X（Mega Man X） | 1993
+OST | Intro Stage | Setsuo Yamamoto | q=Intro Stage Setsuo Yamamoto Mega Man X d=2
+
+# 惡魔城（Castlevania） | 1986
+OST | Vampire Killer | Kinuyo Yamashita | q=Vampire Killer Kinuyo Yamashita Castlevania d=1
+
+# 魂斗羅（Contra） | 1987
+OST | Jungle | Kazuki Muraoka | q=Jungle Kazuki Muraoka Contra d=2
+
+# 快打旋風II（Street Fighter II） | 1991
+OST | Guile's Theme | Yoko Shimomura | q=Guile's Theme Yoko Shimomura Street Fighter II d=1
+
+# 逆轉裁判（Phoenix Wright: Ace Attorney） | 2001
+OST | Cornered | Masakazu Sugimori | q=Cornered Masakazu Sugimori Phoenix Wright: Ace Attorney d=2
+
+# ===== 日系 RPG 與動作遊戲 =====
+
+# 勇者鬥惡龍（Dragon Quest） | 1986
+OST | Overture | Koichi Sugiyama | q=Overture Koichi Sugiyama Dragon Quest d=1
+
+# 太空戰士（Final Fantasy） | 1987
+OST | Prelude | Nobuo Uematsu | q=Prelude Nobuo Uematsu Final Fantasy d=1
+
+# 太空戰士VI（Final Fantasy VI） | 1994
+OST | Terra's Theme | Nobuo Uematsu | q=Terra's Theme Nobuo Uematsu Final Fantasy VI d=2
+
+# 太空戰士VII（Final Fantasy VII） | 1997
+OST | Aerith's Theme | Nobuo Uematsu | q=Aerith's Theme Nobuo Uematsu Final Fantasy VII d=1
+
+# 太空戰士VIII（Final Fantasy VIII） | 1999
+OST | Liberi Fatali | Nobuo Uematsu | q=Liberi Fatali Nobuo Uematsu Final Fantasy VIII d=2
+
+# 太空戰士X（Final Fantasy X） | 2001
+OST | To Zanarkand | Nobuo Uematsu | q=To Zanarkand Nobuo Uematsu Final Fantasy X d=2
+
+# 時空之輪（Chrono Trigger） | 1995
+OST | Corridors of Time | Yasunori Mitsuda | q=Corridors of Time Yasunori Mitsuda Chrono Trigger d=2
+
+# 王國之心（Kingdom Hearts） | 2002
+OST | Dearly Beloved | Yoko Shimomura | q=Dearly Beloved Yoko Shimomura Kingdom Hearts d=1
+
+# 女神異聞錄5（Persona 5） | 2016
+OST | Last Surprise | Shoji Meguro | q=Last Surprise Shoji Meguro Persona 5 d=2
+
+# 女神異聞錄4（Persona 4） | 2008
+OST | Reach Out to the Truth | Shoji Meguro | q=Reach Out to the Truth Shoji Meguro Persona 4 d=2
+
+# 潛龍諜影（Metal Gear Solid） | 1998
+OST | Metal Gear Solid Main Theme | Tappi Iwase | q=Metal Gear Solid Main Theme Tappi Iwase Metal Gear Solid d=2
+
+# 惡靈古堡（Resident Evil） | 1996
+OST | Save Room | Masami Ueda | q=Save Room Masami Ueda Resident Evil d=2
+
+# 沉默之丘2（Silent Hill 2） | 2001
+OST | Theme of Laura | Akira Yamaoka | q=Theme of Laura Akira Yamaoka Silent Hill 2 d=2
+
+# 魔物獵人：世界（Monster Hunter: World） | 2018
+OST | Proof of a Hero | Capcom | q=Proof of a Hero Capcom Monster Hunter: World d=1
+
+# 尼爾：自動人形（NieR: Automata） | 2017
+OST | City Ruins (Rays of Light) | Keiichi Okabe | q=City Ruins (Rays of Light) Keiichi Okabe NieR: Automata d=2
+
+# 黑暗靈魂（Dark Souls） | 2011
+OST | Firelink Shrine | Motoi Sakuraba | q=Firelink Shrine Motoi Sakuraba Dark Souls d=2
+
+# 血源詛咒（Bloodborne） | 2015
+OST | Cleric Beast | Tsukasa Saitoh | q=Cleric Beast Tsukasa Saitoh Bloodborne d=2
+
+# 艾爾登法環（Elden Ring） | 2022
+OST | Elden Ring Main Theme | Tsukasa Saitoh | q=Elden Ring Main Theme Tsukasa Saitoh Elden Ring d=2
+
+# 塊魂（Katamari Damacy） | 2004
+OST | Katamari on the Rocks | Yuu Miyake | q=Katamari on the Rocks Yuu Miyake Katamari Damacy d=2
+
+# 上古卷軸5：天際（The Elder Scrolls V: Skyrim） | 2011
+OST | Dragonborn | Jeremy Soule | q=Dragonborn Jeremy Soule The Elder Scrolls V: Skyrim d=1
+
+# 上古卷軸4：遺忘（The Elder Scrolls IV: Oblivion） | 2006
+OST | Reign of the Septims | Jeremy Soule | q=Reign of the Septims Jeremy Soule The Elder Scrolls IV: Oblivion d=2
+
+# 最後一戰（Halo） | 2001
+OST | Halo Theme | Martin O'Donnell | q=Halo Theme Martin O'Donnell Halo d=1
+
+# 巫師3：狂獵（The Witcher 3: Wild Hunt） | 2015
+OST | Silver for Monsters | Marcin Przybylowicz | q=Silver for Monsters Marcin Przybylowicz The Witcher 3: Wild Hunt d=2
+
+# 毀滅戰士（Doom） | 1993
+OST | At Doom's Gate | Bobby Prince | q=At Doom's Gate Bobby Prince Doom d=1
+
+# 異塵餘生3（Fallout 3） | 2008
+OST | Fallout 3 Main Theme | Inon Zur | q=Fallout 3 Main Theme Inon Zur Fallout 3 d=2
+
+# 質量效應（Mass Effect） | 2007
+OST | Mass Effect Theme | Jack Wall | q=Mass Effect Theme Jack Wall Mass Effect d=2
+
+# 刺客教條2（Assassin's Creed II） | 2009
+OST | Ezio's Family | Jesper Kyd | q=Ezio's Family Jesper Kyd Assassin's Creed II d=2
+
+# 秘境探險（Uncharted: Drake's Fortune） | 2007
+OST | Nate's Theme | Greg Edmonson | q=Nate's Theme Greg Edmonson Uncharted: Drake's Fortune d=2
+
+# 戰神（God of War） | 2018
+OST | Ashes | Bear McCreary | q=Ashes Bear McCreary God of War d=2
+
+# 地平線：零之曙光（Horizon Zero Dawn） | 2017
+OST | Aloy's Theme | Joris de Man | q=Aloy's Theme Joris de Man Horizon Zero Dawn d=2
+
+# 風之旅人（Journey） | 2012
+OST | Apotheosis | Austin Wintory | q=Apotheosis Austin Wintory Journey d=2
+
+# 魔獸世界（World of Warcraft） | 2004
+OST | Main Title | Jason Hayes | q=Main Title Jason Hayes World of Warcraft d=1
+
+# 暗黑破壞神（Diablo） | 1997
+OST | Tristram | Matt Uelmen | q=Tristram Matt Uelmen Diablo d=1
+
+# 世紀帝國2（Age of Empires II） | 1999
+OST | Main Theme | Stephen Rippy | q=Main Theme Stephen Rippy Age of Empires II d=2
+
+# 終極動員令：紅色警戒（Command & Conquer: Red Alert） | 1996
+OST | Hell March | Frank Klepacki | q=Hell March Frank Klepacki Command & Conquer: Red Alert d=2
+
+# 文明帝國4（Civilization IV） | 2005
+OST | Baba Yetu | Christopher Tin | q=Baba Yetu Christopher Tin Civilization IV d=2
+
+# 傳送門（Portal） | 2007
+OST | Still Alive | Jonathan Coulton | q=Still Alive Jonathan Coulton Portal d=1
+
+# ===== 獨立遊戲與近年遊戲 =====
+
+# 當個創世神（Minecraft） | 2011
+OST | Sweden | C418 | q=Sweden C418 Minecraft d=1
+
+# 傳說之下（Undertale） | 2015
+OST | Megalovania | Toby Fox | q=Megalovania Toby Fox Undertale d=1
+
+# 空洞騎士（Hollow Knight） | 2017
+OST | Dirtmouth | Christopher Larkin | q=Dirtmouth Christopher Larkin Hollow Knight d=2
+
+# 蔚藍（Celeste） | 2018
+OST | Resurrections | Lena Raine | q=Resurrections Lena Raine Celeste d=2
+
+# 茶杯頭（Cuphead） | 2017
+OST | Floral Fury | Kristofer Maddigan | q=Floral Fury Kristofer Maddigan Cuphead d=2
+
+# 黑帝斯（Hades） | 2020
+OST | God of the Dead | Darren Korb | q=God of the Dead Darren Korb Hades d=3
+
+# 聖靈之光（Ori and the Blind Forest） | 2015
+OST | Light of Nibel | Gareth Coker | q=Light of Nibel Gareth Coker Ori and the Blind Forest d=2
+
+# 星露谷物語（Stardew Valley） | 2016
+OST | Stardew Valley Overture | ConcernedApe | q=Stardew Valley Overture ConcernedApe Stardew Valley d=1
+
+# 泰拉瑞亞（Terraria） | 2011
+OST | Overworld Day | Scott Lloyd Shelly | q=Overworld Day Scott Lloyd Shelly Terraria d=2
+
+# 鏟子騎士（Shovel Knight） | 2014
+OST | Strike the Earth! | Jake Kaufman | q=Strike the Earth! Jake Kaufman Shovel Knight d=2
+
+# 仙境傳說（Ragnarok Online） | 2002
+OST | Theme of Prontera | Soon-Ki Lee | q=Theme of Prontera Soon-Ki Lee Ragnarok Online d=1
+
+# 薩爾達傳說：眾神的三角力量（The Legend of Zelda: A Link to the Past） | 1991
+OST | The Dark World | Koji Kondo | q=The Legend of Zelda A Link to the Past The Dark World Koji Kondo d=2
+
+# 薩爾達傳說：織夢島（The Legend of Zelda: Link's Awakening） | 1993
+OST | Ballad of the Wind Fish | Kazumi Totaka | q=Link's Awakening Ballad of the Wind Fish d=2
+
+# 密特羅德Prime（Metroid Prime） | 2002
+OST | Phendrana Drifts | Kenji Yamamoto | q=Metroid Prime Phendrana Drifts Kenji Yamamoto d=3
+
+# 星之卡比 超級豪華版（Kirby Super Star） | 1996
+OST | Gourmet Race | Jun Ishikawa | q=Kirby Super Star Gourmet Race Jun Ishikawa d=1
+
+# 超級瑪利歐銀河（Super Mario Galaxy） | 2007
+OST | Gusty Garden Galaxy | Mahito Yokota | q=Super Mario Galaxy Gusty Garden Galaxy Mahito Yokota d=2
+
+# 耀西島（Yoshi's Island） | 1995
+OST | Flower Garden | Koji Kondo | q=Yoshi's Island Flower Garden Koji Kondo d=3
+
+# 寶可夢中心（Pokémon Red and Blue: Pokémon Center） | 1996
+OST | Pokémon Center | Junichi Masuda | q=Pokemon Red Blue Pokemon Center Junichi Masuda d=2
+
+# 聖劍傳說2（Secret of Mana） | 1993
+OST | Fear of the Heavens | Hiroki Kikuta | q=Secret of Mana Fear of the Heavens Hiroki Kikuta d=3
+
+# 女神異聞錄3（Persona 3） | 2006
+OST | Mass Destruction | Shoji Meguro | q=Persona 3 Mass Destruction Shoji Meguro d=2
+
+# 音速小子2（Sonic the Hedgehog 2） | 1992
+OST | Chemical Plant Zone | Masato Nakamura | q=Sonic the Hedgehog 2 Chemical Plant Zone d=2
+
+# 最後一戰3（Halo 3） | 2007
+OST | Never Forget | Martin O'Donnell | q=Halo 3 Never Forget Martin O'Donnell d=2
+
+# 歧路旅人（Octopath Traveler） | 2018
+OST | Main Theme | Yasunori Nishiki | q=Octopath Traveler Main Theme Yasunori Nishiki d=2
+
+# 毀滅戰士：永恆（Doom Eternal） | 2020
+OST | The Only Thing They Fear Is You | Mick Gordon | q=Doom Eternal The Only Thing They Fear Is You Mick Gordon d=2
+
+# 俄羅斯方塊 Game Boy（Tetris (Game Boy)） | 1989
+OST | Korobeiniki (Type A) | Hirokazu Tanaka | t=Tetris Theme/Type A/Music A q=Tetris Game Boy Korobeiniki Type A Hirokazu Tanaka d=1
+
+# 皮克敏（Pikmin） | 2001
+OST | Main Theme | Hajime Wakai | q=Pikmin Main Theme Hajime Wakai d=3
+
+# 太空戰士IX（Final Fantasy IX） | 2000
+OST | Vamo' alla Flamenco | Nobuo Uematsu | q=Final Fantasy IX Vamo' alla Flamenco Nobuo Uematsu d=3
+
+# 太空戰士IV（Final Fantasy IV） | 1991
+OST | Theme of Love | Nobuo Uematsu | q=Final Fantasy IV Theme of Love Nobuo Uematsu d=3

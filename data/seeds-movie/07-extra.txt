@@ -9,7 +9,7 @@ OST | A Way of Life | Hans Zimmer | q=A Way of Life Hans Zimmer The Last Samurai
 OST | Discombobulate | Hans Zimmer | q=Discombobulate Hans Zimmer Sherlock Holmes d=2
 
 # 珍珠港（Pearl Harbor） | 2001
-OST | There You'll Be | Faith Hill | q=There You'll Be Faith Hill Pearl Harbor d=1
+OST | There You'll Be | Faith Hill | q=There You'll Be Faith Hill Pearl Harbor v=1 d=1
 
 # 天使與魔鬼（Angels & Demons） | 2009
 OST | 160 BPM | Hans Zimmer | q=160 BPM Hans Zimmer Angels & Demons d=2
@@ -21,7 +21,7 @@ OST | Chevaliers de Sangreal | Hans Zimmer | q=Chevaliers de Sangreal Hans Zimme
 OST | Pi's Lullaby | Mychael Danna | q=Pi's Lullaby Mychael Danna Life of Pi d=1
 
 # 斷背山（Brokeback Mountain） | 2005
-OST | A Love That Will Never Grow Old | Emmylou Harris | q=A Love That Will Never Grow Old Emmylou Harris Brokeback Mountain d=2
+OST | A Love That Will Never Grow Old | Emmylou Harris | q=A Love That Will Never Grow Old Emmylou Harris Brokeback Mountain v=1 d=2
 
 # 傲慢與偏見（Pride & Prejudice） | 2005
 OST | Dawn | Jean-Yves Thibaudet | q=Dawn Jean-Yves Thibaudet Pride & Prejudice d=1
@@ -36,34 +36,34 @@ OST | Deborah's Theme | Ennio Morricone | q=Deborah's Theme Ennio Morricone Once
 OST | Lux Aeterna | Clint Mansell | q=Lux Aeterna Clint Mansell Requiem for a Dream d=2
 
 # 鬥陣俱樂部（Fight Club） | 1999
-OST | Where Is My Mind? | Pixies | q=Where Is My Mind? Pixies Fight Club d=1
+OST | Where Is My Mind? | Pixies | q=Where Is My Mind? Pixies Fight Club v=1 d=1
 
 # 愛情不用翻譯（Lost in Translation） | 2003
-OST | Just Like Honey | The Jesus and Mary Chain | q=Just Like Honey The Jesus and Mary Chain Lost in Translation d=2
+OST | Just Like Honey | The Jesus and Mary Chain | q=Just Like Honey The Jesus and Mary Chain Lost in Translation v=1 d=2
 
 # 哈啦拜訪（Garden State） | 2004
-OST | New Slang | The Shins | q=New Slang The Shins Garden State d=2
+OST | New Slang | The Shins | q=New Slang The Shins Garden State v=1 d=2
 
 # 鴻孕當頭（Juno） | 2007
-OST | Anyone Else but You | The Moldy Peaches | q=Anyone Else but You The Moldy Peaches Juno d=2
+OST | Anyone Else but You | The Moldy Peaches | q=Anyone Else but You The Moldy Peaches Juno v=1 d=2
 
 # 戀夏500日（(500) Days of Summer） | 2009
-OST | Us | Regina Spektor | q=Us Regina Spektor (500) Days of Summer d=2
+OST | Us | Regina Spektor | q=Us Regina Spektor (500) Days of Summer v=1 d=2
 
 # 蹺課天才（Ferris Bueller's Day Off） | 1986
-OST | Oh Yeah | Yello | q=Oh Yeah Yello Ferris Bueller's Day Off d=2
+OST | Oh Yeah | Yello | q=Oh Yeah Yello Ferris Bueller's Day Off v=1 d=2
 
 # 愛在你心（Say Anything...） | 1989
-OST | In Your Eyes | Peter Gabriel | q=In Your Eyes Peter Gabriel Say Anything... d=2
+OST | In Your Eyes | Peter Gabriel | q=In Your Eyes Peter Gabriel Say Anything... v=1 d=2
 
 # 王牌大間諜（Austin Powers: International Man of Mystery） | 1997
 OST | Soul Bossa Nova | Quincy Jones | q=Soul Bossa Nova Quincy Jones Austin Powers: International Man of Mystery d=2
 
 # 摩登大聖（The Mask） | 1994
-OST | Cuban Pete | Jim Carrey | q=Cuban Pete Jim Carrey The Mask d=2
+OST | Cuban Pete | Jim Carrey | q=Cuban Pete Jim Carrey The Mask v=1 d=2
 
 # 音速小子（Sonic the Hedgehog） | 2020
-OST | Speed Me Up | Wiz Khalifa, Ty Dolla $ign & Lil Yachty | q=Speed Me Up Wiz Khalifa, Ty Dolla $ign & Lil Yachty Sonic the Hedgehog d=2
+OST | Speed Me Up | Wiz Khalifa, Ty Dolla $ign & Lil Yachty | q=Speed Me Up Wiz Khalifa, Ty Dolla $ign & Lil Yachty Sonic the Hedgehog v=1 d=2
 
 # 超時空戰警（Demolition Man） | 1993
 OST | Demolition Man | Elliot Goldenthal | q=Demolition Man Elliot Goldenthal Demolition Man d=2
@@ -71,26 +71,26 @@ OST | Demolition Man | Elliot Goldenthal | q=Demolition Man Elliot Goldenthal De
 # ===== 影集補完 =====
 
 # 邪靈（Supernatural） | 2005
-OST | Carry On Wayward Son | Kansas | q=Carry On Wayward Son Kansas Supernatural d=1
+OST | Carry On Wayward Son | Kansas | q=Carry On Wayward Son Kansas Supernatural v=1 d=1
 
 # 閃電俠（The Flash） | 2014
 OST | The Flash Theme | Blake Neely | q=The Flash Theme Blake Neely The Flash d=2
 
 # 超人前傳（Smallville） | 2001
-OST | Save Me | Remy Zero | q=Save Me Remy Zero Smallville d=2
+OST | Save Me | Remy Zero | q=Save Me Remy Zero Smallville v=1 d=2
 
 # ===== 華語電影補完 =====
 
 # 滿城盡帶黃金甲（Curse of the Golden Flower） | 2006
-OST | 菊花台 | 周杰倫 | q=菊花台 周杰倫 Curse of the Golden Flower d=1
+OST | 菊花台 | 周杰倫 | q=菊花台 周杰倫 Curse of the Golden Flower v=1 d=1
 
 # 霍元甲（Fearless） | 2006
-OST | 霍元甲 | 周杰倫 | q=霍元甲 周杰倫 Fearless d=2
+OST | 霍元甲 | 周杰倫 | q=霍元甲 周杰倫 Fearless v=1 d=2
 
 # 頭文字D（Initial D） | 2005
-OST | 一路向北 | 周杰倫 | q=一路向北 周杰倫 Initial D d=1
+OST | 一路向北 | 周杰倫 | q=一路向北 周杰倫 Initial D v=1 d=1
 
 # ===== 動畫電影補完 =====
 
 # 愛麗絲夢遊仙境：魔鏡夢遊（Alice Through the Looking Glass） | 2016
-OST | Just Like Fire | Pink | q=Just Like Fire Pink Alice Through the Looking Glass d=2
+OST | Just Like Fire | Pink | q=Just Like Fire Pink Alice Through the Looking Glass v=1 d=2

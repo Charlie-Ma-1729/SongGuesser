@@ -12,40 +12,40 @@ OST | Doctor Who Theme | Ron Grainer | q=Doctor Who Theme Ron Grainer Doctor Who
 OST | The X-Files Theme | Mark Snow | q=The X-Files Theme Mark Snow The X-Files d=1
 
 # 六人行（Friends） | 1994
-OST | I'll Be There for You | The Rembrandts | q=I'll Be There for You The Rembrandts Friends d=1
+OST | I'll Be There for You | The Rembrandts | q=I'll Be There for You The Rembrandts Friends v=1 d=1
 
 # 辛普森家庭（The Simpsons） | 1989
 OST | The Simpsons Theme | Danny Elfman | q=The Simpsons Theme Danny Elfman The Simpsons d=1
 
 # 黑道家族（The Sopranos） | 1999
-OST | Woke Up This Morning | Alabama 3 | q=Woke Up This Morning Alabama 3 The Sopranos d=2
+OST | Woke Up This Morning | Alabama 3 | q=Woke Up This Morning Alabama 3 The Sopranos v=1 d=2
 
 # 怪醫豪斯（House M.D.） | 2004
-OST | Teardrop | Massive Attack | q=Teardrop Massive Attack House M.D. d=2
+OST | Teardrop | Massive Attack | q=Teardrop Massive Attack House M.D. v=1 d=2
 
 # 越獄（Prison Break） | 2005
 OST | Prison Break Theme | Ramin Djawadi | q=Prison Break Theme Ramin Djawadi Prison Break d=2
 
 # 冷暖人間（Cheers） | 1982
-OST | Where Everybody Knows Your Name | Gary Portnoy | q=Where Everybody Knows Your Name Gary Portnoy Cheers d=2
+OST | Where Everybody Knows Your Name | Gary Portnoy | q=Where Everybody Knows Your Name Gary Portnoy Cheers v=1 d=2
 
 # 雙峰（Twin Peaks） | 1990
-OST | Falling | Julee Cruise | q=Falling Julee Cruise Twin Peaks d=2
+OST | Falling | Julee Cruise | q=Falling Julee Cruise Twin Peaks v=1 d=2
 
 # 繼承之戰（Succession） | 2018
 OST | Succession Main Title | Nicholas Britell | q=Succession Main Title Nicholas Britell Succession d=2
 
 # 浴血黑幫（Peaky Blinders） | 2013
-OST | Red Right Hand | Nick Cave & The Bad Seeds | q=Red Right Hand Nick Cave & The Bad Seeds Peaky Blinders d=2
+OST | Red Right Hand | Nick Cave & The Bad Seeds | q=Red Right Hand Nick Cave & The Bad Seeds Peaky Blinders v=1 d=2
 
 # 星期三（Wednesday） | 2022
-OST | Goo Goo Muck | The Cramps | q=Goo Goo Muck The Cramps Wednesday d=1
+OST | Goo Goo Muck | The Cramps | q=Goo Goo Muck The Cramps Wednesday v=1 d=1
 
 # 最後生還者（The Last of Us） | 2023
-OST | Through the Valley | Shawn James | q=Through the Valley Shawn James The Last of Us d=2
+OST | Through the Valley | Shawn James | q=Through the Valley Shawn James The Last of Us v=1 d=2
 
 # 足球教練（Ted Lasso） | 2020
-OST | Ted Lasso Theme | Marcus Mumford | q=Ted Lasso Theme Marcus Mumford Ted Lasso d=2
+OST | Ted Lasso Theme | Marcus Mumford | q=Ted Lasso Theme Marcus Mumford Ted Lasso v=1 d=2
 
 # 降世神通：最後的氣宗（Avatar: The Last Airbender） | 2005
 OST | Avatar: The Last Airbender | Jeremy Zuckerman | q=Avatar: The Last Airbender Jeremy Zuckerman Avatar: The Last Airbender d=2
@@ -66,130 +66,130 @@ OST | Knight Rider Theme | Stu Phillips | q=Knight Rider Theme Stu Phillips Knig
 OST | The Walking Dead Main Title | Bear McCreary | q=The Walking Dead Main Title Bear McCreary The Walking Dead d=2
 
 # CSI犯罪現場（CSI: Crime Scene Investigation） | 2000
-OST | Who Are You | The Who | q=Who Are You The Who CSI: Crime Scene Investigation d=1
+OST | Who Are You | The Who | q=Who Are You The Who CSI: Crime Scene Investigation v=1 d=1
 
 # 歡樂合唱團（Glee） | 2009
-OST | Don't Stop Believin' | Glee Cast | q=Don't Stop Believin' Glee Cast Glee d=1
+OST | Don't Stop Believin' | Glee Cast | q=Don't Stop Believin' Glee Cast Glee v=1 d=1
 
 # 暗黑（Dark） | 2017
-OST | Goodbye | Apparat | q=Goodbye Apparat Dark d=2
+OST | Goodbye | Apparat | q=Goodbye Apparat Dark v=1 d=2
 
 # ===== 日韓劇 =====
 
 # 冬季戀歌（Winter Sonata） | 2002
-OST | My Memory | Ryu | q=My Memory Ryu Winter Sonata d=1
+OST | My Memory | Ryu | q=My Memory Ryu Winter Sonata v=1 d=1
 
 # 大長今（Dae Jang Geum） | 2003
-OST | Onara | Jang Na-ra | q=Onara Jang Na-ra Dae Jang Geum d=1
+OST | Onara | Jang Na-ra | q=Onara Jang Na-ra Dae Jang Geum v=1 d=1
 
 # 來自星星的你（My Love from the Star） | 2013
-OST | My Destiny | Lyn | q=My Destiny Lyn My Love from the Star d=1
+OST | My Destiny | Lyn | q=My Destiny Lyn My Love from the Star v=1 d=1
 
 # 東京愛情故事（Tokyo Love Story） | 1991
-OST | Love Story wa Totsuzen ni | Kazumasa Oda | q=Love Story wa Totsuzen ni Kazumasa Oda Tokyo Love Story d=1
+OST | Love Story wa Totsuzen ni | Kazumasa Oda | q=Love Story wa Totsuzen ni Kazumasa Oda Tokyo Love Story v=1 d=1
 
 # 長假（Long Vacation） | 1996
-OST | La La La Love Song | Toshinobu Kubota | q=La La La Love Song Toshinobu Kubota Long Vacation d=2
+OST | La La La Love Song | Toshinobu Kubota | q=La La La Love Song Toshinobu Kubota Long Vacation v=1 d=2
 
 # 在世界中心呼喊愛（Crying Out Love, In the Center of the World） | 2004
-OST | 瞳をとじて | 平井堅 | q=瞳をとじて 平井堅 Crying Out Love, In the Center of the World d=1
+OST | 瞳をとじて | 平井堅 | q=瞳をとじて 平井堅 Crying Out Love, In the Center of the World v=1 d=1
 
 # 花樣男子2005（Hana Yori Dango） | 2005
-OST | Wish | Arashi | q=Wish Arashi Hana Yori Dango d=2
+OST | Wish | Arashi | q=Wish Arashi Hana Yori Dango v=1 d=2
 
 # 逃避雖可恥但有用（The Full-Time Wife Escapist） | 2016
-OST | 恋 | 星野源 | q=恋 星野源 The Full-Time Wife Escapist d=1
+OST | 恋 | 星野源 | q=恋 星野源 The Full-Time Wife Escapist v=1 d=1
 
 # ===== 華語影集與電影 =====
 
 # 流星花園（Meteor Garden） | 2001
-OST | 流星雨 | F4 | q=流星雨 F4 Meteor Garden d=1
+OST | 流星雨 | F4 | q=流星雨 F4 Meteor Garden v=1 d=1
 
 # 還珠格格（My Fair Princess） | 1998
-OST | 當 | 動力火車 | q=當 動力火車 My Fair Princess d=2
+OST | 當 | 動力火車 | q=當 動力火車 My Fair Princess v=1 d=2
 
 # 包青天（Justice Bao） | 1993
-OST | 新鴛鴦蝴蝶夢 | 黃安 | q=新鴛鴦蝴蝶夢 黃安 Justice Bao d=1
+OST | 新鴛鴦蝴蝶夢 | 黃安 | q=新鴛鴦蝴蝶夢 黃安 Justice Bao v=1 d=1
 
 # 臥虎藏龍（Crouching Tiger, Hidden Dragon） | 2000
-OST | A Love Before Time | Coco Lee | q=A Love Before Time Coco Lee Crouching Tiger, Hidden Dragon d=1
+OST | A Love Before Time | Coco Lee | q=A Love Before Time Coco Lee Crouching Tiger, Hidden Dragon v=1 d=1
 
 # 花樣年華（In the Mood for Love） | 2000
 OST | Yumeji's Theme | Shigeru Umebayashi | q=Yumeji's Theme Shigeru Umebayashi In the Mood for Love d=1
 
 # 重慶森林（Chungking Express） | 1994
-OST | California Dreamin' | The Mamas & the Papas | q=California Dreamin' The Mamas & the Papas Chungking Express d=1
+OST | California Dreamin' | The Mamas & the Papas | q=California Dreamin' The Mamas & the Papas Chungking Express v=1 d=1
 
 # ===== 日本動畫電影與電影 =====
 
 # 龍貓（となりのトトロ） | 1988
-OST | となりのトトロ | 井上あずみ | q=となりのトトロ 井上あずみ となりのトトロ d=1
+OST | となりのトトロ | 井上あずみ | q=となりのトトロ 井上あずみ となりのトトロ v=1 d=1
 
 # 天空之城（天空の城ラピュタ） | 1986
-OST | 君をのせて | 井上あずみ | q=君をのせて 井上あずみ 天空の城ラピュタ d=1
+OST | 君をのせて | 井上あずみ | q=君をのせて 井上あずみ 天空の城ラピュタ v=1 d=1
 
 # 魔女宅急便（魔女の宅急便） | 1989
-OST | やさしさに包まれたなら | 荒井由実 | q=やさしさに包まれたなら 荒井由実 魔女の宅急便 d=1
+OST | やさしさに包まれたなら | 荒井由実 | q=やさしさに包まれたなら 荒井由実 魔女の宅急便 v=1 d=1
 
 # 魔法公主（もののけ姫） | 1997
-OST | もののけ姫 | 米良美一 | q=もののけ姫 米良美一 もののけ姫 d=1
+OST | もののけ姫 | 米良美一 | q=もののけ姫 米良美一 もののけ姫 v=1 d=1
 
 # 神隱少女（千と千尋の神隠し） | 2001
-OST | いつも何度でも | 木村弓 | q=いつも何度でも 木村弓 千と千尋の神隠し d=1
+OST | いつも何度でも | 木村弓 | q=いつも何度でも 木村弓 千と千尋の神隠し v=1 d=1
 
 # 風之谷（風の谷のナウシカ） | 1984
-OST | 風の谷のナウシカ | 安田成美 | q=風の谷のナウシカ 安田成美 風の谷のナウシカ d=2
+OST | 風の谷のナウシカ | 安田成美 | q=風の谷のナウシカ 安田成美 風の谷のナウシカ v=1 d=2
 
 # 紅豬（紅の豚） | 1992
-OST | 時には昔の話を | 加藤登紀子 | q=時には昔の話を 加藤登紀子 紅の豚 d=2
+OST | 時には昔の話を | 加藤登紀子 | q=時には昔の話を 加藤登紀子 紅の豚 v=1 d=2
 
 # 心之谷（耳をすませば） | 1995
-OST | カントリー・ロード | 本名陽子 | q=カントリー・ロード 本名陽子 耳をすませば d=1
+OST | カントリー・ロード | 本名陽子 | q=カントリー・ロード 本名陽子 耳をすませば v=1 d=1
 
 # 貓的報恩（猫の恩返し） | 2002
-OST | 風になる | つじあやの | q=風になる つじあやの 猫の恩返し d=2
+OST | 風になる | つじあやの | q=風になる つじあやの 猫の恩返し v=1 d=2
 
 # 借物少女艾莉緹（借りぐらしのアリエッティ） | 2010
-OST | Arrietty's Song | Cécile Corbel | q=Arrietty's Song Cécile Corbel 借りぐらしのアリエッティ d=2
+OST | Arrietty's Song | Cécile Corbel | q=Arrietty's Song Cécile Corbel 借りぐらしのアリエッティ v=1 d=2
 
 # 風起（風立ちぬ） | 2013
-OST | ひこうき雲 | 荒井由実 | q=ひこうき雲 荒井由実 風立ちぬ d=2
+OST | ひこうき雲 | 荒井由実 | q=ひこうき雲 荒井由実 風立ちぬ v=1 d=2
 
 # 回憶中的瑪妮（思い出のマーニー） | 2014
-OST | Fine on the Outside | Priscilla Ahn | q=Fine on the Outside Priscilla Ahn 思い出のマーニー d=2
+OST | Fine on the Outside | Priscilla Ahn | q=Fine on the Outside Priscilla Ahn 思い出のマーニー v=1 d=2
 
 # 狼的孩子雨與雪（おおかみこどもの雨と雪） | 2012
-OST | おかあさんの唄 | アン・サリー | q=おかあさんの唄 アン・サリー おおかみこどもの雨と雪 d=2
+OST | おかあさんの唄 | アン・サリー | q=おかあさんの唄 アン・サリー おおかみこどもの雨と雪 v=1 d=2
 
 # 龍與雀斑公主（竜とそばかすの姫） | 2021
-OST | 歌よ | Belle | q=歌よ Belle 竜とそばかすの姫 d=1
+OST | 歌よ | Belle | q=歌よ Belle 竜とそばかすの姫 v=1 d=1
 
 # 新世紀福音戰士新劇場版：序（ヱヴァンゲリヲン新劇場版:序） | 2007
-OST | Beautiful World | 宇多田ヒカル | q=Beautiful World 宇多田ヒカル ヱヴァンゲリヲン新劇場版:序 d=2
+OST | Beautiful World | 宇多田ヒカル | q=Beautiful World 宇多田ヒカル ヱヴァンゲリヲン新劇場版:序 v=1 d=2
 
 # 新世紀福音戰士新劇場版：終（シン・エヴァンゲリオン劇場版） | 2021
-OST | One Last Kiss | 宇多田ヒカル | q=One Last Kiss 宇多田ヒカル シン・エヴァンゲリオン劇場版 d=1
+OST | One Last Kiss | 宇多田ヒカル | q=One Last Kiss 宇多田ヒカル シン・エヴァンゲリオン劇場版 v=1 d=1
 
 # 七龍珠超：布羅利（ドラゴンボール超 ブロリー） | 2018
-OST | Blizzard | 三浦大知 | q=Blizzard 三浦大知 ドラゴンボール超 ブロリー d=2
+OST | Blizzard | 三浦大知 | q=Blizzard 三浦大知 ドラゴンボール超 ブロリー v=1 d=2
 
 # 刀劍神域：序列之爭（劇場版 ソードアート・オンライン オーディナル・スケール） | 2017
-OST | Catch the Moment | LiSA | q=Catch the Moment LiSA 劇場版 ソードアート・オンライン オーディナル・スケール d=2
+OST | Catch the Moment | LiSA | q=Catch the Moment LiSA 劇場版 ソードアート・オンライン オーディナル・スケール v=1 d=2
 
 # 言葉之庭（言の葉の庭） | 2013
-OST | Rain | 秦基博 | q=Rain 秦基博 言の葉の庭 d=2
+OST | Rain | 秦基博 | q=Rain 秦基博 言の葉の庭 v=1 d=2
 
 # 在這世界的角落（この世界の片隅に） | 2016
-OST | 悲しくてやりきれない | コトリンゴ | q=悲しくてやりきれない コトリンゴ この世界の片隅に d=2
+OST | 悲しくてやりきれない | コトリンゴ | q=悲しくてやりきれない コトリンゴ この世界の片隅に v=1 d=2
 
 # 聲之形（聲の形） | 2016
 OST | lit | 牛尾憲輔 | q=lit 牛尾憲輔 聲の形 d=2
 
 # 哆啦A夢：大雄的月球探測記（映画ドラえもん のび太の月面探査記） | 2019
-OST | THE GIFT | 平井大 | q=THE GIFT 平井大 映画ドラえもん のび太の月面探査記 d=2
+OST | THE GIFT | 平井大 | q=THE GIFT 平井大 映画ドラえもん のび太の月面探査記 v=1 d=2
 
 # 哆啦A夢：大雄的新恐龍（映画ドラえもん のび太の新恐竜） | 2020
-OST | Birthday | Mr.Children | q=Birthday Mr.Children 映画ドラえもん のび太の新恐竜 d=2
+OST | Birthday | Mr.Children | q=Birthday Mr.Children 映画ドラえもん のび太の新恐竜 v=1 d=2
 
 # 情書（Love Letter） | 1995
 OST | A Winter Story | Remedios | q=A Winter Story Remedios Love Letter d=1

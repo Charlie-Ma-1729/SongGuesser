@@ -5,10 +5,10 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-// --cat movie：改讀 data/seeds-movie（電影／影集），輸出 data/movie.json；預設 anime
+// --cat movie：讀 data/seeds-movie → data/movie.json；--cat ost：讀 data/seeds-ost（遊戲 OST）→ data/ost.json；預設 anime
 const _ci = process.argv.indexOf('--cat');
 export const CAT = _ci >= 0 ? process.argv[_ci + 1] : 'anime';
-export const SEED_DIR = path.join(ROOT, 'data', CAT === 'movie' ? 'seeds-movie' : 'seeds');
+export const SEED_DIR = path.join(ROOT, 'data', CAT === 'movie' ? 'seeds-movie' : CAT === 'ost' ? 'seeds-ost' : 'seeds');
 export const CACHE_DIR = path.join(ROOT, 'data', 'cache');
 
 export const hash = (s, n = 8) => createHash('sha1').update(s).digest('hex').slice(0, n);
@@ -69,7 +69,7 @@ export function parseSeeds({ exclude = [] } = {}) {
       const title = fields[1];
       const rest = fields.slice(2).join(' ');
       // 解析 key=value（q 的值可含空白，直到下一個 key）
-      const re = /(?:^|\s)([lcaqdt])=/g;
+      const re = /(?:^|\s)([lcaqdtv])=/g;
       const marks = [];
       let m;
       while ((m = re.exec(rest))) marks.push({ key: m[1], idx: m.index, end: re.lastIndex });
@@ -92,6 +92,7 @@ export function parseSeeds({ exclude = [] } = {}) {
         query: kv.q || null,
         alt: kv.t ? kv.t.split('/').map((x) => x.trim()).filter(Boolean) : [],
         difficulty: kv.d ? Number(kv.d) : 1,
+        vocal: kv.v === '1', // 有人聲的歌（電影題庫用來和純配樂區分）
       });
     });
   }

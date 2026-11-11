@@ -6,13 +6,13 @@
 OST | Driving with the Top Down | Ramin Djawadi | q=Driving with the Top Down Ramin Djawadi Iron Man d=2
 
 # 鋼鐵人2（Iron Man 2） | 2010
-OST | Shoot to Thrill | AC/DC | q=Shoot to Thrill AC/DC Iron Man 2 d=1
+OST | Shoot to Thrill | AC/DC | q=Shoot to Thrill AC/DC Iron Man 2 v=1 d=1
 
 # 雷神索爾（Thor） | 2011
 OST | Sons of Odin | Patrick Doyle | q=Sons of Odin Patrick Doyle Thor d=2
 
 # 美國隊長：復仇者先鋒（Captain America: The First Avenger） | 2011
-OST | Star Spangled Man | Alan Menken | q=Star Spangled Man Alan Menken Captain America: The First Avenger d=2
+OST | Star Spangled Man | Alan Menken | q=Star Spangled Man Alan Menken Captain America: The First Avenger v=1 d=2
 
 # 鋼鐵人3（Iron Man 3） | 2013
 OST | Can You Dig It? | Brian Tyler | q=Can You Dig It? Brian Tyler Iron Man 3 d=2
@@ -39,13 +39,13 @@ OST | High Tech Heist | Michael Giacchino | q=High Tech Heist Michael Giacchino 
 OST | Ant-Man and the Wasp | Christophe Beck | q=Ant-Man and the Wasp Christophe Beck Ant-Man and the Wasp d=2
 
 # 驚奇隊長（Captain Marvel） | 2019
-OST | Just a Girl | No Doubt | q=Just a Girl No Doubt Captain Marvel d=2
+OST | Just a Girl | No Doubt | q=Just a Girl No Doubt Captain Marvel v=1 d=2
 
 # 蜘蛛人：離家日（Spider-Man: Far From Home） | 2019
 OST | Swinging Set | Michael Giacchino | q=Swinging Set Michael Giacchino Spider-Man: Far From Home d=2
 
 # 黑寡婦（Black Widow） | 2021
-OST | Smells Like Teen Spirit | Malia Civetz | q=Smells Like Teen Spirit Malia Civetz Black Widow d=2
+OST | Smells Like Teen Spirit | Malia Civetz | q=Smells Like Teen Spirit Malia Civetz Black Widow v=1 d=2
 
 # 永恆族（Eternals） | 2021
 OST | Eternals | Ramin Djawadi | q=Eternals Ramin Djawadi Eternals d=2
@@ -57,7 +57,7 @@ OST | Forget Me Knots | Michael Giacchino | q=Forget Me Knots Michael Giacchino 
 OST | Doctor Strange in the Multiverse of Madness | Danny Elfman | q=Doctor Strange in the Multiverse of Madness Danny Elfman Doctor Strange in the Multiverse of Madness d=2
 
 # 雷神索爾4：愛與雷霆（Thor: Love and Thunder） | 2022
-OST | Sweet Child o' Mine | Guns N' Roses | q=Sweet Child o' Mine Guns N' Roses Thor: Love and Thunder d=1
+OST | Sweet Child o' Mine | Guns N' Roses | q=Sweet Child o' Mine Guns N' Roses Thor: Love and Thunder v=1 d=1
 
 # 蟻人與黃蜂女：量子狂熱（Ant-Man and the Wasp: Quantumania） | 2023
 OST | Quantumania | Christophe Beck | q=Quantumania Christophe Beck Ant-Man and the Wasp: Quantumania d=2
@@ -77,13 +77,13 @@ OST | The Fantastic Four: First Steps | Michael Giacchino | q=The Fantastic Four
 # ===== 漫威影集（Disney+） =====
 
 # 汪達幻視（WandaVision） | 2021
-OST | Agatha All Along | Kristen Anderson-Lopez & Robert Lopez | q=Agatha All Along Kristen Anderson-Lopez & Robert Lopez WandaVision d=1
+OST | Agatha All Along | Kristen Anderson-Lopez & Robert Lopez | q=Agatha All Along Kristen Anderson-Lopez & Robert Lopez WandaVision v=1 d=1
 
 # 獵鷹與酷寒戰士（The Falcon and the Winter Soldier） | 2021
 OST | Louisiana Hero | Henry Jackman | q=Louisiana Hero Henry Jackman The Falcon and the Winter Soldier d=2
 
 # 鷹眼（Hawkeye） | 2021
-OST | Save the City | Marc Shaiman & Scott Wittman | q=Save the City Marc Shaiman & Scott Wittman Hawkeye d=2
+OST | Save the City | Marc Shaiman & Scott Wittman | q=Save the City Marc Shaiman & Scott Wittman Hawkeye v=1 d=2
 
 # 如果…？（What If...?） | 2021
 OST | What If...? | Laura Karpman | q=What If...? Laura Karpman What If...? d=2
@@ -94,37 +94,37 @@ OST | Moon Knight | Hesham Nazih | q=Moon Knight Hesham Nazih Moon Knight d=2
 # ===== 蜘蛛人與其他漫威角色 =====
 
 # 蜘蛛人（Spider-Man） | 2002
-OST | Hero | Chad Kroeger feat. Josey Scott | q=Hero Chad Kroeger feat. Josey Scott Spider-Man d=1
+OST | Hero | Chad Kroeger feat. Josey Scott | q=Hero Chad Kroeger feat. Josey Scott Spider-Man v=1 d=1
 
 # 蜘蛛人2（Spider-Man 2） | 2004
 OST | Spider-Man 2 Main Title | Danny Elfman | q=Danny Elfman Spider-Man 2 Main Title Topic d=2
 
 # 蜘蛛人3（Spider-Man 3） | 2007
-OST | Signal Fire | Snow Patrol | q=Snow Patrol Signal Fire Spider-Man 3 official d=2
+OST | Signal Fire | Snow Patrol | q=Snow Patrol Signal Fire Spider-Man 3 official v=1 d=2
 
 # 蜘蛛人：驚奇再起（The Amazing Spider-Man） | 2012
 OST | The Amazing Spider-Man | James Horner | q=James Horner The Amazing Spider-Man Soundtrack Topic d=2
 
 # 蜘蛛人：電光之戰（The Amazing Spider-Man 2） | 2014
-OST | It's On Again | Alicia Keys & Kendrick Lamar | q=It's On Again Alicia Keys & Kendrick Lamar The Amazing Spider-Man 2 d=2
+OST | It's On Again | Alicia Keys & Kendrick Lamar | q=It's On Again Alicia Keys & Kendrick Lamar The Amazing Spider-Man 2 v=1 d=2
 
 # 猛毒（Venom） | 2018
-OST | Venom | Eminem | q=Venom Eminem Venom d=2
+OST | Venom | Eminem | q=Venom Eminem Venom v=1 d=2
 
 # 猛毒2：血蜘蛛（Venom: Let There Be Carnage） | 2021
-OST | Last One Standing | Skylar Grey, Polo G, Mozzy & Eminem | q=Last One Standing Skylar Grey, Polo G, Mozzy & Eminem Venom: Let There Be Carnage d=2
+OST | Last One Standing | Skylar Grey, Polo G, Mozzy & Eminem | q=Last One Standing Skylar Grey, Polo G, Mozzy & Eminem Venom: Let There Be Carnage v=1 d=2
 
 # 死侍2（Deadpool 2） | 2018
-OST | Ashes | Céline Dion | q=Ashes Céline Dion Deadpool 2 d=1
+OST | Ashes | Céline Dion | q=Ashes Céline Dion Deadpool 2 v=1 d=1
 
 # X戰警（X-Men） | 2000
 OST | You're X-Men | John Ottman | q=You're X-Men John Ottman X-Men d=2
 
 # X戰警：未來昔日（X-Men: Days of Future Past） | 2014
-OST | Time in a Bottle | Jim Croce | q=Time in a Bottle Jim Croce X-Men: Days of Future Past d=2
+OST | Time in a Bottle | Jim Croce | q=Time in a Bottle Jim Croce X-Men: Days of Future Past v=1 d=2
 
 # 羅根（Logan） | 2017
-OST | Hurt | Johnny Cash | q=Hurt Johnny Cash Logan d=1
+OST | Hurt | Johnny Cash | q=Hurt Johnny Cash Logan v=1 d=1
 
 # ===== DC 與超人、蝙蝠俠舊作 =====
 
@@ -138,4 +138,4 @@ OST | Batman Theme | Danny Elfman | q=Batman Theme Danny Elfman Batman d=1
 OST | What Are You Going to Do When You Are Not Saving the World? | Hans Zimmer | q=What Are You Going to Do When You Are Not Saving the World? Hans Zimmer Man of Steel d=2
 
 # 正義聯盟（Justice League） | 2017
-OST | Everybody Knows | Sigrid | q=Everybody Knows Sigrid Justice League d=2
+OST | Everybody Knows | Sigrid | q=Everybody Knows Sigrid Justice League v=1 d=2

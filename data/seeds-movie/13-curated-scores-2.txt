@@ -1,0 +1,61 @@
+# 人工挑選的代表性純配樂（第二批）
+
+# 星際大戰六部曲：絕地大反攻（Star Wars: Return of the Jedi） | 1983
+OST | Parade of the Ewoks | John Williams | q=Parade of the Ewoks John Williams Star Wars: Return of the Jedi d=3
+
+# 戰馬（War Horse） | 2011
+OST | Dartmoor, 1912 | John Williams | q=Dartmoor, 1912 John Williams War Horse d=3
+
+# 絕地潛龍（The Rock） | 1996
+OST | Hummel Gets the Rockets | Hans Zimmer | q=Hummel Gets the Rockets Hans Zimmer The Rock d=3
+
+# 決戰終點線（Rush） | 2013
+OST | Lost But Won | Hans Zimmer | q=Lost But Won Hans Zimmer Rush d=3
+
+# 阿波羅13（Apollo 13） | 1995
+OST | Apollo 13 Main Title | James Horner | q=Apollo 13 Main Title James Horner Apollo 13 d=3
+
+# 美麗境界（A Beautiful Mind） | 2001
+OST | A Kaleidoscope of Mathematics | James Horner | q=A Kaleidoscope of Mathematics James Horner A Beautiful Mind d=3
+
+# 愛麗絲夢遊仙境（Alice in Wonderland） | 2010
+OST | Alice's Theme | Danny Elfman | q=Alice's Theme Danny Elfman Alice in Wonderland d=2
+
+# 西部往事（Once Upon a Time in the West） | 1968
+OST | Once Upon a Time in the West | Ennio Morricone | q=Once Upon a Time in the West Ennio Morricone Once Upon a Time in the West d=2
+
+# 黃昏三鏢客之決戰前夕（For a Few Dollars More） | 1965
+OST | For a Few Dollars More | Ennio Morricone | q=For a Few Dollars More Ennio Morricone For a Few Dollars More d=3
+
+# 八惡人（The Hateful Eight） | 2015
+OST | L'ultima diligenza di Red Rock | Ennio Morricone | q=L'ultima diligenza di Red Rock Ennio Morricone The Hateful Eight d=3
+
+# 美國心玫瑰情（American Beauty） | 1999
+OST | Any Other Name | Thomas Newman | q=Any Other Name Thomas Newman American Beauty d=2
+
+# 瓦力（WALL-E） | 2008
+OST | Define Dancing | Thomas Newman | q=Define Dancing Thomas Newman WALL-E d=2
+
+# 神鬼傳奇（The Mummy） | 1999
+OST | Imhotep | Jerry Goldsmith | q=Imhotep Jerry Goldsmith The Mummy d=2
+
+# 美國隊長：復仇者先鋒（Captain America: The First Avenger） | 2011
+OST | Captain America March | Alan Silvestri | q=Captain America March Alan Silvestri Captain America: The First Avenger d=2
+
+# 水形物語（The Shape of Water） | 2017
+OST | The Shape of Water | Alexandre Desplat | q=The Shape of Water Alexandre Desplat The Shape of Water d=2
+
+# 不能說的秘密（Secret） | 2007
+OST | Secret (加長快板) | 周杰倫 | q=Secret (加長快板) 周杰倫 Secret d=1
+
+# 兄弟連（Band of Brothers） | 2001
+OST | Band of Brothers Main Theme | Michael Kamen | q=Band of Brothers Main Theme Michael Kamen Band of Brothers d=2
+
+# 核災日誌（Chernobyl） | 2019
+OST | Chernobyl | Hildur Guðnadóttir | q=Chernobyl Hildur Guðnadóttir Chernobyl d=3
+
+# 星際爭霸戰：銀河飛龍（Star Trek: The Next Generation） | 1987
+OST | Star Trek The Next Generation Main Title | Jerry Goldsmith | q=Star Trek The Next Generation Main Title Jerry Goldsmith Star Trek: The Next Generation d=2
+
+# 史努比（Peanuts） | 1965
+OST | Linus and Lucy | Vince Guaraldi | q=Linus and Lucy Vince Guaraldi Peanuts d=1

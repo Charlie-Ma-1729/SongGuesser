@@ -1,0 +1,70 @@
+# 人工挑選的代表性純配樂（部分作品是補在已有的歌曲旁邊，同名作品會自動合併）
+
+# 鐵達尼號（Titanic） | 1997
+OST | Hymn to the Sea | James Horner | q=Hymn to the Sea James Horner Titanic d=1
+
+# 阿凡達（Avatar） | 2009
+OST | Jake's First Flight | James Horner | q=Jake's First Flight James Horner Avatar d=1
+
+# 教父（The Godfather） | 1972
+OST | The Godfather Waltz | Nino Rota | q=The Godfather Waltz Nino Rota The Godfather d=1
+
+# 捍衛戰士（Top Gun） | 1986
+OST | Top Gun Anthem | Harold Faltermeyer | q=Top Gun Anthem Harold Faltermeyer Top Gun d=1
+
+# 魔戒二部曲：雙塔奇謀（The Lord of the Rings: The Two Towers） | 2002
+OST | The Riders of Rohan | Howard Shore | q=The Riders of Rohan Howard Shore The Lord of the Rings: The Two Towers d=2
+
+# 魔戒三部曲：王者再臨（The Lord of the Rings: The Return of the King） | 2003
+OST | The Grey Havens | Howard Shore | q=The Grey Havens Howard Shore The Lord of the Rings: The Return of the King d=2
+
+# 獅子王1994（The Lion King） | 1994
+OST | This Land | Hans Zimmer | q=This Land Hans Zimmer The Lion King d=1
+
+# 小美人魚1989（The Little Mermaid） | 1989
+OST | Fathoms Below | Alan Menken | q=Fathoms Below Alan Menken The Little Mermaid d=2
+
+# 蜘蛛人（Spider-Man） | 2002
+OST | Main Title | Danny Elfman | q=Main Title Danny Elfman Spider-Man d=2
+
+# 飢餓遊戲（The Hunger Games） | 2012
+OST | Rue's Farewell | James Newton Howard | q=Rue's Farewell James Newton Howard The Hunger Games d=2
+
+# 樂來越愛你（La La Land） | 2016
+OST | Mia & Sebastian's Theme | Justin Hurwitz | q=Mia & Sebastian's Theme Justin Hurwitz La La Land d=1
+
+# 功夫熊貓（Kung Fu Panda） | 2008
+OST | Oogway Ascends | Hans Zimmer & John Powell | q=Oogway Ascends Hans Zimmer & John Powell Kung Fu Panda d=2
+
+# 你的名字。（君の名は。） | 2016
+OST | Sparkle | RADWIMPS | q=Sparkle RADWIMPS 君の名は。 d=1
+
+# 魔女宅急便（魔女の宅急便） | 1989
+OST | 海の見える街 | 久石譲 | q=海の見える街 久石譲 魔女の宅急便 d=1
+
+# 天空之城（天空の城ラピュタ） | 1986
+OST | The Girl Who Fell from the Sky | 久石譲 | q=The Girl Who Fell from the Sky 久石譲 天空の城ラピュタ d=2
+
+# 末代皇帝（The Last Emperor） | 1987
+OST | The Last Emperor | Ryuichi Sakamoto | q=The Last Emperor Ryuichi Sakamoto The Last Emperor d=2
+
+# 戰場上的快樂聖誕（Merry Christmas, Mr. Lawrence） | 1983
+OST | Merry Christmas Mr. Lawrence | Ryuichi Sakamoto | q=Merry Christmas Mr. Lawrence Ryuichi Sakamoto Merry Christmas, Mr. Lawrence d=1
+
+# 巴別塔（Babel） | 2006
+OST | Bibo no Aozora | Ryuichi Sakamoto | q=Bibo no Aozora Ryuichi Sakamoto Babel d=3
+
+# 第三類接觸（Close Encounters of the Third Kind） | 1977
+OST | Close Encounters of the Third Kind | John Williams | q=Close Encounters of the Third Kind John Williams Close Encounters of the Third Kind d=2
+
+# 虎克船長（Hook） | 1991
+OST | The Flight to Neverland | John Williams | q=The Flight to Neverland John Williams Hook d=2
+
+# 菊次郎的夏天（Kikujiro） | 1999
+OST | Summer | 久石譲 | q=Summer 久石譲 Kikujiro d=1
+
+# 花火（Hana-bi） | 1997
+OST | Hana-Bi | 久石譲 | q=Hana-Bi 久石譲 Hana-bi d=3
+
+# 送行者：禮儀師的樂章（Departures） | 2008
+OST | Okuribito Memory | 久石譲 | q=Okuribito Memory 久石譲 Departures d=2

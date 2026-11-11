@@ -34,15 +34,17 @@ for (const w of works) {
     const cr = credits[s.key] || {};
     const pick = (a, b) => a || b || undefined;
     out.push({
-      id: (CAT === 'movie' ? 'm-' : 'a-') + s.id,
+      id: (CAT === 'movie' ? 'm-' : CAT === 'ost' ? 'g-' : 'a-') + s.id,
       workId: w.workId,
-      kind: s.kind,
+      kind: CAT === 'movie' && s.vocal ? 'SONG' : s.kind, // SONG = 有人聲的歌；OST = 純配樂
       ytId: ov.ytId || r.ytId,
       // 一律從影片開頭播；只有在 overrides.json 手動指定時才用其他起點
       start: ov.start ?? 0,
       // 揭曉時跳到「最多重播」的位置（通常是副歌）；沒有重播資料的影片就不跳，接著播
+      // 「從中間播」用的起點：最多重播處前 4 秒（沒有資料時用估計值）
+      mid: ov.mid ?? r.start,
       revealStart: ov.revealStart ?? (r.startSource === 'peak' ? r.start : undefined),
-      prompt: CAT === 'movie' ? '這首配樂／主題曲來自哪部電影或影集？' : s.kind === 'OST' ? '這段配樂來自哪部動畫？' : '這首歌來自哪部動畫？',
+      prompt: CAT === 'ost' ? '這段配樂來自哪款遊戲？' : CAT === 'movie' ? (s.vocal ? '這首歌來自哪部電影或影集？' : '這段配樂來自哪部電影或影集？') : s.kind === 'OST' ? '這段配樂來自哪部動畫？' : '這首歌來自哪部動畫？',
       answer: {
         title: s.title,
         work: workName,
@@ -68,6 +70,6 @@ const nWorks = new Set(out.map((q) => q.workId)).size;
 console.log(`seeds 共 ${total} 首 / ${works.length} 部作品`);
 console.log(`入庫 ${out.length} 首（${nWorks} 部作品），缺影片 ${missing.length} 首`);
 if (missing.length) {
-  writeFileSync(path.join(CACHE_DIR, CAT === 'movie' ? 'missing-movie.txt' : 'missing.txt'), missing.join('\n'));
+  writeFileSync(path.join(CACHE_DIR, CAT === 'anime' ? 'missing.txt' : `missing-${CAT}.txt`), missing.join('\n'));
   console.log('缺影片清單已寫入 data/cache/missing.txt');
 }

@@ -4,14 +4,14 @@
 //  - 判定：film = 影片資訊含作品名；artist = 影片標題／頻道含演唱者；兩者都沒有 → 可疑
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
-import { ROOT, CACHE_DIR, norm } from './lib.mjs';
+import { ROOT, CACHE_DIR, CAT, norm } from './lib.mjs';
 
 const REDO = process.argv.includes('--redo');
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const HEADERS = { 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0 Safari/537.36', 'accept-language': 'en;q=0.9', cookie: 'CONSENT=YES+1' };
 
-const qs = JSON.parse(readFileSync(path.join(ROOT, 'data', 'movie.json'), 'utf8'));
-const cacheFile = path.join(CACHE_DIR, 'verify-movie.json');
+const qs = JSON.parse(readFileSync(path.join(ROOT, 'data', (CAT === 'ost' ? 'ost' : 'movie') + '.json'), 'utf8'));
+const cacheFile = path.join(CACHE_DIR, `verify-${CAT === 'ost' ? 'ost' : 'movie'}.json`);
 const cache = existsSync(cacheFile) && !REDO ? JSON.parse(readFileSync(cacheFile, 'utf8')) : {};
 
 async function info(id) {
@@ -74,4 +74,4 @@ for (const q of qs) {
 console.log(`\n作品名有出現在影片資訊：${ok} / ${qs.length}`);
 console.log(`找不到作品名（需人工確認）：${bad.length}`);
 for (const b of bad) console.log(`${b.artist ? '○' : '✗'} ${b.work} / ${b.song} → [${b.channel}] ${b.video.slice(0, 70)} (${b.yt})`);
-writeFileSync(path.join(CACHE_DIR, 'verify-movie-suspects.json'), JSON.stringify(bad, null, 1));
+writeFileSync(path.join(CACHE_DIR, `verify-${CAT === 'ost' ? 'ost' : 'movie'}-suspects.json`), JSON.stringify(bad, null, 1));

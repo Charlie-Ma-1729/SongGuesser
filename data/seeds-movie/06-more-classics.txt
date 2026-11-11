@@ -3,22 +3,22 @@
 # ===== 經典電影歌曲 =====
 
 # 費城故事（Philadelphia） | 1993
-OST | Streets of Philadelphia | Bruce Springsteen | q=Streets of Philadelphia Bruce Springsteen Philadelphia d=2
+OST | Streets of Philadelphia | Bruce Springsteen | q=Streets of Philadelphia Bruce Springsteen Philadelphia v=1 d=2
 
 # 早餐俱樂部（The Breakfast Club） | 1985
-OST | Don't You (Forget About Me) | Simple Minds | q=Don't You (Forget About Me) Simple Minds The Breakfast Club d=1
+OST | Don't You (Forget About Me) | Simple Minds | q=Don't You (Forget About Me) Simple Minds The Breakfast Club v=1 d=1
 
 # 猜火車（Trainspotting） | 1996
-OST | Lust for Life | Iggy Pop | q=Lust for Life Iggy Pop Trainspotting d=2
+OST | Lust for Life | Iggy Pop | q=Lust for Life Iggy Pop Trainspotting v=1 d=2
 
 # 現代啟示錄（Apocalypse Now） | 1979
-OST | The End | The Doors | q=The End The Doors Apocalypse Now d=2
+OST | The End | The Doors | q=The End The Doors Apocalypse Now v=1 d=2
 
 # 畢業生（The Graduate） | 1967
-OST | The Sound of Silence | Simon & Garfunkel | q=The Sound of Silence Simon & Garfunkel The Graduate d=1
+OST | The Sound of Silence | Simon & Garfunkel | q=The Sound of Silence Simon & Garfunkel The Graduate v=1 d=1
 
 # 虎豹小霸王（Butch Cassidy and the Sundance Kid） | 1969
-OST | Raindrops Keep Fallin' on My Head | B.J. Thomas | q=Raindrops Keep Fallin' on My Head B.J. Thomas Butch Cassidy and the Sundance Kid d=2
+OST | Raindrops Keep Fallin' on My Head | B.J. Thomas | q=Raindrops Keep Fallin' on My Head B.J. Thomas Butch Cassidy and the Sundance Kid v=1 d=2
 
 # 羅密歐與茱麗葉（Romeo and Juliet） | 1968
 OST | A Time for Us | Nino Rota | q=A Time for Us Nino Rota Romeo and Juliet d=2
@@ -30,61 +30,61 @@ OST | Lara's Theme | Maurice Jarre | q=Lara's Theme Maurice Jarre Doctor Zhivago
 OST | Theme from Love Story | Francis Lai | q=Theme from Love Story Francis Lai Love Story d=1
 
 # 往日情懷（The Way We Were） | 1973
-OST | The Way We Were | Barbra Streisand | q=The Way We Were Barbra Streisand The Way We Were d=2
+OST | The Way We Were | Barbra Streisand | q=The Way We Were Barbra Streisand The Way We Were v=1 d=2
 
 # 無盡的愛（Endless Love） | 1981
-OST | Endless Love | Diana Ross & Lionel Richie | q=Endless Love Diana Ross & Lionel Richie Endless Love d=1
+OST | Endless Love | Diana Ross & Lionel Richie | q=Endless Love Diana Ross & Lionel Richie Endless Love v=1 d=1
 
 # 軍官與紳士（An Officer and a Gentleman） | 1982
-OST | Up Where We Belong | Joe Cocker & Jennifer Warnes | q=Up Where We Belong Joe Cocker & Jennifer Warnes An Officer and a Gentleman d=1
+OST | Up Where We Belong | Joe Cocker & Jennifer Warnes | q=Up Where We Belong Joe Cocker & Jennifer Warnes An Officer and a Gentleman v=1 d=1
 
 # 洛基3（Rocky III） | 1982
-OST | Eye of the Tiger | Survivor | q=Eye of the Tiger Survivor Rocky III d=1
+OST | Eye of the Tiger | Survivor | q=Eye of the Tiger Survivor Rocky III v=1 d=1
 
 # 聖艾默酒吧（St. Elmo's Fire） | 1985
-OST | St. Elmo's Fire (Man in Motion) | John Parr | q=St. Elmo's Fire (Man in Motion) John Parr St. Elmo's Fire d=2
+OST | St. Elmo's Fire (Man in Motion) | John Parr | q=St. Elmo's Fire (Man in Motion) John Parr St. Elmo's Fire v=1 d=2
 
 # 小子難纏（The Karate Kid） | 1984
-OST | You're the Best | Joe Esposito | q=You're the Best Joe Esposito The Karate Kid d=2
+OST | You're the Best | Joe Esposito | q=You're the Best Joe Esposito The Karate Kid v=1 d=2
 
 # 小子難纏2（The Karate Kid Part II） | 1986
-OST | Glory of Love | Peter Cetera | q=Glory of Love Peter Cetera The Karate Kid Part II d=2
+OST | Glory of Love | Peter Cetera | q=Glory of Love Peter Cetera The Karate Kid Part II v=1 d=2
 
 # 俠盜王子羅賓漢（Robin Hood: Prince of Thieves） | 1991
-OST | (Everything I Do) I Do It for You | Bryan Adams | q=(Everything I Do) I Do It for You Bryan Adams Robin Hood: Prince of Thieves d=1
+OST | (Everything I Do) I Do It for You | Bryan Adams | q=(Everything I Do) I Do It for You Bryan Adams Robin Hood: Prince of Thieves v=1 d=1
 
 # 愛的代價（Up Close & Personal） | 1996
-OST | Because You Loved Me | Celine Dion | q=Because You Loved Me Celine Dion Up Close & Personal d=1
+OST | Because You Loved Me | Celine Dion | q=Because You Loved Me Celine Dion Up Close & Personal v=1 d=1
 
 # 夏威夷藍調（Blue Hawaii） | 1961
-OST | Can't Help Falling in Love | Elvis Presley | q=Can't Help Falling in Love Elvis Presley Blue Hawaii d=1
+OST | Can't Help Falling in Love | Elvis Presley | q=Can't Help Falling in Love Elvis Presley Blue Hawaii v=1 d=1
 
 # 街頭痞子（8 Mile） | 2002
-OST | Lose Yourself | Eminem | q=Lose Yourself Eminem 8 Mile d=1
+OST | Lose Yourself | Eminem | q=Lose Yourself Eminem 8 Mile v=1 d=1
 
 # 危險心靈（Dangerous Minds） | 1995
-OST | Gangsta's Paradise | Coolio | q=Gangsta's Paradise Coolio Dangerous Minds d=1
+OST | Gangsta's Paradise | Coolio | q=Gangsta's Paradise Coolio Dangerous Minds v=1 d=1
 
 # 北極特快車（The Polar Express） | 2004
-OST | Believe | Josh Groban | q=Believe Josh Groban The Polar Express d=1
+OST | Believe | Josh Groban | q=Believe Josh Groban The Polar Express v=1 d=1
 
 # 大遊行（Selma） | 2014
-OST | Glory | John Legend & Common | q=Glory John Legend & Common Selma d=2
+OST | Glory | John Legend & Common | q=Glory John Legend & Common Selma v=1 d=2
 
 # 樂高玩電影（The Lego Movie） | 2014
-OST | Everything Is Awesome!!! | Tegan and Sara | q=Everything Is Awesome!!! Tegan and Sara The Lego Movie d=1
+OST | Everything Is Awesome!!! | Tegan and Sara | q=Everything Is Awesome!!! Tegan and Sara The Lego Movie v=1 d=1
 
 # RRR（RRR） | 2022
-OST | Naatu Naatu | Rahul Sipligunj & Kaala Bhairava | q=Naatu Naatu Rahul Sipligunj & Kaala Bhairava RRR d=1
+OST | Naatu Naatu | Rahul Sipligunj & Kaala Bhairava | q=Naatu Naatu Rahul Sipligunj & Kaala Bhairava RRR v=1 d=1
 
 # 伴我同行（Stand by Me） | 1986
-OST | Stand by Me | Ben E. King | q=Stand by Me Ben E. King Stand by Me d=1
+OST | Stand by Me | Ben E. King | q=Stand by Me Ben E. King Stand by Me v=1 d=1
 
 # 蝙蝠俠forever（Batman Forever） | 1995
-OST | Kiss from a Rose | Seal | q=Kiss from a Rose Seal Batman Forever d=1
+OST | Kiss from a Rose | Seal | q=Kiss from a Rose Seal Batman Forever v=1 d=1
 
 # 逃出絕命鎮（Get Out） | 2017
-OST | Redbone | Childish Gambino | q=Redbone Childish Gambino Get Out d=2
+OST | Redbone | Childish Gambino | q=Redbone Childish Gambino Get Out v=1 d=2
 
 # 亂世佳人（Gone with the Wind） | 1939
 OST | Tara's Theme | Max Steiner | q=Tara's Theme Max Steiner Gone with the Wind d=2
@@ -93,7 +93,7 @@ OST | Tara's Theme | Max Steiner | q=Tara's Theme Max Steiner Gone with the Wind
 OST | Ben-Hur Overture | Miklós Rózsa | q=Ben-Hur Overture Miklós Rózsa Ben-Hur d=2
 
 # 日正當中（High Noon） | 1952
-OST | Do Not Forsake Me, Oh My Darlin' | Tex Ritter | q=Do Not Forsake Me, Oh My Darlin' Tex Ritter High Noon d=2
+OST | Do Not Forsake Me, Oh My Darlin' | Tex Ritter | q=Do Not Forsake Me, Oh My Darlin' Tex Ritter High Noon v=1 d=2
 
 # 鋼琴師（The Pianist） | 2002
 OST | Nocturne in C-sharp minor | Chopin | q=Nocturne in C-sharp minor Chopin The Pianist d=2
@@ -102,45 +102,45 @@ OST | Nocturne in C-sharp minor | Chopin | q=Nocturne in C-sharp minor Chopin Th
 OST | The Heart Asks Pleasure First | Michael Nyman | q=The Heart Asks Pleasure First Michael Nyman The Piano d=2
 
 # 窈窕淑女（My Fair Lady） | 1964
-OST | I Could Have Danced All Night | Audrey Hepburn | q=I Could Have Danced All Night Audrey Hepburn My Fair Lady d=2
+OST | I Could Have Danced All Night | Audrey Hepburn | q=I Could Have Danced All Night Audrey Hepburn My Fair Lady v=1 d=2
 
 # 萬花嬉春（Singin' in the Rain） | 1952
-OST | Singin' in the Rain | Gene Kelly | q=Singin' in the Rain Gene Kelly Singin' in the Rain d=1
+OST | Singin' in the Rain | Gene Kelly | q=Singin' in the Rain Gene Kelly Singin' in the Rain v=1 d=1
 
 # 屋頂上的提琴手（Fiddler on the Roof） | 1971
-OST | If I Were a Rich Man | Topol | q=If I Were a Rich Man Topol Fiddler on the Roof d=2
+OST | If I Were a Rich Man | Topol | q=If I Were a Rich Man Topol Fiddler on the Roof v=1 d=2
 
 # 髮膠明星夢（Hairspray） | 2007
-OST | You Can't Stop the Beat | Hairspray Cast | q=You Can't Stop the Beat Hairspray Cast Hairspray d=2
+OST | You Can't Stop the Beat | Hairspray Cast | q=You Can't Stop the Beat Hairspray Cast Hairspray v=1 d=2
 
 # 貓（Cats） | 2019
-OST | Memory | Jennifer Hudson | q=Memory Jennifer Hudson Cats d=2
+OST | Memory | Jennifer Hudson | q=Memory Jennifer Hudson Cats v=1 d=2
 
 # 歌劇魅影（The Phantom of the Opera） | 2004
-OST | The Phantom of the Opera | Gerard Butler & Emmy Rossum | q=The Phantom of the Opera Gerard Butler & Emmy Rossum The Phantom of the Opera d=1
+OST | The Phantom of the Opera | Gerard Butler & Emmy Rossum | q=The Phantom of the Opera Gerard Butler & Emmy Rossum The Phantom of the Opera v=1 d=1
 
 # 魔法奇緣（Enchanted） | 2007
-OST | That's How You Know | Amy Adams | q=That's How You Know Amy Adams Enchanted d=2
+OST | That's How You Know | Amy Adams | q=That's How You Know Amy Adams Enchanted v=1 d=2
 
 # 公主與青蛙（The Princess and the Frog） | 2009
-OST | Almost There | Anika Noni Rose | q=Almost There Anika Noni Rose The Princess and the Frog d=2
+OST | Almost There | Anika Noni Rose | q=Almost There Anika Noni Rose The Princess and the Frog v=1 d=2
 
 # 黑魔女（Maleficent） | 2014
-OST | Once Upon a Dream | Lana Del Rey | q=Once Upon a Dream Lana Del Rey Maleficent d=2
+OST | Once Upon a Dream | Lana Del Rey | q=Once Upon a Dream Lana Del Rey Maleficent v=1 d=2
 
 # 小熊維尼（Winnie the Pooh） | 2011
-OST | Winnie the Pooh | Zooey Deschanel | q=Winnie the Pooh Zooey Deschanel Winnie the Pooh d=2
+OST | Winnie the Pooh | Zooey Deschanel | q=Winnie the Pooh Zooey Deschanel Winnie the Pooh v=1 d=2
 
 # ===== 007 與動作系列補完 =====
 
 # 007：雷霆谷（You Only Live Twice） | 1967
-OST | You Only Live Twice | Nancy Sinatra | q=You Only Live Twice Nancy Sinatra You Only Live Twice d=2
+OST | You Only Live Twice | Nancy Sinatra | q=You Only Live Twice Nancy Sinatra You Only Live Twice v=1 d=2
 
 # 007：生死關頭（Live and Let Die） | 1973
-OST | Live and Let Die | Paul McCartney & Wings | q=Live and Let Die Paul McCartney & Wings Live and Let Die d=1
+OST | Live and Let Die | Paul McCartney & Wings | q=Live and Let Die Paul McCartney & Wings Live and Let Die v=1 d=1
 
 # 印第安納瓊斯：魔宮傳奇（Indiana Jones and the Temple of Doom） | 1984
-OST | Anything Goes | Kate Capshaw | q=Anything Goes Kate Capshaw Indiana Jones and the Temple of Doom d=2
+OST | Anything Goes | Kate Capshaw | q=Anything Goes Kate Capshaw Indiana Jones and the Temple of Doom v=1 d=2
 
 # 印第安納瓊斯：命運轉盤（Indiana Jones and the Dial of Destiny） | 2023
 OST | Helena's Theme | John Williams | q=Helena's Theme John Williams Indiana Jones and the Dial of Destiny d=2
@@ -148,46 +148,46 @@ OST | Helena's Theme | John Williams | q=Helena's Theme John Williams Indiana Jo
 # ===== 迪士尼與動畫補完 =====
 
 # 睡美人（Sleeping Beauty） | 1959
-OST | Once Upon a Dream | Mary Costa | q=Once Upon a Dream Mary Costa Sleeping Beauty d=1
+OST | Once Upon a Dream | Mary Costa | q=Once Upon a Dream Mary Costa Sleeping Beauty v=1 d=1
 
 # 小姐與流氓（Lady and the Tramp） | 1955
-OST | Bella Notte | Peggy Lee | q=Bella Notte Peggy Lee Lady and the Tramp d=2
+OST | Bella Notte | Peggy Lee | q=Bella Notte Peggy Lee Lady and the Tramp v=1 d=2
 
 # 小飛俠（Peter Pan） | 1953
-OST | You Can Fly! | Peter Pan | q=You Can Fly! Peter Pan Peter Pan d=2
+OST | You Can Fly! | Peter Pan | q=You Can Fly! Peter Pan Peter Pan v=1 d=2
 
 # 愛麗絲夢遊仙境1951（Alice in Wonderland 1951） | 1951
-OST | The Unbirthday Song | Disney | q=The Unbirthday Song Disney Alice in Wonderland 1951 d=2
+OST | The Unbirthday Song | Disney | q=The Unbirthday Song Disney Alice in Wonderland 1951 v=1 d=2
 
 # 鐘樓怪人（The Hunchback of Notre Dame） | 1996
-OST | God Help the Outcasts | Bette Midler | q=God Help the Outcasts Bette Midler The Hunchback of Notre Dame d=2
+OST | God Help the Outcasts | Bette Midler | q=God Help the Outcasts Bette Midler The Hunchback of Notre Dame v=1 d=2
 
 # 星際寶貝（Lilo & Stitch） | 2002
-OST | Hawaiian Roller Coaster Ride | Mark Keali'i Ho'omalu | q=Hawaiian Roller Coaster Ride Mark Keali'i Ho'omalu Lilo & Stitch d=2
+OST | Hawaiian Roller Coaster Ride | Mark Keali'i Ho'omalu | q=Hawaiian Roller Coaster Ride Mark Keali'i Ho'omalu Lilo & Stitch v=1 d=2
 
 # 蟲蟲危機（A Bug's Life） | 1998
 OST | The Time of Your Life | Randy Newman | q=The Time of Your Life Randy Newman A Bug's Life d=2
 
 # 馴龍高手2（How to Train Your Dragon 2） | 2014
-OST | Where No One Goes | Jónsi | q=Where No One Goes Jónsi How to Train Your Dragon 2 d=2
+OST | Where No One Goes | Jónsi | q=Where No One Goes Jónsi How to Train Your Dragon 2 v=1 d=2
 
 # 埃及王子（The Prince of Egypt） | 1998
-OST | When You Believe | Whitney Houston & Mariah Carey | q=When You Believe Whitney Houston & Mariah Carey The Prince of Egypt d=1
+OST | When You Believe | Whitney Houston & Mariah Carey | q=When You Believe Whitney Houston & Mariah Carey The Prince of Egypt v=1 d=1
 
 # 小小兵：格魯的崛起（Minions: The Rise of Gru） | 2022
-OST | Turn Up the Sunshine | Diana Ross & Tame Impala | q=Turn Up the Sunshine Diana Ross & Tame Impala Minions: The Rise of Gru d=2
+OST | Turn Up the Sunshine | Diana Ross & Tame Impala | q=Turn Up the Sunshine Diana Ross & Tame Impala Minions: The Rise of Gru v=1 d=2
 
 # 汽車總動員3（Cars 3） | 2017
-OST | Run That Race | Dan Auerbach | q=Run That Race Dan Auerbach Cars 3 d=2
+OST | Run That Race | Dan Auerbach | q=Run That Race Dan Auerbach Cars 3 v=1 d=2
 
 # 里約大冒險（Rio） | 2011
-OST | Real in Rio | Rio Cast | q=Real in Rio Rio Cast Rio d=2
+OST | Real in Rio | Rio Cast | q=Real in Rio Rio Cast Rio v=1 d=2
 
 # 海綿寶寶（SpongeBob SquarePants） | 1999
-OST | SpongeBob SquarePants Theme | Painty the Pirate | q=SpongeBob SquarePants Theme Painty the Pirate SpongeBob SquarePants d=1
+OST | SpongeBob SquarePants Theme | Painty the Pirate | q=SpongeBob SquarePants Theme Painty the Pirate SpongeBob SquarePants v=1 d=1
 
 # 蓋酷家庭（Family Guy） | 1999
-OST | Theme from Family Guy | Walter Murphy | q=Theme from Family Guy Walter Murphy Family Guy d=2
+OST | Theme from Family Guy | Walter Murphy | q=Theme from Family Guy Walter Murphy Family Guy v=1 d=2
 
 # ===== 影集補完 =====
 
@@ -195,27 +195,27 @@ OST | Theme from Family Guy | Walter Murphy | q=Theme from Family Guy Walter Mur
 OST | Sex and the City Theme | Douglas J. Cuomo | q=Sex and the City Theme Douglas J. Cuomo Sex and the City d=2
 
 # 老爸老媽浪漫史（How I Met Your Mother） | 2005
-OST | Hey Beautiful | The Solids | q=Hey Beautiful The Solids How I Met Your Mother d=2
+OST | Hey Beautiful | The Solids | q=Hey Beautiful The Solids How I Met Your Mother v=1 d=2
 
 # 實習醫生（Grey's Anatomy） | 2005
-OST | Cosy in the Rocket | Psapp | q=Cosy in the Rocket Psapp Grey's Anatomy d=2
+OST | Cosy in the Rocket | Psapp | q=Cosy in the Rocket Psapp Grey's Anatomy v=1 d=2
 
 # 花樣男子2009（Boys Over Flowers） | 2009
-OST | Paradise | T-Max | q=Paradise T-Max Boys Over Flowers d=2
+OST | Paradise | T-Max | q=Paradise T-Max Boys Over Flowers v=1 d=2
 
 # ===== 華語、日本、韓國補完 =====
 
 # 英雄本色（A Better Tomorrow） | 1986
-OST | 當年情 | 張國榮 | q=當年情 張國榮 A Better Tomorrow d=1
+OST | 當年情 | 張國榮 | q=當年情 張國榮 A Better Tomorrow v=1 d=1
 
 # 倩女幽魂（A Chinese Ghost Story） | 1987
-OST | 倩女幽魂 | 張國榮 | q=倩女幽魂 張國榮 A Chinese Ghost Story d=1
+OST | 倩女幽魂 | 張國榮 | q=倩女幽魂 張國榮 A Chinese Ghost Story v=1 d=1
 
 # NANA（NANA） | 2005
-OST | Glamorous Sky | 中島美嘉 | q=Glamorous Sky 中島美嘉 NANA d=1
+OST | Glamorous Sky | 中島美嘉 | q=Glamorous Sky 中島美嘉 NANA v=1 d=1
 
 # 神劍闖江湖（Rurouni Kenshin） | 2012
-OST | The Beginning | ONE OK ROCK | q=The Beginning ONE OK ROCK Rurouni Kenshin d=2
+OST | The Beginning | ONE OK ROCK | q=The Beginning ONE OK ROCK Rurouni Kenshin v=1 d=2
 
 # 劇場版 Fate/stay night [Heaven's Feel]（劇場版 Fate/stay night [Heaven's Feel]） | 2017
-OST | I beg you | Aimer | q=I beg you Aimer 劇場版 Fate/stay night [Heaven's Feel] d=2
+OST | I beg you | Aimer | q=I beg you Aimer 劇場版 Fate/stay night [Heaven's Feel] v=1 d=2

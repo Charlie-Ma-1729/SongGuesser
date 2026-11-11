@@ -1,0 +1,79 @@
+# 由 scripts/discover-score.mjs 搜尋、再人工檢查挑出的純配樂（同名作品會自動合併到已有的歌曲旁）
+
+# 星際異攻隊3（Guardians of the Galaxy Vol. 3） | 2023
+OST | Dido's Lament | John Murphy | q=Dido's Lament John Murphy Guardians of the Galaxy Vol. 3 d=3
+
+# 蜘蛛人：新宇宙（Spider-Man: Into the Spider-Verse） | 2018
+OST | The Prowler | Daniel Pemberton | q=The Prowler Daniel Pemberton Spider-Man: Into the Spider-Verse d=3
+
+# 007：惡魔四伏（Spectre） | 2015
+OST | Westminster Bridge | Thomas Newman | q=Westminster Bridge Thomas Newman Spectre d=3
+
+# 007：皇家夜總會（Casino Royale） | 2006
+OST | African Rundown | David Arnold | q=African Rundown David Arnold Casino Royale d=3
+
+# 007：生死交戰（No Time to Die） | 2021
+OST | Matera | Hans Zimmer | q=Matera Hans Zimmer No Time to Die d=3
+
+# 魔髮奇緣（Tangled） | 2010
+OST | Kingdom Dance | Alan Menken | q=Kingdom Dance Alan Menken Tangled d=3
+
+# 料理鼠王（Ratatouille） | 2007
+OST | Ratatouille Main Theme | Michael Giacchino | q=Ratatouille Main Theme Michael Giacchino Ratatouille d=2
+
+# 可可夜總會（Coco） | 2017
+OST | Día de los Muertos Suite | Michael Giacchino | q=Día de los Muertos Suite Michael Giacchino Coco d=2
+
+# 駭客任務（The Matrix） | 1999
+OST | Main Title / Trinity Infinity | Don Davis | q=Main Title / Trinity Infinity Don Davis The Matrix d=2
+
+# 魔鬼終結者2：審判日（Terminator 2: Judgment Day） | 1991
+OST | Terminator 2 Theme | Brad Fiedel | q=Terminator 2 Theme Brad Fiedel Terminator 2: Judgment Day d=1
+
+# 絕地任務（Armageddon） | 1998
+OST | Theme from Armageddon | Trevor Rabin | q=Theme from Armageddon Trevor Rabin Armageddon d=2
+
+# 絕地戰警（Bad Boys） | 1995
+OST | Theme from Bad Boys | Mark Mancina | q=Theme from Bad Boys Mark Mancina Bad Boys d=2
+
+# MIB星際戰警（Men in Black） | 1997
+OST | M.I.B. Main Theme | Danny Elfman | q=M.I.B. Main Theme Danny Elfman Men in Black d=2
+
+# 第六感生死戀（Ghost） | 1990
+OST | Ghost | Maurice Jarre | q=Ghost Maurice Jarre Ghost d=2
+
+# 北非諜影（Casablanca） | 1942
+OST | Casablanca Main Title | Max Steiner | q=Casablanca Main Title Max Steiner Casablanca d=2
+
+# 新娘不是我（My Best Friend's Wedding） | 1997
+OST | Suite from My Best Friend's Wedding | James Newton Howard | q=Suite from My Best Friend's Wedding James Newton Howard My Best Friend's Wedding d=3
+
+# 放牛班的春天（Les Choristes） | 2004
+OST | Les choristes | Bruno Coulais | q=Les choristes Bruno Coulais Les Choristes d=2
+
+# 暮光之城：新月（The Twilight Saga: New Moon） | 2009
+OST | New Moon Theme | Alexandre Desplat | q=New Moon Theme Alexandre Desplat The Twilight Saga: New Moon d=2
+
+# 神鬼認證（The Bourne Identity） | 2002
+OST | The Bourne Identity Main Title | John Powell | q=The Bourne Identity Main Title John Powell The Bourne Identity d=2
+
+# 星艦迷航記：浩瀚無垠（Star Trek Beyond） | 2016
+OST | Star Trek Main Theme | Michael Giacchino | q=Star Trek Main Theme Michael Giacchino Star Trek Beyond d=2
+
+# 變形金剛3（Transformers: Dark of the Moon） | 2011
+OST | Main Title / Moon Mission | Steve Jablonsky | q=Main Title / Moon Mission Steve Jablonsky Transformers: Dark of the Moon d=2
+
+# 無敵破壞王（Wreck-It Ralph） | 2012
+OST | Wreck-It Ralph | Henry Jackman | q=Wreck-It Ralph Henry Jackman Wreck-It Ralph d=3
+
+# 重慶森林（Chungking Express） | 1994
+OST | Baroque | Michael Galasso | q=Baroque Michael Galasso Chungking Express d=2
+
+# 日正當中（High Noon） | 1952
+OST | High Noon Suite | Dimitri Tiomkin | q=High Noon Suite Dimitri Tiomkin High Noon d=3
+
+# 魔法奇緣（Enchanted） | 2007
+OST | Enchanted Suite | Alan Menken | q=Enchanted Suite Alan Menken Enchanted d=3
+
+# 雷神索爾3：諸神黃昏（Thor: Ragnarok） | 2017
+OST | Ragnarok Suite | Mark Mothersbaugh | q=Ragnarok Suite Mark Mothersbaugh Thor Ragnarok d=3

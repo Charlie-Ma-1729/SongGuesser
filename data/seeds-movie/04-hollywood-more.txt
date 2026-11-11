@@ -24,54 +24,54 @@ OST | Newt Scamander | James Newton Howard | q=Newt Scamander James Newton Howar
 OST | Narnia Lullaby | Harry Gregson-Williams | q=Narnia Lullaby Harry Gregson-Williams The Chronicles of Narnia: The Lion, the Witch and the Wardrobe d=2
 
 # 哈比人：意外旅程（The Hobbit: An Unexpected Journey） | 2012
-OST | Misty Mountains | Richard Armitage & Dwarves | q=Misty Mountains Richard Armitage & Dwarves The Hobbit: An Unexpected Journey d=2
+OST | Misty Mountains | Richard Armitage & Dwarves | q=Misty Mountains Richard Armitage & Dwarves The Hobbit: An Unexpected Journey v=1 d=2
 
 # 哈比人：荒谷惡龍（The Hobbit: The Desolation of Smaug） | 2013
-OST | I See Fire | Ed Sheeran | q=I See Fire Ed Sheeran The Hobbit: The Desolation of Smaug d=1
+OST | I See Fire | Ed Sheeran | q=I See Fire Ed Sheeran The Hobbit: The Desolation of Smaug v=1 d=1
 
 # 哈比人：五軍之戰（The Hobbit: The Battle of the Five Armies） | 2014
-OST | The Last Goodbye | Billy Boyd | q=The Last Goodbye Billy Boyd The Hobbit: The Battle of the Five Armies d=2
+OST | The Last Goodbye | Billy Boyd | q=The Last Goodbye Billy Boyd The Hobbit: The Battle of the Five Armies v=1 d=2
 
 # ===== 青春與愛情 =====
 
 # 暮光之城：新月（The Twilight Saga: New Moon） | 2009
-OST | Meet Me on the Equinox | Death Cab for Cutie | q=Meet Me on the Equinox Death Cab for Cutie The Twilight Saga: New Moon d=2
+OST | Meet Me on the Equinox | Death Cab for Cutie | q=Meet Me on the Equinox Death Cab for Cutie The Twilight Saga: New Moon v=1 d=2
 
 # 暮光之城：蝕（The Twilight Saga: Eclipse） | 2010
-OST | Eclipse (All Yours) | Metric | q=Eclipse (All Yours) Metric The Twilight Saga: Eclipse d=2
+OST | Eclipse (All Yours) | Metric | q=Eclipse (All Yours) Metric The Twilight Saga: Eclipse v=1 d=2
 
 # 暮光之城：破曉第一部（The Twilight Saga: Breaking Dawn Part 1） | 2011
-OST | A Thousand Years | Christina Perri | q=Christina Perri A Thousand Years Official Music Video Breaking Dawn Part 1 d=1
+OST | A Thousand Years | Christina Perri | q=Christina Perri A Thousand Years Official Music Video Breaking Dawn Part 1 v=1 d=1
 
 # 暮光之城：破曉第二部（The Twilight Saga: Breaking Dawn Part 2） | 2012
-OST | A Thousand Years Part 2 | Christina Perri feat. Steve Kazee | q=A Thousand Years Part 2 Christina Perri feat. Steve Kazee The Twilight Saga: Breaking Dawn Part 2 d=2
+OST | A Thousand Years Part 2 | Christina Perri feat. Steve Kazee | q=A Thousand Years Part 2 Christina Perri feat. Steve Kazee The Twilight Saga: Breaking Dawn Part 2 v=1 d=2
 
 # 飢餓遊戲：自由幻夢2（The Hunger Games: Mockingjay Part 2） | 2015
-OST | The Hanging Tree | Jennifer Lawrence | q=The Hanging Tree Jennifer Lawrence The Hunger Games: Mockingjay Part 2 d=2
+OST | The Hanging Tree | Jennifer Lawrence | q=The Hanging Tree Jennifer Lawrence The Hunger Games: Mockingjay Part 2 v=1 d=2
 
 # 一首搖滾上月球（Begin Again） | 2013
-OST | Lost Stars | Keira Knightley | q=Lost Stars Keira Knightley Begin Again d=2
+OST | Lost Stars | Keira Knightley | q=Lost Stars Keira Knightley Begin Again v=1 d=2
 
 # 曼哈頓戀習曲（Once） | 2007
-OST | Falling Slowly | Glen Hansard & Markéta Irglová | q=Falling Slowly Glen Hansard & Markéta Irglová Once d=2
+OST | Falling Slowly | Glen Hansard & Markéta Irglová | q=Falling Slowly Glen Hansard & Markéta Irglová Once v=1 d=2
 
 # 貧民百萬富翁（Slumdog Millionaire） | 2008
-OST | Jai Ho | A. R. Rahman | q=Jai Ho A. R. Rahman Slumdog Millionaire d=2
+OST | Jai Ho | A. R. Rahman | q=Jai Ho A. R. Rahman Slumdog Millionaire v=1 d=2
 
 # 高校音樂劇（High School Musical） | 2006
-OST | We're All in This Together | High School Musical Cast | q=We're All in This Together High School Musical Cast High School Musical d=1
+OST | We're All in This Together | High School Musical Cast | q=We're All in This Together High School Musical Cast High School Musical v=1 d=1
 
 # 火箭人（Rocketman） | 2019
-OST | (I'm Gonna) Love Me Again | Elton John & Taron Egerton | q=(I'm Gonna) Love Me Again Elton John & Taron Egerton Rocketman d=2
+OST | (I'm Gonna) Love Me Again | Elton John & Taron Egerton | q=(I'm Gonna) Love Me Again Elton John & Taron Egerton Rocketman v=1 d=2
 
 # 旺卡（Wonka） | 2023
-OST | Pure Imagination | Timothée Chalamet | q=Pure Imagination Timothée Chalamet Wonka d=2
+OST | Pure Imagination | Timothée Chalamet | q=Pure Imagination Timothée Chalamet Wonka v=1 d=2
 
 # 西城故事（West Side Story） | 2021
-OST | Tonight | Ansel Elgort & Rachel Zegler | q=Tonight Ansel Elgort & Rachel Zegler West Side Story d=2
+OST | Tonight | Ansel Elgort & Rachel Zegler | q=Tonight Ansel Elgort & Rachel Zegler West Side Story v=1 d=2
 
 # 魔法壞女巫：第二部（Wicked: For Good） | 2025
-OST | For Good | Cynthia Erivo & Ariana Grande | q=For Good Cynthia Erivo & Ariana Grande Wicked: For Good d=1
+OST | For Good | Cynthia Erivo & Ariana Grande | q=For Good Cynthia Erivo & Ariana Grande Wicked: For Good v=1 d=1
 
 # ===== 科幻、動作與驚悚 =====
 
@@ -79,16 +79,16 @@ OST | For Good | Cynthia Erivo & Ariana Grande | q=For Good Cynthia Erivo & Aria
 OST | Alien Main Title | Jerry Goldsmith | q=Alien Main Title Jerry Goldsmith Alien d=2
 
 # 神鬼認證（The Bourne Identity） | 2002
-OST | Extreme Ways | Moby | q=Extreme Ways Moby The Bourne Identity d=1
+OST | Extreme Ways | Moby | q=Extreme Ways Moby The Bourne Identity v=1 d=1
 
 # 星艦迷航記（Star Trek） | 2009
 OST | Enterprising Young Men | Michael Giacchino | q=Enterprising Young Men Michael Giacchino Star Trek d=2
 
 # 星艦迷航記：浩瀚無垠（Star Trek Beyond） | 2016
-OST | Sabotage | Beastie Boys | q=Sabotage Beastie Boys Star Trek Beyond d=2
+OST | Sabotage | Beastie Boys | q=Sabotage Beastie Boys Star Trek Beyond v=1 d=2
 
 # 絕地救援（The Martian） | 2015
-OST | Starman | David Bowie | q=Starman David Bowie The Martian d=2
+OST | Starman | David Bowie | q=Starman David Bowie The Martian v=1 d=2
 
 # 異星入境（Arrival） | 2016
 OST | On the Nature of Daylight | Max Richter | q=On the Nature of Daylight Max Richter Arrival d=1
@@ -100,7 +100,7 @@ OST | 2049 | Hans Zimmer & Benjamin Wallfisch | q=2049 Hans Zimmer & Benjamin Wa
 OST | Brothers in Arms | Junkie XL | q=Brothers in Arms Junkie XL Mad Max: Fury Road d=2
 
 # 玩命再劫（Baby Driver） | 2017
-OST | Bellbottoms | The Jon Spencer Blues Explosion | q=Bellbottoms The Jon Spencer Blues Explosion Baby Driver d=2
+OST | Bellbottoms | The Jon Spencer Blues Explosion | q=Bellbottoms The Jon Spencer Blues Explosion Baby Driver v=1 d=2
 
 # 社群網戰（The Social Network） | 2010
 OST | Hand Covers Bruise | Trent Reznor & Atticus Ross | q=Hand Covers Bruise Trent Reznor & Atticus Ross The Social Network d=2
@@ -109,7 +109,7 @@ OST | Hand Covers Bruise | Trent Reznor & Atticus Ross | q=Hand Covers Bruise Tr
 OST | Swan Lake | Clint Mansell | q=Swan Lake Clint Mansell Black Swan d=2
 
 # 落日車神（Drive） | 2011
-OST | A Real Hero | College & Electric Youth | q=A Real Hero College & Electric Youth Drive d=2
+OST | A Real Hero | College & Electric Youth | q=A Real Hero College & Electric Youth Drive v=1 d=2
 
 # 寄生上流（Parasite） | 2019
 OST | Soju One Glass | Jung Jae-il | q=Soju One Glass Jung Jae-il Parasite d=2
@@ -118,25 +118,25 @@ OST | Soju One Glass | Jung Jae-il | q=Soju One Glass Jung Jae-il Parasite d=2
 OST | This Is a Life | Son Lux, Mitski & David Byrne | q=This Is a Life Son Lux, Mitski & David Byrne Everything Everywhere All at Once d=2
 
 # 捍衛任務（John Wick） | 2014
-OST | Killing Strangers | Marilyn Manson | q=Killing Strangers Marilyn Manson John Wick d=2
+OST | Killing Strangers | Marilyn Manson | q=Killing Strangers Marilyn Manson John Wick v=1 d=2
 
 # 地心引力（Gravity） | 2013
 OST | Above Earth | Steven Price | q=Above Earth Steven Price Gravity d=2
 
 # 變形金剛：復仇之戰（Transformers: Revenge of the Fallen） | 2009
-OST | New Divide | Linkin Park | q=New Divide Linkin Park Transformers: Revenge of the Fallen d=1
+OST | New Divide | Linkin Park | q=New Divide Linkin Park Transformers: Revenge of the Fallen v=1 d=1
 
 # 變形金剛3（Transformers: Dark of the Moon） | 2011
-OST | Iridescent | Linkin Park | q=Iridescent Linkin Park Transformers: Dark of the Moon d=1
+OST | Iridescent | Linkin Park | q=Iridescent Linkin Park Transformers: Dark of the Moon v=1 d=1
 
 # 神鬼奇航：魔盜王終結篇（Pirates of the Caribbean: At World's End） | 2007
 OST | Hoist the Colours | Hans Zimmer | q=Hoist the Colours Hans Zimmer Pirates of the Caribbean: At World's End d=2
 
 # 007：量子危機（Quantum of Solace） | 2008
-OST | Another Way to Die | Jack White & Alicia Keys | q=Another Way to Die Jack White & Alicia Keys Quantum of Solace d=2
+OST | Another Way to Die | Jack White & Alicia Keys | q=Another Way to Die Jack White & Alicia Keys Quantum of Solace v=1 d=2
 
 # 不可能的任務2（Mission: Impossible 2） | 2000
-OST | Take a Look Around | Limp Bizkit | q=Take a Look Around Limp Bizkit Mission: Impossible 2 d=2
+OST | Take a Look Around | Limp Bizkit | q=Take a Look Around Limp Bizkit Mission: Impossible 2 v=1 d=2
 
 # 不可能的任務3（Mission: Impossible III） | 2006
 OST | Mission: Impossible III | Michael Giacchino | q=Mission: Impossible III Michael Giacchino Mission: Impossible III d=2
@@ -145,50 +145,50 @@ OST | Mission: Impossible III | Michael Giacchino | q=Mission: Impossible III Mi
 OST | Mission: Impossible Ghost Protocol | Michael Giacchino | q=Mission: Impossible Ghost Protocol Michael Giacchino Mission: Impossible – Ghost Protocol d=2
 
 # 玩命關頭：特別行動（2 Fast 2 Furious） | 2003
-OST | Act a Fool | Ludacris | q=Act a Fool Ludacris 2 Fast 2 Furious d=2
+OST | Act a Fool | Ludacris | q=Act a Fool Ludacris 2 Fast 2 Furious v=1 d=2
 
 # ===== 動畫與家庭片 =====
 
 # 海底總動員2：多莉去哪兒（Finding Dory） | 2016
-OST | Unforgettable | Sia | q=Unforgettable Sia Finding Dory d=2
+OST | Unforgettable | Sia | q=Unforgettable Sia Finding Dory v=1 d=2
 
 # 瓦力（WALL-E） | 2008
-OST | Down to Earth | Peter Gabriel | q=Down to Earth Peter Gabriel WALL-E d=2
+OST | Down to Earth | Peter Gabriel | q=Down to Earth Peter Gabriel WALL-E v=1 d=2
 
 # 勇敢傳說（Brave） | 2012
-OST | Touch the Sky | Julie Fowlis | q=Touch the Sky Julie Fowlis Brave d=2
+OST | Touch the Sky | Julie Fowlis | q=Touch the Sky Julie Fowlis Brave v=1 d=2
 
 # 魔髮精靈（Trolls） | 2016
-OST | Can't Stop the Feeling! | Justin Timberlake | q=Can't Stop the Feeling! Justin Timberlake Trolls d=1
+OST | Can't Stop the Feeling! | Justin Timberlake | q=Can't Stop the Feeling! Justin Timberlake Trolls v=1 d=1
 
 # 大英雄天團（Big Hero 6） | 2014
-OST | Immortals | Fall Out Boy | q=Immortals Fall Out Boy Big Hero 6 d=2
+OST | Immortals | Fall Out Boy | q=Immortals Fall Out Boy Big Hero 6 v=1 d=2
 
 # 無敵破壞王（Wreck-It Ralph） | 2012
-OST | When Can I See You Again? | Owl City | q=When Can I See You Again? Owl City Wreck-It Ralph d=2
+OST | When Can I See You Again? | Owl City | q=When Can I See You Again? Owl City Wreck-It Ralph v=1 d=2
 
 # 海洋奇緣2（Moana 2） | 2024
-OST | We're Back | Dwayne Johnson | q=We're Back Dwayne Johnson Moana 2 d=2
+OST | We're Back | Dwayne Johnson | q=We're Back Dwayne Johnson Moana 2 v=1 d=2
 
 # 星願（Wish） | 2023
-OST | This Wish | Ariana DeBose | q=This Wish Ariana DeBose Wish d=2
+OST | This Wish | Ariana DeBose | q=This Wish Ariana DeBose Wish v=1 d=2
 
 # 馬達加斯加3（Madagascar 3） | 2012
-OST | Afro Circus | Chris Rock | q=Afro Circus Chris Rock Madagascar 3 d=2
+OST | Afro Circus | Chris Rock | q=Afro Circus Chris Rock Madagascar 3 v=1 d=2
 
 # 史瑞克3（Shrek the Third） | 2007
-OST | Live and Let Die | Wings | q=Live and Let Die Wings Shrek the Third d=2
+OST | Live and Let Die | Wings | q=Live and Let Die Wings Shrek the Third v=1 d=2
 
 # 汽車總動員2（Cars 2） | 2011
 OST | Collision of Worlds | Brad Paisley & Robbie Williams | q=Collision of Worlds Brad Paisley & Robbie Williams Cars 2 d=2
 
 # 靈魂急轉彎（Soul） | 2020
-OST | It's All Right | Jon Batiste | q=It's All Right Jon Batiste Soul d=2
+OST | It's All Right | Jon Batiste | q=It's All Right Jon Batiste Soul v=1 d=2
 
 # ===== 近年好萊塢 =====
 
 # 金牌特務（Kingsman: The Secret Service） | 2014
-OST | Money for Nothing | Dire Straits | q=Money for Nothing Dire Straits Kingsman: The Secret Service d=2
+OST | Money for Nothing | Dire Straits | q=Money for Nothing Dire Straits Kingsman: The Secret Service v=1 d=2
 
 # 創：光速戰記（Tron: Legacy） | 2010
 OST | Derezzed | Daft Punk | q=Derezzed Daft Punk Tron: Legacy d=2
