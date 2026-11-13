@@ -10,7 +10,7 @@
 #   systemctl status SongGuesser        看狀態
 #   journalctl -u SongGuesser -f        看即時紀錄
 #   sudo systemctl reload SongGuesser   只重新載入題庫（不清房間）
-#   sudo systemctl restart SongGuesser  更新程式後用（會清掉目前所有房間）
+#   sudo systemctl restart SongGuesser  更新程式後用（房間會存檔並在重啟後還原，玩家自動重連；存檔在專案的 state/rooms.json）
 [Unit]
 Description=SongGuesser multiplayer server
 After=network.target

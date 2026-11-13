@@ -106,11 +106,12 @@ export class ClipPlayer {
   }
 
   /** 多人模式：到了開播時間點，從預載的位置開始播 */
-  play() {
+  /** offsetSec：重連回來時，從開播後已經過的秒數接著播 */
+  play(offsetSec = 0) {
     if (!this.clip) return;
     this.free = !this.clip.duration;
     this._armStuck();
-    try { this.yt.seekTo(this.clip.start, true); this.yt.playVideo(); } catch { /* ignore */ }
+    try { this.yt.seekTo(this.clip.start + offsetSec, true); this.yt.playVideo(); } catch { /* ignore */ }
   }
 
   replay() {

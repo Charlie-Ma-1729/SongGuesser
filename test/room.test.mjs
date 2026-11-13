@@ -280,3 +280,112 @@ test('主畫面模式：沒有主畫面不能開始；以主畫面的 ready 為�
   room.handle(sc, { t: 'playing', idx: room.game.idx });
   assert.ok(sc.last('t0').t0 > 0);
 });
+
+test('分頁被關掉：用同暱稱重新加入，接回離線的座位（保留分數、不會變成「名2」）', () => {
+  const { room, conns, players } = setup(2);
+  start(room, conns); readyAll(room, conns);
+  const idx = room.game.idx; const ok = room.game.correctIdx;
+  room.handle(conns[0], { t: 'lock', idx, choice: ok, elapsedMs: 0 });
+  room.handle(conns[1], { t: 'lock', idx, choice: ok, elapsedMs: 0 });
+  const score = players[1].score;
+  assert.ok(score > 0);
+  room.disconnect(conns[1]); // 手機把網頁殺掉
+  const c2 = fakeConn();
+  const r = room.join(c2, { nick: 'p2' }); // 沒有 playerId，只有暱稱（大小寫不拘）
+  assert.equal(r.player.id, players[1].id);
+  assert.equal(r.player.score, score);
+  assert.equal(room.players.size, 2);
+  assert.equal(c2.last('joined').playerId, players[1].id);
+  // 對方還在線上時，同暱稱不能搶座位
+  const c3 = fakeConn();
+  const r3 = room.join(c3, { nick: 'P2' });
+  assert.equal(r3.player.nick, 'P22', '在線的人不會被擠掉，新來的自動加數字');
+});
+
+test('離線玩家保留很久（大廳 10 分鐘、遊戲中 1 小時），不會因為鎖螢幕幾十秒就被踢', async () => {
+  const { room, conns, players } = setup(2, {}, { staleMs: 10, lobbyDropMs: 10 * 60 * 1000 });
+  room.disconnect(conns[1]);
+  players[1].lastSeen -= 5 * 60 * 1000;
+  room.tick();
+  assert.equal(room.players.has(players[1].id), true, '大廳離線 5 分鐘仍保留');
+  players[1].lastSeen -= 6 * 60 * 1000;
+  room.tick();
+  assert.equal(room.players.has(players[1].id), false, '大廳離線超過 10 分鐘才移出');
+});
+
+import { bank } from '../server/bank.mjs';
+const idMap = () => { const m = new Map(); for (const l of Object.values(bank)) for (const q of l) m.set(q.id, q); return m; };
+const roundtrip = (room, timing = FAST) => Room.restore(JSON.parse(JSON.stringify(room.serialize())), idMap(), timing);
+
+test('伺服器重啟：房間存檔還原後，玩家用 playerId 重連，分數／鎖定／題目都在，遊戲可以繼續', () => {
+  const { room, conns, players } = setup(3, { quorumMode: 'off', count: 3 });
+  room.settings.count = 3;
+  start(room, conns); readyAll(room, conns);
+  let idx = room.game.idx; let ok = room.game.correctIdx;
+  // 第 1 題：兩個人答，一個人沒答 → 手動揭曉，累積分數
+  room.handle(conns[0], { t: 'lock', idx, choice: ok, elapsedMs: 0 });
+  room.handle(conns[1], { t: 'lock', idx, choice: (ok + 1) % 8, elapsedMs: 0 });
+  room.handle(conns[0], { t: 'forceReveal', idx });
+  room.handle(conns[0], { t: 'next' });
+  readyAll(room, conns);
+  idx = room.game.idx; ok = room.game.correctIdx;
+  room.handle(conns[2], { t: 'lock', idx, choice: ok, elapsedMs: 1000 }); // 第 2 題進行中，只有 P3 鎖定
+  const score0 = players[0].score; assert.ok(score0 > 0);
+
+  const r2 = roundtrip(room); // ← 伺服器重啟
+  assert.equal(r2.phase, 'playing');
+  assert.equal(r2.game.idx, idx);
+  assert.equal(r2.hostId, players[0].id);
+  assert.equal(r2.players.get(players[0].id).score, score0, '分數保留');
+  assert.ok(r2.players.get(players[2].id).lock, '已鎖定的答案保留');
+  assert.equal(r2.players.get(players[0].id).connected, false, '還原後先視為離線');
+  assert.equal(r2.game.correctIdx, ok, '正解索引保留（選項順序一致）');
+
+  // 玩家重連
+  const nc = [fakeConn(), fakeConn(), fakeConn()];
+  nc.forEach((c, i) => assert.equal(r2.join(c, { playerId: players[i].id, nick: players[i].nick }).player.id, players[i].id));
+  assert.ok(nc[0].last('question') && nc[0].last('go'), '重連後補送題目與開播時間');
+  assert.equal(nc[2].last('you').locked, true);
+  assert.equal(r2.hostId, players[0].id);
+  // 繼續玩：其他人鎖定 → 全員鎖定 → 揭曉 → 下一題 → 結束
+  r2.handle(nc[0], { t: 'lock', idx, choice: ok, elapsedMs: 500 });
+  r2.handle(nc[1], { t: 'lock', idx, choice: ok, elapsedMs: 500 });
+  assert.equal(r2.phase, 'reveal');
+  assert.ok(nc[0].last('reveal').rows.find((r) => r.id === players[0].id).total > score0, '還原後分數持續累加');
+  r2.handle(nc[0], { t: 'next' });
+  r2.game.idx; readyAll(r2, nc);
+  const i3 = r2.game.idx;
+  nc.forEach((c) => r2.handle(c, { t: 'lock', idx: i3, choice: 0, elapsedMs: 0 }));
+  r2.handle(nc[0], { t: 'next' });
+  assert.equal(r2.phase, 'final');
+  r2.destroy();
+});
+
+test('還原：揭曉中與最終排行榜階段也能接回', () => {
+  const { room, conns } = setup(2, { quorumMode: 'off' });
+  start(room, conns); readyAll(room, conns);
+  const idx = room.game.idx; const ok = room.game.correctIdx;
+  conns.forEach((c) => room.handle(c, { t: 'lock', idx, choice: ok, elapsedMs: 0 }));
+  assert.equal(room.phase, 'reveal');
+  const r2 = roundtrip(room);
+  assert.equal(r2.phase, 'reveal');
+  const c = fakeConn();
+  r2.join(c, { playerId: [...r2.players.keys()][0], nick: 'x' });
+  assert.ok(c.last('reveal'), '重連後補送揭曉畫面');
+  r2.destroy();
+  room.handle(conns[0], { t: 'end' });
+  const r3 = roundtrip(room);
+  assert.equal(r3.phase, 'final');
+  r3.destroy();
+});
+
+test('還原：題庫更新讓那一題不見 → 安全地回到大廳（不當掉）', () => {
+  const { room, conns } = setup(2);
+  start(room, conns); readyAll(room, conns);
+  const data = JSON.parse(JSON.stringify(room.serialize()));
+  const r2 = Room.restore(data, new Map(), FAST); // 空題庫
+  assert.equal(r2.phase, 'lobby');
+  assert.equal(r2.game, null);
+  assert.equal(r2.players.size, 2);
+  r2.destroy();
+});

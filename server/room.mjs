@@ -11,12 +11,23 @@ export const TIMING = {
   goDelayMs: 1500, // 發出「開播」到真正開播的間隔
   lagMs: 4000, // 硬性截止：作答窗口結束後再多等的延遲容忍
   staleMs: 10000, // 斷線超過這麼久就不算進「鎖定人數」分母
-  lobbyDropMs: 15000, // 大廳中斷線超過這麼久就移出
-  dropMs: 120000, // 遊戲中斷線超過這麼久就移出（保留分數的重連時間）
+  lobbyDropMs: 10 * 60 * 1000, // 大廳中斷線超過這麼久才移出（手機鎖螢幕、切 App 都不該被踢）
+  dropMs: 60 * 60 * 1000, // 遊戲中斷線的玩家保留這麼久（分數、連對都保留）；離線者不會卡住別人（見 staleMs）
   hostReturnMs: 60000, // 房主斷線後這段時間內回來，可以拿回房主
+  restoreGraceMs: 12000, // 伺服器重啟還原後，給大家重連的緩衝（倒數／截止至少再等這麼久）
 };
 
 const newId = () => randomBytes(12).toString('base64url');
+
+/** 打字搜尋用的作品清單（所選題庫的所有作品，不含本題答案資訊） */
+function buildWorks(s) {
+  const wl = [];
+  const seen = new Set();
+  for (const c of s.categories) for (const w of works[c] || []) if (!seen.has(w.k)) { seen.add(w.k); wl.push(w); }
+  return wl;
+}
+
+const PLAYER_KEYS = ['id', 'nick', 'score', 'correct', 'answered', 'totalMs', 'streak', 'eligible', 'spectator', 'ready', 'failed', 'selection', 'lock', 'joinedAt'];
 
 export class Room {
   constructor(code, timing = {}) {
@@ -40,6 +51,12 @@ export class Room {
   join(conn, { playerId, nick }) {
     const id = cleanId(playerId);
     let p = id ? this.players.get(id) : null;
+    if (!p) {
+      // 沒有（或找不到）playerId，但有「同暱稱而且目前離線」的座位 → 視為同一個人回來
+      // （分頁被關掉、手機把網頁殺掉後重新開連結，就能接回原本的分數）
+      const name = cleanNick(nick);
+      if (name) p = [...this.players.values()].find((x) => !x.connected && x.nick.toLowerCase() === name.toLowerCase()) || null;
+    }
     if (p) { // 重連
       if (p.conn && p.conn !== conn) { try { p.conn.kicked = true; p.conn.close(); } catch { /* ignore */ } }
       p.conn = conn; p.connected = true; p.lastSeen = Date.now();
@@ -202,11 +219,7 @@ export class Room {
     for (const c of s.categories) for (const q of bank[c] || []) { catOf.set(q.id, c); pool.push(q); }
     const queue = buildQueue(pool, { kinds: s.kinds, maxDifficulty: s.difficulty, maxPerWork: s.perWork, count: s.count });
     if (queue.length === 0) return this._send(conn, { t: 'error', code: 'EMPTY', msg: '符合條件的題目是 0 首，請放寬設定' });
-    const wl = [];
-    if (s.answerMode === 'typing') {
-      const seen = new Set();
-      for (const c of s.categories) for (const w of works[c] || []) if (!seen.has(w.k)) { seen.add(w.k); wl.push(w); }
-    }
+    const wl = s.answerMode === 'typing' ? buildWorks(s) : [];
     for (const p of this.players.values()) { p.score = 0; p.correct = 0; p.answered = 0; p.totalMs = 0; p.streak = 0; p.spectator = false; }
     this.game = { queue, catOf, idx: 0, total: Math.min(s.count, queue.length), works: wl, q: null };
     this.lastReveal = null; this.lastFinal = null;
@@ -462,6 +475,76 @@ export class Room {
     }
     if (this.phase === 'preload') this._checkBarrier();
     if (this.phase === 'playing') this._checkProgress();
+  }
+
+  // ===== 重啟不斷線：把房間存成 JSON、重啟後還原 =====
+  /** 可 JSON 化的完整房間狀態（不含連線物件與計時器） */
+  serialize() {
+    const g = this.game;
+    return {
+      code: this.code, phase: this.phase, hostId: this.hostId, settings: this.settings, banned: [...this.banned],
+      lastReveal: this.lastReveal, lastFinal: this.lastFinal,
+      players: [...this.players.values()].map((p) => Object.fromEntries(PLAYER_KEYS.map((k) => [k, p[k]]))),
+      game: g && {
+        idx: g.idx, total: g.total, qId: g.q ? g.q.id : null, queueIds: g.queue.map((q) => q.id),
+        catOf: Object.fromEntries([...g.queue, ...(g.q ? [g.q] : [])].map((q) => [q.id, g.catOf.get(q.id)])),
+        choices: g.choices, correctIdx: g.correctIdx, correctKey: g.correctKey, cat: g.cat,
+        startAt: g.startAt, t0: g.t0, goMsg: g.goMsg, qMsg: g.qMsg, quorumEndsAt: g.quorumEndsAt, windowMs: g.windowMs,
+      },
+    };
+  }
+
+  /** 由 serialize() 的資料還原房間；所有玩家先視為離線，等他們的瀏覽器自動重連後接回 */
+  static restore(d, idMap, timing = {}) {
+    const r = new Room(d.code, timing);
+    r.phase = d.phase; r.hostId = d.hostId;
+    r.settings = cleanSettings(d.settings, DEFAULT_SETTINGS);
+    r.banned = new Set(d.banned || []);
+    r.lastReveal = d.lastReveal || null; r.lastFinal = d.lastFinal || null;
+    const now = Date.now();
+    for (const p of d.players || []) {
+      r.players.set(p.id, { ...p, conn: null, connected: false, lastSeen: now, joinedAt: p.joinedAt || now });
+    }
+    const gd = d.game;
+    if (gd) {
+      const q = gd.qId ? idMap.get(gd.qId) : null;
+      const inQuestion = ['preload', 'playing', 'reveal'].includes(d.phase);
+      if (inQuestion && !q) { r.phase = 'lobby'; r.game = null; r.lastReveal = null; } // 題庫已更新、那題不見了：回大廳
+      else {
+        r.game = {
+          queue: (gd.queueIds || []).map((id) => idMap.get(id)).filter(Boolean),
+          catOf: new Map(Object.entries(gd.catOf || {})),
+          idx: gd.idx, total: gd.total, q, works: r.settings.answerMode === 'typing' ? buildWorks(r.settings) : [],
+          choices: gd.choices, correctIdx: gd.correctIdx, correctKey: gd.correctKey, cat: gd.cat,
+          startAt: gd.startAt, t0: gd.t0, goMsg: gd.goMsg, qMsg: gd.qMsg, quorumEndsAt: gd.quorumEndsAt, windowMs: gd.windowMs,
+        };
+      }
+    }
+    if (!r.game && r.phase !== 'lobby' && r.phase !== 'final') r.phase = 'lobby';
+    r._rearm();
+    return r;
+  }
+
+  /** 還原後重新排計時器。給大家一點重連的緩衝時間（至少 restoreGraceMs），避免剛重啟就被判時間到 */
+  _rearm() {
+    const g = this.game;
+    const now = Date.now();
+    const grace = this.T.restoreGraceMs;
+    this.lastActive = now;
+    if (this.phase === 'preload') {
+      this.timers.preload = setTimeout(() => this._go(), this.T.preloadMs);
+    } else if (this.phase === 'playing') {
+      const hard = Math.max(g.startAt + g.windowMs + this.T.lagMs - now, grace);
+      this.timers.hard = setTimeout(() => this._reveal('time'), hard);
+      if (g.quorumEndsAt) {
+        g.quorumEndsAt = Math.max(g.quorumEndsAt, now + grace);
+        this.timers.quorum = setTimeout(() => this._reveal('quorum'), g.quorumEndsAt - now);
+      }
+    } else if (this.phase === 'reveal' && this.settings.autoNext > 0) {
+      const at = Math.max((this.lastReveal && this.lastReveal.nextAt) || 0, now + 5000);
+      if (this.lastReveal) this.lastReveal.nextAt = at;
+      this.timers.next = setTimeout(() => this._nextQuestion(), at - now);
+    }
   }
 
   get connectedCount() {

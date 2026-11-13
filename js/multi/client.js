@@ -43,11 +43,13 @@ function connect(pending) {
   showMsg('m-msg', '連線中…');
   S.net = new Net(wsUrl(), {
     onOpen: () => {
+      $('netbar').classList.add('hidden');
       showMsg('m-msg', '');
       // 重連時用 session 的 playerId 回座；第一次則送 create / join
       const msg = S.code && (S.pid || S.role === 'screen') ? { t: 'join', code: S.code, playerId: S.pid, nick: S.nick, role: S.role } : S.pending;
       if (msg) S.net.send(msg);
     },
+    onClose: () => { if (S.code && S.net) $('netbar').classList.remove('hidden'); }, // 已在房間裡斷線：顯示「重新連線中」
     onFail: () => showMsg('m-msg', '連不上多人伺服器。多人模式需要有 Node 伺服器（請見 README），或確認網址與網路。'),
     onMessage: handle,
   });
@@ -56,6 +58,7 @@ function connect(pending) {
 
 function leaveRoom(silent = false) {
   if (S.net) { S.net.send({ t: 'leave' }); S.net.close(); }
+  $('netbar').classList.add('hidden');
   S.net = null; S.code = null; S.pid = null; S.room = null; S.q = null; S.phase = 'lobby'; S.role = null;
   clearTimeout(S.goTimer); clearTimeout(S.activateTimer); clearInterval(S.tickTimer);
   S.tickTimer = null;
@@ -91,6 +94,7 @@ function onError(m) {
   if (['NO_ROOM', 'NICK', 'FULL', 'STARTED', 'BANNED', 'BUSY'].includes(m.code)) {
     // 加入失敗：回到加入畫面顯示原因
     const had = S.code;
+    $('netbar').classList.add('hidden');
     if (S.net) S.net.close();
     S.net = null; S.code = null; S.pid = null;
     if (had) clearSession();
@@ -167,8 +171,15 @@ function showGame() {
 }
 
 function onQuestion(m) {
+  // 斷線重連：伺服器會把「目前這題」再送一次。同一題就只更新資料，不重置選擇、不重載影片、不重置計時
+  if (S.q && S.q.idx === m.idx && S.phase !== 'lobby' && S.phase !== 'final') {
+    S.q = m;
+    showGame();
+    renderLocks();
+    return;
+  }
   clearTimeout(S.goTimer); clearTimeout(S.activateTimer);
-  S.q = m; S.phase = 'preload'; S.windowMs = (m.duration + m.graceSecs) * 1000;
+  S.q = m; S.go = null; S.phase = 'preload'; S.windowMs = (m.duration + m.graceSecs) * 1000;
   S.sel = -1; S.selKey = null; S.selLabel = ''; S.locked = false; S.canAnswer = false;
   S.localT0 = null; S.t0Server = null; S.quorumEndsAt = null; S.nextAt = null; S.reveal = null;
   showGame();
@@ -212,7 +223,7 @@ function ensurePlayer() {
       ui.setPlaying(true);
     },
     onClipEnd: () => { ui.setPlaying(false); },
-    onProgress: (elapsed, duration) => { if (S.phase === 'playing') ui.setProgress(elapsed, duration, false); },
+    onProgress: (elapsed, duration) => { if (S.phase === 'playing') ui.setProgress(elapsed, duration); },
     onError: () => {
       if (S.q && (S.phase === 'preload' || S.phase === 'playing')) {
         S.net.send({ t: 'playError', idx: S.q.idx });
@@ -231,6 +242,7 @@ function sendReady() { if (S.q) S.net.send({ t: 'ready', idx: S.q.idx }); $('cov
 
 /** 影片預載好了：已取得播放權限 → 直接 ready；否則先嘗試自動啟用，不行再請使用者點一下 */
 function onCued() {
+  if (S.q && S.phase === 'playing' && S.go) return playFromGo(); // 播放中才重新整理／重連回來
   if (!S.q || S.phase !== 'preload') return;
   if (S.activated) return sendReady();
   S.player.activate();
@@ -251,10 +263,22 @@ function onGo(m) {
   S.phase = 'playing'; S.canAnswer = !isScreen(); $('cover').classList.remove('tap');
   setMainButton();
   $('btn-mforce').classList.remove('hidden'); // 只有房主看得到（.host-only）
-  if (needsVideo() && S.player) {
-    const delay = Math.max(0, S.net.toLocal(m.startAt) - Date.now());
-    clearTimeout(S.goTimer);
-    S.goTimer = setTimeout(() => S.player.play(), delay);
+  S.go = m;
+  if (needsVideo() && S.player) playFromGo();
+}
+
+/** 依伺服器的開播時間點播放：還沒到就排程；已經過了（重連／重新整理回來）就從「應該播到的位置」接著播 */
+function playFromGo() {
+  const m = S.go;
+  if (!m || !S.q || m.idx !== S.q.idx || !S.player || !S.player.clip) return; // 影片還沒預載好 → onCued 會再呼叫
+  const lateMs = S.net.now - m.startAt; // > 0 = 已經開播一段時間了
+  clearTimeout(S.goTimer);
+  if (lateMs > 800) {
+    S.localT0 = Date.now() - lateMs; // 作答經過時間與其他人一致
+    if (lateMs < S.q.duration * 1000) S.player.play(lateMs / 1000);
+    else { ui.setPlaying(false); $('cover-text').textContent = '⏱ 音樂已經播完，可以直接作答'; }
+  } else {
+    S.goTimer = setTimeout(() => S.player.play(), Math.max(0, S.net.toLocal(m.startAt) - Date.now()));
   }
 }
 
@@ -415,7 +439,7 @@ function tick() {
     if (elapsed != null) {
       const left = (S.windowMs - elapsed) / 1000;
       $('m-clock').textContent = left > 0 ? `⏱ 作答剩 ${Math.ceil(left)} 秒` : '⏱ 時間到';
-      if (!own) { ui.setProgress(elapsed / 1000, S.q.duration, false); }
+      if (!own) { ui.setProgress(elapsed / 1000, S.q.duration); }
       if (own && elapsed / 1000 > S.q.duration) $('cover-text').textContent = left > 0 ? `⏱ 音樂結束，還能作答 ${Math.ceil(left)} 秒` : '⏱ 時間到，等待揭曉…';
     }
     if (S.quorumEndsAt) {

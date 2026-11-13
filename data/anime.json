@@ -69877,26 +69877,6 @@
   "startSource": "peak"
  },
  {
-  "id": "a-dc8685c9",
-  "workId": "w218743",
-  "kind": "INSERT",
-  "ytId": "r7JueLGpe3Y",
-  "start": 0,
-  "mid": 29,
-  "prompt": "這首歌來自哪部動畫？",
-  "answer": {
-   "title": "Star Light Zone",
-   "work": "異世界歸來的舅舅（異世界おじさん）",
-   "artist": "メイベル",
-   "composer": "中村正人"
-  },
-  "year": 2022,
-  "difficulty": 2,
-  "video": "Sth1 Star Light Zone Mega Drive Version",
-  "channel": "Masato Nakamura - Topic",
-  "startSource": "heuristic"
- },
- {
   "id": "a-58b6a25a",
   "workId": "w218743",
   "kind": "INSERT",

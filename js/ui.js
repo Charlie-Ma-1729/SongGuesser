@@ -43,6 +43,7 @@ export function resetProgress(show) {
 export function setProgress(elapsed, duration, auto) {
   $('timebar-fill').style.width = `${Math.min(100, (elapsed / duration) * 100)}%`;
   const remain = duration - elapsed;
+  if (auto === undefined) return; // 多人模式的倒數由 multi/client.js 自己控制，這裡不能去清掉它（否則會每 150ms 閃一次）
   setCountdown(auto && remain > 0 && remain <= 5 ? Math.max(1, Math.ceil(remain)) : null);
 }
 

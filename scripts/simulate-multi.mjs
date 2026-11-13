@@ -6,7 +6,7 @@ import { listen } from '../server/server.mjs';
 
 const arg = (k, d) => { const i = process.argv.indexOf('--' + k); return i > 0 ? process.argv[i + 1] : d; };
 const N = Number(arg('bots', 6));
-const Q = Number(arg('questions', 3));
+const Q = Math.max(3, Number(arg('questions', 3))); // 伺服器最少 3 題
 const MODE = arg('mode', 'choice');
 const SCORE = arg('score', 'speed');
 let URL_ = arg('url', '');
@@ -72,7 +72,7 @@ async function main() {
   for (const b of bots) b.send({ t: 'ping', c: Date.now() });
   await sleep(200);
 
-  const host = bots[0];
+  const host = bots[0]; globalThis.__host = host;
   host.send({ t: 'create', nick: host.name });
   const joined = await host.waitFor((m) => m.t === 'joined');
   log('房間', joined.code);
@@ -108,4 +108,4 @@ async function main() {
   process.exit(0);
 }
 
-main().catch((e) => { console.error('❌', e.message); process.exit(1); });
+main().catch((e) => { console.error('❌', e.message, globalThis.__host ? globalThis.__host.msgs.slice(-4).map((m) => m.t + (m.idx ?? '')).join(',') : ''); process.exit(1); });

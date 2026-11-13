@@ -296,3 +296,6 @@ body.multi.is-screen #btn-main { display: none; }
 .mrow .nm small { display: inline-block; max-width: 60%; vertical-align: bottom; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 #mtype-list li { min-width: 0; overflow-wrap: anywhere; }
 .pchip { max-width: 100%; overflow-wrap: anywhere; }
+
+/* 連線中斷提示（伺服器重啟、網路閃斷時） */
+.netbar { position: fixed; top: 0; left: 0; right: 0; z-index: 100; background: #b45309; color: #fff; text-align: center; padding: 8px 12px; font-size: 15px; box-shadow: 0 2px 12px rgba(0,0,0,.4); }
