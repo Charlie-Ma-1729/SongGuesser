@@ -2,7 +2,7 @@
 // 用法：node scripts/build.mjs
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
-import { parseSeeds, ROOT, CACHE_DIR, CAT } from './lib.mjs';
+import { parseSeeds, ROOT, CACHE_DIR, CAT, norm } from './lib.mjs';
 
 const cacheFile = path.join(CACHE_DIR, 'resolved.json');
 const cache = existsSync(cacheFile) ? JSON.parse(readFileSync(cacheFile, 'utf8')) : {};
@@ -30,7 +30,11 @@ for (const w of works) {
     const vid = ov.ytId || r.ytId;
     const dupKey = w.workId + '|' + vid;
     if (seenVideo.has(dupKey)) continue;
+    // 同一部作品裡「同類型、同歌名」（只是不同來源的影片）也只留第一首
+    const dupSong = w.workId + '|' + s.kind + '|' + norm(s.title);
+    if (seenVideo.has(dupSong)) continue;
     seenVideo.add(dupKey);
+    seenVideo.add(dupSong);
     const cr = credits[s.key] || {};
     const pick = (a, b) => a || b || undefined;
     out.push({

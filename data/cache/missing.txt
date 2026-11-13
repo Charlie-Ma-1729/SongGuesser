@@ -47,6 +47,7 @@ Code Geass 反叛的魯魯修 / INSERT 美しき獣たちのための
 靈魂食者 / OP カウンターアイデンティティ
 靈魂食者 / OP 愛がほしいよ
 靈魂食者 / ED ノーザンライツ
+蟲師 / ED 露を吸う群れ
 武士道Champloo / ED Who's Theme
 遊戲王 / ED Rakuen
 幽遊白書 / ED Homework ga Owaranai
@@ -79,6 +80,8 @@ Free! / ED Hosoya), Aiichirou Nitori (Kouki Miyata), Momotarou Mikoshiba (Kenich
 鏈鋸人 / ED 刃渡り2億センチ
 鏈鋸人 / ED 渇きを錆びて
 國王排名 / OP 裸の勇者
+黑礁 / OP Red Fraction IO Drive mix
+黑礁 / ED When Johnny Comes Marching Home
 加速世界 / INSERT アラウド
 魔法公主 / OST アシタカせっ記
 魔法公主 / OP アシタカせっき
@@ -113,6 +116,8 @@ Re:CREATORS / INSERT ABYSSwaltz
 搖曳露營△ / ED 葉っぱの手紙
 工作細胞 / OP Dance in the Game
 水果籃子 / ED Serenade (セレナーデ) Pf Solo Ver.
+無職轉生 / ED ムスビメ
+無職轉生 / ED 花咲み
 怪獸8號 / INSERT Scream feat. (sic)boy
 擅長捉弄人的高木同學 / INSERT RUNNER
 擅長捉弄人的高木同學 / ED 天体観測
@@ -151,8 +156,6 @@ ReLIFE 重返17歲 / ED There will be love there -愛のある場所-
 ReLIFE 重返17歲 / ED イージュー★ライダー
 Golden Time / ED Sweet & Sweet CHERRY
 Golden Time / INSERT 地獄の豚バラ炒め 〜the seven deadly sins〜
-黑礁 / OP Red Fraction IO Drive mix
-黑礁 / ED When Johnny Comes Marching Home
 阿宅的戀愛太難 / ED キミの隣
 租借女友 / OP ヒミツ恋ゴコロ
 租借女友 / INSERT Favorite Lover
@@ -173,7 +176,6 @@ Golden Time / INSERT 地獄の豚バラ炒め 〜the seven deadly sins〜
 碧藍之海 / ED Konpeki no Alpine ~Kaya Mizuki ver.~
 碧藍之海 / ED 裸でどつきあい
 魔王學院的不適任者 / OP 正解不正解 feat.アノス・ヴォルディゴード
-蟲師 / ED 露を吸う群れ
 orange 橘色奇蹟 / INSERT poison smile
 七人魔法使 / ED SHaVaDaVa in AMAZING♪
 七人魔法使 / ED TRINITY×SEVENTH＋HEAVEN
@@ -201,8 +203,6 @@ Trigun / ED スターダスト
 異世界魔王與召喚少女的奴隸魔術 / INSERT 頑張っている君だから
 K / INSERT -フレイム・オブ・レッド-
 制約之絆 / OP LAY YOUR HANDS ON ME
-無職轉生 / ED ムスビメ
-無職轉生 / ED 花咲み
 Hellsing / ED Shine
 我的妹妹是黃漫老師 / ED 夏色恋花火
 我的妹妹是黃漫老師 / ED わたしの幸せ 〜Falling In Love With You〜
@@ -262,6 +262,7 @@ Vivy -Fluorite Eye's Song- / ED Flourite Eye’s Song
 怕痛的我，把防禦力點滿就對了。 / OP この盾に、隠れます。
 第一次的辣妹 / ED GAL的LOVE（ギャルチックラブ）
 Kiss×sis / ED Futari
+Kiss×sis / OP Futari no Honey Boy (ふたりのハニーボーイ）
 Kiss×sis / ED ふたり
 刀語 / ED Kotonoha-Ballad-
 我的女友與青梅竹馬的修羅場 / OP Girlish Lover
@@ -397,7 +398,6 @@ The Qwaser of Stigmata / ED Mimei no Inori
 The Qwaser of Stigmata / ED 未明の祈り
 The Qwaser of Stigmata / INSERT 正義のKISSで勝負して
 The Qwaser of Stigmata / OP 螺旋、或いは聖なる欲望。
-Kiss x Sis / OP Futari no Honey Boy (ふたりのハニーボーイ）
 彼方的阿斯特拉 / INSERT Star of Hope」 / 「アストラ号の冒険
 校园迷糊大王 / OP 海の男はよ
 校园迷糊大王 / ED Onna no Ko Otoko no Ko

@@ -48,8 +48,8 @@ npm start                  # http://localhost:6713 （PORT、HOST 可用環境�
 
 ### 部署（systemd + 反向代理）
 
-- `deploy/songguesser.service`：systemd 範例（內有安裝步驟；`systemctl reload` 會熱重新載入題庫，`restart` 會清掉所有房間）
-- `deploy/nginx.conf.example`：nginx 範例（`/ws` 要開 WebSocket Upgrade；也附 Caddy 兩行版）
+- `deploy/SongGuesser.service`：systemd 服務檔（內有安裝步驟；`systemctl reload SongGuesser` 會熱重新載入題庫，`restart` 會清掉所有房間）
+- `deploy/song.imatw.org.conf`：nginx 設定（80 port 反向代理到 127.0.0.1:6713，`/ws` 開 WebSocket；再用 `certbot --nginx` 加上 HTTPS）
 - 公開上線一定要 HTTPS（瀏覽器在 https 網頁上只允許 `wss://`）
 - `GET /healthz` 回傳房間數、人數、題數，可給監控用
 - 只靜態提供 `index.html`、`css/`、`js/`、`data/*.json`；`data/cache`、`data/seeds`、`scripts` 不會對外

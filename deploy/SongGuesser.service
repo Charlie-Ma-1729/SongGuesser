@@ -1,0 +1,39 @@
+# SongGuesser 多人伺服器的 systemd 服務檔
+# 路徑與使用者是依照 charliema 這台主機寫的：
+#   專案：/home/charliema/文件/github/SongGuesser    node：/usr/local/bin/node
+#
+# 安裝：
+#   sudo cp deploy/SongGuesser.service /etc/systemd/system/SongGuesser.service
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now SongGuesser
+# 常用：
+#   systemctl status SongGuesser        看狀態
+#   journalctl -u SongGuesser -f        看即時紀錄
+#   sudo systemctl reload SongGuesser   只重新載入題庫（不清房間）
+#   sudo systemctl restart SongGuesser  更新程式後用（會清掉目前所有房間）
+[Unit]
+Description=SongGuesser multiplayer server
+After=network.target
+
+[Service]
+Type=simple
+User=charliema
+WorkingDirectory=/home/charliema/文件/github/SongGuesser
+ExecStart=/usr/local/bin/node server/server.mjs
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=on-failure
+RestartSec=2
+
+# 只聽本機 6713，對外由 nginx 的 80/443 代理（不直通 port）
+Environment=HOST=127.0.0.1
+Environment=PORT=6713
+Environment=MAX_ROOMS=200
+# 網頁和伺服器同一個網域（https://song.imatw.org），不需要 ALLOWED_ORIGINS。
+# 之後若把網頁放到 GitHub Pages 才需要：
+# Environment=ALLOWED_ORIGINS=https://你的帳號.github.io
+
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

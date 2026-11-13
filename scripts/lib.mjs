@@ -28,6 +28,7 @@ export function parseSeeds({ exclude = [] } = {}) {
   const files = readdirSync(SEED_DIR).filter((f) => f.endsWith('.txt') && !exclude.includes(f)).sort();
   const works = [];
   const seenWork = new Map();
+  const nameMap = loadNames(); // 譯名對照也參與「同一部作品」的合併判斷
   let cur = null;
   let curHdr = null;
   for (const f of files) {
@@ -40,7 +41,8 @@ export function parseSeeds({ exclude = [] } = {}) {
         const work = h[1].trim();
         curHdr = work; // 歌曲 key 一律用「檔案裡寫的標題」，快取才不會失效
         // 中文名相同（只差日文原名寫法、季數）視為同一部作品
-        const zhKey = work.split('（')[0].trim().toLowerCase();
+        const hm = work.match(/^(.*?)（(.*)）$/);
+        const zhKey = ((hm && nameMap.get(norm(hm[2]))) || work.split('（')[0]).trim().toLowerCase();
         if (seenWork.has(zhKey)) {
           cur = seenWork.get(zhKey);
         } else {
@@ -101,18 +103,23 @@ export function parseSeeds({ exclude = [] } = {}) {
   return works;
 }
 
-/** data/seeds/names.tsv：用日文原名對應「台灣譯名」，只改顯示用的中文名（不影響題目 ID） */
-function applyNames(works) {
-  const f = path.join(SEED_DIR, 'names.tsv');
-  let text;
-  try { text = readFileSync(f, 'utf8'); } catch { return; }
+/** 讀 data/seeds/names.tsv → Map(正規化後的日文原名 → 台灣譯名) */
+function loadNames() {
   const map = new Map();
+  let text;
+  try { text = readFileSync(path.join(SEED_DIR, 'names.tsv'), 'utf8'); } catch { return map; }
   for (const raw of text.split(/\r?\n/)) {
     const line = raw.trim();
     if (!line || line.startsWith('#')) continue;
     const [ja, zh] = line.split('|').map((x) => x.trim());
     if (ja && zh) map.set(norm(ja), zh);
   }
+  return map;
+}
+
+/** names.tsv：日文原名 → 台灣譯名。改顯示用的中文名，也用來把「不同寫法的同一部作品」合併成一部 */
+function applyNames(works) {
+  const map = loadNames();
   for (const w of works) {
     const zh = map.get(norm(w.ja));
     if (zh) w.zh = zh;
