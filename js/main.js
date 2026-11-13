@@ -1,6 +1,8 @@
 import { CATEGORIES, loadBank, buildQueue, buildChoices } from './questions.js';
 import { Game } from './game.js';
 import * as ui from './ui.js';
+import { getSharedPlayer } from './player.js';
+import { initMulti } from './multi/client.js';
 
 const $ = (id) => document.getElementById(id);
 let bank = {};
@@ -23,7 +25,8 @@ function setVolume(v, save = true) {
     $(id).value = volume;
     $(id + '-out').textContent = volume === 0 ? '靜音' : volume;
   }
-  if (game) game.player.setVolume(volume);
+  const sp = getSharedPlayer();
+  if (sp) sp.setVolume(volume);
   if (save) { try { localStorage.setItem(VOL_KEY, String(volume)); } catch { /* ignore */ } }
 }
 for (const id of ['vol-setup', 'vol-game']) {
@@ -119,7 +122,8 @@ document.addEventListener('click', (e) => {
 });
 
 document.addEventListener('keydown', (e) => {
-  if (!$('screen-game').classList.contains('active') || !game) return;
+  const multi = document.body.classList.contains('multi'); // 多人模式的按鍵由 multi/client.js 處理（這裡只管音量）
+  if (!$('screen-game').classList.contains('active') || (!game && !multi)) return;
   if (e.target.tagName === 'SELECT') return;
   if (e.target.tagName === 'INPUT') {
     // 音量滑桿聚焦時，空白鍵／方向鍵仍照常運作（方向鍵由下方統一處理）
@@ -129,11 +133,18 @@ document.addEventListener('keydown', (e) => {
   if (e.code === 'ArrowUp') { e.preventDefault(); setVolume(volume + 5); }
   else if (e.code === 'ArrowDown') { e.preventDefault(); setVolume(volume - 5); }
   else if (e.code === 'KeyM') setVolume(volume === 0 ? lastNonZero : 0);
+  else if (multi) return;
   else if (e.code === 'Space') { e.preventDefault(); game.press(); }
   else if (e.code === 'KeyR') game.replay();
   else if (e.code === 'KeyX') game.flagCurrent();
   else if (/^(Digit|Numpad)[1-8]$/.test(e.code)) game.pick(Number(e.code.slice(-1)) - 1);
   else if (e.code === 'ArrowRight') game.skip();
+});
+
+// 多人模式（需要 Node 伺服器；單人完全不受影響）
+initMulti({
+  getVolume: () => volume,
+  stopSingle: () => { if (game) game.quit(); },
 });
 
 init();

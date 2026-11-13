@@ -14,6 +14,21 @@ function loadApi() {
   return apiPromise;
 }
 
+/**
+ * 頁面上只有一個 #yt 播放器：單人 Game 與多人 client 共用同一個，各自換上自己的事件處理函式。
+ */
+let shared = null;
+export function sharedPlayer(handlers) {
+  if (!shared) {
+    shared = new ClipPlayer('yt', handlers);
+    shared.initP = shared.init();
+  } else {
+    shared.h = handlers;
+  }
+  return shared;
+}
+export const getSharedPlayer = () => shared;
+
 export class ClipPlayer {
   /**
    * @param {string} elId 放播放器的元素 id
@@ -67,10 +82,35 @@ export class ClipPlayer {
 
   /** @param {{ytId:string,start:number,duration:number}} clip duration=0 表示不限 */
   load(clip) {
+    this._activating = false;
     this.clip = clip;
     this.free = !clip.duration;
     this._armStuck();
     this.yt.loadVideoById({ videoId: clip.ytId, startSeconds: clip.start });
+  }
+
+  /** 多人模式：只預載、不播放（載好會呼叫 onCued） */
+  cue(clip) {
+    this.clip = clip;
+    this.free = !clip.duration;
+    clearTimeout(this.stuckTimer);
+    this._activating = false;
+    this.yt.cueVideoById({ videoId: clip.ytId, startSeconds: clip.start });
+  }
+
+  /** 多人模式：在「使用者手勢」內呼叫——先靜音播放再暫停，之後瀏覽器才允許由程式（計時器）開播 */
+  activate() {
+    if (!this.clip) return;
+    this._activating = true;
+    try { this.yt.mute(); this.yt.playVideo(); } catch { /* ignore */ }
+  }
+
+  /** 多人模式：到了開播時間點，從預載的位置開始播 */
+  play() {
+    if (!this.clip) return;
+    this.free = !this.clip.duration;
+    this._armStuck();
+    try { this.yt.seekTo(this.clip.start, true); this.yt.playVideo(); } catch { /* ignore */ }
   }
 
   replay() {
@@ -123,6 +163,17 @@ export class ClipPlayer {
   }
 
   _onState(s) {
+    if (s === YT.PlayerState.CUED) {
+      if (this.h.onCued) this.h.onCued();
+      return;
+    }
+    if (s === YT.PlayerState.PLAYING && this._activating) { // 啟用手勢用的「播一下再停」，不算真正開播
+      this._activating = false;
+      try { this.yt.pauseVideo(); if (this.clip) this.yt.seekTo(this.clip.start, true); } catch { /* ignore */ }
+      if (this.volume != null) this.setVolume(this.volume);
+      if (this.h.onActivated) this.h.onActivated();
+      return;
+    }
     if (s === YT.PlayerState.PLAYING) {
       clearTimeout(this.stuckTimer);
       if (this.volume != null) this.setVolume(this.volume);

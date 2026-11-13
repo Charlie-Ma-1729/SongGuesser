@@ -1,5 +1,5 @@
 // 遊戲狀態機：loading → playing → (ended) → revealed → 下一題
-import { ClipPlayer } from './player.js';
+import { sharedPlayer } from './player.js';
 import * as ui from './ui.js';
 import { flagBad } from './questions.js';
 
@@ -11,20 +11,22 @@ export class Game {
     this.shown = 0;
     this.total = 0;
     this.duration = 15;
-    this.player = new ClipPlayer('yt', {
+    this.handlers = {
       onPlaying: () => this._onPlaying(),
       onClipEnd: () => this._onClipEnd(),
       onError: (code) => this._onError(code),
       onStuck: () => this._onStuck(),
       onProgress: (elapsed, duration) => ui.setProgress(elapsed, duration, this.auto && this.state === 'playing'),
-    });
+    };
+    this.player = sharedPlayer(this.handlers); // 與多人模式共用同一個 YouTube 播放器
     this.auto = false;
-    if (initialVolume != null) this.player.volume = initialVolume;
-    this.ready = this.player.init();
+    if (initialVolume != null && this.player.volume == null) this.player.volume = initialVolume;
+    this.ready = this.player.initP;
   }
 
   async start(queue, total, duration, auto = false, fromMiddle = false, makeChoices = null) {
     await this.ready;
+    this.player.h = this.handlers; // 可能剛從多人模式回來，換回單人的事件處理
     this.makeChoices = makeChoices; // (question) => 選項陣列 | null；null/未提供 = 不出選擇題
     this.queue = queue.slice();
     this.total = Math.min(total, queue.length);

@@ -1,0 +1,39 @@
+# systemd 範例：把猜歌大賽多人伺服器當成常駐服務
+# 安裝：
+#   1. 把專案放到伺服器，例如 /opt/songguesser，並在該目錄執行一次  npm ci --omit=dev
+#   2. 依實際情況修改下面的 User、WorkingDirectory、ExecStart（node 的路徑用 `which node` 查）、環境變數
+#   3. sudo cp deploy/songguesser.service /etc/systemd/system/
+#      sudo systemctl daemon-reload
+#      sudo systemctl enable --now songguesser
+#   4. 看紀錄：journalctl -u songguesser -f
+#   5. 更新題庫（data/*.json 有變）後不用重啟：sudo systemctl reload songguesser（會送 SIGHUP 重新載入題庫）
+#      更新程式碼則需要：sudo systemctl restart songguesser（注意：重啟會清掉目前所有房間）
+[Unit]
+Description=SongGuesser multiplayer server
+After=network.target
+
+[Service]
+Type=simple
+User=songguesser
+WorkingDirectory=/opt/songguesser
+ExecStart=/usr/bin/node server/server.mjs
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=on-failure
+RestartSec=2
+
+# 只聽本機，由 nginx／Caddy 對外（要直接對外請改成 0.0.0.0）
+Environment=HOST=127.0.0.1
+Environment=PORT=6713
+# 若前端放在 GitHub Pages（網頁與伺服器不同網域），把 Pages 網址加進來，逗號分隔：
+# Environment=ALLOWED_ORIGINS=https://yourname.github.io
+Environment=MAX_ROOMS=200
+
+# 基本加固
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadOnlyPaths=/opt/songguesser
+
+[Install]
+WantedBy=multi-user.target

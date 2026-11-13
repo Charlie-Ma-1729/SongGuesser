@@ -1,0 +1,32 @@
+# nginx 反向代理範例（含 WebSocket）。HTTPS 憑證請用 certbot 等工具處理。
+# 玩家用瀏覽器開 https://songguesser.example.com/ 就能玩多人；單人模式照樣可以放 GitHub Pages。
+server {
+    listen 443 ssl http2;
+    server_name songguesser.example.com;
+
+    ssl_certificate     /etc/letsencrypt/live/songguesser.example.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/songguesser.example.com/privkey.pem;
+
+    # WebSocket（多人連線）
+    location /ws {
+        proxy_pass http://127.0.0.1:6713;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+        proxy_set_header Host $host;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_read_timeout 120s;   # 伺服器每 20 秒送一次心跳，不會被誤判閒置
+    }
+
+    # 網頁與題庫
+    location / {
+        proxy_pass http://127.0.0.1:6713;
+        proxy_set_header Host $host;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    }
+}
+
+# 想用 Caddy 的話只要兩行（自動 HTTPS、自動支援 WebSocket）：
+#   songguesser.example.com {
+#       reverse_proxy 127.0.0.1:6713
+#   }

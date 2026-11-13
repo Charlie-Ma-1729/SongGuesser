@@ -1,0 +1,16 @@
+{
+  "name": "songguesser",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "猜歌大賽：單人（純靜態）與多人（Node 伺服器）",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server/server.mjs",
+    "test": "node --test test/*.test.mjs",
+    "simulate": "node scripts/simulate-multi.mjs"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

@@ -90,7 +90,81 @@
     </section>
 
     <button id="btn-start" class="big primary" disabled>載入題庫中…</button>
+    <button id="btn-multi" class="big ghost multi-entry">👥 多人模式（開房間邀請朋友）</button>
     <p class="tip">操作：<kbd>空白鍵</kbd> 揭曉／下一題　<kbd>R</kbd> 重播　<kbd>→</kbd> 跳過　<kbd>1</kbd>–<kbd>8</kbd> 標記選項（選擇題模式）　<kbd>↑</kbd><kbd>↓</kbd> 音量　<kbd>M</kbd> 靜音　<kbd>X</kbd> 回報問題（開頭不是音樂時用）</p>
+  </main>
+
+  <!-- 多人：加入／建立 -->
+  <main id="screen-mjoin" class="screen">
+    <h1>👥 多人模式</h1>
+    <p class="sub">開房間邀請朋友，或輸入代碼加入。大家各自作答，最後比分數！</p>
+    <section class="card">
+      <label>你的暱稱
+        <input id="m-nick" maxlength="12" placeholder="最多 12 個字" autocomplete="off">
+      </label>
+    </section>
+    <div class="cols2">
+      <section class="card">
+        <h2>建立房間</h2>
+        <p class="note">你會成為房主，可以決定規則。</p>
+        <button id="m-create" class="big primary">建立房間</button>
+      </section>
+      <section class="card">
+        <h2>加入房間</h2>
+        <label>房間代碼
+          <input id="m-code" class="code-input" maxlength="4" placeholder="AB3K" autocapitalize="characters" autocomplete="off" spellcheck="false">
+        </label>
+        <button id="m-join" class="big primary">加入</button>
+        <label class="check"><input type="checkbox" id="m-asscreen"> 作為「主畫面」（不參賽，負責播音樂給大家看）</label>
+      </section>
+    </div>
+    <p id="m-msg" class="toast warn"></p>
+    <button id="m-back" class="ghost">← 回單人模式</button>
+  </main>
+
+  <!-- 多人：大廳 -->
+  <main id="screen-mlobby" class="screen">
+    <h1>房間 <span id="l-code" class="code">----</span></h1>
+    <div class="row">
+      <button id="l-copy" class="ghost">📋 複製邀請連結</button>
+      <button id="l-screen" class="ghost">🖥 開啟主畫面</button>
+      <button id="l-leave" class="ghost">離開房間</button>
+    </div>
+    <section class="card">
+      <h2>玩家 <span id="l-count"></span></h2>
+      <div id="l-players" class="chips"></div>
+    </section>
+    <section class="card" id="l-settings">
+      <h2>遊戲規則 <span id="l-lockhint" class="note"></span></h2>
+      <div id="f-categories" class="chips"></div>
+      <div id="f-kinds" class="chips kinds">
+        <label class="chip"><input type="checkbox" value="OP"> OP 片頭曲</label>
+        <label class="chip"><input type="checkbox" value="ED"> ED 片尾曲</label>
+        <label class="chip"><input type="checkbox" value="INSERT"> 插入曲</label>
+        <label class="chip"><input type="checkbox" value="OST"> OST 配樂（純音樂）</label>
+        <label class="chip"><input type="checkbox" value="SONG"> 🎬 電影歌曲（有人聲）</label>
+      </div>
+      <div class="grid">
+        <label>題數<select data-k="count"><option>5</option><option>10</option><option>15</option><option>20</option><option>30</option><option>50</option></select></label>
+        <label>每題播放長度<select data-k="duration"><option value="8">8 秒</option><option value="12">12 秒</option><option value="15">15 秒</option><option value="20">20 秒</option><option value="30">30 秒</option><option value="45">45 秒</option><option value="60">60 秒</option></select></label>
+        <label>音樂結束後還能作答<select data-k="graceSecs"><option value="0">不行（播完就截止）</option><option value="3">3 秒</option><option value="5">5 秒</option><option value="10">10 秒</option><option value="15">15 秒</option></select></label>
+        <label>作答方式<select data-k="answerMode"><option value="choice">8 選 1</option><option value="typing">打字搜尋（較難）</option></select></label>
+        <label>播放方式<select data-k="playMode"><option value="own">各自播放（每人自己的裝置）</option><option value="screen">主畫面播放（手機只作答）</option></select></label>
+        <label>起播位置<select data-k="fromMiddle"><option value="false">從頭播放</option><option value="true">從中間播放（接近高潮處）</option></select></label>
+        <label>難度<select data-k="difficulty"><option value="1">簡單（大家都聽過）</option><option value="2">普通</option><option value="3">困難（含冷門）</option></select></label>
+        <label>同一部作品最多<select data-k="perWork"><option value="1">1 首</option><option value="2">2 首</option><option value="3">3 首</option><option value="99">不限</option></select></label>
+        <label>幾位玩家鎖定後倒數<select data-k="quorumMode"><option value="half">過半玩家</option><option value="all">全員</option><option value="n">指定人數</option><option value="off">不倒數（等全員／時間到）</option></select></label>
+        <label>指定人數<select data-k="quorumN"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>8</option><option>10</option></select></label>
+        <label>達標後倒數<select data-k="quorumSecs"><option value="5">5 秒</option><option value="10">10 秒</option><option value="15">15 秒</option><option value="20">20 秒</option><option value="30">30 秒</option></select></label>
+        <label>計分方式<select data-k="scoreMode"><option value="speed">速度加成（越快越高）</option><option value="fixed">固定分數（不計速度）</option><option value="combo">速度加成 + 連對加成</option></select></label>
+        <label>答錯倒扣<select data-k="penalty"><option value="false">不扣分</option><option value="true">扣 100 分</option></select></label>
+        <label>揭曉後<select data-k="autoNext"><option value="0">房主按下一題</option><option value="5">5 秒後自動下一題</option><option value="10">10 秒後自動下一題</option><option value="15">15 秒後自動下一題</option></select></label>
+        <label>遊戲中途加入<select data-k="allowLateJoin"><option value="true">允許（下一題起參賽）</option><option value="false">不允許</option></select></label>
+      </div>
+    </section>
+    <button id="l-start" class="big primary">開始遊戲 ▶</button>
+    <p id="l-wait" class="tip">等待房主開始遊戲…</p>
+    <p id="l-msg" class="toast warn"></p>
   </main>
 
   <!-- 遊戲畫面 -->
@@ -113,9 +187,24 @@
         </div>
       </div>
 
+      <div class="mphone-note">🎧 請聽主畫面播放的音樂，在這裡作答</div>
+
       <h2 id="prompt">這首歌來自哪部動畫？</h2>
 
+      <!-- 多人：鎖定狀態 -->
+      <div id="mstatus" class="mstatus hidden">
+        <div class="mline"><b id="m-lockcount">已鎖定 0 / 0</b><span id="m-clock"></span><span id="m-quorum" class="mquorum"></span></div>
+        <div id="m-locks" class="mlocks"></div>
+      </div>
+
       <div id="choices" class="choices hidden"></div>
+
+      <!-- 多人：打字搜尋 -->
+      <div id="mtype" class="mtype hidden">
+        <input id="mtype-input" placeholder="輸入作品名（中文／原文都可以）搜尋…" autocomplete="off" spellcheck="false">
+        <ul id="mtype-list"></ul>
+        <div id="mtype-picked" class="mtype-picked"></div>
+      </div>
 
       <div id="answer" class="answer hidden">
         <div id="ans-work" class="work"></div>
@@ -123,14 +212,33 @@
         <dl id="ans-credits"></dl>
       </div>
 
+      <!-- 多人：本題結果 -->
+      <div id="mreveal" class="mreveal hidden"></div>
+
       <div class="controls">
         <button id="btn-replay" class="ghost">↻ 重播 (R)</button>
         <button id="btn-main" class="big primary">揭曉答案 (空白鍵)</button>
         <button id="btn-skip" class="ghost">跳過 (→)</button>
         <button id="btn-flag" class="ghost" title="例如：開頭不是音樂、是對白或廣告">⚠ 回報問題 (X)</button>
+        <button id="btn-mforce" class="ghost host-only">⏩ 強制揭曉</button>
+        <button id="btn-mskip" class="ghost host-only">⤼ 跳過本題</button>
+        <button id="btn-mend" class="ghost host-only">■ 結束遊戲</button>
       </div>
       <p id="toast" class="toast"></p>
     </div>
+  </main>
+
+  <!-- 多人：最終排行榜 -->
+  <main id="screen-mfinal" class="screen">
+    <h1>🏆 最終排行榜</h1>
+    <p id="f-sub" class="sub"></p>
+    <div id="f-podium" class="podium"></div>
+    <div id="f-table" class="rank-table"></div>
+    <div class="row">
+      <button id="f-again" class="big primary">再來一局</button>
+      <button id="f-leave" class="ghost">離開房間</button>
+    </div>
+    <p id="f-wait" class="tip"></p>
   </main>
 
   <!-- 結束畫面 -->

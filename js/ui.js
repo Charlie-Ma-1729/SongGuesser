@@ -17,7 +17,7 @@ function hideEverything() {
 }
 
 let lastCount = null;
-function setCountdown(n) {
+export function setCountdown(n) {
   const el = $('countdown');
   if (n === lastCount) return;
   lastCount = n;
@@ -119,6 +119,26 @@ export function pickChoice(i) {
   if (!curChoices || i < 0 || i >= curChoices.length) return;
   picked = picked === i ? -1 : i;
   [...$('choices').children].forEach((d, k) => d.classList.toggle('picked', k === picked));
+}
+
+/** 多人模式：直接指定選取的選項（-1 = 取消），不做切換 */
+export function setPicked(i) {
+  if (!curChoices) return;
+  picked = i >= 0 && i < curChoices.length ? i : -1;
+  [...$('choices').children].forEach((d, k) => d.classList.toggle('picked', k === picked));
+}
+export const getPicked = () => picked;
+/** 多人模式：鎖定後選項不能再改 */
+export function lockChoices(on) { $('choices').classList.toggle('locked', on); }
+/** 多人模式：伺服器公布正解索引後標示對錯（選項沒有 correct 欄位） */
+export function markChoices(correctIdx) {
+  if (!curChoices) return;
+  const box = $('choices');
+  box.classList.add('done');
+  [...box.children].forEach((d, k) => {
+    d.classList.toggle('correct', k === correctIdx);
+    d.classList.toggle('wrong', k === picked && k !== correctIdx);
+  });
 }
 
 /** 揭曉：正解亮綠色、其他變暗；若有標記且標錯，標記項變紅 */
